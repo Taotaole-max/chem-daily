@@ -1,0 +1,52 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ tr.headline or '趋势' }} · {{ site.name }}{% endblock %}
+{% block description %}{{ tr.intro[:80] }}{% endblock %}
+{% block main %}
+<section class="page-head">
+  <div class="mh-meta"><span>趋势 · {{ tr.month_cn }}</span></div>
+  <h1>{{ tr.headline or '本月化学圈在卷什么' }}</h1>
+  <p>{{ tr.intro }}</p>
+  <p class="muted-note">升温 = {{ tr.window.recent }} 这个主题占全部发文的比例，是去年同期（{{ tr.window.base }}）的几倍。用占比而不是篇数，排除整体发文量变化的影响。曲线是每月发文量的 3 个月滑动平均，鼠标停在曲线上看当月篇数。数据来自 OpenAlex，范围是本站收录的期刊。</p>
+</section>
+
+<h2 class="sec-title">升温最快的 {{ tr.rising|length }} 个方向</h2>
+<section class="trend-grid">
+  {% for t in tr.rising %}
+  <article class="trend-card">
+    <div class="trend-top">
+      <h3>{{ t.name_zh }}</h3>
+      <span class="ratio">×{{ '%.2f'|format(t.ratio) }}</span>
+    </div>
+    <p class="en">{{ t.name_en }}</p>
+    {{ t.chart|safe }}
+    <p class="trend-nums">最近 3 个月 {{ t.recent }} 篇 · 去年同期 {{ t.base }} 篇</p>
+    {% if t.one_line %}<p class="blurb">{{ t.one_line }}</p>{% endif %}
+    {% if t.papers %}
+    <ul class="examples">
+      {% for p in t.papers %}<li><a href="{{ p.link }}" target="_blank" rel="noopener">{{ p.title_en }}</a><span>{{ p.source }}</span></li>{% endfor %}
+    </ul>
+    {% endif %}
+  </article>
+  {% endfor %}
+</section>
+
+<h2 class="sec-title">发文量最大的方向</h2>
+<section class="bars">
+  {% set top = tr.biggest[0].recent if tr.biggest else 1 %}
+  {% for b in tr.biggest %}
+  <div class="bar-row" title="{{ b.name_en }}：{{ b.recent }} 篇">
+    <span class="bar-name">{{ b.name_zh }}</span>
+    <span class="bar-track"><span class="bar-fill" style="width: {{ (100 * b.recent / top)|round(1) }}%"></span></span>
+    <span class="bar-val">{{ b.recent }}</span>
+  </div>
+  {% endfor %}
+  <p class="muted-note">{{ tr.window.recent }} 的发文篇数</p>
+</section>
+
+{% if past|length > 1 %}
+<h2 class="sec-title">往期趋势</h2>
+<ul class="past-trends">
+  {% for p in past %}<li><a href="{{ root }}trends/{{ p.month }}.html">{{ p.month_cn }} · {{ p.headline }}</a></li>{% endfor %}
+</ul>
+{% endif %}
+{% endblock %}

@@ -10,6 +10,10 @@ on:
         description: "重新生成今天这期（覆盖）"
         type: boolean
         default: false
+      extras:
+        description: "同时强制刷新热榜和本月趋势"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: ["templates/**", "static/**", "config/site.yaml"]
@@ -42,11 +46,12 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "push" ]; then
             python run_daily.py --build-only
-          elif [ "${{ inputs.force }}" = "true" ]; then
-            python run_daily.py --force
-          else
-            python run_daily.py
+            exit 0
           fi
+          ARGS=""
+          [ "${{ inputs.force }}" = "true" ] && ARGS="$ARGS --force"
+          [ "${{ inputs.extras }}" = "true" ] && ARGS="$ARGS --hot --trends"
+          python run_daily.py $ARGS
 
       - name: 把今天的数据提交回仓库
         if: github.event_name != 'push'

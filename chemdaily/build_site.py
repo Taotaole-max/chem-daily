@@ -65,12 +65,59 @@ def build(out_dir=ROOT / "site"):
 
     render("archive.html.j2", "archive.html", issues=issues, page="archive", root="")
     render("about.html.j2", "about.html", source_groups=list(groups.items()), page="about", root="")
-    render("soon.html.j2", "hot.html", page="hot", root="", heading="热榜",
-           text="近 1 个月 / 3 个月 / 1 年里被引用和讨论最多的化学论文，每个时间段 10 篇，一句话讲清楚。")
-    render("soon.html.j2", "trends.html", page="trends", root="", heading="趋势",
-           text="每月一期：化学圈这个月在卷什么，哪些方向升温最快，配发文量曲线。")
+    hot_files = sorted((ROOT / "data" / "hot").glob("*.json"))
+    if hot_files:
+        hot = json.loads(hot_files[-1].read_text(encoding="utf-8"))
+        render("hot.html.j2", "hot.html", hot=hot, page="hot", root="")
+    else:
+        render("soon.html.j2", "hot.html", page="hot", root="", heading="热榜",
+               text="近 1 个月 / 3 个月 / 1 年里被引用最多的化学论文，每个时间段 10 篇，一句话讲清楚。")
+
+    trends = load_trends()
+    if trends:
+        (out / "trends").mkdir()
+        for k, tr in enumerate(trends):
+            render("trends.html.j2", f"trends/{tr['month']}.html", tr=tr, past=trends, page="trends", root="../")
+            if k == 0:
+                render("trends.html.j2", "trends.html", tr=tr, past=trends, page="trends", root="")
+    else:
+        render("soon.html.j2", "trends.html", page="trends", root="", heading="趋势",
+               text="每月一期：化学圈这个月在卷什么，哪些方向升温最快，配发文量曲线。")
     return out
 
 
-if __name__ == "__main__":
-    print("已生成：", build())
+def load_trends():
+    trends = []
+    for p in sorted((ROOT / "data" / "trends").glob("*.json"), reverse=True):
+        tr = json.loads(p.read_text(encoding="utf-8"))
+        y, m = tr["month"].split("-")
+        tr["month_cn"] = f"{y}年{int(m)}月"
+        for t in tr["rising"]:
+            t["chart"] = sparkline(t["series"], tr["months"])
+        trends.append(tr)
+    return trends
+
+
+def sparkline(series, months, w=480, h=120):
+    """单系列月度折线（内联 SVG）。线画 3 个月滑动平均（单月篇数少、波动大），悬停显示当月原始篇数。"""
+    smooth = [sum(series[max(0, i - 2):i + 1]) / len(series[max(0, i - 2):i + 1]) for i in range(len(series))]
+    pad_l, pad_r, pad_t, pad_b = 4, 8, 10, 20
+    top = max(smooth) * 1.15 or 1
+    step = (w - pad_l - pad_r) / max(len(series) - 1, 1)
+    xs = [pad_l + i * step for i in range(len(series))]
+    ys = [pad_t + (h - pad_t - pad_b) * (1 - v / top) for v in smooth]
+    base_y = h - pad_b
+    path = " ".join(f"{'M' if i == 0 else 'L'}{x:.1f},{y:.1f}" for i, (x, y) in enumerate(zip(xs, ys)))
+    area = f"{path} L{xs[-1]:.1f},{base_y} L{xs[0]:.1f},{base_y} Z"
+    hits = "".join(
+        f'<rect x="{x - step / 2:.1f}" y="0" width="{step:.1f}" height="{h}" class="hit">'
+        f"<title>{m}：当月 {v} 篇</title></rect>" for x, v, m in zip(xs, series, months))
+    return (
+        f'<svg class="spark" viewBox="0 0 {w} {h}" role="img" aria-label="月度发文量，{months[0]} 到 {months[-1]}">'
+        f'<line x1="{pad_l}" y1="{base_y}" x2="{w - pad_r}" y2="{base_y}" class="axis"/>'
+        f'<path d="{area}" class="area"/><path d="{path}" class="line"/>'
+        f'<circle cx="{xs[-1]:.1f}" cy="{ys[-1]:.1f}" r="4" class="dot"/>'
+        f'<text x="{pad_l}" y="{h - 4}" class="tick">{months[0]}</text>'
+        f'<text x="{w - pad_r}" y="{h - 4}" class="tick" text-anchor="end">{months[-1]}</text>'
+        f"{hits}</svg>"
+    )

@@ -131,3 +131,65 @@ nav a.on { background: var(--ink); color: var(--bg); }
   .archive li a { grid-template-columns: 1fr; }
   .a-date { grid-row: auto; }
 }
+
+/* ---------- 热榜 ---------- */
+.muted-note { color: var(--ink-3) !important; font-size: 13px; }
+.tabs > input { position: absolute; opacity: 0; pointer-events: none; }
+.tab-labels { display: flex; gap: 6px; margin: 4px 0 18px; }
+.tab-labels label { padding: 7px 16px; border-radius: 999px; border: 1px solid var(--line); background: var(--paper);
+  color: var(--ink-2); font-size: 14px; cursor: pointer; }
+.hotlist { display: none; list-style: none; margin: 0; padding: 0; }
+#win-1m:checked ~ .panel-1m, #win-3m:checked ~ .panel-3m, #win-12m:checked ~ .panel-12m { display: block; }
+#win-1m:checked ~ .tab-labels label[for="win-1m"],
+#win-3m:checked ~ .tab-labels label[for="win-3m"],
+#win-12m:checked ~ .tab-labels label[for="win-12m"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.tabs > input:focus-visible ~ .tab-labels { outline: 2px solid var(--accent); outline-offset: 4px; border-radius: 999px; }
+.hotlist li { display: flex; gap: 18px; padding: 18px 0; border-bottom: 1px solid var(--line); }
+.rank { flex: 0 0 44px; font: 700 30px/1 var(--serif); color: var(--ink-3); text-align: right; padding-top: 2px; }
+.hotlist li:nth-child(-n+3) .rank { color: var(--accent); }
+.hot-body { min-width: 0; }
+.hot-body h2 { font: 700 19px/1.45 var(--serif); margin: 0 0 4px; }
+.hot-body h2 a:hover { color: var(--accent); }
+.hot-body .blurb { margin-bottom: 4px; }
+.hot-body .en { margin-bottom: 6px; }
+.hot-meta { margin: 0; display: flex; flex-wrap: wrap; gap: 14px; font-size: 12.5px; color: var(--ink-3); }
+.hot-meta b { color: var(--ink); }
+
+/* ---------- 趋势 ---------- */
+.sec-title { font: 700 22px/1.4 var(--serif); margin: 30px 0 14px; }
+.trend-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+.trend-card { min-width: 0; background: var(--paper); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; box-shadow: var(--shadow); }
+.trend-top { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+.trend-card h3 { font: 700 19px/1.4 var(--serif); margin: 0; }
+.ratio { font: 700 18px/1 var(--sans); color: var(--accent); white-space: nowrap; }
+.trend-card .en { margin: 2px 0 8px; }
+.spark { width: 100%; height: auto; display: block; overflow: visible; }
+.spark .axis { stroke: var(--line); stroke-width: 1; }
+.spark .line { fill: none; stroke: var(--accent); stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.spark .area { fill: color-mix(in srgb, var(--accent) 10%, transparent); }
+.spark .dot { fill: var(--accent); stroke: var(--paper); stroke-width: 2; }
+.spark .lbl { font: 600 12px var(--sans); fill: var(--ink); }
+.spark .tick { font: 12px var(--sans); fill: var(--ink-3); }
+.spark .hit { fill: transparent; }
+.spark .hit:hover { fill: color-mix(in srgb, var(--ink) 6%, transparent); }
+.trend-nums { font-size: 12.5px; color: var(--ink-3); margin: 6px 0 8px; }
+.trend-card .blurb { font-size: 15px; }
+.examples { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.examples li { padding: 8px 0 0; font-size: 13px; line-height: 1.5; }
+.examples a { color: var(--ink-2); }
+.examples a:hover { color: var(--accent); }
+.examples span { display: block; color: var(--ink-3); font-size: 12px; }
+.bars { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; }
+.bar-row { display: grid; grid-template-columns: minmax(0, 180px) 1fr 48px; align-items: center; gap: 12px; padding: 6px 0; }
+.bar-name { font-size: 14px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bar-track { height: 10px; }
+.bar-fill { display: block; height: 100%; background: var(--accent); border-radius: 0 4px 4px 0; opacity: .85; }
+.bar-val { font-size: 13px; color: var(--ink-2); text-align: right; font-variant-numeric: tabular-nums; }
+.past-trends { padding-left: 18px; }
+.past-trends a:hover { color: var(--accent); }
+
+@media (max-width: 760px) {
+  .trend-grid { grid-template-columns: minmax(0, 1fr); }
+  .rank { flex-basis: 30px; font-size: 24px; }
+  .bar-row { grid-template-columns: minmax(0, 110px) 1fr 40px; }
+}
