@@ -1,0 +1,101 @@
+{
+ "title": "塑料微粒在水里偷偷搞氧化？今天5个化学瓜",
+ "cover_title": "今日化学圈新鲜事",
+ "cover_lines": [
+  "塑料微粒竟会产生活性氧",
+  "锂电池里锂离子爱抱团",
+  "沸石稳住Rh3+提升反应"
+ ],
+ "body": "今天这波化学新闻有点意思，从塑料微粒到分子马达，学长带你速览。1️⃣ 塑料微粒在水里可不是省油的灯，研究发现商品微塑料在水界面能自发产生活性氧物种（ROS），挑战了塑料惰性的老观念，健康环境影响得重新评估了（Nature）。2️⃣ 锂电池里锂离子居然爱抱团，科学家结合机器学习模拟和光谱数据，发现电解液里存在不带阴离子的多锂离子团簇，给电池机理补了原子层面的细节（Nature）。3️⃣ 沸石催化有新招，在KRh@MFI催化剂里，含氮分子堵住Rh+位点，Rh3+位点被稳住了，氢甲酰化反应的选择性和效率都提升，DFT计算和实验一起佐证（Nature）。7️⃣ 电子垃圾塑料回收有妙招，用等温钳位闪蒸焦耳加热，几秒内造出均匀高温区，从阻燃电子塑料里同步回收高纯锑和溴（以HBr形式），还抑制了有毒溴化物排放（Nature Chemical Engineering）。4️⃣ 分子马达靠角动量转移转起来，通过碳碳三键上螺旋轨道的正负电流驱动单向旋转，给分子机器设计开了新路，不再只靠激发-弛豫循环（Nature Chemistry）。你最近在做什么方向？评论区聊聊。",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "塑料微粒",
+  "锂电池",
+  "催化",
+  "电子垃圾回收",
+  "分子马达",
+  "文献分享"
+ ],
+ "id": "2026-10-19",
+ "kind": "daily",
+ "date": "2026-10-19",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月19日 周一",
+   "title": "今日化学圈新鲜事",
+   "lines": [
+    "塑料微粒竟会产生活性氧",
+    "锂电池里锂离子爱抱团",
+    "沸石稳住Rh3+提升反应"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11141-y/MediaObjects/41586_2026_11141_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11138-7/MediaObjects/41586_2026_11138_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11136-9/MediaObjects/41586_2026_11136_Fig1_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "塑料微粒在水里偷偷搞氧化",
+   "text": "研究发现商品微塑料在水界面有本征物理化学活性，能自发产生活性氧物种（ROS）。这挑战了塑料惰性的传统认知，对健康和环境影响值得重新评估。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Intrinsic physicochemical activity at microplastic–water interfaces",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11141-y/MediaObjects/41586_2026_11141_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "锂离子电池里，锂爱抱团",
+   "text": "结合机器学习模拟、光谱和电化学数据，发现电解液里存在不带阴离子的多锂离子团簇（multi-Li+ clustering）。这为理解锂电池工作机理提供了原子层面的新细节。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Evidence for multi-Li + clustering in lithium-ion battery electrolytes",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11138-7/MediaObjects/41586_2026_11138_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "催化",
+   "title": "沸石里稳住Rh3+，氢甲酰化更挑位置",
+   "text": "在KRh@MFI催化剂中，含氮分子会堵住Rh+位点，而Rh3+位点被稳定下来。这让氢甲酰化反应的选择性和效率都提升，DFT计算和实验一起佐证了这一点。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11136-9/MediaObjects/41586_2026_11136_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "化学工程",
+   "title": "电子垃圾塑料，一锅回收锑和溴",
+   "text": "用等温钳位闪蒸焦耳加热（flash Joule heating），几秒内造出均匀高温区，从阻燃电子塑料里同步回收高纯锑和溴（以HBr形式），还抑制了有毒溴化物排放。",
+   "source": "Nature Chemical Engineering",
+   "kind": "paper",
+   "title_en": "Simultaneous antimony recovery from and debromination of flame-retardant electronic-waste plastics",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44286-026-00455-3/MediaObjects/44286_2026_455_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "分子马达靠角动量转移转起来",
+   "text": "通过碳碳三键上螺旋轨道的正负电流，实现角动量转移驱动分子马达单向旋转。这给分子机器设计开了条新路，不再只靠激发-弛豫循环。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Unidirectional rotation in a molecular motor driven by angular-momentum transfer via helical orbitals",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02264-w/MediaObjects/41557_2026_2264_Figa_HTML.png"
+  }
+ ]
+}
