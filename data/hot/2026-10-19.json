@@ -1,0 +1,323 @@
+{
+ "updated": "2026-10-19",
+ "windows": [
+  {
+   "key": "1m",
+   "label": "近 1 个月",
+   "items": [
+    {
+     "title_en": "Less can be more for predicting properties with large language models",
+     "source": "Nature Computational Science",
+     "cited": 13,
+     "date": "2026-10-12",
+     "link": "https://doi.org/10.1038/s43588-026-01045-2",
+     "tier": 8,
+     "title_zh": "大模型预测性质，少即是多",
+     "one_line": "发现用大语言模型预测材料性质时，精简输入反而更可靠。"
+    },
+    {
+     "title_en": "AIMNet2-rxn: A machine-learned potential for generalized reaction modeling on a millions-of-pathways scale",
+     "source": "Science Advances",
+     "cited": 13,
+     "date": "2026-10-07",
+     "link": "https://doi.org/10.1126/sciadv.aea1557",
+     "tier": 7,
+     "title_zh": "可模拟百万反应路径的势函数",
+     "one_line": "做出通用机器学习势函数，能大规模预测化学反应结果。"
+    },
+    {
+     "title_en": "Embracing triplet nitrenes for C-to-N replacement of complex bicyclic (hetero)aryl azides",
+     "source": "Science",
+     "cited": 5,
+     "date": "2026-09-24",
+     "link": "https://doi.org/10.1126/science.aef3511",
+     "tier": 10,
+     "title_zh": "用三重态氮宾换掉芳环碳",
+     "one_line": "让复杂双环芳基叠氮实现碳换氮，绕开苛刻氧化条件。"
+    },
+    {
+     "title_en": "Genetic encoding and mutagenesis of RNA droplet phenotypes",
+     "source": "Nature Chemical Engineering",
+     "cited": 4,
+     "date": "2026-10-07",
+     "link": "https://doi.org/10.1038/s44286-026-00454-4",
+     "tier": 8,
+     "title_zh": "RNA液滴表型的基因编码",
+     "one_line": "用DNA模板编码RNA液滴，把基因型和表型连在一起。"
+    },
+    {
+     "title_en": "Designing for effective heat transfer in a solid thermal energy storage system",
+     "source": "Joule",
+     "cited": 4,
+     "date": "2026-10-01",
+     "link": "https://doi.org/10.1016/j.joule.2026.102684",
+     "tier": 8,
+     "title_zh": "固态储热系统传热设计",
+     "one_line": "研究固态储热系统怎么设计才能把热量传得更有效。"
+    },
+    {
+     "title_en": "Cryo-EM structure of a methanogen nitrogenase–PII protein supercomplex",
+     "source": "Nature",
+     "cited": 3,
+     "date": "2026-10-07",
+     "link": "https://doi.org/10.1038/s41586-026-11116-z",
+     "tier": 10,
+     "title_zh": "产甲烷菌固氮酶复合物结构",
+     "one_line": "用冷冻电镜解析产甲烷菌固氮酶与PII蛋白的超复合物。"
+    },
+    {
+     "title_en": "Revealing the Proton Slingshot Mechanism in Solid Acid Electrolytes through Machine-Learning Molecular Dynamics",
+     "source": "Journal of the American Chemical Society",
+     "cited": 3,
+     "date": "2026-09-28",
+     "link": "https://doi.org/10.1021/jacs.5c21965",
+     "tier": 8,
+     "title_zh": "固体酸电解质质子弹射机制",
+     "one_line": "机器学习分子动力学揭示质子与多阴离子转动如何配合传导。"
+    },
+    {
+     "title_en": "X-ray liquidography decodes complex motions in azobenzene isomerization",
+     "source": "Nature",
+     "cited": 2,
+     "date": "2026-09-30",
+     "link": "https://doi.org/10.1038/s41586-026-11068-4",
+     "tier": 10,
+     "title_zh": "X射线液态成像看偶氮苯异构",
+     "one_line": "用X射线液态成像捕捉溶液中偶氮苯异构化的复杂运动。"
+    },
+    {
+     "title_en": "Taming transient radical couplings by preassembling organophotocatalytic dyads",
+     "source": "Chem",
+     "cited": 2,
+     "date": "2026-10-01",
+     "link": "https://doi.org/10.1016/j.chempr.2026.103282",
+     "tier": 8,
+     "title_zh": "预组装光催化双体控制自由基",
+     "one_line": "把光催化双体预先组装，无金属地生成并控制瞬态碳自由基。"
+    },
+    {
+     "title_en": "Bioresorbable batteries for transient ingestible bioelectronics",
+     "source": "Nature Chemical Engineering",
+     "cited": 2,
+     "date": "2026-09-21",
+     "link": "https://doi.org/10.1038/s44286-026-00443-7",
+     "tier": 8,
+     "title_zh": "可吸收电池供电的吞服电子设备",
+     "one_line": "做出镁-三氧化钼纸电池，用完可在体内降解，给吞服设备供电。"
+    }
+   ]
+  },
+  {
+   "key": "3m",
+   "label": "近 3 个月",
+   "items": [
+    {
+     "title_en": "Monolithic 2D Synapse‐Neuron Integration via Defect‐Engineered h‐BN for Energy‐Efficient Neuromorphic Computing",
+     "source": "Advanced Functional Materials",
+     "cited": 15,
+     "date": "2026-07-30",
+     "link": "https://doi.org/10.1002/adfm.77333",
+     "tier": 6,
+     "title_zh": "缺陷氮化硼做突触神经元",
+     "one_line": "用缺陷工程六方氮化硼把突触和神经元做在同一块材料上，省电。"
+    },
+    {
+     "title_en": "AIMNet2-rxn: A machine-learned potential for generalized reaction modeling on a millions-of-pathways scale",
+     "source": "Science Advances",
+     "cited": 13,
+     "date": "2026-10-07",
+     "link": "https://doi.org/10.1126/sciadv.aea1557",
+     "tier": 7,
+     "title_zh": "通用反应建模机器学习势",
+     "one_line": "造了个机器学习势函数，能对上百万条反应路径做机理模拟。"
+    },
+    {
+     "title_en": "Integrating S-scheme Heterojunctions and Photothermal Effects for Enhanced Solar-Driven Catalysis",
+     "source": "ACS Catalysis",
+     "cited": 11,
+     "date": "2026-07-28",
+     "link": "https://doi.org/10.1021/acscatal.6c04535",
+     "tier": 7,
+     "title_zh": "S型异质结加光热催化",
+     "one_line": "把S型异质结和光热效应结合，提升太阳能驱动催化效率。"
+    },
+    {
+     "title_en": "Octahedral-coordinated Co3O4 for water electrolysis in acid",
+     "source": "Nature",
+     "cited": 8,
+     "date": "2026-07-29",
+     "link": "https://doi.org/10.1038/s41586-026-10851-7",
+     "tier": 10,
+     "title_zh": "八面体配位钴氧化物制氢",
+     "one_line": "调控Co3O4的八面体配位，让酸性电解水析氧更稳定高效。"
+    },
+    {
+     "title_en": "Atomic Editing of the First‐Shell to Modulate the d‐Electron State of Transition Metal Sites for Accelerated Redox Kinetics in Lithium−Sulfur Batteries",
+     "source": "Advanced Materials",
+     "cited": 8,
+     "date": "2026-07-29",
+     "link": "https://doi.org/10.1002/adma.74394",
+     "tier": 8,
+     "title_zh": "首壳层编辑调d电子态",
+     "one_line": "原子级编辑金属位点第一壳层，加快锂硫电池氧化还原动力学。"
+    },
+    {
+     "title_en": "Single Ga‐Atom Stabilized Cu + –Cu 0 Interfacial Sites for Efficient Air Plasma‐Derived Ammonia Electrosynthesis",
+     "source": "Angewandte Chemie International Edition",
+     "cited": 8,
+     "date": "2026-07-27",
+     "link": "https://doi.org/10.1002/anie.3319404",
+     "tier": 8,
+     "title_zh": "单镓原子稳住铜界面",
+     "one_line": "用单个Ga原子稳定Cu+–Cu0界面，把空气等离子体的氮氧化物高效变成氨。"
+    },
+    {
+     "title_en": "Machine‐Learning‐Guided Polarization‐Lattice Decoupling Enables Ultrahigh Energy Storage in Lead‐Free Dielectric Ceramics",
+     "source": "Advanced Materials",
+     "cited": 7,
+     "date": "2026-08-05",
+     "link": "https://doi.org/10.1002/adma.73801",
+     "tier": 8,
+     "title_zh": "机器学习设计无铅储能陶瓷",
+     "one_line": "用可解释机器学习解耦极化和击穿，做出超高压电储能无铅陶瓷。"
+    },
+    {
+     "title_en": "Synergistic Polarization Relaxation Loss in Multimetallic Hierarchical Hybridization and Preferred Orientation Strategies for Electromagnetic Wave Absorption",
+     "source": "Advanced Functional Materials",
+     "cited": 7,
+     "date": "2026-08-16",
+     "link": "https://doi.org/10.1002/adfm.77757",
+     "tier": 6,
+     "title_zh": "多金属分级结构吸电磁波",
+     "one_line": "多金属离子交换搭分级异质结构，靠极化弛豫损耗吸收电磁波。"
+    },
+    {
+     "title_en": "Slimmed Solvation Structure With Dual‐Interface Regulation for High‐Performance and Safe Lithium‐Sulfur Batteries",
+     "source": "Advanced Materials",
+     "cited": 6,
+     "date": "2026-07-28",
+     "link": "https://doi.org/10.1002/adma.74357",
+     "tier": 8,
+     "title_zh": "瘦身溶剂化结构护锂硫",
+     "one_line": "精简电解液溶剂化结构并调控双界面，让锂硫电池更安全耐用。"
+    },
+    {
+     "title_en": "Direct electrosynthesis of acetamide from CO2 and nitrate via an atomically engineered dual-site catalyst",
+     "source": "Nature Communications",
+     "cited": 6,
+     "date": "2026-07-27",
+     "link": "https://doi.org/10.1038/s41467-026-76064-8",
+     "tier": 7,
+     "title_zh": "双位点催化剂直接合成乙酰胺",
+     "one_line": "镍单原子配铜纳米簇，把CO2和硝酸盐电催化直接做成乙酰胺。"
+    }
+   ]
+  },
+  {
+   "key": "12m",
+   "label": "近 1 年",
+   "items": [
+    {
+     "title_en": "Rationalizing the d-Band Model from Theory to Practice in Catalyst Design",
+     "source": "Journal of the American Chemical Society",
+     "cited": 113,
+     "date": "2025-12-15",
+     "link": "https://doi.org/10.1021/jacs.5c17673",
+     "tier": 8,
+     "title_zh": "d带模型从理论到催化剂设计",
+     "one_line": "系统梳理d带理论如何指导催化剂设计，被同行大量引用。"
+    },
+    {
+     "title_en": "Bioinspired Hierarchical Radiative‐Phase Change Hybrid Cooling Composite with Record‐Breaking Cooling Power",
+     "source": "Advanced Materials",
+     "cited": 95,
+     "date": "2025-10-24",
+     "link": "https://doi.org/10.1002/adma.202510988",
+     "tier": 8,
+     "title_zh": "仿生相变辐射冷却复合材料",
+     "one_line": "把相变材料与辐射冷却结合，做出制冷功率破纪录的复合冷却材料。"
+    },
+    {
+     "title_en": "Bioinspired Photothermal Superhydrophobic Metamaterial With Structured Micro‐Nano Crystal Arrays for Anti‐/De‐Icing",
+     "source": "Advanced Materials",
+     "cited": 94,
+     "date": "2025-11-05",
+     "link": "https://doi.org/10.1002/adma.202516655",
+     "tier": 8,
+     "title_zh": "仿生光热超疏水防除冰材料",
+     "one_line": "用微纳晶体阵列结构做出光热超疏水表面，用于防冰和除冰。"
+    },
+    {
+     "title_en": "Rare-Earth-Induced Intermediate-Spin Co Centers in MnCo 2 O 4.5 for Sustainable Acidic Water Oxidation",
+     "source": "Journal of the American Chemical Society",
+     "cited": 92,
+     "date": "2025-11-28",
+     "link": "https://doi.org/10.1021/jacs.5c17361",
+     "tier": 8,
+     "title_zh": "稀土掺杂调控钴自旋态促酸性析氧",
+     "one_line": "稀土掺杂让锰钴氧化物中钴呈中间自旋态，兼顾酸性析氧活性与稳定性。"
+    },
+    {
+     "title_en": "Electromagnetic interference shielding using metal and MXene thin films",
+     "source": "Nature",
+     "cited": 88,
+     "date": "2025-10-29",
+     "link": "https://doi.org/10.1038/s41586-025-09699-0",
+     "tier": 10,
+     "title_zh": "金属与MXene薄膜做电磁屏蔽",
+     "one_line": "用金属和MXene薄片做薄膜，实现电磁干扰屏蔽。"
+    },
+    {
+     "title_en": "Co3O4 as full-solar-spectrum photocatalyst for selective methane conversion through reactive oxygen species control",
+     "source": "Nature Catalysis",
+     "cited": 80,
+     "date": "2026-01-23",
+     "link": "https://doi.org/10.1038/s41929-025-01471-x",
+     "tier": 9,
+     "title_zh": "四氧化三钴全光谱光催化转化甲烷",
+     "one_line": "用四氧化三钴作全光谱光催化剂，通过调控活性氧选择性转化甲烷。"
+    },
+    {
+     "title_en": "Lignin-Directed Construction of Vertical Ru/RuO 2 Electron–Bridge Interfaces for Low-Input Self-Powered Hydrazine-Water Splitting",
+     "source": "Journal of the American Chemical Society",
+     "cited": 79,
+     "date": "2025-12-03",
+     "link": "https://doi.org/10.1021/jacs.5c15759",
+     "tier": 8,
+     "title_zh": "木质素导向构建Ru/RuO2界面用于肼水裂解",
+     "one_line": "借木质素螯合钌，原位造出Ru/RuO2电子桥界面，用于低电压自供电制氢。"
+    },
+    {
+     "title_en": "Vacuum ultraviolet second-harmonic generation in NH4B4O6F crystal",
+     "source": "Nature",
+     "cited": 78,
+     "date": "2026-01-28",
+     "link": "https://doi.org/10.1038/s41586-025-10007-z",
+     "tier": 10,
+     "title_zh": "NH4B4O6F晶体中的真空紫外倍频",
+     "one_line": "在NH4B4O6F晶体中实现真空紫外波段的二次谐波产生。"
+    },
+    {
+     "title_en": "Pore network tortuosity controls fast charging in supercapacitors",
+     "source": "Nature Materials",
+     "cited": 76,
+     "date": "2025-11-04",
+     "link": "https://doi.org/10.1038/s41563-025-02404-6",
+     "tier": 9,
+     "title_zh": "孔网络迂曲度决定超级电容器快充",
+     "one_line": "发现介孔率不等于快充能力，孔道迂曲度才是关键。"
+    },
+    {
+     "title_en": "Insights into the Dynamical Sodium Occupancy Evolution and Rate-Limiting Steps in Hard Carbon",
+     "source": "Journal of the American Chemical Society",
+     "cited": 73,
+     "date": "2025-10-20",
+     "link": "https://doi.org/10.1021/jacs.5c12673",
+     "tier": 8,
+     "title_zh": "硬碳储钠动态占据与限速步骤",
+     "one_line": "用原位核磁加拉曼定量追踪硬碳储钠过程，厘清限速步骤争议。"
+    }
+   ]
+  }
+ ]
+}

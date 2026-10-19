@@ -1,0 +1,418 @@
+{
+ "month": "2026-10",
+ "updated": "2026-10-19",
+ "window": {
+  "recent": "2026年07月–09月",
+  "base": "2025年07月–09月"
+ },
+ "months": [
+  "2024-10",
+  "2024-11",
+  "2024-12",
+  "2025-01",
+  "2025-02",
+  "2025-03",
+  "2025-04",
+  "2025-05",
+  "2025-06",
+  "2025-07",
+  "2025-08",
+  "2025-09",
+  "2025-10",
+  "2025-11",
+  "2025-12",
+  "2026-01",
+  "2026-02",
+  "2026-03",
+  "2026-04",
+  "2026-05",
+  "2026-06",
+  "2026-07",
+  "2026-08",
+  "2026-09"
+ ],
+ "headline": "RNA与磁性材料升温，电池催化仍霸榜",
+ "intro": "本月化学圈的热点有点意思：一边是RNA干扰与基因递送、配位磁体这些细分方向悄悄提速，同比占比涨得挺快；另一边，发文量最大的还是电催化、钙钛矿和电池材料，能源与材料依旧是卷王之王。大气化学和放射性元素处理也挤进了升温榜，看来化学家们不光盯着实验室，也操心着环境和资源。",
+ "rising": [
+  {
+   "id": "T10725",
+   "name_en": "RNA Interference and Gene Delivery",
+   "series": [
+    12,
+    14,
+    16,
+    24,
+    12,
+    19,
+    20,
+    10,
+    19,
+    7,
+    12,
+    12,
+    19,
+    26,
+    15,
+    28,
+    20,
+    13,
+    11,
+    14,
+    8,
+    19,
+    21,
+    17
+   ],
+   "recent": 57,
+   "base": 31,
+   "ratio": 1.49,
+   "papers": [
+    {
+     "title_en": "An inherent T cell-activating mRNA delivery carrier for in vivo CAR T generation",
+     "link": "https://doi.org/10.1038/s41563-026-02675-7",
+     "source": "Nature Materials",
+     "cited": 3
+    },
+    {
+     "title_en": "Logic‐Responsive Superspherical Nucleic Acid Enables Tumor‐Specific Multiplexed Gene Silencing for Efficient Cancer Therapy",
+     "link": "https://doi.org/10.1002/anie.7096315",
+     "source": "Angewandte Chemie International Edition",
+     "cited": 2
+    },
+    {
+     "title_en": "From Morphology to Mechanism: Cryo-Electron Microscopy Insights into Lipid Nanoparticles for RNA Delivery",
+     "link": "https://doi.org/10.1021/acsnano.6c09354",
+     "source": "ACS Nano",
+     "cited": 2
+    }
+   ],
+   "name_zh": "RNA干扰与基因递送",
+   "one_line": "mRNA递送载体直接用来体内生成CAR T，基因沉默疗法也在升级。"
+  },
+  {
+   "id": "T10612",
+   "name_en": "Magnetism in coordination complexes",
+   "series": [
+    9,
+    21,
+    18,
+    53,
+    13,
+    23,
+    12,
+    16,
+    21,
+    16,
+    10,
+    12,
+    18,
+    15,
+    23,
+    42,
+    9,
+    23,
+    19,
+    22,
+    20,
+    15,
+    23,
+    28
+   ],
+   "recent": 66,
+   "base": 38,
+   "ratio": 1.43,
+   "papers": [
+    {
+     "title_en": "Symmetry-Enabled Optical Spin Initialization of Luminescent Organic Radical Doublet States",
+     "link": "https://doi.org/10.1021/jacs.6c05402",
+     "source": "Journal of the American Chemical Society",
+     "cited": 3
+    },
+    {
+     "title_en": "Dinuclear Complexes of Linear, Two-Coordinate Iron(II) and Cobalt(II): Geometric Control over Magnetic Exchange between Anisotropic Metal Centers",
+     "link": "https://doi.org/10.1021/jacs.6c07793",
+     "source": "Journal of the American Chemical Society",
+     "cited": 1
+    },
+    {
+     "title_en": "Axial dysprosium cyclopentadienyl-amide single-molecule magnets with hysteresis up to 92 kelvin",
+     "link": "https://doi.org/10.1038/s41467-026-77104-z",
+     "source": "Nature Communications",
+     "cited": 1
+    }
+   ],
+   "name_zh": "配位磁体",
+   "one_line": "单分子磁体滞回温度冲到92K，对称性还能操控自旋。"
+  },
+  {
+   "id": "T10075",
+   "name_en": "Atmospheric chemistry and aerosols",
+   "series": [
+    17,
+    16,
+    19,
+    17,
+    17,
+    19,
+    12,
+    14,
+    21,
+    12,
+    15,
+    14,
+    20,
+    13,
+    17,
+    26,
+    32,
+    21,
+    21,
+    22,
+    23,
+    22,
+    21,
+    27
+   ],
+   "recent": 70,
+   "base": 41,
+   "ratio": 1.42,
+   "papers": [
+    {
+     "title_en": "Atmospheric Mixing Controls Air Pollution Chemistry and Mitigation Efficacy in High-Latitude Cities",
+     "link": "https://doi.org/10.1021/acs.est.6c00181",
+     "source": "Environmental Science & Technology",
+     "cited": 2
+    },
+    {
+     "title_en": "Radical Cascades on Seawater Microdroplets Drive Atmospheric Mercury Oxidation",
+     "link": "https://doi.org/10.1021/jacs.6c05171",
+     "source": "Journal of the American Chemical Society",
+     "cited": 2
+    },
+    {
+     "title_en": "Beyond Targeted Calibrations: Comprehensive Quantification of Oxygenated Organic Compounds in Urban Atmospheres",
+     "link": "https://doi.org/10.1021/acs.est.6c04149",
+     "source": "Environmental Science & Technology",
+     "cited": 1
+    }
+   ],
+   "name_zh": "大气化学与气溶胶",
+   "one_line": "海水微滴上的自由基 cascade 能氧化汞，城市大气混合控制污染。"
+  },
+  {
+   "id": "T10973",
+   "name_en": "Radioactive element chemistry and processing",
+   "series": [
+    15,
+    8,
+    15,
+    46,
+    15,
+    13,
+    16,
+    8,
+    22,
+    14,
+    11,
+    10,
+    18,
+    18,
+    13,
+    31,
+    13,
+    20,
+    11,
+    16,
+    25,
+    14,
+    21,
+    25
+   ],
+   "recent": 60,
+   "base": 35,
+   "ratio": 1.4,
+   "papers": [
+    {
+     "title_en": "Spatially Decoupled Capture-Conversion Architectures for Photocatalytic Uranium Extraction from Dilute Wastewater",
+     "link": "https://doi.org/10.1021/jacs.6c06683",
+     "source": "Journal of the American Chemical Society",
+     "cited": 2
+    },
+    {
+     "title_en": "Near-Adjacent Heavy Lanthanide Separation and Sensing Using Dimerizing Lanmodulins",
+     "link": "https://doi.org/10.1021/jacs.6c08525",
+     "source": "Journal of the American Chemical Society",
+     "cited": 1
+    },
+    {
+     "title_en": "Super Cost‐Effective and Scalable Imine‐Based Sorbent With Field Attraction and In Situ Fixation for Efficient Capture of Diverse Iodine Species under Industrial Conditions (Adv. Mater. 40/2026)",
+     "link": "https://doi.org/10.1002/adma.74098",
+     "source": "Advanced Materials",
+     "cited": 1
+    }
+   ],
+   "name_zh": "放射性元素化学",
+   "one_line": "光催化提铀、镧系分离和碘捕获都在往低成本规模化走。"
+  },
+  {
+   "id": "T10306",
+   "name_en": "Liquid Crystal Research Advancements",
+   "series": [
+    6,
+    12,
+    12,
+    24,
+    11,
+    13,
+    8,
+    9,
+    9,
+    10,
+    6,
+    8,
+    19,
+    4,
+    7,
+    22,
+    10,
+    10,
+    9,
+    11,
+    16,
+    12,
+    9,
+    21
+   ],
+   "recent": 42,
+   "base": 24,
+   "ratio": 1.38,
+   "papers": [
+    {
+     "title_en": "Design Principles for Fluid Molecular Ferroelectrics",
+     "link": "https://doi.org/10.1002/adma.73977",
+     "source": "Advanced Materials",
+     "cited": 2
+    },
+    {
+     "title_en": "Drop‐on‐Demand Printed Negative Dielectric Anisotropy Liquid Crystal Droplets for Adaptive Complex Beam Manipulation and Assessment",
+     "link": "https://doi.org/10.1002/adfm.78645",
+     "source": "Advanced Functional Materials",
+     "cited": 1
+    },
+    {
+     "title_en": "Reconfigurable non-Abelian braiding of nematic bits",
+     "link": "https://doi.org/10.1038/s41563-026-02728-x",
+     "source": "Nature Materials",
+     "cited": 1
+    }
+   ],
+   "name_zh": "液晶研究进展",
+   "one_line": "液晶液滴打印做光束操控，还能玩非阿贝尔编织。"
+  },
+  {
+   "id": "T10502",
+   "name_en": "Advanced Memory and Neural Computing",
+   "series": [
+    35,
+    25,
+    33,
+    39,
+    25,
+    34,
+    29,
+    34,
+    18,
+    30,
+    27,
+    35,
+    34,
+    31,
+    42,
+    47,
+    30,
+    13,
+    31,
+    37,
+    44,
+    61,
+    40,
+    45
+   ],
+   "recent": 146,
+   "base": 92,
+   "ratio": 1.37,
+   "papers": [
+    {
+     "title_en": "Monolithic 2D Synapse‐Neuron Integration via Defect‐Engineered h‐BN for Energy‐Efficient Neuromorphic Computing",
+     "link": "https://doi.org/10.1002/adfm.77333",
+     "source": "Advanced Functional Materials",
+     "cited": 15
+    },
+    {
+     "title_en": "Noise‐Limited Bit Precision in Ferroelectric Synaptic Transistors for High‐Resolution Neuromorphic Computing",
+     "link": "https://doi.org/10.1002/adfm.77505",
+     "source": "Advanced Functional Materials",
+     "cited": 2
+    },
+    {
+     "title_en": "Electrostatic Gaussian Transistor for Real‐Time Probabilistic Inference",
+     "link": "https://doi.org/10.1002/adma.74242",
+     "source": "Advanced Materials",
+     "cited": 2
+    }
+   ],
+   "name_zh": "先进存储与神经计算",
+   "one_line": "二维突触-神经元单片集成，铁电晶体管精度逼近噪声极限。"
+  }
+ ],
+ "biggest": [
+  {
+   "id": "T10030",
+   "name_en": "Electrocatalysts for Energy Conversion",
+   "recent": 640,
+   "name_zh": "能源转换电催化"
+  },
+  {
+   "id": "T10247",
+   "name_en": "Perovskite Materials and Applications",
+   "recent": 556,
+   "name_zh": "钙钛矿材料与应用"
+  },
+  {
+   "id": "T10281",
+   "name_en": "Advanced Battery Materials and Technologies",
+   "recent": 526,
+   "name_zh": "先进电池材料与技术"
+  },
+  {
+   "id": "T10018",
+   "name_en": "Advancements in Battery Materials",
+   "recent": 364,
+   "name_zh": "电池材料进展"
+  },
+  {
+   "id": "T11690",
+   "name_en": "Advanced battery technologies research",
+   "recent": 346,
+   "name_zh": "先进电池技术研究"
+  },
+  {
+   "id": "T10078",
+   "name_en": "Advanced Photocatalysis Techniques",
+   "recent": 339,
+   "name_zh": "先进光催化技术"
+  },
+  {
+   "id": "T10701",
+   "name_en": "Radical Photochemical Reactions",
+   "recent": 321,
+   "name_zh": "自由基光化学反应"
+  },
+  {
+   "id": "T11784",
+   "name_en": "CO2 Reduction Techniques and Catalysts",
+   "recent": 242,
+   "name_zh": "CO2还原技术与催化剂"
+  }
+ ]
+}
