@@ -1,0 +1,195 @@
+{
+ "lead": "塑料不是惰性的、锂离子爱扎堆、糖能一步合成——今天化学界挺热闹。",
+ "items": [
+  {
+   "title_zh": "塑料微粒在水里偷偷搞氧化",
+   "blurb": "研究发现商品微塑料在水界面有本征物理化学活性，能自发产生活性氧物种（ROS）。这挑战了塑料惰性的传统认知，对健康和环境影响值得重新评估。",
+   "tags": [
+    "微塑料",
+    "活性氧",
+    "环境化学"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Intrinsic physicochemical activity at microplastic–water interfaces",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11141-y",
+   "doi": "10.1038/s41586-026-11141-y",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11141-y/MediaObjects/41586_2026_11141_Fig1_HTML.png",
+   "authors": "Naixin Qian, Ruoqi Zhao, Kwing Yeung Chan, Vinh Gia Vuong, Xin Gao, Zhilun Zhao, R. Allen LaCour, Yifan Dai, Phoebe A. Stapleton, Beizhan Yan, Teresa Head-Gordon, Wei Min",
+   "id": "10.1038/s41586-026-11141-y"
+  },
+  {
+   "title_zh": "锂离子电池里，锂爱抱团",
+   "blurb": "结合机器学习模拟、光谱和电化学数据，发现电解液里存在不带阴离子的多锂离子团簇（multi-Li+ clustering）。这为理解锂电池工作机理提供了原子层面的新细节。",
+   "tags": [
+    "锂离子电池",
+    "电解液",
+    "机器学习"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Evidence for multi-Li + clustering in lithium-ion battery electrolytes",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11138-7",
+   "doi": "10.1038/s41586-026-11138-7",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11138-7/MediaObjects/41586_2026_11138_Fig1_HTML.png",
+   "authors": "James M. Stevenson, Garvit Agarwal, Sibali Debnath, Zachary K. Goldsmith, Monosij Mondal, Asya Svirinovsky-Arbeli, In Won Yeu, Amy S. Metlay, Yongbeom Kwon, Lakshmi Bhai, Rishabh D. Guha, Eric G. Keel",
+   "id": "10.1038/s41586-026-11138-7"
+  },
+  {
+   "title_zh": "沸石里稳住Rh3+，氢甲酰化更挑位置",
+   "blurb": "在KRh@MFI催化剂中，含氮分子会堵住Rh+位点，而Rh3+位点被稳定下来。这让氢甲酰化反应的选择性和效率都提升，DFT计算和实验一起佐证了这一点。",
+   "tags": [
+    "铑催化",
+    "沸石",
+    "氢甲酰化"
+   ],
+   "field": "催化",
+   "title_en": "Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11136-9",
+   "doi": "10.1038/s41586-026-11136-9",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11136-9/MediaObjects/41586_2026_11136_Fig1_HTML.png",
+   "authors": "Minjie Zhao, Reisel Millán, Alina Skorynina, Laura Simonelli, Miguel Lopez Haro, José Juan Calvino, Patricia Concepción, Avelino Corma",
+   "id": "10.1038/s41586-026-11136-9"
+  },
+  {
+   "title_zh": "CO2电解界面，水在当开关",
+   "blurb": "用原位拉曼光谱（operando Raman）加分子动力学模拟，在接近实际电流密度下看CO2还原界面。发现水的有序程度在机制里起门控作用，为优化电催化提供线索。",
+   "tags": [
+    "CO2还原",
+    "原位光谱",
+    "电催化"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Operando resolution of CO 2 electrolysis interfaces at application-relevant current density reveals water gating",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01620-w",
+   "doi": "10.1038/s41929-026-01620-w",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01620-w/MediaObjects/41929_2026_1620_Figa_HTML.png",
+   "authors": "Anku Guha, Ranga Rohit Seemakurthi, Bárbara Polesso, Prathama Haldar, Ranit Ram, Adrián Pinilla-Sánchez, Indrajit Mondal, David Kernan, Núria López, F. Pelayo García de Arquer",
+   "id": "10.1038/s41929-026-01620-w"
+  },
+  {
+   "title_zh": "分子马达靠角动量转移转起来",
+   "blurb": "通过碳碳三键上螺旋轨道的正负电流，实现角动量转移驱动分子马达单向旋转。这给分子机器设计开了条新路，不再只靠激发-弛豫循环。",
+   "tags": [
+    "分子马达",
+    "角动量",
+    "螺旋轨道"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Unidirectional rotation in a molecular motor driven by angular-momentum transfer via helical orbitals",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02264-w",
+   "doi": "10.1038/s41557-026-02264-w",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02264-w/MediaObjects/41557_2026_2264_Figa_HTML.png",
+   "authors": "Julian Skolaut, Štěpán Marek, Nico Balzer, María Camarasa-Gómez, Jan Wilhelm, Jan Lukášek, Michal Valášek, Lukas Gerhard, Ferdinand Evers, Marcel Mayor, Wulf Wulfhekel, Richard Korytár",
+   "id": "10.1038/s41557-026-02264-w"
+  },
+  {
+   "title_zh": "3D打印聚合物，说散就散",
+   "blurb": "设计亚稳态自消除聚合物（SIPs）用于高分辨率3D打印，触发后几秒内完全解聚，回收原始单体再打印。室温下按需拆解，朝真正循环制造迈了一步。",
+   "tags": [
+    "3D打印",
+    "自消除聚合物",
+    "循环回收"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Metastable Polymers for Circular 3D Printing",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74682?af=R",
+   "doi": "10.1002/adma.74682",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/68ba7817-7f2c-45c1-a6f3-94be29fa8a59/adma74682-gra-0001-m.png",
+   "authors": "Johannes Markhart, \nPhilipp Mainik, \nEva Blasco",
+   "id": "10.1002/adma.74682"
+  },
+  {
+   "title_zh": "醛一步变苏糖，三连羰基化",
+   "blurb": "铑催化的三重羰基化级联反应，能把多种醛直接转化成结构明确的4-羧基苏呋喃糖。绕过了迭代羰基化的老难题，为富氧骨架组装搭了个模块化平台。",
+   "tags": [
+    "有机合成",
+    "羰基化",
+    "糖化学"
+   ],
+   "field": "有机合成",
+   "title_en": "A triple carbonylation cascade converts aldehydes into threofuranoses",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02284-6",
+   "doi": "10.1038/s41557-026-02284-6",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02284-6/MediaObjects/41557_2026_2284_Fig1_HTML.png",
+   "authors": "",
+   "id": "10.1038/s41557-026-02284-6"
+  },
+  {
+   "title_zh": "电子垃圾塑料，一锅回收锑和溴",
+   "blurb": "用等温钳位闪蒸焦耳加热（flash Joule heating），几秒内造出均匀高温区，从阻燃电子塑料里同步回收高纯锑和溴（以HBr形式），还抑制了有毒溴化物排放。",
+   "tags": [
+    "电子垃圾",
+    "闪蒸加热",
+    "锑回收"
+   ],
+   "field": "化学工程",
+   "title_en": "Simultaneous antimony recovery from and debromination of flame-retardant electronic-waste plastics",
+   "source": "Nature Chemical Engineering",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44286-026-00455-3",
+   "doi": "10.1038/s44286-026-00455-3",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44286-026-00455-3/MediaObjects/44286_2026_455_Figa_HTML.png",
+   "authors": "Leo Haoxin Ye, Yi Cheng, Karla J. Silva, Shichen Xu, Haojie Zhu, Olawale Aina, Nicholas Lowell Viscomi, Shihui Chen, Pauline Seguron, Qiming Liu, Justin Sharp, Linqi Cheng, Jess C. Tang, Ralph S. Abde",
+   "id": "10.1038/s44286-026-00455-3"
+  },
+  {
+   "title_zh": "AI挖出CO2变燃料的隐藏捷径",
+   "blurb": "用人工智能找出近万个CO2转化相关反应，包括传统模型漏掉的关键路径。预测准确性明显提升，还发现一个意外的氢反应，可能启发更高效的催化剂。",
+   "tags": [
+    "AI化学",
+    "CO2转化",
+    "催化"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/surface-of-copper-catalyst.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm"
+  },
+  {
+   "title_zh": "废塑料变分子海绵，从空气里拧水",
+   "blurb": "维也纳大学团队把废弃塑料包装、旧CD甚至乐高积木转化成吸水性聚合物网络，在干燥气候下也能从空气中抓水，温和加热（比如晒太阳）就能释放。",
+   "tags": [
+    "塑料升级",
+    "吸水材料",
+    "空气取水"
+   ],
+   "field": "材料化学",
+   "title_en": "Waste plastics become molecular sponges that capture water from air",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-plastics-molecular-sponges-capture-air.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/waste-plastics-become.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-plastics-molecular-sponges-capture-air.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "钻石和铅笔芯是亲戚",
+  "text": "金刚石和石墨都是碳的单质，只是原子排列不同。金刚石中每个碳原子与四个碳原子形成正四面体结构，石墨则是层状六边形网络，所以一个极硬一个很软。"
+ },
+ "stats": {
+  "fetched": 2238,
+  "candidates": 90
+ },
+ "date": "2026-10-19",
+ "generated_at": "2026-10-19T17:19:43+08:00"
+}
