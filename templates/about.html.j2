@@ -1,0 +1,15 @@
+{% extends "base.html.j2" %}
+{% block title %}关于 · {{ site.name }}{% endblock %}
+{% block main %}
+<section class="page-head">
+  <h1>关于</h1>
+  <p>{{ site.name }}每天北京时间早上 8 点自动出一期：扫一遍下面这些期刊、预印本和新闻网站当天的新内容，由 AI 挑出最值得看的 10 条，用大白话讲一遍。点卡片就能跳到原文。</p>
+  <p>内容由 AI 根据摘要整理，难免看走眼，严肃引用请以原文为准。</p>
+</section>
+<section class="sources">
+  <h2>数据来源（{{ n_sources }} 个）</h2>
+  {% for group, names in source_groups %}
+  <div class="src-group"><h3>{{ group }}</h3><p>{{ names|join(" · ") }}</p></div>
+  {% endfor %}
+</section>
+{% endblock %}

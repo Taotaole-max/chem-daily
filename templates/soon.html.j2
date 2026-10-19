@@ -1,0 +1,9 @@
+{% extends "base.html.j2" %}
+{% block title %}{{ heading }} · {{ site.name }}{% endblock %}
+{% block main %}
+<section class="page-head soon">
+  <h1>{{ heading }}</h1>
+  <p>{{ text }}</p>
+  <p class="soon-tag">施工中，很快上线</p>
+</section>
+{% endblock %}

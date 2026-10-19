@@ -1,0 +1,78 @@
+# 信息源清单
+# 每个源：
+#   name   显示在卡片上的来源标签
+#   kind   paper（论文）/ preprint（预印本）/ news（新闻）
+#   tier   影响力档次 1–10，用于初筛排序（不是绝对标准，AI 选稿时还会再判断）
+#   rss    RSS 地址；抓不到时用 issn 走 Crossref 兜底
+#   crossref_prefix  没有 RSS、直接按 DOI 前缀从 Crossref 取（ChemRxiv 官方接口拦机器访问）
+#   issn   电子版 ISSN（Crossref 兜底用）
+#   broad  true 表示综合期刊，要先用关键词过滤出化学相关的
+#   group  关于页里的分组
+
+sources:
+  # ---------- 综合顶刊 ----------
+  - {name: Nature, kind: paper, tier: 10, group: 综合顶刊, broad: true, rss: "https://www.nature.com/nature.rss", issn: "1476-4687"}
+  - {name: Science, kind: paper, tier: 10, group: 综合顶刊, broad: true, rss: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science", issn: "1095-9203"}
+  - {name: Nature Communications, kind: paper, tier: 7, group: 综合顶刊, broad: true, rss: "https://www.nature.com/subjects/chemistry/ncomms.rss", issn: "2041-1723"}
+  - {name: Science Advances, kind: paper, tier: 7, group: 综合顶刊, broad: true, rss: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv", issn: "2375-2548"}
+  - {name: PNAS, kind: paper, tier: 7, group: 综合顶刊, broad: true, rss: "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas", issn: "1091-6490"}
+
+  # ---------- Nature 子刊 ----------
+  - {name: Nature Chemistry, kind: paper, tier: 9, group: Nature 子刊, rss: "https://www.nature.com/nchem.rss", issn: "1755-4349"}
+  - {name: Nature Catalysis, kind: paper, tier: 9, group: Nature 子刊, rss: "https://www.nature.com/natcatal.rss", issn: "2520-1158"}
+  - {name: Nature Materials, kind: paper, tier: 9, group: Nature 子刊, rss: "https://www.nature.com/nmat.rss", issn: "1476-4660"}
+  - {name: Nature Energy, kind: paper, tier: 9, group: Nature 子刊, rss: "https://www.nature.com/nenergy.rss", issn: "2058-7546"}
+  - {name: Nature Synthesis, kind: paper, tier: 8, group: Nature 子刊, rss: "https://www.nature.com/natsynth.rss", issn: "2731-0582"}
+  - {name: Nature Reviews Chemistry, kind: paper, tier: 8, group: Nature 子刊, rss: "https://www.nature.com/natrevchem.rss", issn: "2397-3358"}
+  - {name: Nature Chemical Engineering, kind: paper, tier: 8, group: Nature 子刊, rss: "https://www.nature.com/natchemeng.rss", issn: "2948-1198"}
+  - {name: Nature Computational Science, kind: paper, tier: 8, group: Nature 子刊, rss: "https://www.nature.com/natcomputsci.rss", issn: "2662-8457"}
+  - {name: Nature Machine Intelligence, kind: paper, tier: 7, group: Nature 子刊, broad: true, rss: "https://www.nature.com/natmachintell.rss", issn: "2522-5839"}
+
+  # ---------- ACS ----------
+  - {name: JACS, kind: paper, tier: 8, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat", issn: "1520-5126"}
+  - {name: ACS Central Science, kind: paper, tier: 7, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=acscii", issn: "2374-7951"}
+  - {name: Chemical Reviews, kind: paper, tier: 8, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay", issn: "1520-6890"}
+  - {name: Accounts of Chemical Research, kind: paper, tier: 7, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=achre4", issn: "1520-4898"}
+  - {name: ACS Catalysis, kind: paper, tier: 7, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=accacs", issn: "2155-5435"}
+  - {name: ACS Nano, kind: paper, tier: 7, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=ancac3", issn: "1936-086X"}
+  - {name: ACS Energy Letters, kind: paper, tier: 7, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aelccp", issn: "2380-8195"}
+  - {name: J. Phys. Chem. Lett., kind: paper, tier: 6, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpclcd", issn: "1948-7185"}
+  - {name: JCTC, kind: paper, tier: 6, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce", issn: "1549-9626"}
+  - {name: Organic Letters, kind: paper, tier: 6, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=orlef7", issn: "1523-7052"}
+  - {name: Inorganic Chemistry, kind: paper, tier: 5, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=inocaj", issn: "1520-510X"}
+  - {name: Macromolecules, kind: paper, tier: 6, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=mamobx", issn: "1520-5835"}
+  - {name: Chemistry of Materials, kind: paper, tier: 6, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=cmatex", issn: "1520-5002"}
+  - {name: ES&T, kind: paper, tier: 6, group: ACS, rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=esthag", issn: "1520-5851"}
+
+  # ---------- Wiley ----------
+  - {name: Angewandte Chemie, kind: paper, tier: 8, group: Wiley, rss: "https://onlinelibrary.wiley.com/feed/15213773/most-recent", issn: "1521-3773"}
+  - {name: Advanced Materials, kind: paper, tier: 8, group: Wiley, rss: "https://onlinelibrary.wiley.com/feed/15214095/most-recent", issn: "1521-4095"}
+  - {name: Advanced Energy Materials, kind: paper, tier: 7, group: Wiley, rss: "https://onlinelibrary.wiley.com/feed/16146840/most-recent", issn: "1614-6840"}
+  - {name: Advanced Functional Materials, kind: paper, tier: 6, group: Wiley, rss: "https://onlinelibrary.wiley.com/feed/16163028/most-recent", issn: "1616-3028"}
+
+  # ---------- RSC ----------
+  # RSC 的 RSS 日期不准（全是期号日期），直接走 Crossref
+  - {name: Chemical Science, kind: paper, tier: 6, group: RSC, issn: "2041-6539"}
+  - {name: Chem. Soc. Rev., kind: paper, tier: 8, group: RSC, issn: "1460-4744"}
+  - {name: Energy Environ. Sci., kind: paper, tier: 8, group: RSC, issn: "1754-5706"}
+  - {name: J. Mater. Chem. A, kind: paper, tier: 5, group: RSC, issn: "2050-7496"}
+  - {name: Chem. Commun., kind: paper, tier: 5, group: RSC, issn: "1364-548X"}
+  - {name: Digital Discovery, kind: paper, tier: 5, group: RSC, issn: "2635-098X"}
+
+  # ---------- Cell Press ----------
+  - {name: Chem, kind: paper, tier: 8, group: Cell Press, rss: "https://www.cell.com/chem/inpress.rss", issn: "2451-9294"}
+  - {name: Joule, kind: paper, tier: 8, group: Cell Press, rss: "https://www.cell.com/joule/inpress.rss", issn: "2542-4351"}
+  - {name: Matter, kind: paper, tier: 7, group: Cell Press, rss: "https://www.cell.com/matter/inpress.rss", issn: "2590-2385"}
+  - {name: Chem Catalysis, kind: paper, tier: 6, group: Cell Press, rss: "https://www.cell.com/chem-catalysis/inpress.rss", issn: "2667-1093"}
+
+  # ---------- 预印本 ----------
+  - {name: ChemRxiv, kind: preprint, tier: 5, group: 预印本, crossref_prefix: "10.26434"}
+  - {name: arXiv chem-ph, kind: preprint, tier: 4, group: 预印本, rss: "https://rss.arxiv.org/rss/physics.chem-ph"}
+  - {name: arXiv 材料, kind: preprint, tier: 4, group: 预印本, broad: true, rss: "https://rss.arxiv.org/rss/cond-mat.mtrl-sci"}
+
+  # ---------- 新闻 ----------
+  - {name: C&EN, kind: news, tier: 8, group: 新闻, rss: "https://cen.acs.org/feeds/rss/latestnews.xml"}
+  - {name: Phys.org 化学, kind: news, tier: 6, group: 新闻, rss: "https://phys.org/rss-feed/chemistry-news/"}
+  - {name: ScienceDaily 化学, kind: news, tier: 6, group: 新闻, rss: "https://www.sciencedaily.com/rss/matter_energy/chemistry.xml"}
+  - {name: Science News, kind: news, tier: 7, group: 新闻, rss: "https://www.sciencenews.org/topic/chemistry/feed"}
+  - {name: MIT News 化学, kind: news, tier: 6, group: 新闻, rss: "https://news.mit.edu/rss/topic/chemistry"}

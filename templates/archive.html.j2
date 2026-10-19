@@ -1,0 +1,16 @@
+{% extends "base.html.j2" %}
+{% block title %}往期 · {{ site.name }}{% endblock %}
+{% block main %}
+<section class="page-head"><h1>往期</h1><p>共 {{ issues|length }} 期</p></section>
+<ul class="archive">
+{% for iss in issues %}
+  <li>
+    <a href="{{ root }}issues/{{ iss.date }}.html">
+      <span class="a-date">{{ iss.date_cn }}<small>第 {{ iss.number }} 期</small></span>
+      <span class="a-lead">{{ iss.lead }}</span>
+      <span class="a-titles">{% for it in iss["items"][:3] %}{{ it.title_zh }}{% if not loop.last %} / {% endif %}{% endfor %}</span>
+    </a>
+  </li>
+{% endfor %}
+</ul>
+{% endblock %}
