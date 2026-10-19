@@ -8,6 +8,7 @@
 <meta property="og:title" content="{{ self.title() }}">
 <meta property="og:description" content="{{ self.description() }}">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚗️</text></svg>">
+{% block head %}{% endblock %}
 <link rel="stylesheet" href="{{ root }}style.css?v={{ css_version }}">
 </head>
 <body>
@@ -31,7 +32,7 @@
 <footer class="wrap foot">
   <p>{{ site.name }} · 内容由 AI 根据论文摘要和新闻自动整理，难免有错，以原文为准。图片版权归原期刊/媒体所有。</p>
 </footer>
-{% if site.cf_analytics_token %}
+{% if site.cf_analytics_token and not no_beacon %}
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.cf_analytics_token }}"}'></script>
 {% endif %}
 </body>

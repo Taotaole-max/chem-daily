@@ -261,3 +261,32 @@ mark { background: color-mix(in srgb, var(--accent) 22%, transparent); color: in
 @media (min-width: 761px) and (max-width: 980px) {
   .field-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
+
+/* ---------- 小红书工作台 ---------- */
+.tips { margin-top: 12px; background: var(--paper); border: 1px solid var(--line); border-radius: 12px; padding: 10px 16px; font-size: 14px; }
+.tips summary { cursor: pointer; font-weight: 600; color: var(--accent); }
+.tips ul { margin: 8px 0 4px; padding-left: 20px; color: var(--ink-2); }
+.draft { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; margin: 0 0 22px; box-shadow: var(--shadow); }
+.draft-head { display: flex; align-items: center; gap: 12px; font-size: 14px; color: var(--ink-3); }
+.draft-head a { margin-left: auto; color: var(--accent); }
+.draft-kind { color: #fff; background: var(--accent); padding: 2px 10px; border-radius: 999px; font-weight: 600; font-size: 12.5px; }
+.draft-kind.monthly { background: var(--f6); }
+.draft-date { font-weight: 600; color: var(--ink); }
+.slides { display: flex; gap: 10px; overflow-x: auto; padding: 14px 0 8px; scroll-snap-type: x mandatory; }
+.slides a { flex: 0 0 auto; scroll-snap-align: start; }
+.slides img { display: block; height: 260px; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 8px; border: 1px solid var(--line); background: var(--pic-bg); }
+.copy-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 12px; }
+.copy-row button { font: inherit; font-size: 14px; padding: 7px 16px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--bg); color: var(--ink); }
+.copy-row button:hover { border-color: var(--accent); color: var(--accent); }
+.copy-row button.ok { background: var(--f7); border-color: var(--f7); color: #fff; }
+.copy-row button.zip { margin-left: auto; }
+.field-label { margin: 12px 0 4px; font-size: 12.5px; color: var(--ink-3); letter-spacing: .06em; }
+.field-label small { margin-left: 6px; }
+.draft-title { margin: 0; font: 700 19px/1.5 var(--serif); }
+.draft-body { white-space: pre-wrap; font-size: 15px; line-height: 1.75; color: var(--ink-2); background: var(--bg); border-radius: 10px; padding: 12px 14px; }
+.draft-tags { margin: 0; color: var(--f2); font-size: 14px; }
+@media (max-width: 760px) {
+  .slides img { height: 200px; }
+  .copy-row button.zip { margin-left: 0; }
+}

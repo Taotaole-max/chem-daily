@@ -18,6 +18,10 @@ on:
         description: "强制重新生成本月趋势"
         type: boolean
         default: false
+      xhs:
+        description: "重新生成今天的小红书草稿"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: ["templates/**", "static/**", "config/site.yaml", "chemdaily/build_site.py"]
@@ -44,6 +48,9 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      # 小红书配图用 Chrome 截图，需要中文字体
+      - run: sudo apt-get install -y -q fonts-noto-cjk > /dev/null
+
       - name: 抓取、选稿、写稿、生成网页
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
@@ -56,6 +63,7 @@ jobs:
           [ "${{ inputs.force }}" = "true" ] && ARGS="$ARGS --force"
           [ "${{ inputs.hot }}" = "true" ] && ARGS="$ARGS --hot"
           [ "${{ inputs.trends }}" = "true" ] && ARGS="$ARGS --trends"
+          [ "${{ inputs.xhs }}" = "true" ] && ARGS="$ARGS --xhs"
           python run_daily.py $ARGS
 
       - name: 把今天的数据提交回仓库

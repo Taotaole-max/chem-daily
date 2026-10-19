@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>slide</title>
+<style>
+  /* 小红书配图，1080×1440（3:4）。图里不用 emoji：服务器上没有彩色 emoji 字体 */
+  :root {
+    --bg: #f6f3ee; --paper: #fffdf9; --ink: #1d1b18; --ink-2: #4a463f; --ink-3: #8a847a; --line: #e6e0d6; --accent: #c2410c;
+    --f0: #c2410c; --f1: #7c3aed; --f2: #0e7490; --f3: #ca8a04; --f4: #2563eb; --f5: #db2777;
+    --f6: #4f46e5; --f7: #059669; --f8: #9333ea; --f9: #dc2626; --f10: #16a34a; --f11: #64748b;
+    --serif: "Noto Serif CJK SC", "Noto Serif SC", "Source Han Serif SC", "Songti SC", "SimSun", serif;
+    --sans: "Noto Sans CJK SC", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; width: 1080px; height: 1440px; overflow: hidden; }
+  body { background: var(--bg); color: var(--ink); font-family: var(--sans); }
+  .page { width: 1080px; height: 1440px; padding: 64px 64px 56px; display: flex; flex-direction: column; }
+  .brand { display: flex; align-items: center; gap: 14px; font: 700 34px/1 var(--serif); }
+  .brand i { width: 22px; height: 22px; border-radius: 50%; background: var(--accent); display: inline-block; }
+  .brand small { font: 500 26px/1 var(--sans); color: var(--ink-3); margin-left: auto; letter-spacing: .04em; }
+  .foot { margin-top: auto; padding-top: 28px; display: flex; justify-content: space-between; align-items: center;
+    font-size: 24px; color: var(--ink-3); border-top: 2px solid var(--line); }
+  .foot b { color: var(--ink); font: 700 26px var(--serif); }
+
+  /* 封面 */
+  .cover .rule { height: 6px; background: var(--ink); margin: 40px 0 0; }
+  .cover h1 { font: 900 112px/1.22 var(--serif); margin: 70px 0 50px; letter-spacing: .01em; }
+  .cover ol { list-style: none; margin: 0; padding: 0; counter-reset: n; }
+  .cover li { counter-increment: n; display: flex; gap: 22px; align-items: baseline; font: 500 46px/1.4 var(--sans); margin: 0 0 22px; }
+  .cover li::before { content: counter(n); flex: 0 0 56px; height: 56px; border-radius: 50%; background: var(--accent); color: #fff;
+    font: 700 32px/56px var(--sans); text-align: center; transform: translateY(-4px); }
+  .thumbs { display: flex; gap: 20px; margin-top: auto; }
+  .thumbs div { flex: 1; height: 300px; background: #fff; border: 2px solid var(--line); border-radius: 22px; overflow: hidden; }
+  .thumbs img { width: 100%; height: 100%; object-fit: cover; }
+
+  /* 单条 */
+  .item .top { display: flex; align-items: center; gap: 18px; }
+  .chip { color: #fff; background: var(--fc); padding: 8px 22px; border-radius: 999px; font: 700 28px/1.2 var(--sans); }
+  .count { margin-left: auto; font: 700 30px var(--sans); color: var(--ink-3); }
+  .fig { flex: 1 1 0; min-height: 300px; margin: 34px 0 36px; background: #fff; border: 2px solid var(--line); border-radius: 26px;
+    overflow: hidden; display: flex; align-items: center; justify-content: center; }
+  .fig img { width: 100%; height: 100%; object-fit: contain; }
+  .fig.none { background: linear-gradient(135deg, color-mix(in srgb, var(--fc) 26%, #fff), #fff 75%); flex: 0 0 200px; min-height: 0;
+    justify-content: flex-start; padding: 0 48px; font: 900 64px var(--serif); color: var(--fc); }
+  .item h1, .item p.text { flex: none; }
+  .item h1 { font: 900 64px/1.32 var(--serif); margin: 0 0 22px; }
+  .item p.text { font: 400 38px/1.62 var(--sans); color: var(--ink-2); margin: 0; }
+  .item .en { flex: none; margin-top: 22px; font: italic 25px/1.45 var(--sans); color: var(--ink-3);
+    display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+
+  /* 月度列表页 */
+  .list h1 { font: 900 76px/1.25 var(--serif); margin: 54px 0 8px; }
+  .list .sub { font-size: 30px; color: var(--ink-3); margin: 0 0 30px; }
+  .rows { display: flex; flex-direction: column; gap: 0; }
+  .row { display: grid; grid-template-columns: 1fr auto; gap: 4px 24px; padding: 24px 0; border-bottom: 2px solid var(--line); }
+  .row b { font: 700 42px/1.3 var(--serif); }
+  .row .num { font: 800 44px/1.2 var(--sans); color: var(--accent); }
+  .row p { grid-column: 1 / -1; margin: 0; font-size: 29px; line-height: 1.5; color: var(--ink-2); }
+  .row.hot { grid-template-columns: 70px 1fr; }
+  .row.hot .rank { grid-row: span 2; font: 900 56px/1 var(--serif); color: var(--accent); }
+  .row.hot p { grid-column: 2; }
+  .row.hot span { display: block; margin-top: 4px; color: var(--ink-3); font-size: 26px; font-weight: 400; font-family: var(--sans); }
+</style>
+</head>
+<body>
+{% if s.type == "cover" %}
+<div class="page cover">
+  <div class="brand"><i></i>{{ site.name }}<small>{{ s.date_cn }}</small></div>
+  <div class="rule"></div>
+  <h1>{{ s.title }}</h1>
+  <ol>{% for l in s.lines %}<li>{{ l }}</li>{% endfor %}</ol>
+  {% if s.thumbs %}
+  <div class="thumbs">{% for t in s.thumbs %}<div><img src="{{ t }}" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></div>{% endfor %}</div>
+  {% endif %}
+  <div class="foot"><b>{{ site.name }}</b><span>{{ site.tagline }}</span></div>
+</div>
+{% elif s.type == "item" %}
+<div class="page item" style="--fc: var(--f{{ field_index[s.field] }})">
+  <div class="top"><span class="chip">{{ s.field }}</span><span class="count">{{ s.n }} / {{ s.total }}</span></div>
+  {% if s.image %}
+  <div class="fig"><img src="{{ s.image }}" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('none');this.parentNode.textContent='{{ s.field }}'"></div>
+  {% else %}
+  <div class="fig none">{{ s.field }}</div>
+  {% endif %}
+  <h1>{{ s.title }}</h1>
+  <p class="text">{{ s.text }}</p>
+  <div class="en">{{ s.title_en }}</div>
+  <div class="foot"><span>出处：<b>{{ s.source }}</b>{% if s.kind == 'news' %} · 新闻{% elif s.kind == 'preprint' %} · 预印本{% endif %}</span><span>{{ site.name }}</span></div>
+</div>
+{% else %}
+<div class="page list">
+  <div class="brand"><i></i>{{ site.name }}<small>月度趋势</small></div>
+  <h1>{{ s.heading }}</h1>
+  <p class="sub">{{ s.sub }}</p>
+  <div class="rows">
+  {% for r in s.rows %}
+    {% if s.type == "rising" %}
+    <div class="row"><b>{{ r.name }}</b><span class="num">×{{ r.ratio }}</span>{% if r.text %}<p>{{ r.text }}</p>{% endif %}</div>
+    {% else %}
+    <div class="row hot"><span class="rank">{{ loop.index }}</span><b>{{ r.title }}<span>{{ r.source }} · 被引 {{ r.cited }}</span></b>{% if r.text %}<p>{{ r.text }}</p>{% endif %}</div>
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="foot"><b>{{ site.name }}</b><span>数据：OpenAlex</span></div>
+</div>
+{% endif %}
+</body>
+</html>

@@ -1,0 +1,85 @@
+{% extends "base.html.j2" %}
+{% block title %}小红书工作台 · {{ site.name }}{% endblock %}
+{% block head %}<meta name="robots" content="noindex, nofollow">{% endblock %}
+{% block main %}
+<section class="page-head">
+  <h1>小红书工作台</h1>
+  <p>每天的日报自动生成一篇草稿，每月另有一篇趋势草稿。复制文字、下载图片，到小红书 App 里自己发。这个页面不在导航里，别外传。</p>
+  <details class="tips">
+    <summary>发帖注意事项</summary>
+    <ul>
+      <li>图片按顺序上传，第一张是封面。手机上长按图片保存；电脑上点“下载全部图片”拿压缩包。</li>
+      <li>正文里不放网址、不提微信或公众号、不引导私信，这是旧号被限流的原因。草稿已经自动删掉这类字眼，发之前再扫一眼。</li>
+      <li>话题标签在 App 里输入 # 再选，选中的才算话题；直接粘贴的只是普通文字。</li>
+      <li>发布时勾上“内容含 AI 合成”之类的声明，平台有要求。</li>
+      <li>新号先稳定日更两三周，别一天发好几篇；发布时间可以试试中午或晚上 8 点后。</li>
+      <li>内容是 AI 按摘要写的，数字、结论对一下原文再发。</li>
+    </ul>
+  </details>
+</section>
+
+{% for d in drafts %}
+<article class="draft" id="d-{{ d.id }}">
+  <header class="draft-head">
+    <span class="draft-kind {{ d.kind }}">{{ '月度' if d.kind == 'monthly' else '日报' }}</span>
+    <span class="draft-date">{{ d.date }}</span>
+    {% if d.kind == 'daily' %}<a href="../issues/{{ d.date }}.html" target="_blank">看这期日报 ↗</a>{% endif %}
+  </header>
+
+  {% if images.get(d.id) %}
+  <div class="slides">
+    {% for n in images[d.id] %}
+    <a href="{{ d.id }}/{{ n }}" download="{{ d.id }}-{{ n }}" target="_blank"><img src="{{ d.id }}/{{ n }}" alt="第 {{ loop.index }} 张" loading="lazy"></a>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="empty-note">这篇的配图没生成出来（截图的浏览器没找到或者出错了），只能先用文字。</p>
+  {% endif %}
+
+  <div class="copy-row">
+    <button type="button" data-copy="t-{{ d.id }}">复制标题</button>
+    <button type="button" data-copy="b-{{ d.id }}">复制正文</button>
+    <button type="button" data-copy="g-{{ d.id }}">复制标签</button>
+    {% if images.get(d.id) %}<button type="button" class="zip" data-id="{{ d.id }}" data-files="{{ images[d.id]|join(',') }}">下载全部图片</button>{% endif %}
+  </div>
+
+  <div class="draft-text">
+    <p class="field-label">标题 <small>{{ d.title|length }}/20</small></p>
+    <p class="draft-title" id="t-{{ d.id }}">{{ d.title }}</p>
+    <p class="field-label">正文 <small>{{ d.body|length }}/1000</small></p>
+    <div class="draft-body" id="b-{{ d.id }}">{{ d.body }}</div>
+    <p class="field-label">话题</p>
+    <p class="draft-tags" id="g-{{ d.id }}">{% for t in d.tags %}#{{ t }} {% endfor %}</p>
+  </div>
+</article>
+{% else %}
+<p class="empty-note">还没有草稿。下一期日报出来时会自动生成。</p>
+{% endfor %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script>
+document.addEventListener("click", function (e) {
+  var b = e.target.closest("button[data-copy]");
+  if (b) {
+    var text = document.getElementById(b.dataset.copy).innerText.trim();
+    var done = function () { var o = b.textContent; b.textContent = "已复制"; b.classList.add("ok");
+      setTimeout(function () { b.textContent = o; b.classList.remove("ok"); }, 1500); };
+    if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(text).then(done);
+    else { var t = document.createElement("textarea"); t.value = text; document.body.appendChild(t); t.select();
+      document.execCommand("copy"); t.remove(); done(); }
+    return;
+  }
+  var z = e.target.closest("button.zip");
+  if (z && window.JSZip) {
+    z.disabled = true; z.textContent = "打包中…";
+    var zip = new JSZip(), id = z.dataset.id, files = z.dataset.files.split(",");
+    Promise.all(files.map(function (n) {
+      return fetch(id + "/" + n).then(function (r) { return r.blob(); }).then(function (b) { zip.file(id + "-" + n, b); });
+    })).then(function () { return zip.generateAsync({ type: "blob" }); }).then(function (blob) {
+      var a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "xhs-" + id + ".zip"; a.click();
+      z.disabled = false; z.textContent = "下载全部图片";
+    });
+  }
+});
+</script>
+{% endblock %}

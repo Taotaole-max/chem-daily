@@ -5,8 +5,9 @@
   python run_daily.py --force      重新出今天这期（覆盖）
   python run_daily.py --build-only 不抓不写，只用已有数据重建网页
   python run_daily.py --hot --trends  另外强制刷新热榜 / 趋势
+  python run_daily.py --xhs        重新生成今天的小红书草稿
 
-热榜每周一刷新，趋势每月第一次运行时出一期；这两样失败不影响当天的日报。
+热榜和趋势都是每月第一次运行时出一期；这两样失败不影响当天的日报。
 """
 import argparse
 import gzip
@@ -24,6 +25,7 @@ from chemdaily.fetch_sources import fetch_all, load_sources  # noqa: E402
 from chemdaily.hot_lists import build_hot  # noqa: E402
 from chemdaily.pick_and_write import make_issue  # noqa: E402
 from chemdaily.trends import build_trends  # noqa: E402
+from chemdaily.xhs import make_daily_draft, make_monthly_draft  # noqa: E402
 
 BEIJING = timezone(timedelta(hours=8))
 SEEN = ROOT / "data" / "seen_ids.txt"
@@ -46,6 +48,7 @@ def main():
     ap.add_argument("--build-only", action="store_true")
     ap.add_argument("--hot", action="store_true", help="强制刷新热榜")
     ap.add_argument("--trends", action="store_true", help="强制重出本月趋势")
+    ap.add_argument("--xhs", action="store_true", help="重新生成今天的小红书草稿")
     args = ap.parse_args()
     load_env()
 
@@ -81,18 +84,19 @@ def main():
 
     if not args.build_only:
         update_extras(sources, today_date, args)
+        update_xhs(today_date, args)
 
     print("网页已生成：", build())
 
 
 def update_extras(sources, today, args):
-    """热榜（每周一）和趋势（每月一期）。出错只打印，不影响日报发布。"""
+    """热榜和趋势（都是每月一期）。出错只打印，不影响日报发布。"""
     hot_dir, trend_dir = ROOT / "data" / "hot", ROOT / "data" / "trends"
     hot_dir.mkdir(exist_ok=True)
     trend_dir.mkdir(exist_ok=True)
 
     hot_path = hot_dir / f"{today.isoformat()}.json"
-    if args.hot or not any(hot_dir.glob("*.json")) or (today.weekday() == 0 and not hot_path.exists()):
+    if args.hot or not any(hot_dir.glob(f"{today:%Y-%m}-*.json")):
         try:
             hot = build_hot(sources, today)
             hot_path.write_text(json.dumps(hot, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -108,6 +112,33 @@ def update_extras(sources, today, args):
             print("本月趋势已生成：", tr["headline"])
         except Exception as ex:  # noqa: BLE001
             print("⚠ 趋势生成失败：", ex)
+
+
+def update_xhs(today, args):
+    """小红书草稿：今天的日报一篇；本月趋势出来后一篇月度的。出错不影响日报。"""
+    xdir = ROOT / "data" / "xhs"
+    xdir.mkdir(exist_ok=True)
+    issue_path = ROOT / "data" / "issues" / f"{today.isoformat()}.json"
+    path = xdir / f"{today.isoformat()}.json"
+    if issue_path.exists() and (args.xhs or args.force or not path.exists()):
+        try:
+            d = make_daily_draft(json.loads(issue_path.read_text(encoding="utf-8")))
+            path.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+            print("小红书草稿：", d["title"])
+        except Exception as ex:  # noqa: BLE001
+            print("⚠ 小红书草稿失败：", ex)
+
+    trend_path = ROOT / "data" / "trends" / f"{today:%Y-%m}.json"
+    mpath = xdir / f"month-{today:%Y-%m}.json"
+    if trend_path.exists() and (args.xhs or args.trends or not mpath.exists()):
+        try:
+            hot_files = sorted((ROOT / "data" / "hot").glob("*.json"))
+            hot = json.loads(hot_files[-1].read_text(encoding="utf-8")) if hot_files else None
+            d = make_monthly_draft(json.loads(trend_path.read_text(encoding="utf-8")), hot)
+            mpath.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+            print("小红书月度草稿：", d["title"])
+        except Exception as ex:  # noqa: BLE001
+            print("⚠ 小红书月度草稿失败：", ex)
 
 
 if __name__ == "__main__":

@@ -5,4 +5,6 @@ tagline: 每天 8 点，10 条化学圈新鲜事
 # 公开网址（GitHub Pages）。换自己的域名后改这里
 base_url: https://taotaole-max.github.io/chem-daily/
 # Cloudflare Web Analytics 的 token（注册后在 Cloudflare 后台拿到），留空就不加统计代码
+# 小红书工作台的网址（不在导航里，知道网址的人才能打开；想换就改成别的）
+xhs_path: studio-cb82d67c8c
 cf_analytics_token: "84cc050068b8470d895c7c0a2e070af7"

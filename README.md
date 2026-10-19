@@ -14,10 +14,11 @@ GitHub Actions 每天 UTC 0 点（北京 8 点）运行 run_daily.py
   4. 写稿   DeepSeek 写中文标题 + 两三句大白话 + 导语 + 冷知识
   5. 出网页 chemdaily/build_site.py      → site/，发布到 GitHub Pages
   6. 存档   data/issues/日期.json（每期内容）、data/raw/日期.json.gz（当天全部条目）
-  7. 热榜   每周一：chemdaily/hot_lists.py，OpenAlex 被引数，近 1/3/12 个月各 10 篇
+  7. 热榜   每月一期：chemdaily/hot_lists.py，OpenAlex 被引数，近 1/3/12 个月各 10 篇
   8. 趋势   每月一期：chemdaily/trends.py，主题发文占比同比升温，配曲线
   9. 方向   日报和热榜按 12 个方向归档，每个方向一页（fields/）
  10. 搜索   search.html，纯前端：精选（日报 + 热榜，中文）+ 全部收录（每天抓到的全部条目，按月分片）
+ 11. 小红书 chemdaily/xhs.py：每天一篇、每月一篇草稿 + 3:4 配图，放在不进导航的工作台页面（网址见 config/site.yaml 的 xhs_path）
 ```
 
 ## 本地运行

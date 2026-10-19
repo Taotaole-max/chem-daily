@@ -11,6 +11,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from .fetch_sources import load_sources
 from .pick_and_write import FIELDS
+from .xhs import load_drafts, render_drafts
 
 ROOT = Path(__file__).resolve().parent.parent
 WEEKDAYS = "一二三四五六日"
@@ -102,6 +103,14 @@ def build(out_dir=ROOT / "site"):
     render("search.html.j2", "search.html", page="search", root="",
            field_list=FIELDS, field_slug_list=FIELD_SLUGS)
     print(f"搜索索引：全部收录 {n_all} 条")
+
+    # 小红书工作台：不在导航里，noindex
+    xdir = out / site["xhs_path"]
+    drafts = load_drafts(ROOT)
+    images = render_drafts(drafts, env, xdir, ROOT / ".cache" / "xhs", common)
+    xdir.mkdir(exist_ok=True)
+    render("xhs.html.j2", f"{site['xhs_path']}/index.html", drafts=drafts, images=images,
+           page="", root="../", no_beacon=True)
     return out
 
 
