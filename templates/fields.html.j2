@@ -1,0 +1,21 @@
+{% extends "base.html.j2" %}
+{% block title %}方向 · {{ site.name }}{% endblock %}
+{% block description %}按 12 个化学方向归档：每个方向上过日报的所有内容和近期热门论文{% endblock %}
+{% block main %}
+<section class="page-head">
+  <h1>方向</h1>
+  <p>日报和热榜按 12 个方向归档。只关心自己那一块的话，点进去一页看完。</p>
+</section>
+
+<section class="field-grid">
+{% for f in fields %}
+  <a class="field-tile" href="{{ root }}fields/{{ f.slug }}.html" style="--fc: var(--f{{ loop.index0 }})">
+    <h2>{{ f.name }}</h2>
+    <p class="ft-count">日报 <b>{{ f["daily"]|length }}</b> 条 · 热门论文 <b>{{ f["hot"]|length }}</b> 篇</p>
+    <ul>
+      {% for it in f.preview %}<li>{{ it.title_zh }}</li>{% else %}<li class="ft-empty">还没有内容，等新一期</li>{% endfor %}
+    </ul>
+  </a>
+{% endfor %}
+</section>
+{% endblock %}

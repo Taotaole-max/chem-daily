@@ -1,0 +1,44 @@
+{% extends "base.html.j2" %}
+{% block title %}搜索 · {{ site.name }}{% endblock %}
+{% block description %}搜索化学日报收录过的论文和新闻：精选内容带中文解读，全部收录覆盖 {{ n_sources }} 个来源{% endblock %}
+{% block main %}
+<section class="page-head">
+  <h1>搜索</h1>
+  <p>中英文关键词都行，空格隔开表示同时包含。<b>精选</b>是上过日报和热榜的，有中文解读；<b>全部收录</b>是每天抓到的所有新论文和新闻（英文原标题），中文常用词会自动带上英文一起搜。</p>
+</section>
+
+<form class="search-box" id="search-form" role="search">
+  <input id="q" type="search" placeholder="比如：钙钛矿、单原子 催化、MOF、machine learning" autocomplete="off" autofocus>
+  <select id="kind" aria-label="类型">
+    <option value="">全部类型</option><option value="paper">论文</option><option value="news">新闻</option><option value="preprint">预印本</option>
+  </select>
+  <select id="scope" aria-label="时间范围">
+    <option value="3">近 3 个月</option><option value="all">全部时间</option>
+  </select>
+</form>
+
+<div class="field-switch" id="field-filter">
+  <a href="#" data-f="" class="on">全部方向</a>
+  {% for f in field_list %}<a href="#" data-f="{{ loop.index0 }}" style="--fc: var(--f{{ loop.index0 }})">{{ f }}</a>{% endfor %}
+</div>
+
+<div id="hints" class="hints">
+  试试：{% for w in ["电池", "钙钛矿", "单原子", "MOF", "CO2", "机器学习", "微塑料", "光催化", "固态电解质", "蛋白质"] %}<a href="?q={{ w|urlencode }}">{{ w }}</a>{% endfor %}
+</div>
+
+<p id="status" class="search-status" aria-live="polite"></p>
+
+<section id="res-picked" hidden>
+  <h2 class="sec-title">精选 <small id="n-picked"></small></h2>
+  <ul class="results" id="list-picked"></ul>
+</section>
+<section id="res-all" hidden>
+  <h2 class="sec-title">全部收录 <small id="n-all"></small></h2>
+  <p class="muted-note" id="all-note"></p>
+  <ul class="results compact" id="list-all"></ul>
+  <button type="button" class="more" id="more-all" hidden>再显示 50 条</button>
+</section>
+
+<script>window.CHEM_SEARCH = {root: "{{ root }}", fields: {{ field_list|tojson }}, slugs: {{ field_slug_list|tojson }}};</script>
+<script src="{{ root }}search.js?v={{ js_version }}"></script>
+{% endblock %}

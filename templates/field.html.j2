@@ -1,0 +1,42 @@
+{% extends "base.html.j2" %}
+{% from "_card.html.j2" import card %}
+{% block title %}{{ f.name }} · {{ site.name }}{% endblock %}
+{% block description %}{{ site.name }}里所有{{ f.name }}方向的内容：上过日报的新论文、新闻，和近一年被引最多的论文{% endblock %}
+{% block main %}
+<section class="page-head field-head" style="--fc: var(--f{{ f.index }})">
+  <p class="crumb"><a href="{{ root }}fields.html">方向</a> /</p>
+  <h1>{{ f.name }}</h1>
+  <p>上过日报 {{ f["daily"]|length }} 条，热榜上的论文 {{ f["hot"]|length }} 篇。</p>
+  <div class="field-switch">
+    {% for g in fields %}<a href="{{ root }}fields/{{ g.slug }}.html" style="--fc: var(--f{{ loop.index0 }})" {% if g.slug == f.slug %}class="on"{% endif %}>{{ g.name }}</a>{% endfor %}
+  </div>
+</section>
+
+{% if f["hot"] %}
+<h2 class="sec-title">热门论文</h2>
+<ol class="hotlist field-hot">
+  {% for it in f["hot"] %}
+  <li>
+    <span class="rank">{{ loop.index }}</span>
+    <div class="hot-body">
+      <h2><a href="{{ it.link }}" target="_blank" rel="noopener">{{ it.title_zh }}</a></h2>
+      {% if it.one_line %}<p class="blurb">{{ it.one_line }}</p>{% endif %}
+      <p class="en">{{ it.title_en }}</p>
+      <p class="hot-meta"><span class="src">{{ it.source }}</span><span>被引 <b>{{ it.cited }}</b></span><span>{{ it.date }}</span><span>{{ it.windows|join(' / ') }}热榜</span></p>
+    </div>
+  </li>
+  {% endfor %}
+</ol>
+{% endif %}
+
+<h2 class="sec-title">上过日报的</h2>
+{% if f["daily"] %}
+<section class="grid">
+{% for it in f["daily"] %}
+{{ card(it, root, field_index, field_slugs, show_date=it.issue_date) }}
+{% endfor %}
+</section>
+{% else %}
+<p class="empty-note">这个方向还没上过日报。每天 8 点出新一期，有了会自动出现在这里。</p>
+{% endif %}
+{% endblock %}

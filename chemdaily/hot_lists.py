@@ -7,6 +7,7 @@ import re
 
 from .fetch_sources import NOT_RESEARCH
 from .llm import ask_json
+from .pick_and_write import FIELDS
 from .openalex import abstract_text, get, journal_scopes
 
 WINDOWS = [("1m", "近 1 个月", 30), ("3m", "近 3 个月", 90), ("12m", "近 1 年", 365)]
@@ -22,8 +23,9 @@ HOT_SYSTEM = """你在给一份中文化学日报写"热榜"。下面是某个�
 每篇写：
 - title_zh：中文标题，不超过 20 字，好懂、可以轻松一点，但别夸大
 - one_line：一句大白话，不超过 45 个汉字，说清楚它干了啥、为啥大家都在引用
+- field：从这 12 个方向里选最贴切的一个，原样照抄：""" + "、".join(FIELDS) + """
 事实只能来自给你的标题和摘要，别编数据。别用"家人们""绝绝子""不是……而是……"这种腔调。
-只输出 JSON：{"items": [{"i": 编号, "title_zh": "...", "one_line": "..."}]}"""
+只输出 JSON：{"items": [{"i": 编号, "title_zh": "...", "one_line": "...", "field": "..."}]}"""
 
 
 def _candidates(sources, days, today):
@@ -65,6 +67,8 @@ def _write(cands):
         if isinstance(i, int) and 0 <= i < len(cands) and i not in used and w.get("title_zh"):
             used.add(i)
             c = dict(cands[i], title_zh=w["title_zh"].strip(), one_line=(w.get("one_line") or "").strip())
+            if w.get("field") in FIELDS:
+                c["field"] = w["field"]
             c.pop("abstract", None)
             items.append(c)
     items.sort(key=lambda x: (x["cited"], x["tier"]), reverse=True)

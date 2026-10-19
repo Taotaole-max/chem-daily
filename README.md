@@ -16,6 +16,8 @@ GitHub Actions 每天 UTC 0 点（北京 8 点）运行 run_daily.py
   6. 存档   data/issues/日期.json（每期内容）、data/raw/日期.json.gz（当天全部条目）
   7. 热榜   每周一：chemdaily/hot_lists.py，OpenAlex 被引数，近 1/3/12 个月各 10 篇
   8. 趋势   每月一期：chemdaily/trends.py，主题发文占比同比升温，配曲线
+  9. 方向   日报和热榜按 12 个方向归档，每个方向一页（fields/）
+ 10. 搜索   search.html，纯前端：精选（日报 + 热榜，中文）+ 全部收录（每天抓到的全部条目，按月分片）
 ```
 
 ## 本地运行
@@ -34,3 +36,4 @@ echo LLM_API_KEY=你的key > .env
 - 网站名、统计代码：`config/site.yaml`
 - 选稿标准和写作口吻：`chemdaily/pick_and_write.py` 里的 `PICK_SYSTEM`、`WRITE_SYSTEM`
 - 样式：`static/style.css`
+- 搜索的中文→英文对照词：`static/search.js` 里的 `SYN`

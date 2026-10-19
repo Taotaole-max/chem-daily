@@ -10,13 +10,17 @@ on:
         description: "重新生成今天这期（覆盖）"
         type: boolean
         default: false
-      extras:
-        description: "同时强制刷新热榜和本月趋势"
+      hot:
+        description: "强制刷新热榜"
+        type: boolean
+        default: false
+      trends:
+        description: "强制重新生成本月趋势"
         type: boolean
         default: false
   push:
     branches: [main]
-    paths: ["templates/**", "static/**", "config/site.yaml"]
+    paths: ["templates/**", "static/**", "config/site.yaml", "chemdaily/build_site.py"]
 
 permissions:
   contents: write
@@ -50,7 +54,8 @@ jobs:
           fi
           ARGS=""
           [ "${{ inputs.force }}" = "true" ] && ARGS="$ARGS --force"
-          [ "${{ inputs.extras }}" = "true" ] && ARGS="$ARGS --hot --trends"
+          [ "${{ inputs.hot }}" = "true" ] && ARGS="$ARGS --hot"
+          [ "${{ inputs.trends }}" = "true" ] && ARGS="$ARGS --trends"
           python run_daily.py $ARGS
 
       - name: 把今天的数据提交回仓库
