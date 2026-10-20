@@ -1,0 +1,101 @@
+{
+ "title": "AI造酶+钙钛矿LED翻身",
+ "cover_title": "AI从头造出金属蛋白酶",
+ "cover_lines": [
+  "钙钛矿LED副反应被揪出",
+  "锡基液流电池四电子可逆",
+  "同位素拆开镜像分子"
+ ],
+ "body": "今天这几条，有两条是我在实验室边跑胶边刷到的，差点把胶跑过头。\n\n1️⃣ 用RFdiffusion这个扩散模型，从头设计蛋白质，把能激活水的锌活性位点精确摆在肽底物结合口袋旁边，直接得到高活性、可编程的蛋白酶。以后设计酶可能真像搭积木（Nature）。\n\n2️⃣ 钙钛矿前驱液里5-氨基戊酸添加剂的隐藏溶液化学被解析并控制住了，做出平均峰值光致发光量子产率接近 unity 的薄膜，近红外钙钛矿LED的外量子效率也跟着提升。那些年被副反应坑过的钙钛矿选手可以缓口气（Nature）。\n\n3️⃣ 锡基水系液流电池的Sn4+/Sn2+一直不可逆，这次用碘化物介导的中间络合物把可逆的Sn4+/Sn2+转化和四电子Sn4+/Sn0化学做出来了，负极电解液能量密度和长期运行都稳。四电子反应终于不摆烂（Nature Chemistry）。\n\n4️⃣ 一个钌基反应利用更强的碳-氘键，从外消旋混合物里富集出一种镜像异构体。同位素差异平时小到忽略不计，这回成了分离手性分子的把手，思路挺刁（C&EN）。\n\n你最近在折腾什么方向，评论区聊聊，我看看有没有同路人。",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "AI设计蛋白",
+  "钙钛矿LED",
+  "液流电池",
+  "手性分离",
+  "高分子回收"
+ ],
+ "id": "2026-10-20",
+ "kind": "daily",
+ "date": "2026-10-20",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月20日 周二",
+   "title": "AI从头造出金属蛋白酶",
+   "lines": [
+    "钙钛矿LED副反应被揪出",
+    "锡基液流电池四电子可逆",
+    "同位素拆开镜像分子"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11167-2/MediaObjects/41586_2026_11167_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11120-3/MediaObjects/41586_2026_11120_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02275-7/MediaObjects/41557_2026_2275_Figa_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "计算化学与AI",
+   "title": "AI从头设计金属蛋白酶，能水解能编程",
+   "text": "用RFdiffusion（一种扩散模型）从头设计蛋白质，把能激活水的锌活性位点摆在肽底物结合口袋旁边，得到高活性、可编程的蛋白酶。这类酶在治疗、生物技术和生物修复方面有潜在应用。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Computational design of metalloproteases",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11167-2/MediaObjects/41586_2026_11167_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "材料化学",
+   "title": "钙钛矿LED的隐藏副反应被揪出来了",
+   "text": "研究解析并控制了钙钛矿前驱液中5-氨基戊酸添加剂的隐藏溶液化学，做出平均峰值光致发光量子产率接近 unity 的薄膜，近红外钙钛矿LED的外量子效率也得到提升。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Hidden reaction pathways inform additive engineering for perovskite LEDs",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11120-3/MediaObjects/41586_2026_11120_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "锡基液流电池：四电子反应终于可逆了",
+   "text": "锡基水系液流电池因潜在四电子反应而有高容量负极，但Sn4+/Sn2+电化学不可逆一直卡脖子。研究用碘化物介导的中间络合物实现了可逆的Sn4+/Sn2+转化和四电子Sn4+/Sn0化学，获得高负极电解液能量密度和稳定长期运行。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Reversible Sn 4+ /Sn 0 anode for high-energy-density flow batteries",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02275-7/MediaObjects/41557_2026_2275_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "分析化学",
+   "title": "仅靠同位素区分镜像分子，化学家做到了",
+   "text": "一个钌基反应利用更强的碳-氘键，从外消旋混合物中富集出一种镜像异构体。同位素差异小到平时容易被忽略，这次却成了分离手性分子的把手。",
+   "source": "C&EN",
+   "kind": "news",
+   "title_en": "Chemists separate mirror-image molecules distinguished only by isotopes",
+   "image": "https://s7d1.scene7.com/is/image/CENODS/News--method-resolves-H-D-isotopic-chirality---653500:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "亚克力玻璃无溶剂回收，纯原料直接回炉",
+   "text": "亚克力玻璃（有机玻璃）从窗板、车尾灯到家具到处都有，却常被当垃圾扔掉。一种更简单的回收工艺无需溶剂，就能从中回收纯净原料。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Simpler recycling process recovers pure raw materials from acrylic glass without solvents",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/acrylic-glass.jpg"
+  }
+ ]
+}

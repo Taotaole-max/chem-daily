@@ -1,0 +1,195 @@
+{
+ "lead": "AI造酶、缺陷强化、废塑料变宝，今天化学界忙着点新技能树。",
+ "items": [
+  {
+   "title_zh": "AI从头设计金属蛋白酶，能水解能编程",
+   "blurb": "用RFdiffusion（一种扩散模型）从头设计蛋白质，把能激活水的锌活性位点摆在肽底物结合口袋旁边，得到高活性、可编程的蛋白酶。这类酶在治疗、生物技术和生物修复方面有潜在应用。",
+   "tags": [
+    "蛋白质设计",
+    "金属酶",
+    "AI"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Computational design of metalloproteases",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11167-2",
+   "doi": "10.1038/s41586-026-11167-2",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11167-2/MediaObjects/41586_2026_11167_Fig1_HTML.png",
+   "authors": "Anqi Chen, Kejia Wu, Hojae Choi, Preetham Venkatesh, Samuel J. Pellock, Nikita Hanikel, Hojeong shin, Declan Evans, Kieran Didi, Lars L. Schaaf, Cristina Díaz-Perlas, Brian Coventry, Donghyo Kim, Seth",
+   "id": "10.1038/s41586-026-11167-2"
+  },
+  {
+   "title_zh": "先变形再时效，缺陷也能当钢筋用",
+   "blurb": "晶体缺陷通常被视为变形的结果，但也可以被设计成强化结构。研究在钴镍基单晶高温合金和钴铬钨多晶合金中，通过预变形加时效造出致密的有序缺陷相网络，室温强度提升超过200兆帕，高温合金最小蠕变速率降低三倍以上。",
+   "tags": [
+    "合金强化",
+    "缺陷工程",
+    "材料"
+   ],
+   "field": "材料化学",
+   "title_en": "Engineering ordered two-dimensional defect phases to strengthen structural alloys",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aeh1409?af=R",
+   "doi": "10.1126/science.aeh1409",
+   "image": null,
+   "authors": "Andreas Bezold, Manuel Köbrich, Jan Vollhüter, Longsheng Feng, Lukas Amon, Nicolas Karpstein, Yunzhi Wang, Erdmann Spiecker, Mathias Göken, Michael J. Mills, Steffen Neumeier",
+   "id": "10.1126/science.aeh1409"
+  },
+  {
+   "title_zh": "钙钛矿LED的隐藏副反应被揪出来了",
+   "blurb": "研究解析并控制了钙钛矿前驱液中5-氨基戊酸添加剂的隐藏溶液化学，做出平均峰值光致发光量子产率接近 unity 的薄膜，近红外钙钛矿LED的外量子效率也得到提升。",
+   "tags": [
+    "钙钛矿",
+    "LED",
+    "添加剂工程"
+   ],
+   "field": "材料化学",
+   "title_en": "Hidden reaction pathways inform additive engineering for perovskite LEDs",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11120-3",
+   "doi": "10.1038/s41586-026-11120-3",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11120-3/MediaObjects/41586_2026_11120_Fig1_HTML.png",
+   "authors": "Sung-Doo Baek, Yu-Ting Yang, Pengfei Wu, Hanjun Yang, Mohammad Ali, Hui Taou Kok, Xiyu Luo, Wenhao Shao, Hyuntae Choi, Jeong Hui Kim, L. Jay Guo, Libai Huang, Barry P. Rand, Letian Dou",
+   "id": "10.1038/s41586-026-11120-3"
+  },
+  {
+   "title_zh": "可降解无金属分子磁体，体内监测器官",
+   "blurb": "报道了一种可生物降解、不含金属的分子磁体，用于无线深组织传感。它能在体内连续监测心脏并追踪可注射器官，之后材料安全降解。",
+   "tags": [
+    "分子磁体",
+    "生物可降解",
+    "无线传感"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Bioresorbable metal-free molecular magnets enable untethered organ monitoring",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02759-4",
+   "doi": "10.1038/s41563-026-02759-4",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02759-4/MediaObjects/41563_2026_2759_Fig1_HTML.png",
+   "authors": "Yizhang Wu, Zhang Yue, Sicheng Xing, Dingyi Yang, Jie Wang, Yihan Liu, Harrison Cohen, Lucy Liu, Qizhang Jiao, Zifeng Li, Hanad Ali, Chaya Perera, Torsten Peter Vahl, Lauren Sharan Ranard, Zhibo Zhang",
+   "id": "10.1038/s41563-026-02759-4"
+  },
+  {
+   "title_zh": "铜纳米簇催炔烃半加氢，告别贵金属",
+   "blurb": "一个原子精确、配体保护的Cu49纳米簇能在室温下高效催化炔烃半加氢。其表面配位结构通过位阻效应控制底物吸附，兼顾炔烃活化和高选择性，摆脱了对金、钯等贵金属的依赖。",
+   "tags": [
+    "铜纳米簇",
+    "半加氢",
+    "催化"
+   ],
+   "field": "催化",
+   "title_en": "Ligand-protected copper nanoclusters enable room-temperature semihydrogenation of terminal alkynes",
+   "source": "Chem",
+   "kind": "paper",
+   "link": "https://www.cell.com/chem/fulltext/S2451-9294(26)00363-3?rss=yes",
+   "doi": "10.1016/j.chempr.2026.103297",
+   "image": null,
+   "authors": "Rong Huo, Qingyuan Wu, Xiaojiao Yang, Qingxiang Guo, Huifang Guo, Ayisha He, Simin Li, Jianyu Wei, Hui Shen, Nanfeng Zheng",
+   "id": "10.1016/j.chempr.2026.103297"
+  },
+  {
+   "title_zh": "锡基液流电池：四电子反应终于可逆了",
+   "blurb": "锡基水系液流电池因潜在四电子反应而有高容量负极，但Sn4+/Sn2+电化学不可逆一直卡脖子。研究用碘化物介导的中间络合物实现了可逆的Sn4+/Sn2+转化和四电子Sn4+/Sn0化学，获得高负极电解液能量密度和稳定长期运行。",
+   "tags": [
+    "液流电池",
+    "锡负极",
+    "电化学"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Reversible Sn 4+ /Sn 0 anode for high-energy-density flow batteries",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02275-7",
+   "doi": "10.1038/s41557-026-02275-7",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02275-7/MediaObjects/41557_2026_2275_Figa_HTML.png",
+   "authors": "Yue Ao, Xiaoxiao Wang, Chengji Zhao, Yanyan Zhang, Zhangquan Peng, Fuyi Wang, Shengli Chen, Congxin Xie, Xianfeng Li",
+   "id": "10.1038/s41557-026-02275-7"
+  },
+  {
+   "title_zh": "一锅法把废聚酯变成二羧酸",
+   "blurb": "聚酯废料是宝贵的碳资源，但传统升级回收步骤多。这项工作建立串联催化方法，把解聚和选择性升级回收整合在一个过程中，将多种商业聚酯和混合废物流选择性转化为有价值的二羧酸。",
+   "tags": [
+    "聚酯升级回收",
+    "串联催化",
+    "绿色化学"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Selective upcycling of polyesters to dicarboxylic acids via tandem depolymerization-dehydrogenative oxidation",
+   "source": "Chem",
+   "kind": "paper",
+   "link": "https://www.cell.com/chem/fulltext/S2451-9294(26)00362-1?rss=yes",
+   "doi": "10.1016/j.chempr.2026.103296",
+   "image": null,
+   "authors": "Shun Zhang, Qingqing Zhang, Xiangxi Lou, Jian Tang, Muhan Cao, Qiao Zhang, Shimei Xu, Yu-Zhong Wang, Jinxing Chen",
+   "id": "10.1016/j.chempr.2026.103296"
+  },
+  {
+   "title_zh": "Au4纳米簇靠立体预组织拧成三螺旋",
+   "blurb": "把局部立体化学信息翻译成高级螺旋结构是材料设计的难题。研究表明，立体化学预组织的Au4纳米簇通过定向亲金相互作用组装成同手性三螺旋，为手性纳米簇材料提供了设计策略，并放大了手性光学响应。",
+   "tags": [
+    "金纳米簇",
+    "三螺旋",
+    "手性"
+   ],
+   "field": "无机与配位",
+   "title_en": "Stereochemical preorganization directs triple-helical assembly of Au 4 nanoclusters",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02271-x",
+   "doi": "10.1038/s41557-026-02271-x",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02271-x/MediaObjects/41557_2026_2271_Figa_HTML.png",
+   "authors": "Baojia Yang, Hailong Chen, Jincheng Zhang, Lang Qu, Bao Zhang, Minghui Xu, Yi Wang, Peng Cao, Bi-Qin Wang, Ke-Qing Zhao, Haifeng Xiang, Zhen Han, Zi-Yi Chen, Jintong Song, Shuang-Quan Zang",
+   "id": "10.1038/s41557-026-02271-x"
+  },
+  {
+   "title_zh": "仅靠同位素区分镜像分子，化学家做到了",
+   "blurb": "一个钌基反应利用更强的碳-氘键，从外消旋混合物中富集出一种镜像异构体。同位素差异小到平时容易被忽略，这次却成了分离手性分子的把手。",
+   "tags": [
+    "同位素效应",
+    "手性分离",
+    "钌催化"
+   ],
+   "field": "分析化学",
+   "title_en": "Chemists separate mirror-image molecules distinguished only by isotopes",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/analytical-chemistry/separations/isotope-chirality-hydrogen-deuterium-catalyst/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/News--method-resolves-H-D-isotopic-chirality---653500:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Anirban Mukhopadhyay, special to C&EN",
+   "id": "https://cen.acs.org/analytical-chemistry/separations/isotope-chirality-hydrogen-deuterium-catalyst/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "亚克力玻璃无溶剂回收，纯原料直接回炉",
+   "blurb": "亚克力玻璃（有机玻璃）从窗板、车尾灯到家具到处都有，却常被当垃圾扔掉。一种更简单的回收工艺无需溶剂，就能从中回收纯净原料。",
+   "tags": [
+    "高分子回收",
+    "亚克力",
+    "无溶剂"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Simpler recycling process recovers pure raw materials from acrylic glass without solvents",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-simpler-recycling-recovers-pure-raw.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/acrylic-glass.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-simpler-recycling-recovers-pure-raw.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "钻石和铅笔芯是亲戚",
+  "text": "钻石和石墨都由碳元素组成，只是原子排列方式不同。石墨中碳原子呈层状排列，层间容易滑动，所以软；钻石中每个碳原子与四个邻居形成三维网络，所以硬。"
+ },
+ "stats": {
+  "fetched": 2256,
+  "candidates": 90
+ },
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20T11:54:19+08:00"
+}
