@@ -1,0 +1,102 @@
+{
+ "title": "化学圈今天有点东西",
+ "cover_title": "IL-10激动剂学会挑细胞",
+ "cover_lines": [
+  "只抑制髓系，不碰T细胞",
+  "全固态电池横跨115度",
+  "AI把晶体结构当菜单点"
+ ],
+ "body": "今天这几条，从免疫到电池再到AI找材料，化学圈是真的没闲着。\n\n1️⃣ 工程化TYK2依赖的IL-10受体激动剂，用四价纳米抗体做到了髓系选择性，能抑制单核细胞、巨噬细胞和树突状细胞，同时不刺激T细胞。选择性更好，副作用可能更少。（Nature）\n\n2️⃣ 双相卤化物电解质把纳米晶LiAlCl4嵌进非晶Li-M-O-Cl基质，非晶网络负责低能垒锂离子传输，晶态域抑制高压氧化。4.8V全固态电池在-60到55°C工作，100次循环后容量保持90.5%。（Angewandte Chemie）\n\n3️⃣ 水氧化催化剂怕溶解？把水冷到近冰点，选择性抑制二氧化锰溶解，催化剂寿命延长，还观察到反常的亚零度动力学。温度对催化路径的影响比想象中微妙。（Nature Chemistry）\n\n4️⃣ 用可重复使用的苯并咪唑基氢键催化剂，快速可规模化制备高结晶度、高孔隙率的共价有机框架，适用于酰亚胺、亚胺、腙和sp2碳连接COF。条件温和了，路子更宽。（Nature Synthesis）\n\n你最近在做什么方向，有没有被哪条戳中？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "电化学",
+  "全固态电池",
+  "AI找材料",
+  "催化",
+  "有机合成",
+  "文献分享"
+ ],
+ "id": "2026-10-21",
+ "kind": "daily",
+ "date": "2026-10-21",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月21日 周三",
+   "title": "IL-10激动剂学会挑细胞",
+   "lines": [
+    "只抑制髓系，不碰T细胞",
+    "全固态电池横跨115度",
+    "AI把晶体结构当菜单点"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11176-1/MediaObjects/41586_2026_11176_Fig1_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/35de3959-ae66-4191-b392-7f6babac5955/anie74518-gra-0001-m.png",
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/giving-ai-a-crystal-cl.jpg"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "工程化TYK2依赖实现髓系选择性IL-10受体激动",
+   "text": "基于四价纳米抗体的髓系选择性IL-10受体激动剂，能重现IL-10对单核细胞、巨噬细胞和树突状细胞的强效抑制，同时避免刺激T细胞。选择性更好，副作用可能更少。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Engineered TYK2 dependence enables myeloid-selective IL-10 receptor agonism",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11176-1/MediaObjects/41586_2026_11176_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "双相卤化物电解质：让全固态电池从-60°C跑到55°C",
+   "text": "把纳米晶LiAlCl4嵌入非晶Li-M-O-Cl基质，构建双相共生卤化物固态电解质。非晶网络提供低能垒锂离子传输，晶态域抑制高压氧化，使4.8V全固态电池在-60到55°C工作，100次循环后容量保持90.5%。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "4.8 V and All‐Climate (−60 to 55°C) All‐Solid‐State Batteries Enabled by Dual‐Phase Symbiotic Halide Solid Electrolytes",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/35de3959-ae66-4191-b392-7f6babac5955/anie74518-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "计算化学与AI",
+   "title": "给AI一双“晶体眼”：把几何映射成文本",
+   "text": "科学家尝试将材料几何结构映射为文本，让大语言模型能像点菜一样根据需求推荐材料。AI找材料，听起来像科幻，但正在发生。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Giving AI a 'crystal clear' view of the materials world by mapping geometry to text",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/giving-ai-a-crystal-cl.jpg"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "水氧化催化剂：冷静一下更长寿",
+   "text": "研究者把水冷到近冰点，发现能选择性抑制二氧化锰（MnO2）溶解，从而延长水氧化催化剂的寿命，并观察到反常的亚零度动力学。温度对催化路径的影响原来这么微妙。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Cooling water to near freezing breaks the activity–stability trade-off of water oxidation electrocatalysis",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02274-8/MediaObjects/41557_2026_2274_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "有机合成",
+   "title": "氢键催化合成COF，告别强酸强碱",
+   "text": "用可重复使用的苯并咪唑基氢键催化剂，快速可规模化制备高结晶度、高孔隙率的共价有机框架（COF），适用于酰亚胺、亚胺、腙和sp2碳连接COF。条件温和了，路子更宽了。",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "title_en": "Synthesis of covalent organic frameworks through hydrogen-bonding catalysis",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01180-8/MediaObjects/44160_2026_1180_Figa_HTML.png"
+  }
+ ]
+}
