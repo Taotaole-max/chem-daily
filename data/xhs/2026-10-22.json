@@ -1,0 +1,101 @@
+{
+ "title": "酶埋塑料海里降解？今日化学圈",
+ "cover_title": "塑料里埋酶 海里也能降解",
+ "cover_lines": [
+  "酶嵌塑料，深海也降解",
+  "说人话就能设计蛋白质",
+  "3D打印长出一米单晶"
+ ],
+ "body": "今天这几条，有能下海的塑料，也有能听话的蛋白质，还有长得比人高的单晶。\n\n1️⃣ 把能切断酯键的酶嵌进可堆肥聚酯里，就算在微生物稀少的海域，塑料也能快速完全降解。从近海到深海都有效，有望帮上全球塑料污染治理的忙。（Nature）\n\n2️⃣ 一个160亿参数的人工智能模型Pinal，能用自然语言描述来设计功能蛋白质，实验验证了活性，还提高了固碳产物的产量，不用反复迭代优化。说人话就能设计蛋白质，这波有点科幻。（Nature）\n\n3️⃣ 一种3D打印方法能做出金属和合金单晶，形状复杂，长度可达一米，瞄准的是先进技术应用里需要的大尺寸单晶。以后是不是能打印个单晶样品台？（Nature）\n\n4️⃣ 把氢换成氘，分子就有了镜像形式，但两者太像，分离一直头疼。日本团队在《科学进展》上报道了一种催化方法，成功分离了等量混合物。氘代分子的左右手终于能分家了。（Science Advances）\n\n5️⃣ F2G和盐野义公司的olorofim在后期研究中达到目标，属于新一类抗真菌药，为今年向FDA提交申请铺了路。抗真菌新药三期成功，做药化的朋友可以留意一下。（C&EN）\n\n你最近在做什么方向，有没有被哪条戳到？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "塑料降解",
+  "AI设计蛋白质",
+  "3D打印",
+  "催化",
+  "抗真菌药"
+ ],
+ "id": "2026-10-22",
+ "kind": "daily",
+ "date": "2026-10-22",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月22日 周四",
+   "title": "塑料里埋酶 海里也能降解",
+   "lines": [
+    "酶嵌塑料，深海也降解",
+    "说人话就能设计蛋白质",
+    "3D打印长出一米单晶"
+   ],
+   "thumbs": [
+    "https://media.nature.com/lw1200/magazine-assets/d41586-026-03282-x/d41586-026-03282-x_53879620.jpg",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11205-z/MediaObjects/41586_2026_11205_Fig1_HTML.png",
+    "https://media.nature.com/lw1200/magazine-assets/d41586-026-03257-y/d41586-026-03257-y_53883112.jpg"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "给塑料埋点酶，海里也能降解",
+   "text": "把能切断酯键的酶嵌进可堆肥聚酯里，就算在微生物稀少的海域，塑料也能快速完全降解。从近海到深海都有效，有望帮上全球塑料污染治理的忙。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Plastics embedded with enzymes degrade readily in the sea",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03282-x/d41586-026-03282-x_53879620.jpg"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "计算化学与AI",
+   "title": "说人话就能设计蛋白质？AI模型来了",
+   "text": "一个160亿参数的人工智能模型Pinal，能用自然语言描述来设计功能蛋白质，实验验证了活性，还提高了固碳产物的产量，不用反复迭代优化。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Programmable design of functional proteins from natural language",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11205-z/MediaObjects/41586_2026_11205_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "材料化学",
+   "title": "3D打印逐层长出大块单晶",
+   "text": "一种3D打印方法能做出金属和合金单晶，形状复杂，长度可达一米，瞄准的是先进技术应用里需要的大尺寸单晶。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Large-scale single crystals printed layer by layer",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03257-y/d41586-026-03257-y_53883112.jpg"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "有机合成",
+   "title": "氘代分子左右手，催化分家有望了",
+   "text": "把氢换成氘，分子就有了镜像形式，但两者太像，分离一直头疼。日本团队在《科学进展》上报道了一种催化方法，成功分离了等量混合物。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Mirror-image molecules are difficult to separate from their counterparts, but a new catalytic method might be the answer",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mirror-image-molecules-2.jpg"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "新型抗真菌药三期临床成功",
+   "text": "F2G和盐野义公司的olorofim在后期研究中达到目标，属于新一类抗真菌药，为今年向FDA提交申请铺了路。",
+   "source": "C&EN",
+   "kind": "news",
+   "title_en": "First antifungal in new class succeeds in Phase 3 trial",
+   "image": "https://s7d1.scene7.com/is/image/CENODS/EMBARGO-1201AM-WED-10-21--Oral-antifungal-looks-promising-in-Ph3-trial---652349:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+  }
+ ]
+}

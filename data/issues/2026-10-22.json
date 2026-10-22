@@ -1,0 +1,195 @@
+{
+ "lead": "今日化学新闻：酶吃塑料、AI写蛋白，还有分子分左右手。",
+ "items": [
+  {
+   "title_zh": "给塑料埋点酶，海里也能降解",
+   "blurb": "把能切断酯键的酶嵌进可堆肥聚酯里，就算在微生物稀少的海域，塑料也能快速完全降解。从近海到深海都有效，有望帮上全球塑料污染治理的忙。",
+   "tags": [
+    "塑料降解",
+    "酶",
+    "海洋环境"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Plastics embedded with enzymes degrade readily in the sea",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/d41586-026-03282-x",
+   "doi": "10.1038/d41586-026-03282-x",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03282-x/d41586-026-03282-x_53879620.jpg",
+   "authors": "",
+   "id": "10.1038/d41586-026-03282-x"
+  },
+  {
+   "title_zh": "说人话就能设计蛋白质？AI模型来了",
+   "blurb": "一个160亿参数的人工智能模型Pinal，能用自然语言描述来设计功能蛋白质，实验验证了活性，还提高了固碳产物的产量，不用反复迭代优化。",
+   "tags": [
+    "蛋白质设计",
+    "人工智能",
+    "固碳"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Programmable design of functional proteins from natural language",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11205-z",
+   "doi": "10.1038/s41586-026-11205-z",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11205-z/MediaObjects/41586_2026_11205_Fig1_HTML.png",
+   "authors": "Fengyuan Dai, Shiyang You, Yudian Zhu, Yuan Gao, Lihao Fu, Xibin Zhou, Jin Su, Chentong Wang, Yuliang Fan, Qingsong Tan, Xiaoxiao Ma, Xianjun Deng, Letong Yu, Hui Qian, Yan He, Yitao Ke, Zhe Zhang, Ch",
+   "id": "10.1038/s41586-026-11205-z"
+  },
+  {
+   "title_zh": "从头设计手性人工金属酶光催化剂",
+   "blurb": "研究者从头设计了具有对映选择性的人工金属酶光催化剂，摘要里就这一句话，细节没多讲，但手性光催化加酶工程，听着就有点东西。",
+   "tags": [
+    "人工金属酶",
+    "光催化",
+    "对映选择性"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "De novo design of enantioselective artificial metalloenzyme photocatalysts",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11317-6",
+   "doi": "10.1038/s41586-026-11317-6",
+   "image": null,
+   "authors": "Sandip Mishra, Payal, Declan Evans, Kingsley Bortey, Husayn Bootwala, Giovanni Gonzalez-Gutierrez, Ricardo Javier Vázquez, David Baker, Jared C. Lewis",
+   "id": "10.1038/s41586-026-11317-6"
+  },
+  {
+   "title_zh": "沸石孔道调一调，烯烃羰基化更顺手",
+   "blurb": "用孔结构合适的沸石，配合高的一氧化碳与烯烃比例，催化烯烃羰基化，主要产物是一级和二级羧酸。孔道限域效应这回被拿来调反应了。",
+   "tags": [
+    "沸石催化",
+    "羰基化",
+    "限域效应"
+   ],
+   "field": "催化",
+   "title_en": "Zeolite-catalysed olefin carbonylation based on tuning spatial confinement",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11183-2",
+   "doi": "10.1038/s41586-026-11183-2",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11183-2/MediaObjects/41586_2026_11183_Fig1_HTML.png",
+   "authors": "Liang Qi, Yingying Sheng, Wenna Zhang, Youming Ni, Linhai He, Bin Li, Anjie Wang, Wenliang Zhu, Alexis T. Bell, Zhongmin Liu",
+   "id": "10.1038/s41586-026-11183-2"
+  },
+  {
+   "title_zh": "电解液帮硅负极补上界面保护",
+   "blurb": "硅负极能让锂离子电池能量密度更高，但在极端温度和充放电速率下可逆性成问题。新设计的液态电解液能保护界面、减少电极膨胀，还耐得住锂沉积。",
+   "tags": [
+    "硅负极",
+    "电解液",
+    "锂离子电池"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Electrolytes that mind bridging the gap",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02287-3",
+   "doi": "10.1038/s41557-026-02287-3",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02287-3/MediaObjects/41557_2026_2287_Fig1_HTML.png",
+   "authors": "Fokko M. Mulder",
+   "id": "10.1038/s41557-026-02287-3"
+  },
+  {
+   "title_zh": "3D打印逐层长出大块单晶",
+   "blurb": "一种3D打印方法能做出金属和合金单晶，形状复杂，长度可达一米，瞄准的是先进技术应用里需要的大尺寸单晶。",
+   "tags": [
+    "3D打印",
+    "单晶",
+    "金属材料"
+   ],
+   "field": "材料化学",
+   "title_en": "Large-scale single crystals printed layer by layer",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/d41586-026-03257-y",
+   "doi": "10.1038/d41586-026-03257-y",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03257-y/d41586-026-03257-y_53883112.jpg",
+   "authors": "Gregory S. Rohrer",
+   "id": "10.1038/d41586-026-03257-y"
+  },
+  {
+   "title_zh": "氘代分子左右手，催化分家有望了",
+   "blurb": "把氢换成氘，分子就有了镜像形式，但两者太像，分离一直头疼。日本团队在《科学进展》上报道了一种催化方法，成功分离了等量混合物。",
+   "tags": [
+    "手性分离",
+    "氘代",
+    "催化"
+   ],
+   "field": "有机合成",
+   "title_en": "Mirror-image molecules are difficult to separate from their counterparts, but a new catalytic method might be the answer",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-mirror-image-molecules-difficult-counterparts.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mirror-image-molecules-2.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-mirror-image-molecules-difficult-counterparts.html"
+  },
+  {
+   "title_zh": "铑塞进沸石，氢甲酰化也能多相",
+   "blurb": "把铑嵌入沸石骨架，得到多相、无毒、可回收的催化剂，用于氢甲酰化反应，看起来有应用前景。",
+   "tags": [
+    "铑催化",
+    "沸石",
+    "氢甲酰化"
+   ],
+   "field": "催化",
+   "title_en": "Rhodium embedded in a zeolite framework catalyzes hydroformylation",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/synthesis/catalysis/rhodium-ions-within-zeolite-heterogeneous-nontoxic-hydroformylation-catalyst/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Rhodium-ions-within-a-zeolite-catalyze-hydroformylation---646651:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Sydney Smith",
+   "id": "https://cen.acs.org/synthesis/catalysis/rhodium-ions-within-zeolite-heterogeneous-nontoxic-hydroformylation-catalyst/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "新型抗真菌药三期临床成功",
+   "blurb": "F2G和盐野义公司的olorofim在后期研究中达到目标，属于新一类抗真菌药，为今年向FDA提交申请铺了路。",
+   "tags": [
+    "抗真菌药",
+    "临床试验",
+    "药物研发"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "First antifungal in new class succeeds in Phase 3 trial",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/pharmaceuticals/drug-development/antifungal-new-class-f2g-shionogi-olorofim-trial-fda/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/EMBARGO-1201AM-WED-10-21--Oral-antifungal-looks-promising-in-Ph3-trial---652349:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Rowan Walrath",
+   "id": "https://cen.acs.org/pharmaceuticals/drug-development/antifungal-new-class-f2g-shionogi-olorofim-trial-fda/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "STEM博士论文里AI使用率到了29%",
+   "blurb": "一项研究发现，STEM博士论文中AI使用率达到29%。AI能帮写论文提速，但研究者担心过度依赖会影响学生科学专长的发展。",
+   "tags": [
+    "人工智能",
+    "博士教育",
+    "科研写作"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "AI use in STEM PhD dissertations reaches 29%, study finds",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/education/graduate-education/generative-ai-use-phd-dissertations/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/AI-use-in-PhD-dissertations---643065:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Krystal Vasquez",
+   "id": "https://cen.acs.org/education/graduate-education/generative-ai-use-phd-dissertations/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "石墨和钻石是亲兄弟",
+  "text": "石墨和钻石都由碳组成，只是原子排列方式不同。钻石里每个碳原子与四个碳原子形成四面体结构，石墨则是六边形层状结构，所以一个硬一个软。"
+ },
+ "stats": {
+  "fetched": 2324,
+  "candidates": 90
+ },
+ "date": "2026-10-22",
+ "generated_at": "2026-10-22T11:43:46+08:00"
+}
