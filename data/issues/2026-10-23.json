@@ -1,0 +1,195 @@
+{
+ "lead": "深海塑料有救、甲烷变甲胺、还有会打结的COF——今天化学挺热闹。",
+ "items": [
+  {
+   "title_zh": "给塑料埋点酶，深海也能啃",
+   "blurb": "把酶热嵌入可堆肥聚酯里，在深海环境中实现了接近完全的降解，同时材料性能不打折。这招要是能推广，海洋塑料污染或许不用再靠几百年慢慢等。",
+   "tags": [
+    "可降解塑料",
+    "深海",
+    "酶嵌入"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Enzyme-embedded polyesters for accelerated biodegradation in the deep sea",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11192-1",
+   "doi": "10.1038/s41586-026-11192-1",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11192-1/MediaObjects/41586_2026_11192_Fig1_HTML.png",
+   "authors": "QiuYuan Huang, Noriko Iida, Noriyuki Isobe, Taizo Kabe, Taku Omura, Manikandan Ilangovan, Satoshi Kimura, Jin Ho Seok, Hidetaka Nomaki, Ken-ichi Kasuya, Tadahisa Iwata",
+   "id": "10.1038/s41586-026-11192-1"
+  },
+  {
+   "title_zh": "3D打印出米级单晶，还是难熔金属",
+   "blurb": "用交替脉冲热输入的自由成形增材制造，做出了米级高、厘米级直径的Ti-6Al-4V单晶，连W、Mo、Nb这些难加工耐火金属也能搞定。单晶长得像打印件，这画面有点科幻。",
+   "tags": [
+    "增材制造",
+    "单晶",
+    "难熔金属"
+   ],
+   "field": "材料化学",
+   "title_en": "Additive manufacturing of ultralong and architected single crystals",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11185-0",
+   "doi": "10.1038/s41586-026-11185-0",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11185-0/MediaObjects/41586_2026_11185_Fig1_HTML.png",
+   "authors": "Changmeng Liu, Yinan Cui, Jiachen Wang, Xiao Han, Zhongao Ji, Zhun Liang, Chongle Zhang, Jaime Marian, Zixiang Li, Tao Lu, Tianqiu Xu, Jinyu Zhang, Wei Cui, Wei Liu, Daining Fang, Y. Morris Wang",
+   "id": "10.1038/s41586-026-11185-0"
+  },
+  {
+   "title_zh": "甲烷变甲胺，自由基和电化学握手",
+   "blurb": "等离子体在气-电极界面产生短寿命甲基自由基，电化学界面把氨转成表面氨基中间体，两者在镍钴层状双氢氧化物上耦合，10 mA cm–2下甲胺法拉第效率54%。甲烷选择性胺化又近了一步。",
+   "tags": [
+    "甲烷活化",
+    "电催化",
+    "自由基耦合"
+   ],
+   "field": "催化",
+   "title_en": "Radical–Electrochemical Coupling Enables Amination of Methane",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c15827",
+   "doi": "10.1021/jacs.6c15827",
+   "image": null,
+   "authors": "Qiang Song, Chengyi Zhang, Wanping Xu, Jungmi Hong, Xun Geng, Ziyun Wang",
+   "id": "10.1021/jacs.6c15827"
+  },
+  {
+   "title_zh": "水油界面也能把角鲨烯变成固醇",
+   "blurb": "水微液滴接触不相溶有机溶剂时，界面电场产生活性氧，先把角鲨烯环氧化，再引发酸催化开环和阳离子多烯环化，最终得到羊毛固醇。生命起源前，固醇可能就这么来的。",
+   "tags": [
+    "水-有机界面",
+    "固醇合成",
+    "微液滴"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Water–Organic Interfaces Drive Molecular Evolution from Squalene to Steroids",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16394",
+   "doi": "10.1021/jacs.6c16394",
+   "image": null,
+   "authors": "Lecheng Lyu, Jinheng Xu, Naixin Qian, Bo Zhang, Wei Min, Xiaowei Song",
+   "id": "10.1021/jacs.6c16394"
+  },
+  {
+   "title_zh": "铂原子撒得又密又稳，靠配位网",
+   "blurb": "在金属有机框架里让每个Ce-oxo簇配位一个Pt原子，煅烧后得到14.9 wt%原子分散铂的氧化铈。晶格限域抑制了迁移和烧结，苛刻还原条件下也能扛住。",
+   "tags": [
+    "单原子催化",
+    "金属有机框架",
+    "抗烧结"
+   ],
+   "field": "催化",
+   "title_en": "Durable, highly loaded atomically dispersed catalysts via a reticular coordination strategy",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44160-026-01204-3",
+   "doi": "10.1038/s44160-026-01204-3",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01204-3/MediaObjects/44160_2026_1204_Figa_HTML.png",
+   "authors": "Yoon Jung, Jaeho Moon, Jaehyuk Shim, Sein Hwang, Seong-Uk Bang, Sungeun Heo, Hyunsoo Ahn, Seungwoo Yoo, Dongho Shin, Sung Eun Chun, Megalamane S. Bootharaju, Jaeyune Ryu, Do Heui Kim, Sung-Pyo Cho, Yu",
+   "id": "10.1038/s44160-026-01204-3"
+  },
+  {
+   "title_zh": "张力一拉，二氧化碳变可回收聚酯",
+   "blurb": "利用环状烃的高环张力，让它们和二氧化碳交替共聚，得到可闭环回收的聚酯。二氧化碳从废气变成聚合物原料，还顺便解决了塑料回收难题。",
+   "tags": [
+    "二氧化碳共聚",
+    "聚酯",
+    "闭环回收"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Strain turns carbon dioxide into circular polyesters",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02777-2",
+   "doi": "10.1038/s41563-026-02777-2",
+   "image": null,
+   "authors": "Kyoko Nozaki",
+   "id": "10.1038/s41563-026-02777-2"
+  },
+  {
+   "title_zh": "双向氢键桥，钙钛矿效率冲到27.5%",
+   "blurb": "TFSM在钙钛矿/C60界面搭了双向氢键桥，改善电荷转移、降低能量损失，反式钙钛矿电池效率达到27.49%，柔性组件也有17.5%。界面工程又立功了。",
+   "tags": [
+    "钙钛矿太阳能电池",
+    "界面工程",
+    "氢键"
+   ],
+   "field": "材料化学",
+   "title_en": "Molecular bidirectional hydrogen-bonding bridge interface enables the fabrication of 27.5% efficient inverted perovskite solar cells and 17.5% flexible modules",
+   "source": "Energy Environ. Sci.",
+   "kind": "paper",
+   "link": "https://doi.org/10.1039/d6ee05079d",
+   "doi": "10.1039/d6ee05079d",
+   "image": null,
+   "authors": "Zuolin Zhang, Tengfei Liu, Chao Li, Jike Ding, Jiajia Zhang, Mengjia Li",
+   "id": "10.1039/d6ee05079d"
+  },
+  {
+   "title_zh": "莫比乌斯芳香环，编成三维COF打结",
+   "blurb": "合成了八字形莫比乌斯芳香六噻吩大环HTE，并组装成三维共价有机框架NUST-67。芳香性调控让H2O2还原电催化在100–400 mA cm–2下法拉第效率超过88%，比反芳香性的对照样强不少。",
+   "tags": [
+    "莫比乌斯芳香性",
+    "共价有机框架",
+    "电催化"
+   ],
+   "field": "有机合成",
+   "title_en": "Möbius Aromatic Figure-Eight Knotted Three-Dimensional Covalent Organic Frameworks",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17010",
+   "doi": "10.1021/jacs.6c17010",
+   "image": null,
+   "authors": "Bocong Li, Baokai Xia, Miaomiao Wu, Zhen Shan, Pengcheng Bao, Zhenghe Gong",
+   "id": "10.1021/jacs.6c17010"
+  },
+  {
+   "title_zh": "光激活催化剂，过氧化氢生产更绿",
+   "blurb": "研究人员精确控制氮化碳中离子的空间排列，做出光催化剂，效率是传统绿色生产方法的三倍。过氧化氢的工业合成一直很耗能，这条路看起来有戏。",
+   "tags": [
+    "光催化",
+    "过氧化氢",
+    "氮化碳"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-the-sustainable.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html"
+  },
+  {
+   "title_zh": "AI自己动手找钯催化剂",
+   "blurb": "Lila Sciences用自动化实验室测试AI发现氢催化剂的能力，找到了有前景的钯材料，但离商用还远。AI做化学，先别急着吹，能跑通流程就是进步。",
+   "tags": [
+    "AI化学",
+    "自动化实验室",
+    "钯催化剂"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Lila Sciences tests AI‘s ability to find hydrogen catalysts",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/business/start-ups/lila-ai-hydrogen-catalyst-electrolyzer/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Lila-Sciences-tests-AI-s-ability-to-find-hydrogen-catalysts---655501:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Sascha Brodsky, special to C&EN",
+   "id": "https://cen.acs.org/business/start-ups/lila-ai-hydrogen-catalyst-electrolyzer/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "苯的凯库勒梦",
+  "text": "1865年凯库勒提出苯的环状结构，传说灵感来自梦见蛇咬自己尾巴。不管真假，这个六元环成了有机化学最经典的符号之一。"
+ },
+ "stats": {
+  "fetched": 2218,
+  "candidates": 90
+ },
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T11:48:20+08:00"
+}

@@ -1,0 +1,102 @@
+{
+ "title": "给塑料埋酶，深海也能啃 🧪",
+ "cover_title": "塑料里埋酶，深海也能降解",
+ "cover_lines": [
+  "深海塑料有救了",
+  "米级单晶像打印件",
+  "光催化产双氧水提速"
+ ],
+ "body": "今天这几条，从深海到打印车间，化学圈的手伸得有点远。\n\n1️⃣ 有人把酶热嵌入可堆肥聚酯里，在深海环境中实现了接近完全的降解，同时材料性能不打折。要是能推广，海洋塑料污染或许不用再等几百年。（Nature）\n\n2️⃣ 用交替脉冲热输入的自由成形增材制造，做出了米级高、厘米级直径的Ti-6Al-4V单晶，连W、Mo、Nb这些难加工的耐火金属也能搞定。单晶长得像打印件，这画面有点科幻。（Nature）\n\n3️⃣ 在金属有机框架里让每个Ce-oxo簇配位一个Pt原子，煅烧后得到14.9 wt%原子分散铂的氧化铈。晶格限域抑制了迁移和烧结，苛刻还原条件下也能扛住。（Nature Synthesis）\n\n4️⃣ 合成了八字形莫比乌斯芳香六噻吩大环HTE，并组装成三维共价有机框架NUST-67。芳香性调控让H2O2还原电催化在100–400 mA cm–2下法拉第效率超过88%，比反芳香性的对照样强不少。（JACS）\n\n你最近在做什么方向，评论区聊聊。",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "高分子",
+  "催化",
+  "增材制造",
+  "光催化",
+  "共价有机框架",
+  "Nature"
+ ],
+ "id": "2026-10-23",
+ "kind": "daily",
+ "date": "2026-10-23",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月23日 周五",
+   "title": "塑料里埋酶，深海也能降解",
+   "lines": [
+    "深海塑料有救了",
+    "米级单晶像打印件",
+    "光催化产双氧水提速"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11192-1/MediaObjects/41586_2026_11192_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11185-0/MediaObjects/41586_2026_11185_Fig1_HTML.png",
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/making-the-sustainable.jpg"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "给塑料埋点酶，深海也能啃",
+   "text": "把酶热嵌入可堆肥聚酯里，在深海环境中实现了接近完全的降解，同时材料性能不打折。这招要是能推广，海洋塑料污染或许不用再靠几百年慢慢等。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Enzyme-embedded polyesters for accelerated biodegradation in the deep sea",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11192-1/MediaObjects/41586_2026_11192_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "材料化学",
+   "title": "3D打印出米级单晶，还是难熔金属",
+   "text": "用交替脉冲热输入的自由成形增材制造，做出了米级高、厘米级直径的Ti-6Al-4V单晶，连W、Mo、Nb这些难加工耐火金属也能搞定。单晶长得像打印件，这画面有点科幻。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Additive manufacturing of ultralong and architected single crystals",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11185-0/MediaObjects/41586_2026_11185_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "光激活催化剂，过氧化氢生产更绿",
+   "text": "研究人员精确控制氮化碳中离子的空间排列，做出光催化剂，效率是传统绿色生产方法的三倍。过氧化氢的工业合成一直很耗能，这条路看起来有戏。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-the-sustainable.jpg"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "催化",
+   "title": "铂原子撒得又密又稳，靠配位网",
+   "text": "在金属有机框架里让每个Ce-oxo簇配位一个Pt原子，煅烧后得到14.9 wt%原子分散铂的氧化铈。晶格限域抑制了迁移和烧结，苛刻还原条件下也能扛住。",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "title_en": "Durable, highly loaded atomically dispersed catalysts via a reticular coordination strategy",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01204-3/MediaObjects/44160_2026_1204_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "有机合成",
+   "title": "莫比乌斯芳香环，编成三维COF打结",
+   "text": "合成了八字形莫比乌斯芳香六噻吩大环HTE，并组装成三维共价有机框架NUST-67。芳香性调控让H2O2还原电催化在100–400 mA cm–2下法拉第效率超过88%，比反芳香性的对照样强不少。",
+   "source": "JACS",
+   "kind": "paper",
+   "title_en": "Möbius Aromatic Figure-Eight Knotted Three-Dimensional Covalent Organic Frameworks",
+   "image": ""
+  }
+ ]
+}
