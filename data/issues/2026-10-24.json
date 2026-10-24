@@ -1,0 +1,195 @@
+{
+ "lead": "今日份化学：降糖不用药、塑料变催化、星号氢化铯，还有微塑料可能不安分。",
+ "items": [
+  {
+   "title_zh": "无线小电片：血糖变葡萄糖酸",
+   "blurb": "研究者做了一个可植入的无线 electrocatalytic 闭环器件，用铂修饰金纳米簇在石墨毡上把血糖选择性氧化成经肾排出的葡萄糖酸。在 2 型糖尿病小鼠里，低功率激活（0.75 伏、10 毫安）1 小时内恢复血糖稳态，还减重、降甘油三酯，6 周内没检测到低血糖或明显不良反应。接上商用连续血糖监测后，手机就能控，全程不用药。",
+   "tags": [
+    "糖尿病",
+    "电催化",
+    "植入器件"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Wireless electrocatalytic closed-loop system for drug-free management of diabesity",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.ady8560?af=R",
+   "doi": "10.1126/science.ady8560",
+   "image": null,
+   "authors": "Debasis Maity, Preetam Guha Ray, Peter Buchmann, Ghislaine Charpin-El Hamri, Martin Fussenegger",
+   "id": "10.1126/science.ady8560"
+  },
+  {
+   "title_zh": "AI 设计酶，成功率翻五到十倍",
+   "blurb": "Institute for Protein Design 和 NVIDIA 搞了个统一生成模型 RFD4-Proteina，直接生成全新的蛋白质序列和结构。计算设计成功率比之前模型高 5 到 10 倍，出候选的速度也快 5 到 10 倍。对药物合成里找酶这件事，相当于从手工淘金换成了开挖掘机。",
+   "tags": [
+    "蛋白质设计",
+    "AI",
+    "酶催化"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Scientists demonstrate AI-designed enzyme for drug synthesis",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/manchester-scientists-5.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html"
+  },
+  {
+   "title_zh": "水在 CO₂ 电解里当交通协管",
+   "blurb": "高电流密度下 CO₂ 电解效率卡在界面过程上。这项工作用二维相关 operando 拉曼光谱加从头算分子动力学，在接近实际工况下看电极-电解液界面，发现水结构会影响 CO₂ 的可及性和产物选择性。简单说，界面上的水怎么排队，决定了反应往哪走。",
+   "tags": [
+    "CO₂电解",
+    "界面化学",
+    "拉曼光谱"
+   ],
+   "field": "催化",
+   "title_en": "Water regulates interface access and reactivity in CO 2 electrolysis",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01626-4",
+   "doi": "10.1038/s41929-026-01626-4",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01626-4/MediaObjects/41929_2026_1626_Fig1_HTML.png",
+   "authors": "",
+   "id": "10.1038/s41929-026-01626-4"
+  },
+  {
+   "title_zh": "锆(III)配合物也能当量子比特",
+   "blurb": "Zr(III) 配合物容易二聚或歧化，一直不好分离。这次用大位阻芳氧基配体在室温下把单核 Zr(III) 稳定住，还能对它的电子和电子-核跃迁做相干操控，当作分子 qudit 来用。对量子信息来说，又多了一个可玩的分子平台。",
+   "tags": [
+    "锆配合物",
+    "量子信息",
+    "配位化学"
+   ],
+   "field": "无机与配位",
+   "title_en": "Coherent manipulation of Zr(III) aryloxide qudits",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02269-5",
+   "doi": "10.1038/s41557-026-02269-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02269-5/MediaObjects/41557_2026_2269_Figa_HTML.png",
+   "authors": "Maggie E. Mahaney, Yuxiang Zhu, Samantha Renard, Alexander M. Brown, Adam Brookfield, Conrad A. P. Goodwin, Jerome R. Robinson, Floriana Tuna, Daniel N. Huh",
+   "id": "10.1038/s41557-026-02269-5"
+  },
+  {
+   "title_zh": "铯氢化物卷到 CsH₂₅",
+   "blurb": "高压高温金刚石压砧实验加密度泛函计算，在 46 GPa 下合成出 CsH₂₅，是目前氢含量最高的金属氢化物，里面是准分子 H₂ 组成的二十面体单元撑在 Cs⁺ 框架里。低压下还拿到 CsH₉，稳定压力低到 7.8 GPa，是已知超氢化物里最低的。铯这套氢化学比预想的复杂得多。",
+   "tags": [
+    "高压化学",
+    "金属氢化物",
+    "超氢化物"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Compositional and Structural Diversity in Cesium Superhydrides at High Pressure",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.8236450?af=R",
+   "doi": "10.1002/anie.8236450",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/7c27f272-a323-4036-89e5-b28eb45ae8c6/anie75132-gra-0001-m.png",
+   "authors": "Mikhail A. Kuzovnikov, \nFrancesco Belli, \nHannah A. Shuttleworth, \nTomas Marqueño, \nIsrael Osmond, \nMiriam Peña‐Alvarez, \nEva Zurek, \nRoss T. Howie",
+   "id": "10.1002/anie.8236450"
+  },
+  {
+   "title_zh": "胍基也能直接异戊烯基化",
+   "blurb": "游离胍基是共振稳定的阳离子，酶想直接修饰它很难。研究者找到蓝细菌酶 NosH，能直接把异戊烯基转移到游离胍上，结构分析显示是两个天冬氨酸像夹子一样激活胍基。顺着这个特征，在细菌和植物里找到一大类胍基异戊烯基转移酶，植物酶还能在体外和本氏烟草里产出 galegine 这类胍生物碱。",
+   "tags": [
+    "酶催化",
+    "天然产物",
+    "胍基"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Natural product biosynthesis by guanidine prenyltransferases in plants and bacteria",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aeg1821?af=R",
+   "doi": "10.1126/science.aeg1821",
+   "image": null,
+   "authors": "Dominik Kolling, Katharina Konzok, Daghan Taser, Tom Jentsch, Svenja Schwoerer, Henry Struwe, Arne Bültemeier, Jonas Freiberg, Claus-Peter Witte, Jakob Franke, Andriy Luzhetskyy, Andreas Kirschning, S",
+   "id": "10.1126/science.aeg1821"
+  },
+  {
+   "title_zh": "废 PET 变 MOF，顺手催化加氢",
+   "blurb": "在低温水相条件下把废 PET 塑料直接做成 MOF（UiO-66），里面限域了 PdNi 团簇。这个 PdcNi@UiO-66 催化苯乙炔半加氢，65 °C 下 TOF 最高 67470 h⁻¹，比商业 Lindlar 催化剂高近 20 倍。废塑料回收和催化凑一桌，还顺便把 Pd 用量压下来。",
+   "tags": [
+    "塑料回收",
+    "MOF",
+    "半加氢"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Low-Temperature Aqueous Upgrading of Waste PET Plastics into Metal–Organic Frameworks with Confined PdNi Clusters for High-Performance Semihydrogenation of Alkynes",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c13612",
+   "doi": "10.1021/jacs.6c13612",
+   "image": null,
+   "authors": "Jing Du, Caoyu Yang, Qianjin Guo, Yongli Ji, Shengzhe Jia, Zefei Dong",
+   "id": "10.1021/jacs.6c13612"
+  },
+  {
+   "title_zh": "无卤溶剂有机太阳能电池到 20.50%",
+   "blurb": "有机太阳能电池想规模化，得甩掉卤代溶剂。这里用无卤添加剂 DChB（1,4-二环己基苯）在无卤溶剂邻二甲苯里调控形貌， bulky 环己基当分子缓冲，抑制过度聚集和相分离。基于 D18:L8-BO 的二元器件拿到 20.50% 的效率，是个纪录。",
+   "tags": [
+    "有机太阳能电池",
+    "无卤溶剂",
+    "形貌调控"
+   ],
+   "field": "材料化学",
+   "title_en": "Halogen‐Free Solvent and Additive‐Processed Organic Solar Cells Achieving 20.50% Binary Efficiency",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74819?af=R",
+   "doi": "10.1002/adma.74819",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/43d239e8-1f37-48a8-8b9e-9936bbf0b91c/adma74819-gra-0001-m.png",
+   "authors": "Ziwei Zhang, \nJiawei Deng, \nXiaopeng Duan, \nQiyue Wang, \nBusheng Zhang, \nHaisheng Ma, \nJunjie Zhang, \nLixuan Kan, \nGuangkuo Dai, \nMin Hun Jee, \nHan Young Woo, \nFeng Liu, \nXian‐Kai Chen, \nXiaobo Sun, \n",
+   "id": "10.1002/adma.74819"
+  },
+  {
+   "title_zh": "微塑料可能没你想的那么懒",
+   "blurb": "C&EN 报道，微塑料颗粒表面在水中能产生活性氧物种。也就是说它未必化学惰性，表面可能参与反应。具体影响还得看后续工作，但这提醒我们，环境里的微塑料不只是物理颗粒。",
+   "tags": [
+    "微塑料",
+    "活性氧",
+    "环境化学"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Microplastics might not be as chemically inert as expected",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/biological-chemistry/toxicology/microplastics-surface-reactive-oxygen-species/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Microplastics-may-be-chemically-active-in-water---656800:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Ananya Palivela",
+   "id": "https://cen.acs.org/biological-chemistry/toxicology/microplastics-surface-reactive-oxygen-species/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "氨基酸变塑料，CO₂ 回炉再用",
+   "blurb": "C&EN 报道了一个新方法，把氨基酸转化成可持续聚合物，作为潜在塑料替代品。有意思的是，反应副产的二氧化碳被送回反应里继续用。具体性能摘要没展开，但路线本身把碳原子尽量留在产品里。",
+   "tags": [
+    "可持续聚合物",
+    "氨基酸",
+    "CO₂利用"
+   ],
+   "field": "化学工程",
+   "title_en": "New chemistry turns amino acids into sustainable polymers",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/materials/polymers/co2-neutral-amino-acid-polymers/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/650055-aapoly:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Victoria Corless, special to C&EN",
+   "id": "https://cen.acs.org/materials/polymers/co2-neutral-amino-acid-polymers/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "惰性气体不惰",
+  "text": "氦、氖、氩这些稀有气体曾被认为完全不反应，但 1962 年 Neil Bartlett 用 PtF₆ 氧化氙，做出了第一个稀有气体化合物 XePtF₆，教科书从此改写。"
+ },
+ "stats": {
+  "fetched": 2301,
+  "candidates": 90
+ },
+ "date": "2026-10-24",
+ "generated_at": "2026-10-24T11:42:48+08:00"
+}

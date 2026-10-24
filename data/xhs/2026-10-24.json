@@ -1,0 +1,100 @@
+{
+ "title": "AI设计酶成功率翻倍涨 🧬",
+ "cover_title": "AI设计酶成功率翻五到十倍",
+ "cover_lines": [
+  "挖酶从手工淘金变开挖掘机",
+  "界面水怎么排队决定反应走向",
+  "锆配合物也能当量子比特"
+ ],
+ "body": "今天这几条，从AI造酶到水分子当交警，化学圈挺热闹。\n\n1️⃣ 水在CO₂电解里当交通协管。高电流密度下CO₂电解效率卡在界面过程上，这项工作用二维相关operando拉曼光谱加从头算分子动力学，在接近实际工况下看电极-电解液界面，发现水结构会影响CO₂的可及性和产物选择性。简单说，界面上的水怎么排队，决定了反应往哪走。（Nature Catalysis）\n\n2️⃣ 锆(III)配合物也能当量子比特。Zr(III)配合物容易二聚或歧化，一直不好分离，这次用大位阻芳氧基配体在室温下把单核Zr(III)稳定住，还能对它的电子和电子-核跃迁做相干操控，当作分子qudit来用。对量子信息来说，又多了一个可玩的分子平台。（Nature Chemistry）\n\n3️⃣ 无卤溶剂有机太阳能电池到20.50%。有机太阳能电池想规模化，得甩掉卤代溶剂，这里用无卤添加剂DChB在无卤溶剂邻二甲苯里调控形貌， bulky环己基当分子缓冲，抑制过度聚集和相分离，基于D18:L8-BO的二元器件拿到20.50%的效率，是个纪录。（Advanced Materials）\n\n4️⃣ 微塑料可能没你想的那么懒。C&EN报道，微塑料颗粒表面在水中能产生活性氧物种，也就是说它未必化学惰性，表面可能参与反应。具体影响还得看后续工作，但这提醒我们，环境里的微塑料不只是物理颗粒。（C&EN）\n\n大家最近在做什么方向，有没有被哪个条目戳中？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "AI设计酶",
+  "CO2电解",
+  "有机太阳能电池",
+  "微塑料"
+ ],
+ "id": "2026-10-24",
+ "kind": "daily",
+ "date": "2026-10-24",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月24日 周六",
+   "title": "AI设计酶成功率翻五到十倍",
+   "lines": [
+    "挖酶从手工淘金变开挖掘机",
+    "界面水怎么排队决定反应走向",
+    "锆配合物也能当量子比特"
+   ],
+   "thumbs": [
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/manchester-scientists-5.jpg",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01626-4/MediaObjects/41929_2026_1626_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02269-5/MediaObjects/41557_2026_2269_Figa_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "计算化学与AI",
+   "title": "AI 设计酶，成功率翻五到十倍",
+   "text": "Institute for Protein Design 和 NVIDIA 搞了个统一生成模型 RFD4-Proteina，直接生成全新的蛋白质序列和结构。计算设计成功率比之前模型高 5 到 10 倍，出候选的速度也快 5 到 10 倍。对药物合成里找酶这件事，相当于从手工淘金换成了开挖掘机。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Scientists demonstrate AI-designed enzyme for drug synthesis",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/manchester-scientists-5.jpg"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "催化",
+   "title": "水在 CO₂ 电解里当交通协管",
+   "text": "高电流密度下 CO₂ 电解效率卡在界面过程上。这项工作用二维相关 operando 拉曼光谱加从头算分子动力学，在接近实际工况下看电极-电解液界面，发现水结构会影响 CO₂ 的可及性和产物选择性。简单说，界面上的水怎么排队，决定了反应往哪走。",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "title_en": "Water regulates interface access and reactivity in CO 2 electrolysis",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01626-4/MediaObjects/41929_2026_1626_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "无机与配位",
+   "title": "锆(III)配合物也能当量子比特",
+   "text": "Zr(III) 配合物容易二聚或歧化，一直不好分离。这次用大位阻芳氧基配体在室温下把单核 Zr(III) 稳定住，还能对它的电子和电子-核跃迁做相干操控，当作分子 qudit 来用。对量子信息来说，又多了一个可玩的分子平台。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Coherent manipulation of Zr(III) aryloxide qudits",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02269-5/MediaObjects/41557_2026_2269_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "材料化学",
+   "title": "无卤溶剂有机太阳能电池到 20.50%",
+   "text": "有机太阳能电池想规模化，得甩掉卤代溶剂。这里用无卤添加剂 DChB（1,4-二环己基苯）在无卤溶剂邻二甲苯里调控形貌， bulky 环己基当分子缓冲，抑制过度聚集和相分离。基于 D18:L8-BO 的二元器件拿到 20.50% 的效率，是个纪录。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Halogen‐Free Solvent and Additive‐Processed Organic Solar Cells Achieving 20.50% Binary Efficiency",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/43d239e8-1f37-48a8-8b9e-9936bbf0b91c/adma74819-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "微塑料可能没你想的那么懒",
+   "text": "C&EN 报道，微塑料颗粒表面在水中能产生活性氧物种。也就是说它未必化学惰性，表面可能参与反应。具体影响还得看后续工作，但这提醒我们，环境里的微塑料不只是物理颗粒。",
+   "source": "C&EN",
+   "kind": "news",
+   "title_en": "Microplastics might not be as chemically inert as expected",
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Microplastics-may-be-chemically-active-in-water---656800:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+  }
+ ]
+}
