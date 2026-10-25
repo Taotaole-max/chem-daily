@@ -1,0 +1,195 @@
+{
+ "lead": "今天份的化学日报：从水分子笼子到抓锂通道，还有给二氧化碳加电的活儿。",
+ "items": [
+  {
+   "title_zh": "柔性钙钛矿太阳能组件新策略",
+   "blurb": "柔性基底表面羟基脱附会干扰自组装单分子层（SAM）锚定和钙钛矿结晶。研究者把SAM和钙钛矿沉积解耦，减少两者相互作用，让SAM锚定更快、结晶更好。750 cm²组件认证效率20.2%，14.55 cm²组件效率22.0%，在85°C、65%相对湿度下最大功率点跟踪1044小时后效率下降8%。",
+   "tags": [
+    "钙钛矿",
+    "柔性太阳能",
+    "自组装单分子层"
+   ],
+   "field": "材料化学",
+   "title_en": "Decoupled self-assembled monolayer and perovskite deposition for efficient flexible solar modules",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aef9745?af=R",
+   "doi": "10.1126/science.aef9745",
+   "image": null,
+   "authors": "Yeyong Wu, Xikun Zhang, Tiankai Zhang, Guiying Xu, Yunxiu Shen, Chengxin Guo, Qing Miao, Junyuan Ding, Yue Yin, Qinrong Cheng, Wen Liu, Xiaoxiao Wu, Kaiqiang Chen, Wenwen Kou, Zhiyun Cao, Haiyang Chen",
+   "id": "10.1126/science.aef9745"
+  },
+  {
+   "title_zh": "交变磁场给催化剂局部加热",
+   "blurb": "电催化二氧化碳还原时，阴极局部碱化会导致碳酸盐沉淀，拖累碳效率和耐久性。研究者在铁磁性高熵合金中通过交变磁场诱导局部加热，减少碳酸盐沉淀，从而在碱性和中性电解液中延长耐久性。",
+   "tags": [
+    "二氧化碳还原",
+    "高熵合金",
+    "局部加热"
+   ],
+   "field": "催化",
+   "title_en": "Inducing local heating fields in ferromagnetic high-entropy alloys to inhibit (bi)carbonate formation for durable CO 2 electroreduction",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01619-3",
+   "doi": "10.1038/s41929-026-01619-3",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01619-3/MediaObjects/41929_2026_1619_Figa_HTML.png",
+   "authors": "Wenda Zhou, Cailei Yuan, Xingfang Luo, Mingyue Chen, Jingyan Zhang, Shoujie Liu, Wen Lei, Shouguo Wang",
+   "id": "10.1038/s41929-026-01619-3"
+  },
+  {
+   "title_zh": "RuO₂不稳定的真凶是氯残留",
+   "blurb": "RuO₂是酸性析氧反应（OER）的好催化剂，但稳定性差，常被归咎于Ru过氧化。这项研究指出真凶是RuCl₃前驱体残留的氯：氯留在晶格里，电解时慢慢漏出，加速Ru溶解和晶格氧流失。他们用小型分子辅助合成出无氯RuO₂，在8万次加速降解循环后仍保持初始活性，并在500 mA cm⁻²下稳定运行500小时。",
+   "tags": [
+    "RuO₂",
+    "析氧反应",
+    "氯残留"
+   ],
+   "field": "催化",
+   "title_en": "Understanding the Instability Origin for Design of Robust Pure RuO2 Anode Catalyst in PEM Water Electrolysis",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c14585",
+   "doi": "10.1021/jacs.6c14585",
+   "image": null,
+   "authors": "Lin-Lin Wang, Xuan-Xuan Cheng, Xiao-Long Zhang, Xiao-Ran Wang, Cuo Wu, Jing-Jing Li",
+   "id": "10.1021/jacs.6c14585"
+  },
+  {
+   "title_zh": "DNA催化合成顺/反环丙烷",
+   "blurb": "常规小分子催化Johnson–Corey–Chaykovsky（JCC）环丙烷化通常偏爱反式产物。这项研究用DNA催化，首次实现生物催化的不对称JCC反应，同一体系能分别拿到顺式和反式1,2,3-三取代环丙烷，对映控制都很好。酚酯衍生的硫叶立德表现出 exceptional 的顺式选择性，还克服了小分子催化的老限制。",
+   "tags": [
+    "DNA催化",
+    "环丙烷",
+    "不对称合成"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Highly Enantioselective Synthesis of 1,2,3-Trisubstituted Cyclopropanes through DNA-Catalyzed Johnson–Corey–Chaykovsky Cyclopropanation",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17479",
+   "doi": "10.1021/jacs.6c17479",
+   "image": null,
+   "authors": "Yang Zheng, Rao Dai, Yun-Lin Li, Sze Ian Joel Loke, Cheng-Qian Song, Qi Shi",
+   "id": "10.1021/jacs.6c17479"
+  },
+  {
+   "title_zh": "(H₂O)₁₇：最小的水笼子",
+   "blurb": "水分子簇多大才能包住一个水分子？理论预测需要16–23个，但实验一直难确认。研究者用红外光谱结合真空紫外阈值光电离，首次实验证明(H₂O)₁₇形成最小的内嵌水笼。它的氧骨架是个非经典多面体，有四个四边形、五个五边形和两个六边形面，不满足任何柏拉图、阿基米德或约翰逊多面体的对称约束。",
+   "tags": [
+    "水分子簇",
+    "内嵌笼",
+    "红外光谱"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Smallest Endohedral Water Cage Featuring a Nonclassic Polyhedron: Experimental Observation of (H2O)17",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16309",
+   "doi": "10.1021/jacs.6c16309",
+   "image": null,
+   "authors": "Wenhui Yan, Yang-Yang Zhang, Shuai Jiang, Shangdong Li, Tiantong Wang, Jun-Bo Lu",
+   "id": "10.1021/jacs.6c16309"
+  },
+  {
+   "title_zh": "仿生人工锂离子通道",
+   "blurb": "锂的开采和回收需要更可持续的分离技术。研究者设计了一类超分子膜通道，在电化学驱动下对锂离子选择性很高：Li⁺/Na⁺ ≥ 94、Li⁺/K⁺ ≥ 136、Li⁺/Mg²⁺ ≥ 286、Li⁺/Ca²⁺ ≥ 228，单通道Li⁺电导为13.35 pS，在−160 mV下约每秒每个通道转运1.34×10⁷个锂离子。通道由柱[5]芳烃（pillar[5]arene）接上二苯基氧化膦（DPP）配体构成。",
+   "tags": [
+    "锂离子通道",
+    "超分子",
+    "膜分离"
+   ],
+   "field": "分析化学",
+   "title_en": "Highly Selective Artificial Lithium Channels",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c13878",
+   "doi": "10.1021/jacs.6c13878",
+   "image": null,
+   "authors": "Harekrushna Behera, Tyler J. Duncan, Laxmicharan Samineni, Hyeonji Oh, Chenhao Yao, Raman Dhiman",
+   "id": "10.1021/jacs.6c13878"
+  },
+  {
+   "title_zh": "用NMR谱预测反应活性",
+   "blurb": "研究者把核磁共振（NMR）化学位移直接转成机器学习特征，这些特征有直观的化学含义。只用少量特征就能预测分子的HOMO-LUMO能隙，模型不依赖事先知道化学结构或电荷。",
+   "tags": [
+    "NMR",
+    "机器学习",
+    "反应活性"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Using NMR to predict molecular reactivity",
+   "source": "Chem",
+   "kind": "paper",
+   "link": "https://www.cell.com/chem/fulltext/S2451-9294(26)00368-2?rss=yes",
+   "doi": "10.1016/j.chempr.2026.103302",
+   "image": null,
+   "authors": "Tobias D. Muellers, Predrag V. Petrovic, Paul T. Anastas, Julie B. Zimmerman",
+   "id": "10.1016/j.chempr.2026.103302"
+  },
+  {
+   "title_zh": "硼烯氧化物助铜产C₂₊",
+   "blurb": "电催化二氧化碳还原制多碳产物受析氢竞争、C–C偶联慢和碳酸盐沉积限制。研究者用二维β-菱面体硼烯氧化物（BO）作铜的基底，在流动池1 M KOH中，于−700到−1500 mA cm⁻²的工业电流密度范围，C₂₊法拉第效率峰值达85.9%，分电流密度超过−1082 mA cm⁻²。机理上BO能排斥水合K⁺、改变界面水结构，抑制析氢。",
+   "tags": [
+    "二氧化碳还原",
+    "硼烯氧化物",
+    "C₂₊产物"
+   ],
+   "field": "电化学与能源",
+   "title_en": "2D Borophene Oxide Substrate for C2+ Products Synthesis via CO2 Electroreduction at Industrial Current Densities",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3888387?af=R",
+   "doi": "10.1002/anie.3888387",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/076cbca7-5600-4c1d-9299-b45d9b246b1b/anie75371-gra-0001-m.png",
+   "authors": "Peng Chen, \nYuhang Wang, \nHaojian Lin, \nShuaiwei Jiang, \nXintao Ma, \nQingshun Nian, \nRong Zhang, \nShaoce Zhang, \nFengkun Hao, \nFei Liu, \nZhanxi Fan, \nJun Fan, \nChunyi Zhi",
+   "id": "10.1002/anie.3888387"
+  },
+  {
+   "title_zh": "植入体电催化降血糖",
+   "blurb": "C&EN报道了一种植入体，在小鼠体内通过电催化把葡萄糖转化为葡萄糖酸，有望不用药物来控制糖尿病。具体设计细节摘要没展开，但思路是用电化学代替胰岛素。",
+   "tags": [
+    "葡萄糖",
+    "电催化",
+    "糖尿病"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "This implant zaps away high blood sugar in mice",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/biological-chemistry/personalized-medicine/glucose-oxidation-device-electrocatalytic-mice/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/embargo-2pm-10-21----glucose-oxidation-device---657198:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Brianna Barbu",
+   "id": "https://cen.acs.org/biological-chemistry/personalized-medicine/glucose-oxidation-device-electrocatalytic-mice/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "带电聚合物分离的旧假设被挑战",
+   "blurb": "芝加哥大学Pritzker分子工程学院的Matthew Tirrell和柏林自由大学的Matthias Ballauff在PNAS发文，指出带电聚电解质在水中的分离有一些以前被忽略的因素，挑战了自1950年代以来主导该领域的假设。这可能对健康、代谢和疾病研究有影响。",
+   "tags": [
+    "聚电解质",
+    "相分离",
+    "高分子"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Clustering changes how charged polymers separate in water, challenging old assumptions",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-clustering-polymers-assumptions.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/polymer-insights-biolo.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-clustering-polymers-assumptions.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "水分子不是直线排列",
+  "text": "单个水分子是V形，H–O–H键角约104.5度。液态水中每个水分子最多能形成四个氢键，两个用氢原子，两个用氧原子的孤对电子。"
+ },
+ "stats": {
+  "fetched": 2307,
+  "candidates": 90
+ },
+ "date": "2026-10-25",
+ "generated_at": "2026-10-25T11:40:50+08:00"
+}
