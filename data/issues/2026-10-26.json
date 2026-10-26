@@ -1,0 +1,195 @@
+{
+ "lead": "今天份的化学：纳米通道会转，太阳能模块更稳，连线虫都靠冷来续命。",
+ "items": [
+  {
+   "title_zh": "纳米通道里让分子“转”起来",
+   "blurb": "纳米通道里分子挤得慌，运输慢、选择性也差。研究者让通道内壁的功能基团自己旋转，靠动能传递和分子接力把运输提上去，分离性能超过现有基准。",
+   "tags": [
+    "纳米通道",
+    "分子传输",
+    "分离"
+   ],
+   "field": "材料化学",
+   "title_en": "Dynamic functionality–enabled fast and selective transport in nanochannels",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aed8319?af=R",
+   "doi": "10.1126/science.aed8319",
+   "image": null,
+   "authors": "Hao Zhang, Yuan Kang, Fan Feng, Ting Hu, Rongming Xu, Hang Yu, Kaiqiang He, Zhe Yang, Zhuyuan Wang, Cher Hon Lau, Ze-Xian Low, Qinfen Gu, Jefferson Zhe Liu, Huanting Wang, Xiwang Zhang",
+   "id": "10.1126/science.aed8319"
+  },
+  {
+   "title_zh": "氯化物给太阳能电池界面上了锁",
+   "blurb": "有机太阳能电池的ITO-SAM界面不稳，拖累效率和寿命。用真空沉积的InClx层触发配体交换，形成牢固的In-O-P网络，小面积电池效率20.4%，模块活性面积效率18.8%，稳定性也提升。",
+   "tags": [
+    "有机光伏",
+    "界面工程",
+    "太阳能模块"
+   ],
+   "field": "材料化学",
+   "title_en": "Chloride-mediated SAM locking via ligand-exchange reaction enables 18.8% active-area efficiency and stable organic solar modules",
+   "source": "Joule",
+   "kind": "paper",
+   "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00393-4?rss=yes",
+   "doi": "10.1016/j.joule.2026.102709",
+   "image": null,
+   "authors": "Ze Jin, Cheng Shen, Quan Liu, Ziyi Ge",
+   "id": "10.1016/j.joule.2026.102709"
+  },
+  {
+   "title_zh": "机器人加光，24小时无人合成平台",
+   "blurb": "AI设计出候选药物分子，合成却可能拖后腿。KAIST团队做了个无人合成平台，用合成机器人和光自动完成从混原料到合成分析的全流程，减少重复实验负担。",
+   "tags": [
+    "自动化合成",
+    "机器人",
+    "药物发现"
+   ],
+   "field": "化学工程",
+   "title_en": "'24/7 unmanned synthesis platform' uses robots and light to produce drug candidates",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-247-unm.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html"
+  },
+  {
+   "title_zh": "电化学把苯酚和CO2直接配对",
+   "blurb": "对羟基苯甲酸（p-HBA）传统用Kolbe-Schmitt法合成，条件苛刻、选择性差。新方法用碘介导电合成，室温常压下从苯酚和CO2得到61%产率、90%选择性，还能拓展到木质素相关结构单元。",
+   "tags": [
+    "电合成",
+    "CO2利用",
+    "对羟基苯甲酸"
+   ],
+   "field": "有机合成",
+   "title_en": "Electrosynthesis of p‐Hydroxybenzoic Acid From Phenol and CO2",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.8790413?af=R",
+   "doi": "10.1002/anie.8790413",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/53781056-9e1f-43d9-b544-e9d89fdde431/anie75438-gra-0001-m.png",
+   "authors": "Mengke Dong, \nShuaiqiang Jia, \nXiao Chen, \nJiapeng Jiao, \nCheng Xue, \nZhanghui Xia, \nTing Deng, \nMingjie Chen, \nChunjun Chen, \nKaiwu Dong, \nHaihong Wu, \nMingyuan He, \nBuxing Han",
+   "id": "10.1002/anie.8790413"
+  },
+  {
+   "title_zh": "环丁烯缩环，钯催化走Wacker新路",
+   "blurb": "钯催化迁移型Wacker氧化把环丁烯变成环丙基酮和醛，走的是半频哪醇型缩环，31个例子最高91%产率。这条路绕开β-氢消除，还能立体选择性合成all-syn环丙烷，并用于普拉格雷的骨架编辑。",
+   "tags": [
+    "钯催化",
+    "Wacker氧化",
+    "环丙烷"
+   ],
+   "field": "有机合成",
+   "title_en": "Palladium‐Catalyzed Ring Contraction of Cyclobutenes via Migratory Wacker Oxidation",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9157872?af=R",
+   "doi": "10.1002/anie.9157872",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/29596df2-b607-423a-bb15-30511ddc42e9/anie75381-gra-0001-m.png",
+   "authors": "Alexander W. Walz, \nTheresa Heim, \nNatascha Gröne, \nJohannes M. Wahl",
+   "id": "10.1002/anie.9157872"
+  },
+  {
+   "title_zh": "线虫靠肌肉分子在冷天活更久",
+   "blurb": "线虫在低温下会诱导产生一种代谢物，从肌肉发出全身信号促进长寿。这种信号系统在人类细胞里也存在，给温度与寿命的关系添了分子线索。",
+   "tags": [
+    "寿命",
+    "代谢物",
+    "线虫"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Worms live longer in cool conditions thanks to a muscle-derived molecule",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/d41586-026-03066-3",
+   "doi": "10.1038/d41586-026-03066-3",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03066-3/d41586-026-03066-3_53846254.jpg",
+   "authors": "Hanseul Lee, Seung-Jae V. Lee",
+   "id": "10.1038/d41586-026-03066-3"
+  },
+  {
+   "title_zh": "单线态裂变把三重态送给钙钛矿",
+   "blurb": "并四苯里的单线态裂变产生三重态激子，通过ZnPc界面传给金属卤化物钙钛矿，能量学符合界面混合电荷转移路径。这实现了三重态敏化，并让它对钙钛矿光伏的电流有贡献。",
+   "tags": [
+    "单线态裂变",
+    "钙钛矿",
+    "三重态"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Singlet fission and triplet transfer to a metal halide perovskite absorber",
+   "source": "Joule",
+   "kind": "paper",
+   "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00389-2?rss=yes",
+   "doi": "10.1016/j.joule.2026.102705",
+   "image": null,
+   "authors": "Yutong Ren, Manting Gui, Maayan Persky Poss, Elyasaf D. Newman, Hui Taou Kok, Quinn C. Burlingame, Yueh-Lin Loo, Igal Levine, Dan Oron, Barry P. Rand, Antoine Kahn",
+   "id": "10.1016/j.joule.2026.102705"
+  },
+  {
+   "title_zh": "荧光地图看催化剂哪里在干活",
+   "blurb": "传统测量把一堆催化剂颗粒的活性平均掉，看不见局部差异。荧光反应地图能揭示催化剂活性随操作条件怎么变，帮人找到设计更高效材料的关键线索。",
+   "tags": [
+    "催化",
+    "荧光成像",
+    "活性位点"
+   ],
+   "field": "催化",
+   "title_en": "Fluorescent reaction maps reveal how catalyst activity changes with operating conditions",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-fluorescent-reaction-reveal-catalyst-conditions.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nus-cde-researchers-ma-2.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-fluorescent-reaction-reveal-catalyst-conditions.html"
+  },
+  {
+   "title_zh": "电池数据有了公共登记册",
+   "blurb": "公共电池数据集越来越多，但存放分散、描述不一，很难找和比较。Battery Data Commons登记了349个数据集，用人和机器都能读的元数据链接原始来源，不搬raw data也能让老数据再就业。",
+   "tags": [
+    "电池数据",
+    "元数据",
+    "可复现"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "The Battery Data Commons registry",
+   "source": "Joule",
+   "kind": "paper",
+   "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00396-X?rss=yes",
+   "doi": "10.1016/j.joule.2026.102712",
+   "image": null,
+   "authors": "Marwan Hassini, Philipp Dechent, Sara Luciani, Shiyun Liu, Simon Clark, Paul Gasper, Gonçalo dos Reis",
+   "id": "10.1016/j.joule.2026.102712"
+  },
+  {
+   "title_zh": "AI设计酶组件，帮药物发现扩圈",
+   "blurb": "很多药物活性成分来自微生物或植物，用微生物定向生产或改进却很难，因为生物过程太复杂。AI设计出有功能的酶组件，有望帮药物发现找到更多候选。",
+   "tags": [
+    "酶工程",
+    "AI",
+    "药物发现"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "AI designs functional enzyme components that could help expand drug discovery",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-aids-in-the-develop.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "钻石其实是亚稳态",
+  "text": "钻石在常温常压下是碳的亚稳态，热力学上更稳定的是石墨。只是从钻石变石墨的活化能太高，动力学上慢到几乎不变，所以才能戴在手上。"
+ },
+ "stats": {
+  "fetched": 2309,
+  "candidates": 90
+ },
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T11:44:06+08:00"
+}

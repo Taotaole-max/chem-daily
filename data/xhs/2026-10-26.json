@@ -1,0 +1,100 @@
+{
+ "title": "机器人熬夜做合成，线虫靠肌肉抗冷",
+ "cover_title": "机器人24小时无人合成",
+ "cover_lines": [
+  "AI设计分子，机器人合成",
+  "线虫肌肉信号助长寿",
+  "AI设计酶组件扩圈"
+ ],
+ "body": "今天这几条挺下饭，有机器人替你熬夜做实验，还有线虫靠肌肉分子在冷天活更久。\n\n1️⃣ 线虫低温下会诱导产生一种代谢物，从肌肉发出全身信号促进长寿，这套信号系统在人类细胞里也存在，给温度与寿命的关系添了分子线索（Nature）。\n\n2️⃣ 钯催化迁移型Wacker氧化把环丁烯变成环丙基酮和醛，走半频哪醇型缩环，31个例子最高91%产率，绕开β-氢消除，还能立体选择性合成all-syn环丙烷，并用于普拉格雷的骨架编辑（Angewandte Chemie）。\n\n你们最近在做什么方向，有没有被合成卡住的经历？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "有机合成",
+  "自动化",
+  "药物发现",
+  "催化"
+ ],
+ "id": "2026-10-26",
+ "kind": "daily",
+ "date": "2026-10-26",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月26日 周一",
+   "title": "机器人24小时无人合成",
+   "lines": [
+    "AI设计分子，机器人合成",
+    "线虫肌肉信号助长寿",
+    "AI设计酶组件扩圈"
+   ],
+   "thumbs": [
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-247-unm.jpg",
+    "https://media.nature.com/lw1200/magazine-assets/d41586-026-03066-3/d41586-026-03066-3_53846254.jpg",
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-aids-in-the-develop.jpg"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "化学工程",
+   "title": "机器人加光，24小时无人合成平台",
+   "text": "AI设计出候选药物分子，合成却可能拖后腿。KAIST团队做了个无人合成平台，用合成机器人和光自动完成从混原料到合成分析的全流程，减少重复实验负担。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "'24/7 unmanned synthesis platform' uses robots and light to produce drug candidates",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-develops-247-unm.jpg"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "线虫靠肌肉分子在冷天活更久",
+   "text": "线虫在低温下会诱导产生一种代谢物，从肌肉发出全身信号促进长寿。这种信号系统在人类细胞里也存在，给温度与寿命的关系添了分子线索。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Worms live longer in cool conditions thanks to a muscle-derived molecule",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03066-3/d41586-026-03066-3_53846254.jpg"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "AI设计酶组件，帮药物发现扩圈",
+   "text": "很多药物活性成分来自微生物或植物，用微生物定向生产或改进却很难，因为生物过程太复杂。AI设计出有功能的酶组件，有望帮药物发现找到更多候选。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "AI designs functional enzyme components that could help expand drug discovery",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-aids-in-the-develop.jpg"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "有机合成",
+   "title": "环丁烯缩环，钯催化走Wacker新路",
+   "text": "钯催化迁移型Wacker氧化把环丁烯变成环丙基酮和醛，走的是半频哪醇型缩环，31个例子最高91%产率。这条路绕开β-氢消除，还能立体选择性合成all-syn环丙烷，并用于普拉格雷的骨架编辑。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Palladium‐Catalyzed Ring Contraction of Cyclobutenes via Migratory Wacker Oxidation",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/29596df2-b607-423a-bb15-30511ddc42e9/anie75381-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "催化",
+   "title": "荧光地图看催化剂哪里在干活",
+   "text": "传统测量把一堆催化剂颗粒的活性平均掉，看不见局部差异。荧光反应地图能揭示催化剂活性随操作条件怎么变，帮人找到设计更高效材料的关键线索。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Fluorescent reaction maps reveal how catalyst activity changes with operating conditions",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nus-cde-researchers-ma-2.jpg"
+  }
+ ]
+}

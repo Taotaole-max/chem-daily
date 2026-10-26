@@ -68,3 +68,13 @@ https://cen.acs.org/materials/polymers/co2-neutral-amino-acid-polymers/104/web/2
 10.1002/anie.3888387
 https://cen.acs.org/biological-chemistry/personalized-medicine/glucose-oxidation-device-electrocatalytic-mice/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen
 https://phys.org/news/2026-10-clustering-polymers-assumptions.html
+10.1126/science.aed8319
+10.1016/j.joule.2026.102709
+https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html
+10.1002/anie.8790413
+10.1002/anie.9157872
+10.1038/d41586-026-03066-3
+10.1016/j.joule.2026.102705
+https://phys.org/news/2026-10-fluorescent-reaction-reveal-catalyst-conditions.html
+10.1016/j.joule.2026.102712
+https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html
