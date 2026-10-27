@@ -1,0 +1,100 @@
+{
+ "title": "酶会挑酒喝，PFAS拿来产氢",
+ "cover_title": "酶学会挑酒喝了",
+ "cover_lines": [
+  "醇羟基再多也能挑一个",
+  "PFAS污染物变身压电助剂",
+  "新膜不只拦PFAS还会拆"
+ ],
+ "body": "今天这几条，从酶到电池再到PFAS，化学圈是真没闲着。\n\n1️⃣ 多个醇羟基长得差不多，想只酯化其中一个很难。研究者把醛脱氢酶改造一番，重塑活性中心，让它能按可编程的醇选择性催化氧化酯化。以后做复杂分子的酯化，或许不用再靠保护基来回折腾了。（Nature Chemistry）\n\n2️⃣ 把典型PFAS污染物全氟己酸后修饰到MOF-808(Hf)上，偶极矩从8.90 D升到12.58 D，压电系数d33从63.70升到234.30 pm V–1，压电催化产氢速率达到2811.4 µmol g–1 h–1，是未修饰版本的10.5倍。污染物当功能添加剂，这思路有点意思。（Advanced Energy Materials）\n\n3️⃣ C&EN报道了一种新膜，处理PFAS时不止靠过滤截留。摘要里说它用活性氢催化剂把PFAS处理掉，比单纯过滤更进一步。具体降解产物和效率摘要没展开，但“膜+催化”这个组合值得关注。（C&EN）\n\n4️⃣ 全固态锂电池快充常卡在正极材料的晶界传输壁垒上。研究者把晶态LiVCl4非晶化，虽然体相锂离子电导率低了，但界面电阻大降。无电解液正极在5 mA cm–2下给出74.3 mAh g–1，晶态对照只有10.2 mAh g–1。搭配非晶LiTaOCl4，20 mA cm–2（约75C）下容量102.1 mAh g–1，16000圈后还剩82.3%。（JACS）\n\n你最近在做什么方向，评论区聊聊。",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "PFAS",
+  "全固态电池",
+  "酶催化",
+  "AI化学"
+ ],
+ "id": "2026-10-27",
+ "kind": "daily",
+ "date": "2026-10-27",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月27日 周二",
+   "title": "酶学会挑酒喝了",
+   "lines": [
+    "醇羟基再多也能挑一个",
+    "PFAS污染物变身压电助剂",
+    "新膜不只拦PFAS还会拆"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02288-2/MediaObjects/41557_2026_2288_Figa_HTML.png",
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/7ad12ead-9e64-47d4-83f2-01a101eaff69/aenm71737-gra-0001-m.png",
+    "https://s7d1.scene7.com/is/image/CENODS/News--New-membrane-disarms-PFAS---658756:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "让酶学会挑酒喝：氧化酯化的区域选择性",
+   "text": "多个醇羟基长得差不多时，想只酯化其中一个很难。研究者把醛脱氢酶（aldehyde dehydrogenase）改造一番，通过重塑活性中心，让它能按可编程的醇选择性催化氧化酯化。以后做复杂分子的酯化，或许不用再靠保护基来回折腾了。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Enzymatic oxidative esterification with an unconventional regioselective control",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02288-2/MediaObjects/41557_2026_2288_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "PFAS别急着恨，先拿来当压电助剂",
+   "text": "研究者把典型PFAS污染物全氟己酸（PFHxA）后修饰到MOF-808(Hf)上，让偶极矩从8.90 D升到12.58 D，压电系数d33从63.70升到234.30 pm V–1，电子-空穴分离更顺。压电催化产氢速率达到2811.4 µmol g–1 h–1，是未修饰版本的10.5倍。污染物当功能添加剂，这思路有点意思。",
+   "source": "Advanced Energy Materials",
+   "kind": "paper",
+   "title_en": "Trash to Treasure: PFAS‐Functionalized MOFs for Boosted Piezocatalytic H2 Production",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/7ad12ead-9e64-47d4-83f2-01a101eaff69/aenm71737-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "新膜不只会拦PFAS，还会拆",
+   "text": "C&EN报道了一种新膜，处理PFAS时不止靠过滤截留。摘要里说它用活性氢催化剂（active-hydrogen catalyst）把PFAS处理掉，比单纯过滤更进一步。具体降解产物和效率摘要没展开，但“膜+催化”这个组合值得关注。",
+   "source": "C&EN",
+   "kind": "news",
+   "title_en": "New membrane disarms PFAS",
+   "image": "https://s7d1.scene7.com/is/image/CENODS/News--New-membrane-disarms-PFAS---658756:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "把晶界堵点拆了，全固态电池飙到75C",
+   "text": "全固态锂电池快充常卡在正极材料的晶界（grain boundary）传输壁垒上。研究者把晶态LiVCl4非晶化，虽然体相锂离子电导率低了，但界面电阻大降。无电解液正极在5 mA cm–2下给出74.3 mAh g–1，晶态对照只有10.2 mAh g–1。搭配非晶LiTaOCl4，20 mA cm–2（约75C）下容量102.1 mAh g–1，16000圈后还剩82.3%。",
+   "source": "JACS",
+   "kind": "paper",
+   "title_en": "Amorphous Halide Cathodes Enable 75C All-Solid-State Lithium Batteries",
+   "image": ""
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "化学工程",
+   "title": "AI加机器人，自己开炉找耐热涂层",
+   "text": "Phys.org报道了一个自驱动实验室，把AI和机器人凑一块，从称量、混合化学品到高温炉处理和取样都自动化。目标很明确：加速发现下一代耐热涂层。以后做配方筛选，可能真不用人守着炉子了。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "AI-powered robotic laboratory paves the way for discovering next-generation heat-resistant coatings",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-powered-robotic-lab.jpg"
+  }
+ ]
+}

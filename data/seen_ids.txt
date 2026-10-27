@@ -78,3 +78,13 @@ https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html
 https://phys.org/news/2026-10-fluorescent-reaction-reveal-catalyst-conditions.html
 10.1016/j.joule.2026.102712
 https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html
+10.1038/s41557-026-02288-2
+10.1021/jacs.6c13195
+10.1021/jacs.6c16957
+10.1021/jacs.6c15843
+10.1021/jacs.6c10272
+10.1002/aenm.71737
+10.1002/anie.5284798
+https://cen.acs.org/environment/persistent-pollutants/pfas-catalytic-membrane-palladium-hydrogen/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen
+https://cen.acs.org/physical-chemistry/protein-folding/ai-design-protein-protease/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen
+https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html

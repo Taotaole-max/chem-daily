@@ -1,0 +1,195 @@
+{
+ "lead": "今天这期，有把污染物变宝贝的，有让电池快充到75C的，还有AI进实验室打工的。",
+ "items": [
+  {
+   "title_zh": "让酶学会挑酒喝：氧化酯化的区域选择性",
+   "blurb": "多个醇羟基长得差不多时，想只酯化其中一个很难。研究者把醛脱氢酶（aldehyde dehydrogenase）改造一番，通过重塑活性中心，让它能按可编程的醇选择性催化氧化酯化。以后做复杂分子的酯化，或许不用再靠保护基来回折腾了。",
+   "tags": [
+    "酶工程",
+    "酯化",
+    "选择性"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Enzymatic oxidative esterification with an unconventional regioselective control",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02288-2",
+   "doi": "10.1038/s41557-026-02288-2",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02288-2/MediaObjects/41557_2026_2288_Figa_HTML.png",
+   "authors": "Xiang Qiu, Kangdelong Hu, Jun Yang, Peilin Li, Jiaxin Zhong, Haoran Dong, Yunxi Han, Xiaoguang Lei",
+   "id": "10.1038/s41557-026-02288-2"
+  },
+  {
+   "title_zh": "钯铂手拉手，两套催化循环一起跑",
+   "blurb": "把Pd和Pt用金属-金属键（M–M bond）连起来，做成Pd(I)/Pt(I)和Pd(I)/Pt(III)双金属配合物。它像个催化剂仓库，能同时供应Pd和Pt活性中心，实现串联反应，比如硅氢化/Hiyama偶联、Suzuki偶联/酰胺还原等。对照实验里，同核的Pd–Pd和Pt–Pt配合物干不了这些活。",
+   "tags": [
+    "双金属催化",
+    "串联反应",
+    "钯铂"
+   ],
+   "field": "催化",
+   "title_en": "Assisted Tandem Catalysis with M–M Bonded Heterobimetallic Pd–Pt Complexes: Accessing Both Pd and Pt Catalytic Cycles",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c13195",
+   "doi": "10.1021/jacs.6c13195",
+   "image": null,
+   "authors": "James L. Corey, Taytum O. S. Hilton, Joshua J. Whipple, Alyssa N. Merrill, T. L. Angus Lam, Joshua D. Hansen",
+   "id": "10.1021/jacs.6c13195"
+  },
+  {
+   "title_zh": "把晶界堵点拆了，全固态电池飙到75C",
+   "blurb": "全固态锂电池快充常卡在正极材料的晶界（grain boundary）传输壁垒上。研究者把晶态LiVCl4非晶化，虽然体相锂离子电导率低了，但界面电阻大降。无电解液正极在5 mA cm–2下给出74.3 mAh g–1，晶态对照只有10.2 mAh g–1。搭配非晶LiTaOCl4，20 mA cm–2（约75C）下容量102.1 mAh g–1，16000圈后还剩82.3%。",
+   "tags": [
+    "全固态电池",
+    "非晶化",
+    "卤化物正极"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Amorphous Halide Cathodes Enable 75C All-Solid-State Lithium Batteries",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16957",
+   "doi": "10.1021/jacs.6c16957",
+   "image": null,
+   "authors": "Yuhao Duan, Feng Wan, Fiaz Hussain, Jiuwei Lei, Zihan Song, Paul R. Shearing",
+   "id": "10.1021/jacs.6c16957"
+  },
+  {
+   "title_zh": "让介孔MOF在指定位置长出来",
+   "blurb": "介孔各向异性纳米杂化物在药物递送和级联催化里有潜力，但让晶态介孔MOF（meso-MOF）按位置选择性生长一直很难。研究者用酸度门控的界面结晶-共组装切换策略，通过调HCl/CH3COOH比例控制成核动力学，在预定异质界面上长出单晶介孔MOF，得到框架状、哑铃状和三元刺状等结构。",
+   "tags": [
+    "介孔MOF",
+    "各向异性",
+    "界面生长"
+   ],
+   "field": "材料化学",
+   "title_en": "Regioselective Growth of Mesoporous Metal–Organic Frameworks for the Construction of Anisotropic Nanohybrids",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c15843",
+   "doi": "10.1021/jacs.6c15843",
+   "image": null,
+   "authors": "Zirui Lv, Minchao Liu, Yi Yang, Wenyuan Hu, Wenyu Yang, Yijin Wang",
+   "id": "10.1021/jacs.6c15843"
+  },
+  {
+   "title_zh": "量子鬼成像光谱，看见被藏起来的相干",
+   "blurb": "复杂分子的超快光谱常被多条弛豫路径和背景噪声搅在一起。研究者用纠缠光发展出时间分辨量子鬼成像光谱（tr-QGS），结合TD-DMRG模拟，在苝二酰亚胺（PBI-1）三聚体里捕捉到0.6 eV、约50 fs的电子相干振荡，还看到200 fs时电子相干向振动相干转移。纠缠光帮他们去掉了背景噪声和基态漂白假象。",
+   "tags": [
+    "量子光谱",
+    "相干动力学",
+    "超快"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Quantum Ghost Spectroscopy Reveals Hidden Coherence in Molecular Aggregates",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c10272",
+   "doi": "10.1021/jacs.6c10272",
+   "image": null,
+   "authors": "Mingran Zhang, Yihe Xu, Vladislav V. Yakovlev, Zhedong Zhang",
+   "id": "10.1021/jacs.6c10272"
+  },
+  {
+   "title_zh": "PFAS别急着恨，先拿来当压电助剂",
+   "blurb": "研究者把典型PFAS污染物全氟己酸（PFHxA）后修饰到MOF-808(Hf)上，让偶极矩从8.90 D升到12.58 D，压电系数d33从63.70升到234.30 pm V–1，电子-空穴分离更顺。压电催化产氢速率达到2811.4 µmol g–1 h–1，是未修饰版本的10.5倍。污染物当功能添加剂，这思路有点意思。",
+   "tags": [
+    "PFAS",
+    "MOF",
+    "压电催化"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Trash to Treasure: PFAS‐Functionalized MOFs for Boosted Piezocatalytic H2 Production",
+   "source": "Advanced Energy Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71737?af=R",
+   "doi": "10.1002/aenm.71737",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/7ad12ead-9e64-47d4-83f2-01a101eaff69/aenm71737-gra-0001-m.png",
+   "authors": "Haijun Hu, \nXiaodong Sun, \nYixuan Wang, \nGe Yan, \nShiyuan Liu, \nLingfeng Zhu, \nLiqun Ye, \nHongwei Huang, \nZhen Zhao, \nXinyi Yang, \nBo Zou, \nTianyi Ma",
+   "id": "10.1002/aenm.71737"
+  },
+  {
+   "title_zh": "吲哚先扩个圈，七元环到手",
+   "blurb": "把吲哚变成苯并氮杂䓬酮（benzazepinone）这类七元氮杂环，研究者用可见光[2+2]环加成先搭出张力环丁烷，再酸促进开环扩环。用乙烯基卤代物时，只有满足特定立体电子条件的环加成物才能重排；换成烯酮缩醛（ketene acetal）就绕开了这个限制，高产率拿到产物。方法还能扩展到苯并呋喃和吡咯。",
+   "tags": [
+    "光催化",
+    "扩环",
+    "吲哚"
+   ],
+   "field": "有机合成",
+   "title_en": "Photocatalytic Ring Expansion of Indoles to Benzazepinones through Cyclobutane Fragmentation",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5284798?af=R",
+   "doi": "10.1002/anie.5284798",
+   "image": null,
+   "authors": "Valentin V. Veselinov, \nAnton Möllerke, \nShaokang Chai, \nHafdís Haraldsdóttir, \nZachariah Lockhart, \nMartin D. Smith",
+   "id": "10.1002/anie.5284798"
+  },
+  {
+   "title_zh": "新膜不只会拦PFAS，还会拆",
+   "blurb": "C&EN报道了一种新膜，处理PFAS时不止靠过滤截留。摘要里说它用活性氢催化剂（active-hydrogen catalyst）把PFAS处理掉，比单纯过滤更进一步。具体降解产物和效率摘要没展开，但“膜+催化”这个组合值得关注。",
+   "tags": [
+    "PFAS",
+    "膜分离",
+    "催化降解"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "New membrane disarms PFAS",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/environment/persistent-pollutants/pfas-catalytic-membrane-palladium-hydrogen/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/News--New-membrane-disarms-PFAS---658756:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Sydney Smith",
+   "id": "https://cen.acs.org/environment/persistent-pollutants/pfas-catalytic-membrane-palladium-hydrogen/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "AI设计蛋白酶，专治 unwanted 蛋白",
+   "blurb": "C&EN报道，研究者用AI设计能消化蛋白质的酶。摘要提到这为清除不需要的蛋白质打开了潜在治疗用途。具体设计方法和靶点摘要没细说，但AI进酶设计这条线，已经从画图走到功能验证了。",
+   "tags": [
+    "AI设计",
+    "蛋白酶",
+    "治疗"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Researchers use AI to design protein-digesting enzymes",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/physical-chemistry/protein-folding/ai-design-protein-protease/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Baker-lab-designed-proteases---653058:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Sarah Braner",
+   "id": "https://cen.acs.org/physical-chemistry/protein-folding/ai-design-protein-protease/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "AI加机器人，自己开炉找耐热涂层",
+   "blurb": "Phys.org报道了一个自驱动实验室，把AI和机器人凑一块，从称量、混合化学品到高温炉处理和取样都自动化。目标很明确：加速发现下一代耐热涂层。以后做配方筛选，可能真不用人守着炉子了。",
+   "tags": [
+    "自动化实验室",
+    "AI",
+    "耐热涂层"
+   ],
+   "field": "化学工程",
+   "title_en": "AI-powered robotic laboratory paves the way for discovering next-generation heat-resistant coatings",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-powered-robotic-lab.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "惰性气体其实不惰",
+  "text": "氙气不是绝对不反应。1962年Neil Bartlett让氙和强氧化剂六氟化铂反应，得到了第一个稀有气体化合物，打破了“惰性气体不能成键”的教科书印象。"
+ },
+ "stats": {
+  "fetched": 2430,
+  "candidates": 90
+ },
+ "date": "2026-10-27",
+ "generated_at": "2026-10-27T12:07:42+08:00"
+}
