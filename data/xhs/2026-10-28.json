@@ -1,0 +1,101 @@
+{
+ "title": "氧硼烷终于结晶了，还有羧酸对位活化",
+ "cover_title": "氧硼烷结晶，羧酸对位活化",
+ "cover_lines": [
+  "铱催化不用导向基",
+  "苦寻多年的氧硼烷",
+  "柔性连接子提介电"
+ ],
+ "body": "今天这几条，有两条是那种“终于做出来了”的经典难题，还有一条挺实用。\n\n1️⃣ 羧酸对位C–H活化一直卡在没导向基上，这回用铱催化，靠多重非共价相互作用协同，直接拿到对位官能化的羧酸和衍生物，路线能简洁不少（Nature Catalysis）。\n\n2️⃣ 氧硼烷（oxoborane）是主族化学追了很久的物种，作者用二硼累积烯和含羰基化合物反应，拿到了稳定晶体，B–O键又短又强，做键合理论的人终于有实物样本了（Nature Chemistry）。\n\n3️⃣ 有机太阳能电池受限于有机半导体介电常数低，这回在二聚受体的柔性连接子上做β位和氧原子工程，同时提高介电常数、强化空间共轭，刚性器件效率20.19%，柔性18.53%（Angewandte Chemie）。\n\n4️⃣ 从中国一个石油储层里分离出嗜热古菌Methanoglobus dolicholipophagus AA-75，它能把甲醇变成甲烷、二氧化碳和乙酸，也能利用饱和与不饱和脂肪酸产甲烷，长链脂肪酸氧化和产甲烷偶联在同一个古菌里，这条代谢路线值得关注（Nature）。\n\n你最近在盯哪个方向，评论区聊聊。",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "有机合成",
+  "催化",
+  "太阳能电池",
+  "古菌",
+  "文献分享"
+ ],
+ "id": "2026-10-28",
+ "kind": "daily",
+ "date": "2026-10-28",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月28日 周三",
+   "title": "氧硼烷结晶，羧酸对位活化",
+   "lines": [
+    "铱催化不用导向基",
+    "苦寻多年的氧硼烷",
+    "柔性连接子提介电"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01622-8/MediaObjects/41929_2026_1622_Figa_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02272-w/MediaObjects/41557_2026_2272_Figa_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/71b3a333-57b0-4b51-bd26-e9520f47aa10/anie74820-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "有机合成",
+   "title": "羧酸对位C–H活化，铱催化不用导向基",
+   "text": "游离芳香羧酸的对位C–H活化一直不好做，因为缺少导向基。作者用铱催化体系，靠多重非共价相互作用的协同，直接拿到对位官能化的羧酸及其衍生物。省去导向基，路线能简洁不少。",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "title_en": "Iridium-catalysed para -C–H activation and borylation of native aromatic carboxylic acids",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01622-8/MediaObjects/41929_2026_1622_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "无机与配位",
+   "title": "苦寻多年的氧硼烷，这回真结晶出来了",
+   "text": "氧硼烷（oxoborane）是主族化学里追了很久的物种。作者用二硼累积烯（diboracumulene）和含羰基化合物反应，拿到了稳定的晶体，B–O键又短又强。对做键合理论的人来说，这算是个能上手摸的样本。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Synthesis and isolation of stable oxoboranes",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02272-w/MediaObjects/41557_2026_2272_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "材料化学",
+   "title": "柔性连接子调介电常数，有机太阳能电池过20%",
+   "text": "有机太阳能电池（OSC）受限于有机半导体介电常数低，激子解离和电荷复合都吃亏。作者在二聚受体（DMA）的柔性连接子上做β位和氧原子工程，同时提高介电常数、强化空间共轭。刚性器件效率达到20.19%，柔性器件达到18.53%。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Flexible Linker Engineering of Dimeric Acceptors Enables Synergistic Modulation of Dielectric Constant and Spatial Conjugation for Organic Solar Cells Exceeding 20% Efficiency",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/71b3a333-57b0-4b51-bd26-e9520f47aa10/anie74820-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "塑料里埋酶，深海降解也能提速",
+   "text": "某些可堆肥塑料在海洋里降解很慢，从浅海到深海都是问题。研究者把微小酶嵌入塑料内部，让材料从里面开始分解，从而加快降解。对海洋塑料污染来说，这是从材料设计端想的一个办法。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Embedded enzymes help plastics break down faster in the deep sea",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/enzymes-help-plastics-1.jpg"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "古菌新成员：一边吃脂肪酸，一边产甲烷",
+   "text": "从中国一个石油储层里分离出嗜热古菌Methanoglobus dolicholipophagus AA-75，它能把甲醇变成甲烷、二氧化碳和乙酸，也能利用饱和与不饱和脂肪酸产甲烷。把长链脂肪酸氧化和产甲烷偶联在同一个古菌里，这条代谢路线值得关注。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "A single archaeon couples long-chain fatty acid oxidation to methanogenesis",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11207-x/MediaObjects/41586_2026_11207_Fig1_HTML.png"
+  }
+ ]
+}

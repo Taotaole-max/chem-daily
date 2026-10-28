@@ -1,0 +1,195 @@
+{
+ "lead": "今天化学圈有点热闹：有人终于把B≡O键关进晶体，有人让甲烷在流水线上变甲醇。",
+ "items": [
+  {
+   "title_zh": "苦寻多年的氧硼烷，这回真结晶出来了",
+   "blurb": "氧硼烷（oxoborane）是主族化学里追了很久的物种。作者用二硼累积烯（diboracumulene）和含羰基化合物反应，拿到了稳定的晶体，B–O键又短又强。对做键合理论的人来说，这算是个能上手摸的样本。",
+   "tags": [
+    "氧硼烷",
+    "主族化学",
+    "B–O键"
+   ],
+   "field": "无机与配位",
+   "title_en": "Synthesis and isolation of stable oxoboranes",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02272-w",
+   "doi": "10.1038/s41557-026-02272-w",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02272-w/MediaObjects/41557_2026_2272_Figa_HTML.png",
+   "authors": "Lukas Lubczyk, Christian Markl, Mudit Jain, Sourav Kar, Thomas Kupfer, Rian D. Dewhurst, Ashwini K. Phukan, Holger Braunschweig",
+   "id": "10.1038/s41557-026-02272-w"
+  },
+  {
+   "title_zh": "B≡O三键：一氧化碳帮忙，中性阳离子都到手",
+   "blurb": "B≡O三键不稳定，想分离出真货一直很难。这项工作用一氧化碳触发转化，得到稳定晶体，并显示该三键高度极化。利用这种两亲反应性，还拿到了中性和阳离子两种衍生物。",
+   "tags": [
+    "B≡O三键",
+    "一氧化碳",
+    "两亲性"
+   ],
+   "field": "无机与配位",
+   "title_en": "Crystalline neutral and cationic oxoboranes",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02273-9",
+   "doi": "10.1038/s41557-026-02273-9",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02273-9/MediaObjects/41557_2026_2273_Figa_HTML.png",
+   "authors": "Sai Zou, Zhaoziyuan Yang, Pengyu Gao, Xueyan Liu, Qianli Li, Yongxin Li, Wei Lu",
+   "id": "10.1038/s41557-026-02273-9"
+  },
+  {
+   "title_zh": "羧酸对位C–H活化，铱催化不用导向基",
+   "blurb": "游离芳香羧酸的对位C–H活化一直不好做，因为缺少导向基。作者用铱催化体系，靠多重非共价相互作用的协同，直接拿到对位官能化的羧酸及其衍生物。省去导向基，路线能简洁不少。",
+   "tags": [
+    "铱催化",
+    "C–H活化",
+    "羧酸"
+   ],
+   "field": "有机合成",
+   "title_en": "Iridium-catalysed para -C–H activation and borylation of native aromatic carboxylic acids",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01622-8",
+   "doi": "10.1038/s41929-026-01622-8",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01622-8/MediaObjects/41929_2026_1622_Figa_HTML.png",
+   "authors": "Sayan Dey, Jaitri Das, Li-Li Wang, Rong-Lin Zhong, Buddhadeb Chattopadhyay",
+   "id": "10.1038/s41929-026-01622-8"
+  },
+  {
+   "title_zh": "甲烷变甲醇，辐射加连续流，不用催化剂",
+   "blurb": "甲烷惰性、甲醇又容易过氧化，想高产率又高选择性很难。作者把高能辐射和连续流结合，让甲烷活化与甲醇生成在时间和空间上分开，从而抑制过氧化。在7.2 kGy·min–1、83.2 RH%、60 mL·min–1条件下，甲醇产率达到68.3 μmol·h–1。",
+   "tags": [
+    "甲烷转化",
+    "连续流",
+    "辐射化学"
+   ],
+   "field": "化学工程",
+   "title_en": "Continuous-Flow Irradiation Facilitates Catalyst-Free Methane-to-Methanol Conversion",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17330",
+   "doi": "10.1021/jacs.6c17330",
+   "image": null,
+   "authors": "Songbai Tang, Xianhuan Hao, Daopeng Sheng, Zining Wang, Zhiyong Peng, Dan Zhou",
+   "id": "10.1021/jacs.6c17330"
+  },
+  {
+   "title_zh": "直接空气捕集，开放数据集给了近六千万次计算",
+   "blurb": "直接空气捕集需要更好的吸附剂，但金属有机框架（MOF）数量太多，筛起来费劲。Open DAC 2025数据集覆盖约15000种MOF，包含CO2、H2O、N2和O2吸附的近6000万次DFT计算，并用机器学习势做高分辨率筛选。",
+   "tags": [
+    "MOF",
+    "直接空气捕集",
+    "开放数据集"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "An open dataset of gas adsorption in deformable metal–organic frameworks for direct air capture",
+   "source": "Nature Chemical Engineering",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44286-026-00445-5",
+   "doi": "10.1038/s44286-026-00445-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44286-026-00445-5/MediaObjects/44286_2026_445_Figa_HTML.png",
+   "authors": "Anuroop Sriram, Logan M. Brabson, Xiaohan Yu, Sihoon Choi, Kareem Abdelmaqsoud, Elias Moubarak, Pim de Haan, Sindy Löwe, Johann Brehmer, Muhammed Shuaibi, John R. Kitchin, Max Welling, C. Lawrence Zit",
+   "id": "10.1038/s44286-026-00445-5"
+  },
+  {
+   "title_zh": "古菌新成员：一边吃脂肪酸，一边产甲烷",
+   "blurb": "从中国一个石油储层里分离出嗜热古菌Methanoglobus dolicholipophagus AA-75，它能把甲醇变成甲烷、二氧化碳和乙酸，也能利用饱和与不饱和脂肪酸产甲烷。把长链脂肪酸氧化和产甲烷偶联在同一个古菌里，这条代谢路线值得关注。",
+   "tags": [
+    "古菌",
+    "产甲烷",
+    "脂肪酸氧化"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "A single archaeon couples long-chain fatty acid oxidation to methanogenesis",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11207-x",
+   "doi": "10.1038/s41586-026-11207-x",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11207-x/MediaObjects/41586_2026_11207_Fig1_HTML.png",
+   "authors": "Yue Yi, Zuorong Cao, Kejia Wu, Hengwu Ding, Lin Fu, Wenyi Gao, Ling Li, Lei Zhou, Zhuo Zhou, Lirong Dai, Yahai Lu, Lei Cheng",
+   "id": "10.1038/s41586-026-11207-x"
+  },
+  {
+   "title_zh": "塑料里埋酶，深海降解也能提速",
+   "blurb": "某些可堆肥塑料在海洋里降解很慢，从浅海到深海都是问题。研究者把微小酶嵌入塑料内部，让材料从里面开始分解，从而加快降解。对海洋塑料污染来说，这是从材料设计端想的一个办法。",
+   "tags": [
+    "可降解塑料",
+    "酶嵌入",
+    "海洋环境"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Embedded enzymes help plastics break down faster in the deep sea",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-embedded-enzymes-plastics-faster-deep.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/enzymes-help-plastics-1.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-embedded-enzymes-plastics-faster-deep.html"
+  },
+  {
+   "title_zh": "布赫纳扩环反应用来给抗癌药解锁",
+   "blurb": "生物正交催化能在肿瘤位置把前药放出来，但可用的反应类型不多。作者把布赫纳扩环（Buchner ring expansion）做成新的脱笼策略：铱卟啉配合物[Ir(mPIX)Me]在纳摩尔浓度下催化，随后自发1,6-消除释放载荷。在癌细胞模型里，连上hCA IX双价抑制剂后实现了肿瘤选择性释放表柔比星。",
+   "tags": [
+    "生物正交催化",
+    "布赫纳扩环",
+    "前药"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Catalytic Uncaging of Anticancer Drugs via a Buchner Ring Expansion",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c14207",
+   "doi": "10.1021/jacs.6c14207",
+   "image": null,
+   "authors": "Damian Alexander Graf, Nicole Rathfelder, Boris Lozhkin, Thomas R. Ward",
+   "id": "10.1021/jacs.6c14207"
+  },
+  {
+   "title_zh": "柔性连接子调介电常数，有机太阳能电池过20%",
+   "blurb": "有机太阳能电池（OSC）受限于有机半导体介电常数低，激子解离和电荷复合都吃亏。作者在二聚受体（DMA）的柔性连接子上做β位和氧原子工程，同时提高介电常数、强化空间共轭。刚性器件效率达到20.19%，柔性器件达到18.53%。",
+   "tags": [
+    "有机太阳能电池",
+    "二聚受体",
+    "介电常数"
+   ],
+   "field": "材料化学",
+   "title_en": "Flexible Linker Engineering of Dimeric Acceptors Enables Synergistic Modulation of Dielectric Constant and Spatial Conjugation for Organic Solar Cells Exceeding 20% Efficiency",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1597140?af=R",
+   "doi": "10.1002/anie.1597140",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/71b3a333-57b0-4b51-bd26-e9520f47aa10/anie74820-gra-0001-m.png",
+   "authors": "Yuyang Bai, \nJia Wang, \nJingwen Yang, \nLuxin Feng, \nPeirang Wang, \nBaofa Lan, \nWanying Feng, \nYupu Wang, \nMiaomiao Li, \nGuankui Long, \nBin Kan",
+   "id": "10.1002/anie.1597140"
+  },
+  {
+   "title_zh": "氨裂解制氢，催化剂能再生，稳定跑500小时",
+   "blurb": "电化学氨裂解制氢，难点在催化剂会氧化、又被含氮毒物种搞失活。作者做了氮掺杂碳负载的Pt催化剂，带孤立Fe位点，在1.5 A cm−2下运行，能抑制Pt氧化并促进毒物移除，稳定运行500小时。",
+   "tags": [
+    "氨裂解",
+    "制氢",
+    "催化剂再生"
+   ],
+   "field": "催化",
+   "title_en": "Catalyst regeneration enables durable electrochemical ammonia cracking for H 2 production",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44160-026-01201-6",
+   "doi": "10.1038/s44160-026-01201-6",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01201-6/MediaObjects/44160_2026_1201_Figa_HTML.png",
+   "authors": "Rui Jiang, Yiwen Yao, Lei Fan, Yumin Da, Jianbin Luo, Yao Wu, Ganwen Chen, Chenrui Ji, Hongqiang Jin, Xiang Chen, Qi Wang, Tong Zhu, Shibo Xi, Ming Zhao, Yanwei Lum, Qian He, Pengfei Ou, Wei Chen",
+   "id": "10.1038/s44160-026-01201-6"
+  }
+ ],
+ "fun_fact": {
+  "title": "惰性气体也曾“不惰”",
+  "text": "氙在1962年与氟反应生成二氟化氙，打破了稀有气体完全不反应的老观念。此前它们被叫作惰性气体，之后化学家只好改口叫稀有气体。"
+ },
+ "stats": {
+  "fetched": 2310,
+  "candidates": 90
+ },
+ "date": "2026-10-28",
+ "generated_at": "2026-10-28T12:34:47+08:00"
+}
