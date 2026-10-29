@@ -1,0 +1,100 @@
+{
+ "title": "AI筛出27.2%效率钙钛矿电池",
+ "cover_title": "AI筛出27.2%效率钙钛矿",
+ "cover_lines": [
+  "2000小时还剩95%效率",
+  "C60编网负极超理论值",
+  "光酶联手玩出分支氨基酸"
+ ],
+ "body": "今天这几条，有算出来的、编出来的，还有照完就消失的。\n\n1️⃣ 钙钛矿电池又往前挪了一步。研究用AI框架把逆合成预测、高通量DFT筛选和化学经验串起来，找到一种易合成、界面稳定的自组装单层，最优候选在钙钛矿光伏里做到27.2%效率，65 °C最大功率点跟踪2000小时后还保持初始效率的95%以上。（Nature Synthesis）\n\n2️⃣ C60不光是足球烯，现在被编成了二维网。研究首次把无金属二维C60共价网络用作锂离子电池负极，两种键合方式分别对应四方相和六方相。有序结构缓解了C60自聚集、暴露更多锂离子结合位点，共价网络还抑制C60在电解液中溶解。TP-2D-C60在0.1 A g⁻¹下比容量达522.0 mAh g⁻¹，超过C60理论容量446 mAh g⁻¹。（Advanced Materials）\n\n3️⃣ 光酶联手做碳碳偶联，还能选分支。研究筛了180对酶与光催化剂组合，发现发散性光生物催化碳碳偶联，经过进化的PLP酶能选择性产出支链或直链非天然氨基酸，立体控制水平很高。（Nature Catalysis）\n\n4️⃣ 植入式磁传感有个麻烦：金属磁体功能寿命结束后还留在体内。现在有了可生物吸收的无金属分子磁体，能当植入的磁信号源，无线连续监测器官运动，用完自己降解。（Nature Materials）\n\n5️⃣ 最后一条纯炫技：研究者把原本做不出来的成对五元环链连接起来，合成了只由五元和七元碳环组成的条带，电子传输和电导行为类似金属，给高导电碳纳米带开了条新路线。（Nature）\n\n你们最近在做什么方向，有没有被哪条戳中？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "钙钛矿",
+  "纳米材料",
+  "光催化",
+  "电池"
+ ],
+ "id": "2026-10-29",
+ "kind": "daily",
+ "date": "2026-10-29",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月29日 周四",
+   "title": "AI筛出27.2%效率钙钛矿",
+   "lines": [
+    "2000小时还剩95%效率",
+    "C60编网负极超理论值",
+    "光酶联手玩出分支氨基酸"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01203-4/MediaObjects/44160_2026_1203_Figa_HTML.png",
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/d13a589e-80ea-4a34-98cf-be1d80de27c9/adma75497-gra-0001-m.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01629-1/MediaObjects/41929_2026_1629_Figa_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "计算化学与AI",
+   "title": "AI筛出钙钛矿电池的自组装单层",
+   "text": "研究用AI框架结合逆合成预测、高通量DFT筛选和化学经验，找到一种易合成且界面稳定的自组装单层（SAM）。最优候选在钙钛矿光伏中实现27.2%效率，65 °C最大功率点跟踪2000小时后仍保持初始效率的95%以上。",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "title_en": "AI-guided discovery of self-assembled monolayers combining synthetic accessibility and interfacial stability for perovskite solar cells",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01203-4/MediaObjects/44160_2026_1203_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "C60编成二维网，负极容量超理论值",
+   "text": "研究首次把无金属二维C60共价网络（2D-C60）用作锂离子电池负极，两种键合方式分别对应四方相和六方相。有序结构缓解了C60自聚集、暴露更多锂离子结合位点，共价网络还抑制C60在电解液中溶解。TP-2D-C60在0.1 A g⁻¹下比容量达522.0 mAh g⁻¹，超过C60理论容量446 mAh g⁻¹。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Breaking the Theoretical Capacity Limit of Fullerene Anode in Alkali‐Ion Batteries Through Two‐Dimensional Covalent Network Engineering",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/d13a589e-80ea-4a34-98cf-be1d80de27c9/adma75497-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "催化",
+   "title": "光酶联手，碳碳偶联玩出分支",
+   "text": "研究筛选了180对酶与光催化剂组合，发现发散性光生物催化碳碳偶联。经过进化的PLP酶能选择性地产出支链或直链非天然氨基酸，立体控制水平很高。",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "title_en": "Multicatalytic cooperativity enables divergent photobiocatalytic C–C couplings for scaffold diversification",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01629-1/MediaObjects/41929_2026_1629_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "无金属磁体，可吸收的生物传感器",
+   "text": "植入式磁传感能无线监测生理信号，但常规金属磁体在功能寿命结束后仍留在体内。研究者开发出一种可生物吸收的无金属分子磁体，可作为植入的磁信号源，实现对器官运动的无线连续监测。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Metal-free magnets for bioresorbable biosensors",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02758-5/MediaObjects/41563_2026_2758_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "材料化学",
+   "title": "五元七元环织成的碳带能导电",
+   "text": "研究者把原本做不出来的成对五元环链连接起来，合成了只由五元和七元碳环组成的条带。这种条带具有类似金属的电子传输和电导行为，为制备高导电碳纳米带提供了一条新路线。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Ribbon made of carbon pentagons and heptagons has metallic properties",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03298-3/d41586-026-03298-3_53903590.jpg"
+  }
+ ]
+}

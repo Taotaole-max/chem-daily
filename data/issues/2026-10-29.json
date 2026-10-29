@@ -1,0 +1,195 @@
+{
+ "lead": "碳五元环七元环联手导电，AI帮钙钛矿找分子，酵母配电能吃CO₂。",
+ "items": [
+  {
+   "title_zh": "五元七元环织成的碳带能导电",
+   "blurb": "研究者把原本做不出来的成对五元环链连接起来，合成了只由五元和七元碳环组成的条带。这种条带具有类似金属的电子传输和电导行为，为制备高导电碳纳米带提供了一条新路线。",
+   "tags": [
+    "碳纳米带",
+    "五元环",
+    "电子传输"
+   ],
+   "field": "材料化学",
+   "title_en": "Ribbon made of carbon pentagons and heptagons has metallic properties",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/d41586-026-03298-3",
+   "doi": "10.1038/d41586-026-03298-3",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03298-3/d41586-026-03298-3_53903590.jpg",
+   "authors": "",
+   "id": "10.1038/d41586-026-03298-3"
+  },
+  {
+   "title_zh": "AI筛出钙钛矿电池的自组装单层",
+   "blurb": "研究用AI框架结合逆合成预测、高通量DFT筛选和化学经验，找到一种易合成且界面稳定的自组装单层（SAM）。最优候选在钙钛矿光伏中实现27.2%效率，65 °C最大功率点跟踪2000小时后仍保持初始效率的95%以上。",
+   "tags": [
+    "钙钛矿",
+    "自组装单层",
+    "AI筛选"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "AI-guided discovery of self-assembled monolayers combining synthetic accessibility and interfacial stability for perovskite solar cells",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44160-026-01203-4",
+   "doi": "10.1038/s44160-026-01203-4",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01203-4/MediaObjects/44160_2026_1203_Figa_HTML.png",
+   "authors": "Fengchun Cai, Geping Qu, Baicheng Zhang, Letian Zhang, Linjiang Chen, Kaitian Mao, Lianyou Tang, Yusong Wang, Minghui Li, Shaojie Yuan, Huitian Guo, Feiyang Liu, Yuetong Ma, Chuanxiao Xiao, Alex K.-Y.",
+   "id": "10.1038/s44160-026-01203-4"
+  },
+  {
+   "title_zh": "光酶联手，碳碳偶联玩出分支",
+   "blurb": "研究筛选了180对酶与光催化剂组合，发现发散性光生物催化碳碳偶联。经过进化的PLP酶能选择性地产出支链或直链非天然氨基酸，立体控制水平很高。",
+   "tags": [
+    "光生物催化",
+    "碳碳偶联",
+    "非天然氨基酸"
+   ],
+   "field": "催化",
+   "title_en": "Multicatalytic cooperativity enables divergent photobiocatalytic C–C couplings for scaffold diversification",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01629-1",
+   "doi": "10.1038/s41929-026-01629-1",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01629-1/MediaObjects/41929_2026_1629_Figa_HTML.png",
+   "authors": "Liu-Peng Zhao, Binh Khanh Mai, Rui Guo, Lei Cheng, Huichong Liu, Ken Lin, Yunlong Zhao, Peng Liu, Yang Yang",
+   "id": "10.1038/s41929-026-01629-1"
+  },
+  {
+   "title_zh": "宇宙最富的氢，地球 Flask 里造",
+   "blurb": "氢是宇宙中最丰富的元素，是恒星燃料，也是更重元素的原料。但氢原子在地球上几乎不以单质形式存在，这篇报道聊的是现在能在烧瓶里把它制备出来这件事。",
+   "tags": [
+    "氢原子",
+    "宇宙丰度",
+    "制备"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "The hydrogen atom: The raw material of the universe barely exists on Earth—now we've made it in a flask",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-hydrogen-atom-raw-material-universe.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dense-stars.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-hydrogen-atom-raw-material-universe.html"
+  },
+  {
+   "title_zh": "RuW纳米花：pH 1到14都能产氨",
+   "blurb": "研究者合成了非常规面心立方（fcc）RuW合金纳米花，在pH 1到14范围内氨法拉第效率（FE）高于91.0%，最大产率40.1 mg h⁻¹ mgcat⁻¹。在300 mA cm⁻²工业级电流密度下也表现出良好稳定性。",
+   "tags": [
+    "硝酸根还原",
+    "RuW合金",
+    "产氨"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Steering pH‐Dependent Pathways on Unconventional Phase Alloy Nanostructures for Universal Nitrate Electroreduction",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74915?af=R",
+   "doi": "10.1002/adma.74915",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/650bbab9-729a-426b-b3aa-ac7b196e4b88/adma74915-gra-0001-m.png",
+   "authors": "Fengkun Hao, \nLiang Guo, \nYunhao Wang, \nXinyi Li, \nJingwen Zhou, \nFu Liu, \nJuan Wang, \nPeng Chen, \nYuecheng Xiong, \nChaohui Wang, \nYangbo Ma, \nXiang Meng, \nGuozhi Wang, \nQingbo Wa, \nMingzheng Shao, \nX",
+   "id": "10.1002/adma.74915"
+  },
+  {
+   "title_zh": "C60编成二维网，负极容量超理论值",
+   "blurb": "研究首次把无金属二维C60共价网络（2D-C60）用作锂离子电池负极，两种键合方式分别对应四方相和六方相。有序结构缓解了C60自聚集、暴露更多锂离子结合位点，共价网络还抑制C60在电解液中溶解。TP-2D-C60在0.1 A g⁻¹下比容量达522.0 mAh g⁻¹，超过C60理论容量446 mAh g⁻¹。",
+   "tags": [
+    "富勒烯",
+    "二维共价网络",
+    "锂离子电池"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Breaking the Theoretical Capacity Limit of Fullerene Anode in Alkali‐Ion Batteries Through Two‐Dimensional Covalent Network Engineering",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75497?af=R",
+   "doi": "10.1002/adma.75497",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/d13a589e-80ea-4a34-98cf-be1d80de27c9/adma75497-gra-0001-m.png",
+   "authors": "Rongyao Lv, \nJialong Shen, \nXuan Wu, \nZhihao Chen, \nYalin Lu, \nWenhua Zhang, \nYan Yu, \nShangfeng Yang",
+   "id": "10.1002/adma.75497"
+  },
+  {
+   "title_zh": "酵母加电，把CO₂变成衣康酸",
+   "blurb": "德国UFZ与维也纳BOKU大学合作，把电化学和微生物过程结合，捕集CO₂并生产衣康酸，一种用于可降解塑料的生物基化学品。研究者认为换不同微生物还有望产出更多种化学品。",
+   "tags": [
+    "CO₂转化",
+    "衣康酸",
+    "微生物电化学"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Yeast paired with electricity can convert CO₂ into a chemical used in biodegradable plastics",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/yeast-and-electricity.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html"
+  },
+  {
+   "title_zh": "固态纳米孔加机器学习，血清里认多肽",
+   "blurb": "研究搭建聚合物修饰的固态纳米孔平台，在20%人血清中直接电识别和定量多肽标志物。半稀聚乙二醇网络产生渗透驱动力促进多肽捕获，同时屏蔽导致堵孔的非特异性相互作用，再结合机器学习辅助的数字血清清洗。三种仅差一两个末端氨基酸的激肽标志物也能各自给出不同电信号。",
+   "tags": [
+    "固态纳米孔",
+    "多肽标志物",
+    "机器学习"
+   ],
+   "field": "分析化学",
+   "title_en": "Direct Identification and Quantification of Peptide Biomarkers in 20% Human Serum Using a Solid-State Nanopore Platform and Machine Learning",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17884",
+   "doi": "10.1021/jacs.6c17884",
+   "image": null,
+   "authors": "Yuhua Cai, Yuhan Liu, Ismahane Khaled, Benjamin Cressiot, Laurent Bacri, Juan Pelta",
+   "id": "10.1021/jacs.6c17884"
+  },
+  {
+   "title_zh": "甲基环己烷帮忙，聚丙烯变石脑油",
+   "blurb": "研究考察聚合物与溶剂的相互作用如何影响聚丙烯链构象和催化性能。在测试的溶剂中，甲基环己烷提高了聚丙烯转化率，产物更偏向石脑油范围液体而非气体，催化体系为PtRu/Al₂O₃上的串联脱氢-氢解。",
+   "tags": [
+    "聚丙烯",
+    "溶剂效应",
+    "氢解"
+   ],
+   "field": "化学工程",
+   "title_en": "Methylcyclohexane-assisted polypropylene upcycling over PtRu/Al 2 O 3 via tandem dehydrogenation–hydrogenolysis",
+   "source": "Energy Environ. Sci.",
+   "kind": "paper",
+   "link": "https://doi.org/10.1039/d6ee05130h",
+   "doi": "10.1039/d6ee05130h",
+   "image": null,
+   "authors": "Haokun Wang, Zhiyuan Zong, Mingyu Luo, Frederick Z. T. Yang, Jiaying Pan, Zeyu Wu",
+   "id": "10.1039/d6ee05130h"
+  },
+  {
+   "title_zh": "无金属磁体，可吸收的生物传感器",
+   "blurb": "植入式磁传感能无线监测生理信号，但常规金属磁体在功能寿命结束后仍留在体内。研究者开发出一种可生物吸收的无金属分子磁体，可作为植入的磁信号源，实现对器官运动的无线连续监测。",
+   "tags": [
+    "无金属磁体",
+    "可吸收",
+    "生物传感器"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Metal-free magnets for bioresorbable biosensors",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02758-5",
+   "doi": "10.1038/s41563-026-02758-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02758-5/MediaObjects/41563_2026_2758_Fig1_HTML.png",
+   "authors": "",
+   "id": "10.1038/s41563-026-02758-5"
+  }
+ ],
+ "fun_fact": {
+  "title": "氢是宇宙最丰富的元素",
+  "text": "按原子数算，氢约占宇宙普通物质的四分之三，氦次之。恒星核心靠氢核聚变供能，更重的元素也主要由氢和氦在恒星中逐步合成。"
+ },
+ "stats": {
+  "fetched": 2414,
+  "candidates": 90
+ },
+ "date": "2026-10-29",
+ "generated_at": "2026-10-29T12:49:44+08:00"
+}
