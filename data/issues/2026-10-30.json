@@ -1,0 +1,195 @@
+{
+ "lead": "碳材料玩出新花样，量子点从溶液里长，还有不用金属就把CO2变甲醇。",
+ "items": [
+  {
+   "title_zh": "碳五七环纳米带：通往碳量子线的路",
+   "blurb": "研究者把聚环辛二烯链转化后横向融合，合成了平面碳五七环纳米带（pentaheptite nanoribbon）。这种结构可能为碳量子线提供一条合成路径，听起来就像把碳原子排成了一条细线。",
+   "tags": [
+    "碳材料",
+    "纳米带",
+    "合成"
+   ],
+   "field": "材料化学",
+   "title_en": "Narrow carbon pentaheptite nanoribbon as a covalent metal",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11202-2",
+   "doi": "10.1038/s41586-026-11202-2",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11202-2/MediaObjects/41586_2026_11202_Fig1_HTML.png",
+   "authors": "Jianmin Huang, Qitang Fan, Jie Meng, Jia Liu, Jie Cui, Jianing Wang, Yi Li, Ruoting Yin, Honghe Ding, Junfa Zhu, Mengchun Ye, Shijing Tan, Chuanxu Ma, Yao Zhang, Qunxiang Li, Jinlong Yang, J. G. Hou, ",
+   "id": "10.1038/s41586-026-11202-2"
+  },
+  {
+   "title_zh": "单分子自旋-光子接口：量子网络新零件",
+   "blurb": "一个三线态卡宾（carbene）分子被放进特制晶体里，构成了稳定的单分子自旋-光子接口，相干时间达到毫秒级。这为化学工程化的分子量子比特（qubit）铺路，目标直指量子网络。",
+   "tags": [
+    "量子信息",
+    "卡宾",
+    "单分子"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "A single-molecule spin–photon interface",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11147-6",
+   "doi": "10.1038/s41586-026-11147-6",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11147-6/MediaObjects/41586_2026_11147_Fig1_HTML.png",
+   "authors": "Simon Roggors, Thomas Unden, Anna Aubele, Paul Mentzel, Gregor Bayer, Alon Salhov, Jochen Scharpf, Martin B. Plenio, Alex Retzker, Fedor Jelezko, Tim R. Eichhorn, Tobias A. Schaub, Matthias Pfender, P",
+   "id": "10.1038/s41586-026-11147-6"
+  },
+  {
+   "title_zh": "电子束 subtraction 做出单原子层金属氧化物",
+   "blurb": "用电子束辅助减薄法，做出了自支撑的金属氧化物单层，还能搞横向异质结和扭转双层。二维量子系统的材料库又扩容了，以后说不定能像撕胶带一样玩氧化物。",
+   "tags": [
+    "二维材料",
+    "金属氧化物",
+    "单层"
+   ],
+   "field": "材料化学",
+   "title_en": "Free-standing two-dimensional metal oxides at the single-atomic-layer limit",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02793-2",
+   "doi": "10.1038/s41563-026-02793-2",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02793-2/MediaObjects/41563_2026_2793_Fig1_HTML.png",
+   "authors": "Meng Gao, Deping Guo, Ang Li, Renhong Wang, Zhitong Jin, Chun Huang, Yixiang Lu, Yuhao Pan, Jiuxiang Dai, Panqi Huang, Kangjie Liu, Cong Wang, Lihong Bao, Lin Zhou, Jingsi Qiao, Wei Ji, Stephen J. Pen",
+   "id": "10.1038/s41563-026-02793-2"
+  },
+  {
+   "title_zh": "PbS红外成像器：直接从溶液里长出来",
+   "blurb": "把高性能PbS光电探测器原位单片集成到读出电路上，直接用溶液法生长红外图像传感器。薄膜电子性质不错，省去了不少传统工艺的麻烦。",
+   "tags": [
+    "红外成像",
+    "PbS",
+    "溶液法"
+   ],
+   "field": "化学工程",
+   "title_en": "Monolithically and in situ integrated PbS infrared imagers",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11222-y",
+   "doi": "10.1038/s41586-026-11222-y",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11222-y/MediaObjects/41586_2026_11222_Fig1_HTML.png",
+   "authors": "Sen Li, Jing Liu, Liang Gao, Yikai Wang, Ruofeng Liu, Jiabao Wan, Shuaikun Li, Zheyu Li, Jiayi Tang, Lei Ma, Mingyang Liu, Chengye Lin, Xiao Ji, Yuxuan Liu, Chao Chen, Xiaozhi Su, Luying Li, Jianbing ",
+   "id": "10.1038/s41586-026-11222-y"
+  },
+  {
+   "title_zh": "无金属催化：硼烷把CO2还原成甲醇",
+   "blurb": "新型硼取代N-杂环氮宾离子（NHN）催化剂，在室温和1 bar CO2下就能驱动6电子还原，得到甲氧基级产物。不用过渡金属，靠硼烷控制选择性，儿茶酚硼烷或BH3·SMe2能快速完全还原。",
+   "tags": [
+    "CO2还原",
+    "无金属催化",
+    "硼烷"
+   ],
+   "field": "催化",
+   "title_en": "Metal‐Free Reduction of CO2 to Methanol Using Boranes at Ambient Conditions Promoted by Boron‐Appended N‐Heterocyclic Nitrenium Catalysts",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3203227?af=R",
+   "doi": "10.1002/anie.3203227",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/f624a921-da3b-4965-b6de-6034e66bf0fb/anie75511-gra-0001-m.png",
+   "authors": "Rahul Mondal, \nReetu Rani Mondal, \nK. Geetharani",
+   "id": "10.1002/anie.3203227"
+  },
+  {
+   "title_zh": "2D-IR测键能：一次实验搞定溶液里的BDE",
+   "blurb": "利用X─H伸缩振动的非谐指纹，在Morse势框架下从单次二维红外（2D-IR）测量中提取解离能，进而得到溶液中的键解离自由能（BDFE）。在多种硅烷和不同极性溶剂上做了验证，省去了传统热力学循环的麻烦。",
+   "tags": [
+    "光谱",
+    "键能",
+    "2D-IR"
+   ],
+   "field": "分析化学",
+   "title_en": "Easy Access to Experimental Bond Dissociation Energies in Solution Using 2D‐IR Spectroscopy",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4964422?af=R",
+   "doi": "10.1002/anie.4964422",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/e65295e6-648f-43ae-b973-7554cbf9ff37/anie75477-gra-0001-m.png",
+   "authors": "Joseph Kölbel, \nLaurent Sévery, \nRicardo J. Fernández‐Terán",
+   "id": "10.1002/anie.4964422"
+  },
+  {
+   "title_zh": "硅胶废料化学回收：拆回单体，产率最高99%",
+   "blurb": "柏林工业大学的研究者把硅酮聚合物链拆成基本构建块，得到二甲基二氯硅烷，可以重新用来生产新硅酮。产率最高达99%，专治硅胶“太稳定所以难回收”的老毛病。",
+   "tags": [
+    "硅酮回收",
+    "化学回收",
+    "绿色化学"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Chemical recycling turns silicone waste into reusable building blocks with up to 99% yield",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-chemical-recycling-silicone-reusable-blocks.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/silicone.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-chemical-recycling-silicone-reusable-blocks.html"
+  },
+  {
+   "title_zh": "新催化剂修“质子高速路”助绿氨合成",
+   "blurb": "哈伯-博施法已经用了一百多年，耗全球约1%的能源，排放超过1%的人为CO2。新催化剂通过构建质子传输通道来应对绿氨合成中的一个老难题，具体细节还得看后续论文。",
+   "tags": [
+    "绿氨",
+    "催化",
+    "质子传输"
+   ],
+   "field": "催化",
+   "title_en": "New catalyst builds proton highways to tackle a long-standing hurdle in green ammonia synthesis",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-catalyst-proton-highways-tackle-hurdle.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-catalyst-creates-p.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-catalyst-proton-highways-tackle-hurdle.html"
+  },
+  {
+   "title_zh": "钙钛矿晶格顺应性：双面叠层电池的稳定密码",
+   "blurb": "双面钙钛矿/硅叠层太阳能电池有高面积功率输出的潜力，但光热稳定性受什么控制一直不清楚。研究把晶格顺应性（lattice compliance）识别为筛选稳定钙钛矿的描述符。",
+   "tags": [
+    "钙钛矿",
+    "叠层电池",
+    "稳定性"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Perovskite lattice compliance enables efficient and stable bifacial perovskite/silicon tandem photovoltaics",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02162-y",
+   "doi": "10.1038/s41560-026-02162-y",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02162-y/MediaObjects/41560_2026_2162_Fig1_HTML.png",
+   "authors": "Fuzong Xu, Jiang Liu, Xuechun Zhang, Vladyslav Hnapovskyi, Ilhan Yavuz, Caner Deger, Wenpei Li, Arsalan Razzaq, Lujia Xu, Badri Vishal, Jinxi Chen, Mingjie He, Marco Marengo, Tianying Miao, Chongwen L",
+   "id": "10.1038/s41560-026-02162-y"
+  },
+  {
+   "title_zh": "镍催化双配体：把不利构型的环己烷捏出来",
+   "blurb": "取代环己烷是药物发现里的关键骨架，但热力学不利的立体异构体很难合成。双配体镍体系通过1,1-芳基官能化取代亚甲基环己烷，实现三组分立体选择性合成。",
+   "tags": [
+    "镍催化",
+    "立体选择性",
+    "环己烷"
+   ],
+   "field": "有机合成",
+   "title_en": "Combining anionic and neutral ligands for kinetic stereocontrol in nickel catalysis",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44160-026-01175-5",
+   "doi": "10.1038/s44160-026-01175-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01175-5/MediaObjects/44160_2026_1175_Figa_HTML.png",
+   "authors": "Dengyang Zhao, Yixin Luo, Jiao Long, Hongjin Shi, Xiaotian Qi, Yangyang Li, Guoyin Yin",
+   "id": "10.1038/s44160-026-01175-5"
+  }
+ ],
+ "fun_fact": {
+  "title": "金刚石和铅笔芯是亲戚",
+  "text": "金刚石和石墨都是碳的单质，只是碳原子排列方式不同。金刚石里每个碳原子与四个碳原子形成四面体结构，石墨则是层状六边形网络。同素异形体，性格差得远。"
+ },
+ "stats": {
+  "fetched": 2446,
+  "candidates": 90
+ },
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T12:49:20+08:00"
+}

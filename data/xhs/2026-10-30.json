@@ -1,0 +1,102 @@
+{
+ "title": "碳纳米带和分子量子比特都来了",
+ "cover_title": "碳五七环纳米带问世",
+ "cover_lines": [
+  "碳原子排成细线的新路径",
+  "单分子自旋光子接口亮相",
+  "电子束减出单原子层氧化物"
+ ],
+ "body": "今天文献刷得我眼睛疼，但有几条真值得唠唠。\n\n1️⃣ 研究者把聚环辛二烯链横向融合，做出了平面碳五七环纳米带（pentaheptite nanoribbon）。这种结构可能为碳量子线提供一条合成路径，说白了就是把碳原子排成一条细线，听着就带感。（Nature）\n\n2️⃣ 一个三线态卡宾（carbene）分子被塞进特制晶体里，成了稳定的单分子自旋-光子接口，相干时间达到毫秒级。这给化学工程化的分子量子比特（qubit）铺路，目标直指量子网络。（Nature）\n\n3️⃣ 用电子束辅助减薄法，做出了自支撑的金属氧化物单层，还能搞横向异质结和扭转双层。二维量子系统的材料库又扩容了，以后说不定真能像撕胶带一样玩氧化物。（Nature Materials）\n\n4️⃣ 新型硼取代N-杂环氮宾离子（NHN）催化剂，在室温和1 bar CO2下就能驱动6电子还原，得到甲氧基级产物。不用过渡金属，靠硼烷控制选择性，儿茶酚硼烷或BH3·SMe2能快速完全还原。（Angewandte Chemie）\n\n你们最近在做什么方向？有没有被哪条戳中？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "纳米材料",
+  "量子点",
+  "催化",
+  "太阳能电池",
+  "有机合成",
+  "文献分享"
+ ],
+ "id": "2026-10-30",
+ "kind": "daily",
+ "date": "2026-10-30",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月30日 周五",
+   "title": "碳五七环纳米带问世",
+   "lines": [
+    "碳原子排成细线的新路径",
+    "单分子自旋光子接口亮相",
+    "电子束减出单原子层氧化物"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11202-2/MediaObjects/41586_2026_11202_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11147-6/MediaObjects/41586_2026_11147_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02793-2/MediaObjects/41563_2026_2793_Fig1_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "材料化学",
+   "title": "碳五七环纳米带：通往碳量子线的路",
+   "text": "研究者把聚环辛二烯链转化后横向融合，合成了平面碳五七环纳米带（pentaheptite nanoribbon）。这种结构可能为碳量子线提供一条合成路径，听起来就像把碳原子排成了一条细线。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Narrow carbon pentaheptite nanoribbon as a covalent metal",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11202-2/MediaObjects/41586_2026_11202_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "单分子自旋-光子接口：量子网络新零件",
+   "text": "一个三线态卡宾（carbene）分子被放进特制晶体里，构成了稳定的单分子自旋-光子接口，相干时间达到毫秒级。这为化学工程化的分子量子比特（qubit）铺路，目标直指量子网络。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "A single-molecule spin–photon interface",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11147-6/MediaObjects/41586_2026_11147_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "材料化学",
+   "title": "电子束 subtraction 做出单原子层金属氧化物",
+   "text": "用电子束辅助减薄法，做出了自支撑的金属氧化物单层，还能搞横向异质结和扭转双层。二维量子系统的材料库又扩容了，以后说不定能像撕胶带一样玩氧化物。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Free-standing two-dimensional metal oxides at the single-atomic-layer limit",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02793-2/MediaObjects/41563_2026_2793_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "硅胶废料化学回收：拆回单体，产率最高99%",
+   "text": "柏林工业大学的研究者把硅酮聚合物链拆成基本构建块，得到二甲基二氯硅烷，可以重新用来生产新硅酮。产率最高达99%，专治硅胶“太稳定所以难回收”的老毛病。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Chemical recycling turns silicone waste into reusable building blocks with up to 99% yield",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/silicone.jpg"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "催化",
+   "title": "无金属催化：硼烷把CO2还原成甲醇",
+   "text": "新型硼取代N-杂环氮宾离子（NHN）催化剂，在室温和1 bar CO2下就能驱动6电子还原，得到甲氧基级产物。不用过渡金属，靠硼烷控制选择性，儿茶酚硼烷或BH3·SMe2能快速完全还原。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Metal‐Free Reduction of CO2 to Methanol Using Boranes at Ambient Conditions Promoted by Boron‐Appended N‐Heterocyclic Nitrenium Catalysts",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/f624a921-da3b-4965-b6de-6034e66bf0fb/anie75511-gra-0001-m.png"
+  }
+ ]
+}
