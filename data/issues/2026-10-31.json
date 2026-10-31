@@ -1,0 +1,195 @@
+{
+ "lead": "MXene被AI挖出一堆，铂表面键长手伸得挺远，还有手性钴帮你把CO2变乙醇。",
+ "items": [
+  {
+   "title_zh": "机器学习挖出隐藏MXene，几分钟烧成",
+   "blurb": "用机器学习翻旧数据库，找出33种曾被合成却没被认出的多层MXene（二维过渡金属碳化物/氮化物），并用自蔓延高温法在几分钟内合成7种，还首次做出11种稀土基MXene。不用持续加热，快且可放大，为这类二维材料加速。",
+   "tags": [
+    "MXene",
+    "机器学习",
+    "快速合成"
+   ],
+   "field": "材料化学",
+   "title_en": "Data-driven discovery and rapid, direct synthesis of MXenes",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aeh5957?af=R",
+   "doi": "10.1126/science.aeh5957",
+   "image": null,
+   "authors": "Ali Saffar Shamshirgar, Guilherme Ribeiro Portugal, Soheil Ershadrad, Roman Ivanov, Martin Dahlqvist, Florian Chabanais, Sanjay Chakraborty, Rainer Traksmaa, Topias Jussila, Maarit Karppinen, Irina Hu",
+   "id": "10.1126/science.aeh5957"
+  },
+  {
+   "title_zh": "铂表面化学键，10纳米外还能感受到",
+   "blurb": "在铂（Pt）表面原子台阶上测三种分子的吸附能，发现台阶间距变化100埃（10纳米）时，键强度能差0.2电子伏特。说明金属表面电子波函数延展很远，吸附位点之外的表面结构也影响成键，对理解铂纳米颗粒催化有启发。",
+   "tags": [
+    "表面催化",
+    "吸附能",
+    "电子离域"
+   ],
+   "field": "催化",
+   "title_en": "The delocalized nature of chemical bonding at a catalytic metal surface",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aei5255?af=R",
+   "doi": "10.1126/science.aei5255",
+   "image": null,
+   "authors": "Florian Nitz, Stefan Hörandl, Jonathan Pätzold, Alexander Kandratsenka, Theofanis N. Kitsopoulos, Daniel J. Auerbach, Alec M. Wodtke, Dmitriy Borodin",
+   "id": "10.1126/science.aei5255"
+  },
+  {
+   "title_zh": "钴酞菁催化剂扛住1000小时CO2捕集转化",
+   "blurb": "反应性CO2捕集把捕碳和电化学转化合成一步，但催化剂容易失活。研究发现pH摆动酸化会加速催化剂脱金属，于是设计钴酞菁（cobalt phthalocyanine）催化剂抑制金属流失，稳定产CO超过1000小时。",
+   "tags": [
+    "CO2捕集",
+    "电催化",
+    "催化剂稳定性"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Durable reactive CO 2 capture exceeding 1,000 h via self-reinforcing molecular catalysts",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02159-7",
+   "doi": "10.1038/s41560-026-02159-7",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02159-7/MediaObjects/41560_2026_2159_Fig1_HTML.png",
+   "authors": "Zunmin Guo, Feng Li, Cai Wang, Yurou Celine Xiao, Shayan Angizi, Rongyi Wang, Qian Sun, Jiexin Zhu, Kang-Shun Peng, Yu-Jhih Shen, Ying-Rui Lu, Jieyuan Liu, Qiyou Wang, Sekar Wibawa, Yu-Cheng Shao, Hir",
+   "id": "10.1038/s41560-026-02159-7"
+  },
+  {
+   "title_zh": "手性Co3O4把CO2变乙醇，选择性90%",
+   "blurb": "手性Co3O4在30 bar CO2、-0.9 V下电还原CO2，乙醇法拉第效率最高90%。手性结构带来的电子自旋极化促进电子转移和CO2活化，还降低C–C偶联生成*COCHO中间体的自由能变，高压也压制了析氢副反应。",
+   "tags": [
+    "手性催化",
+    "CO2还原",
+    "自旋极化"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Spin Polarized Chiral Co3O4 Boosts High‐Pressure CO2 Electroreduction to Ethanol With 90% Selectivity",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1640517?af=R",
+   "doi": "10.1002/anie.1640517",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/a2fecbef-e873-4d0a-a173-c2bbc98a23b6/anie75528-gra-0001-m.png",
+   "authors": "Mingliang Hu, \nMingzi Sun, \nRunyao Zhao, \nJunjun Li, \nYike Ye, \nYu Zhang, \nJiaju Fu, \nBing Tang, \nCan Yu, \nYunzhe Ke, \nShuaishuai Ding, \nBing Ni, \nBo Wang, \nChao Jin, \nRuquan Ye, \nZhimin Liu, \nZhichua",
+   "id": "10.1002/anie.1640517"
+  },
+  {
+   "title_zh": "球磨PTFE加锌铝，机械化学脱氟",
+   "blurb": "聚四氟乙烯（PTFE）和锌、铝等安全便宜的金属一起球磨，机械化学氧化还原直接生成sp2碳和金属氟化物，不用F2或HF。还能两步一锅回收NaF作为氟源，为PTFE脱氟和金属脱合金提供新路径。",
+   "tags": [
+    "机械化学",
+    "PTFE脱氟",
+    "废物利用"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Mechanochemical Defluorination of Polytetrafluoroethylene (PTFE) With Base Metals",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2816595?af=R",
+   "doi": "10.1002/anie.2816595",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/e76e2b01-18ec-43e7-9bec-f1c279702bb9/anie75262-gra-0001-m.png",
+   "authors": "Anže Zupanc, \nA. R. Bonnie J. Lutton Gething, \nAlex J. Green, \nShrestha Banerjee, \nMoosa Wasim, \nLuis Simbari, \nBenjamin B. Duff, \nPeter R. Slater, \nDominik J. Kubicki, \nErli Lu, \nTomislav Friščić",
+   "id": "10.1002/anie.2816595"
+  },
+  {
+   "title_zh": "铜催化烷基胺α-丙二烯化，一手抓两种手性",
+   "blurb": "铜催化N-α-氰基芳亚胺烷基胺与炔丙基碳酸酯反应，经亚胺炔丙基化和氮杂-Cope重排，一步构建含中心手性和轴手性的手性胺。机理显示氰基与双铜-丙二烯物种的配位和π–π作用决定选择性。",
+   "tags": [
+    "不对称合成",
+    "铜催化",
+    "手性胺"
+   ],
+   "field": "有机合成",
+   "title_en": "Copper-Catalyzed Diastereoselective and Enantioselective α-C–H Allenylation of Alkylamines",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17061",
+   "doi": "10.1021/jacs.6c17061",
+   "image": null,
+   "authors": "Dongshun Ni, Yang Yu, Yuming Pan, Zhenghua Li, Li Deng",
+   "id": "10.1021/jacs.6c17061"
+  },
+  {
+   "title_zh": "微调通用机器学习势，算锂电极电位",
+   "blurb": "把电解质的通用机器学习势加上数据高效微调，每个电解质体系只需约200次额外DFT计算，就能达到从头算精度算锂电极电位。还揭示局部Li+溶剂化环境与电位偏移的关系，帮理性设计电解液。",
+   "tags": [
+    "机器学习势",
+    "锂电池",
+    "电极电位"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Fine-Tuning Universal Machine Learning Potentials Enables Efficient Computation of Li Electrode Potentials in Battery Electrolytes",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c12519",
+   "doi": "10.1021/jacs.6c12519",
+   "image": null,
+   "authors": "Feng Wang, Yu-Hang Tang, Yi-Min Wei, Jun Cheng",
+   "id": "10.1021/jacs.6c12519"
+  },
+  {
+   "title_zh": "十二连接配体异构，编程MOF拓扑",
+   "blurb": "用间位/对位羧基取代的十二连接纳米石墨烯配体，合成两种锆基金属有机框架（MOF）：间位异构体得到新拓扑MOF-1300，对位异构体得到罕见kex拓扑MOF-1400。两者还能释放分子光催化剂，用于多氟芳烃加氢脱氟。",
+   "tags": [
+    "MOF",
+    "配体异构",
+    "光催化"
+   ],
+   "field": "无机与配位",
+   "title_en": "Programming MOF Topology through Twelve-Connected Linker Isomerism",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c19262",
+   "doi": "10.1021/jacs.6c19262",
+   "image": null,
+   "authors": "Saber Mirzaei, Andrea Rogolino, Mei-Yan Gao, Felipe Gándara, Yen-hsu Lin, Heqing Zhu",
+   "id": "10.1021/jacs.6c19262"
+  },
+  {
+   "title_zh": "电子当笔，在电镜里写单层氧化物",
+   "blurb": "在扫描透射电子显微镜里，对层状金属氧卤化物做选择性脱卤，直接得到自支撑单层氧化物片。合成和原子级观察同步进行，为二维氧化物制备提供新思路。",
+   "tags": [
+    "二维材料",
+    "电子显微术",
+    "单层氧化物"
+   ],
+   "field": "材料化学",
+   "title_en": "Writing monolayer oxides with electrons",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02788-z",
+   "doi": "10.1038/s41563-026-02788-z",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02788-z/MediaObjects/41563_2026_2788_Fig1_HTML.png",
+   "authors": "Ali Zavabeti",
+   "id": "10.1038/s41563-026-02788-z"
+  },
+  {
+   "title_zh": "铂表面键强，能感知10纳米外的表面特征",
+   "blurb": "新闻解读一项催化研究：分子在金属表面成键时，电子波函数可延伸到吸附位点之外。实验显示铂表面台阶间距变化100埃时，键强度最多差0.2电子伏特，说明表面很大范围都参与决定键强。",
+   "tags": [
+    "多相催化",
+    "表面科学",
+    "铂"
+   ],
+   "field": "催化",
+   "title_en": "One molecule, many atoms: Platinum bonds respond to surface features up to 10 nanometers away",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-molecule-atoms-platinum-bonds-surface.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemical-bonding-on-me.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-molecule-atoms-platinum-bonds-surface.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "石墨烯只有一层碳",
+  "text": "石墨烯是单层碳原子以sp2杂化排列成六角蜂窝晶格的二维材料。它只有一个原子厚，却同时拥有高导电性、高机械强度和极高比表面积，2004年由盖姆和诺沃肖洛夫用胶带剥离石墨制得。"
+ },
+ "stats": {
+  "fetched": 2438,
+  "candidates": 90
+ },
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T12:34:48+08:00"
+}

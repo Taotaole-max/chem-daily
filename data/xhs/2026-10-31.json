@@ -1,0 +1,101 @@
+{
+ "title": "手性氧化钴把CO2变乙醇，选择性90%",
+ "cover_title": "手性氧化钴把CO2变乙醇",
+ "cover_lines": [
+  "钴催化剂稳定产CO超千小时",
+  "手性结构让乙醇选择性达90%",
+  "球磨PTFE直接脱氟不用HF"
+ ],
+ "body": "今天这波化学新闻，从CO2转化到二维材料，全是硬菜，学长边看边感叹自己那瓶反应又白做了。\n\n1️⃣ 反应性CO2捕集里催化剂容易挂，研究发现pH摆动酸化会加速钴酞菁脱金属，于是设计新催化剂抑制金属流失，稳定产CO超过1000小时（Nature Energy）。捕碳又转化，还能扛这么久，离实用近了一步。\n\n2️⃣ 手性Co3O4电还原CO2，在30 bar、-0.9 V下乙醇法拉第效率最高90%（Angewandte Chemie）。手性带来的电子自旋极化促进电子转移和CO2活化，还降低C–C偶联能垒，高压顺便压住析氢，乙醇选择性直接拉满。\n\n3️⃣ 聚四氟乙烯（PTFE）和锌、铝一起球磨，机械化学氧化还原直接生成sp2碳和金属氟化物，不用F2或HF（Angewandte Chemie）。还能两步一锅回收NaF当氟源，PFAS处理难题看到新路子。\n\n4️⃣ 在扫描透射电子显微镜里对层状金属氧卤化物选择性脱卤，直接得到自支撑单层氧化物片，合成和原子级观察同步进行（Nature Materials）。电子束当刻笔，二维氧化物制备多了条想象空间。\n\n5️⃣ 机器学习翻旧数据库，找出33种曾被合成却没被认出的多层MXene，并用自蔓延高温法几分钟内合成7种，还首次做出11种稀土基MXene（Science）。不用持续加热，快且可放大，旧数据里真藏着宝。\n\n你们最近在做什么方向，有没有被催化剂失活折磨的，来评论区唠唠。",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "CO2转化",
+  "电催化",
+  "二维材料",
+  "机械化学",
+  "机器学习"
+ ],
+ "id": "2026-10-31",
+ "kind": "daily",
+ "date": "2026-10-31",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "10月31日 周六",
+   "title": "手性氧化钴把CO2变乙醇",
+   "lines": [
+    "钴催化剂稳定产CO超千小时",
+    "手性结构让乙醇选择性达90%",
+    "球磨PTFE直接脱氟不用HF"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02159-7/MediaObjects/41560_2026_2159_Fig1_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/a2fecbef-e873-4d0a-a173-c2bbc98a23b6/anie75528-gra-0001-m.png",
+    "https://onlinelibrary.wiley.com/cms/asset/e76e2b01-18ec-43e7-9bec-f1c279702bb9/anie75262-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "钴酞菁催化剂扛住1000小时CO2捕集转化",
+   "text": "反应性CO2捕集把捕碳和电化学转化合成一步，但催化剂容易失活。研究发现pH摆动酸化会加速催化剂脱金属，于是设计钴酞菁（cobalt phthalocyanine）催化剂抑制金属流失，稳定产CO超过1000小时。",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "title_en": "Durable reactive CO 2 capture exceeding 1,000 h via self-reinforcing molecular catalysts",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02159-7/MediaObjects/41560_2026_2159_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "手性Co3O4把CO2变乙醇，选择性90%",
+   "text": "手性Co3O4在30 bar CO2、-0.9 V下电还原CO2，乙醇法拉第效率最高90%。手性结构带来的电子自旋极化促进电子转移和CO2活化，还降低C–C偶联生成*COCHO中间体的自由能变，高压也压制了析氢副反应。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Spin Polarized Chiral Co3O4 Boosts High‐Pressure CO2 Electroreduction to Ethanol With 90% Selectivity",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/a2fecbef-e873-4d0a-a173-c2bbc98a23b6/anie75528-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "球磨PTFE加锌铝，机械化学脱氟",
+   "text": "聚四氟乙烯（PTFE）和锌、铝等安全便宜的金属一起球磨，机械化学氧化还原直接生成sp2碳和金属氟化物，不用F2或HF。还能两步一锅回收NaF作为氟源，为PTFE脱氟和金属脱合金提供新路径。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Mechanochemical Defluorination of Polytetrafluoroethylene (PTFE) With Base Metals",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/e76e2b01-18ec-43e7-9bec-f1c279702bb9/anie75262-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "材料化学",
+   "title": "电子当笔，在电镜里写单层氧化物",
+   "text": "在扫描透射电子显微镜里，对层状金属氧卤化物做选择性脱卤，直接得到自支撑单层氧化物片。合成和原子级观察同步进行，为二维氧化物制备提供新思路。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Writing monolayer oxides with electrons",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02788-z/MediaObjects/41563_2026_2788_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "材料化学",
+   "title": "机器学习挖出隐藏MXene，几分钟烧成",
+   "text": "用机器学习翻旧数据库，找出33种曾被合成却没被认出的多层MXene（二维过渡金属碳化物/氮化物），并用自蔓延高温法在几分钟内合成7种，还首次做出11种稀土基MXene。不用持续加热，快且可放大，为这类二维材料加速。",
+   "source": "Science",
+   "kind": "paper",
+   "title_en": "Data-driven discovery and rapid, direct synthesis of MXenes",
+   "image": ""
+  }
+ ]
+}
