@@ -1,0 +1,195 @@
+{
+ "lead": "今日份化学：AI解谱、电催化产尿素、还有辐射遥控药物。",
+ "items": [
+  {
+   "title_zh": "AI读谱解结构，准确率近八成",
+   "blurb": "这个叫 inverse-IMPRESSION 的平台用图变换网络从 NMR 数据反推分子结构。模拟数据下能正确识别 77.8% 的分子（最多 30 个重原子），实验数据下 19 个分子搞定 11 个。以后解谱不用全靠人脑硬猜了。",
+   "tags": [
+    "NMR",
+    "分子结构解析",
+    "机器学习"
+   ],
+   "field": "分析化学",
+   "title_en": "Inverse-IMPRESSION: A Graph-Based Platform for Molecular Structure Elucidation from Experimental NMR Spectroscopic Properties",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c14119",
+   "doi": "10.1021/jacs.6c14119",
+   "image": null,
+   "authors": "Zheqi Jin, Grace Armitage, Richard Cox, Ben Honoré, Mohammad Golbabaee, Craig Butts",
+   "id": "10.1021/jacs.6c14119"
+  },
+  {
+   "title_zh": "摩擦生电，常温常压把 CO2 变尿素",
+   "blurb": "接触电催化（CEC）在介电液体界面靠机械接触产生界面电荷，形成超强电场和局部 pH 梯度，让 CO2 和氨水直接合成尿素。拉曼测得界面电场高达 1.5×10¹⁰ V/m，还发现氰酸根中间体。",
+   "tags": [
+    "接触电催化",
+    "尿素合成",
+    "CO2利用"
+   ],
+   "field": "催化",
+   "title_en": "Contact-Electro-Catalysis Enables Ambient Coupling of CO2 and NH3 for Urea",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16362",
+   "doi": "10.1021/jacs.6c16362",
+   "image": null,
+   "authors": "Han Qian, Wenbo You, Ning Wu, Shaoxin Li, Mohsin Shah, Feiyao Yang",
+   "id": "10.1021/jacs.6c16362"
+  },
+  {
+   "title_zh": "硝酸自由基出手，PFOA 降解九成",
+   "blurb": "酸性 TiO2 悬浮液光照产生硝酸自由基（NO3•），9 小时内降解约 90% 的 PFOA，脱氟约 57%。硝酸根消耗后能再生，起催化作用。这给 PFAS 废水处理提供了一条新思路。",
+   "tags": [
+    "PFAS降解",
+    "光催化",
+    "硝酸自由基"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Photocatalytically Generated Nitrate Radicals Drive Decomposition of Perfluorooctanoic Acid",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4598413?af=R",
+   "doi": "10.1002/anie.4598413",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/7251e5d5-af81-4ef6-8a6e-5c207df076aa/anie75537-gra-0001-m.png",
+   "authors": "Dawei Wang, \nZhuang Liu, \nChaoyi Yin, \nAlessandro Gottuso, \nJinming Luo, \nYu Lei, \nMingce Long, \nFrancesco Parrino",
+   "id": "10.1002/anie.4598413"
+  },
+  {
+   "title_zh": "γ射线遥控钯催化，深层组织也能开锁",
+   "blurb": "低剂量 γ 射线在水里打出水合电子，激活钯催化剂，触发催化循环释放功能分子。G 值最高 25.8，比现有辐射化学高至少 20 倍。在小鼠肿瘤里成功激活前药，抗肿瘤效果不错。",
+   "tags": [
+    "γ射线",
+    "催化脱保护",
+    "前药激活"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Radiation‐Triggered Catalytic Decaging in Living Mice",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6330931?af=R",
+   "doi": "10.1002/anie.6330931",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/29814444-4025-4876-b7bf-2afd17e0b6d9/anie75339-gra-0001-m.png",
+   "authors": "Jian Wang, \nXianrui Zhang, \nYin Liang, \nLixia Liu, \nRuotong Deng, \nHanjie Zhu, \nPeng R. Chen, \nXinyuan Fan, \nWei Cao",
+   "id": "10.1002/anie.6330931"
+  },
+  {
+   "title_zh": "亚纳米三相界面，海水光电解产氢加速",
+   "blurb": "在 Pt/GaN 上分散 Cr(OH)x，造出亚纳米三相界面，把水活化、氢转移和 Pt-H 形成串起来，实现快速“氢泵”。中性海水光电解在低偏压甚至无偏压器件里也能跑出高电流。",
+   "tags": [
+    "光电化学",
+    "海水分解",
+    "三相界面"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Enhanced neutral seawater photoelectrolysis by fast hydrogen pumping at subnanometre triple interfaces",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44160-026-01179-1",
+   "doi": "10.1038/s44160-026-01179-1",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01179-1/MediaObjects/44160_2026_1179_Figa_HTML.png",
+   "authors": "Bingxing Zhang, Kejian Li, Zhuoran Long, Shiyuan Zhou, Deming Xia, Chengjun Sun, Zhengwei Ye, Yuyang Pan, Jan Paul Menzel, Kai Sun, Joseph S. Francisco, Gui-Liang Xu, Victor S. Batista, Zetian Mi",
+   "id": "10.1038/s44160-026-01179-1"
+  },
+  {
+   "title_zh": "乙酸根搭网络，CIGS 电池效率 18.53%",
+   "blurb": "黄铜矿太阳能电池的相演化和组分均匀性不好控。团队用乙酸根阴离子在前驱液里搭复杂网络，实现单相结晶和均匀镓合金化，溶液法制备的 Cu(In,Ga)Se2 电池效率做到 18.53%。",
+   "tags": [
+    "CIGS太阳能电池",
+    "溶液法",
+    "单相结晶"
+   ],
+   "field": "材料化学",
+   "title_en": "Chemical-linkage-regulated single-phase crystallization and uniform gallium alloying for efficient solution-processed chalcopyrite solar cells",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02157-9",
+   "doi": "10.1038/s41560-026-02157-9",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02157-9/MediaObjects/41560_2026_2157_Fig1_HTML.png",
+   "authors": "Chengfeng Ma, Kang Wu, Xinge Liu, Weibo Yan, Wei Tao, Haoyu Guo, Chunxu Xiang, Xinyu Li, Yize Li, Yuqi Liu, Yujie Cang, Na Zhao, Shaoying Wang, Wei Huang, Hao Xin",
+   "id": "10.1038/s41560-026-02157-9"
+  },
+  {
+   "title_zh": "吡啶间位单氟烷基化，首例通用方法",
+   "blurb": "先硼烷催化硼氢化，再钯催化氟烷基化，两步实现吡啶间位 C-H 单氟烷基化。机理上二氟烷基自由基加成后，脱氟/烯烃异构化 cascade 把中间体转成目标产物。底物范围广，还能 late-stage 修饰药物分子。",
+   "tags": [
+    "吡啶官能化",
+    "单氟烷基化",
+    "后期修饰"
+   ],
+   "field": "有机合成",
+   "title_en": "Meta‐Selective C─H Monofluoroalkylation of Pyridines With Difluoroalkyl Radicals",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1059611?af=R",
+   "doi": "10.1002/anie.1059611",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/361dd23a-8403-4e60-a7ec-4edc7c9776d8/anie75493-gra-0001-m.png",
+   "authors": "Ming Zhang, \nHeng Luo, \nYi Chang, \nSheng‐Shi Hao, \nZhu‐Jun Shi, \nJian‐Hua Xie, \nXiao‐Chen Wang",
+   "id": "10.1002/anie.1059611"
+  },
+  {
+   "title_zh": "光酶联手，手性磷化合物随心配",
+   "blurb": "磷中心自由基的立体控制一直很难。把依赖烟酰胺的亚胺还原酶改造成光激发版本，实现立体发散氢膦化，拿到 C-、P- 和 C/P-手性氧化膦，选择性都很高。",
+   "tags": [
+    "光酶催化",
+    "手性膦",
+    "立体发散"
+   ],
+   "field": "催化",
+   "title_en": "Photoenzymatic stereodivergent hydrophosphinylation enabled by nicotinamide-dependent imine reductases",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01624-6",
+   "doi": "10.1038/s41929-026-01624-6",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01624-6/MediaObjects/41929_2026_1624_Figa_HTML.png",
+   "authors": "Kaihao Mou, Zehua Tian, Weihua Xu, Xiuwen Kang, Yuyang Ma, Peixuan Zhuang, Zhenyu Lu, Jingxin Zhang, Yue Guo, Leyan Xu, Chunyang Cao, Zhiguo Wang, Bei Ding, Qi Wu",
+   "id": "10.1038/s41929-026-01624-6"
+  },
+  {
+   "title_zh": "10 毫秒闪光，造出更灵敏气体传感器",
+   "blurb": "用 10 毫秒强光脉冲一步制备二硫化钼薄片并锚定孤立金属原子。掺铂后对二氧化氮的室温响应在 400 ppb 下达到 100.8%，检测限 17.2 ppb。这方法还能往催化、能源器件上拓展。",
+   "tags": [
+    "气体传感器",
+    "二硫化钼",
+    "光脉冲"
+   ],
+   "field": "材料化学",
+   "title_en": "Scientists find that a 10-millisecond flash could help build more sensitive gas sensors",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hanyang-university-eri-4.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html"
+  },
+  {
+   "title_zh": "电网一分钟振荡，元凶是时钟同步软件",
+   "blurb": "五大洲电网都出现周期恰好 1 分钟的频率振荡。作者追踪到不间断电源等设备里时钟同步的软件，它们制造出整齐重复的用电峰值。这提醒我们 cyber-physical 系统里 unintended synchronization 挺要命。",
+   "tags": [
+    "电网频率",
+    "同步振荡",
+    "cyber-physical系统"
+   ],
+   "field": "化学工程",
+   "title_en": "One-minute frequency disturbances from unintended synchronization in cyber–physical power systems",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02144-0",
+   "doi": "10.1038/s41560-026-02144-0",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02144-0/MediaObjects/41560_2026_2144_Fig1_HTML.png",
+   "authors": "Carsten Hartmann, Edoardo De Din, Daniele Carta, Florian Middelkoop, Arndt Neubauer, Johannes Kruse, Ulrich Oberhofer, Richard Jumar, Benjamin Schäfer, Thiemo Pesch, Andrea Benigni, Dirk Witthaut",
+   "id": "10.1038/s41560-026-02144-0"
+  }
+ ],
+ "fun_fact": {
+  "title": "尿素最早是从尿里熬出来的",
+  "text": "1828 年维勒加热氰酸铵水溶液，意外得到尿素，这是第一次用无机物合成有机化合物，狠狠动摇了当时“生命力论”的根基。"
+ },
+ "stats": {
+  "fetched": 2401,
+  "candidates": 90
+ },
+ "date": "2026-11-01",
+ "generated_at": "2026-11-01T12:55:11+08:00"
+}

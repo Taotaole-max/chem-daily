@@ -1,0 +1,101 @@
+{
+ "title": "海水制氢+光酶造手性分子｜化学日报",
+ "cover_title": "亚纳米界面让海水制氢提速",
+ "cover_lines": [
+  "三相界面造出氢泵",
+  "光酶联手随心配手性",
+  "γ射线遥控深层催化"
+ ],
+ "body": "今天这几条，从海水制氢到光酶催化，都是能让人多看一眼的活儿。\n\n1️⃣ 在 Pt/GaN 上分散 Cr(OH)x，造出亚纳米三相界面，把水活化、氢转移和 Pt-H 形成串起来，实现快速“氢泵”。中性海水光电解在低偏压甚至无偏压器件里也能跑出高电流。（Nature Synthesis）\n\n2️⃣ 磷中心自由基的立体控制一直很难。把依赖烟酰胺的亚胺还原酶改造成光激发版本，实现立体发散氢膦化，拿到 C-、P- 和 C/P-手性氧化膦，选择性都很高。（Nature Catalysis）\n\n3️⃣ 低剂量 γ 射线在水里打出水合电子，激活钯催化剂，触发催化循环释放功能分子。G 值最高 25.8，比现有辐射化学高至少 20 倍。在小鼠肿瘤里成功激活前药，抗肿瘤效果不错。（Angewandte Chemie）\n\n4️⃣ 先硼烷催化硼氢化，再钯催化氟烷基化，两步实现吡啶间位 C-H 单氟烷基化。机理上二氟烷基自由基加成后，脱氟/烯烃异构化 cascade 把中间体转成目标产物。底物范围广，还能 late-stage 修饰药物分子。（Angewandte Chemie）\n\n你们最近在做什么方向，有没有被哪条戳中？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "催化",
+  "光催化",
+  "电化学",
+  "有机合成",
+  "文献分享"
+ ],
+ "id": "2026-11-01",
+ "kind": "daily",
+ "date": "2026-11-01",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月1日 周日",
+   "title": "亚纳米界面让海水制氢提速",
+   "lines": [
+    "三相界面造出氢泵",
+    "光酶联手随心配手性",
+    "γ射线遥控深层催化"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01179-1/MediaObjects/44160_2026_1179_Figa_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01624-6/MediaObjects/41929_2026_1624_Figa_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/29814444-4025-4876-b7bf-2afd17e0b6d9/anie75339-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "亚纳米三相界面，海水光电解产氢加速",
+   "text": "在 Pt/GaN 上分散 Cr(OH)x，造出亚纳米三相界面，把水活化、氢转移和 Pt-H 形成串起来，实现快速“氢泵”。中性海水光电解在低偏压甚至无偏压器件里也能跑出高电流。",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "title_en": "Enhanced neutral seawater photoelectrolysis by fast hydrogen pumping at subnanometre triple interfaces",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01179-1/MediaObjects/44160_2026_1179_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "催化",
+   "title": "光酶联手，手性磷化合物随心配",
+   "text": "磷中心自由基的立体控制一直很难。把依赖烟酰胺的亚胺还原酶改造成光激发版本，实现立体发散氢膦化，拿到 C-、P- 和 C/P-手性氧化膦，选择性都很高。",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "title_en": "Photoenzymatic stereodivergent hydrophosphinylation enabled by nicotinamide-dependent imine reductases",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01624-6/MediaObjects/41929_2026_1624_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "γ射线遥控钯催化，深层组织也能开锁",
+   "text": "低剂量 γ 射线在水里打出水合电子，激活钯催化剂，触发催化循环释放功能分子。G 值最高 25.8，比现有辐射化学高至少 20 倍。在小鼠肿瘤里成功激活前药，抗肿瘤效果不错。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Radiation‐Triggered Catalytic Decaging in Living Mice",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/29814444-4025-4876-b7bf-2afd17e0b6d9/anie75339-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "有机合成",
+   "title": "吡啶间位单氟烷基化，首例通用方法",
+   "text": "先硼烷催化硼氢化，再钯催化氟烷基化，两步实现吡啶间位 C-H 单氟烷基化。机理上二氟烷基自由基加成后，脱氟/烯烃异构化 cascade 把中间体转成目标产物。底物范围广，还能 late-stage 修饰药物分子。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Meta‐Selective C─H Monofluoroalkylation of Pyridines With Difluoroalkyl Radicals",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/361dd23a-8403-4e60-a7ec-4edc7c9776d8/anie75493-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "材料化学",
+   "title": "10 毫秒闪光，造出更灵敏气体传感器",
+   "text": "用 10 毫秒强光脉冲一步制备二硫化钼薄片并锚定孤立金属原子。掺铂后对二氧化氮的室温响应在 400 ppb 下达到 100.8%，检测限 17.2 ppb。这方法还能往催化、能源器件上拓展。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Scientists find that a 10-millisecond flash could help build more sensitive gas sensors",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hanyang-university-eri-4.jpg"
+  }
+ ]
+}

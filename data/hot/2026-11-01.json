@@ -1,0 +1,353 @@
+{
+ "updated": "2026-11-01",
+ "windows": [
+  {
+   "key": "1m",
+   "label": "近 1 个月",
+   "items": [
+    {
+     "title_en": "Less can be more for predicting properties with large language models",
+     "source": "Nature Computational Science",
+     "cited": 13,
+     "date": "2026-10-12",
+     "link": "https://doi.org/10.1038/s43588-026-01045-2",
+     "tier": 8,
+     "title_zh": "大模型预测性质，少即是多",
+     "one_line": "研究用大语言模型从结构数据预测材料性质时，怎样用更少信息更可靠。",
+     "field": "计算化学与AI"
+    },
+    {
+     "title_en": "AIMNet2-rxn: A machine-learned potential for generalized reaction modeling on a millions-of-pathways scale",
+     "source": "Science Advances",
+     "cited": 13,
+     "date": "2026-10-07",
+     "link": "https://doi.org/10.1126/sciadv.aea1557",
+     "tier": 7,
+     "title_zh": "可模拟百万反应路径的通用势",
+     "one_line": "造出通用机器学习势，能在百万条路径规模上较准地模拟化学反应。",
+     "field": "计算化学与AI"
+    },
+    {
+     "title_en": "Low Energy Excitations in a [4]Triangulene Honeycomb Antiferromagnet",
+     "source": "ACS Nano",
+     "cited": 8,
+     "date": "2026-10-20",
+     "link": "https://doi.org/10.1021/acsnano.6c11666",
+     "tier": 7,
+     "title_zh": "三角烯蜂窝反铁磁体的低能激发",
+     "one_line": "在表面合成碳基三角烯蜂窝晶格，并观测到其低能磁激发。",
+     "field": "材料化学"
+    },
+    {
+     "title_en": "Entropy–Enthalpy Compensation in Electrocatalytic Rates",
+     "source": "ACS Catalysis",
+     "cited": 6,
+     "date": "2026-10-29",
+     "link": "https://doi.org/10.1021/acscatal.6c05402",
+     "tier": 7,
+     "title_zh": "电催化速率中的熵焓补偿",
+     "one_line": "用简单析氢模型说明电催化速率随温度变化时熵与焓如何相互补偿。",
+     "field": "催化"
+    },
+    {
+     "title_en": "Genetic encoding and mutagenesis of RNA droplet phenotypes",
+     "source": "Nature Chemical Engineering",
+     "cited": 5,
+     "date": "2026-10-07",
+     "link": "https://doi.org/10.1038/s44286-026-00454-4",
+     "tier": 8,
+     "title_zh": "RNA液滴表型的基因编码与突变",
+     "one_line": "让RNA液滴包住自己的DNA模板，建立基因型与液滴表型的对应关系。",
+     "field": "化学生物学与药物"
+    },
+    {
+     "title_en": "Cryo-EM structure of a methanogen nitrogenase–PII protein supercomplex",
+     "source": "Nature",
+     "cited": 3,
+     "date": "2026-10-07",
+     "link": "https://doi.org/10.1038/s41586-026-11116-z",
+     "tier": 10,
+     "title_zh": "产甲烷菌固氮酶复合物冷冻电镜结构",
+     "one_line": "用冷冻电镜解析产甲烷菌固氮酶与PII蛋白超大复合物的结构。",
+     "field": "化学生物学与药物"
+    },
+    {
+     "title_en": "Free-standing two-dimensional metal oxides at the single-atomic-layer limit",
+     "source": "Nature Materials",
+     "cited": 3,
+     "date": "2026-10-29",
+     "link": "https://doi.org/10.1038/s41563-026-02793-2",
+     "tier": 9,
+     "title_zh": "单原子层厚的自支撑二维金属氧化物",
+     "one_line": "实现多种自支撑金属氧化物做到单原子层极限的可控制备。",
+     "field": "材料化学"
+    },
+    {
+     "title_en": "Robust Spin Splitting and Fermiology in the Layered Altermagnet CoNb4Se8",
+     "source": "Advanced Materials",
+     "cited": 3,
+     "date": "2026-10-18",
+     "link": "https://doi.org/10.1002/adma.75367",
+     "tier": 8,
+     "title_zh": "层状交错磁体CoNb4Se8的自旋劈裂",
+     "one_line": "用谱学手段确认层状CoNb4Se8中稳健的自旋劈裂与费米面特征。",
+     "field": "材料化学"
+    },
+    {
+     "title_en": "Topology-enforced synthesis of atomically precise silver nanoclusters in 3D DNA lattices",
+     "source": "Science Advances",
+     "cited": 3,
+     "date": "2026-10-02",
+     "link": "https://doi.org/10.1126/sciadv.aec2365",
+     "tier": 7,
+     "title_zh": "DNA三维晶格中拓扑限定合成银簇",
+     "one_line": "借DNA三角拓扑结构作模板，合成原子数精确的银纳米簇。",
+     "field": "无机与配位"
+    },
+    {
+     "title_en": "The radical-radical cross-coupling of alkyl carboxylic acids and organoborons",
+     "source": "Nature Chemistry",
+     "cited": 2,
+     "date": "2026-10-05",
+     "link": "https://doi.org/10.1038/s41557-026-02237-z",
+     "tier": 9,
+     "title_zh": "烷基羧酸与有机硼的自由基交叉偶联",
+     "one_line": "实现烷基羧酸和有机硼化合物之间的自由基-自由基交叉偶联。",
+     "field": "有机合成"
+    }
+   ]
+  },
+  {
+   "key": "3m",
+   "label": "近 3 个月",
+   "items": [
+    {
+     "title_en": "Less can be more for predicting properties with large language models",
+     "source": "Nature Computational Science",
+     "cited": 13,
+     "date": "2026-10-12",
+     "link": "https://doi.org/10.1038/s43588-026-01045-2",
+     "tier": 8,
+     "title_zh": "大模型预测材料性质少即是多",
+     "one_line": "用大语言模型从晶体结构预测形成能和弹性模量，发现精简策略反而更可靠",
+     "field": "计算化学与AI"
+    },
+    {
+     "title_en": "AIMNet2-rxn: A machine-learned potential for generalized reaction modeling on a millions-of-pathways scale",
+     "source": "Science Advances",
+     "cited": 13,
+     "date": "2026-10-07",
+     "link": "https://doi.org/10.1126/sciadv.aea1557",
+     "tier": 7,
+     "title_zh": "百万级反应路径的通用机器学习势",
+     "one_line": "开发通用机器学习原子间势，能在百万条反应路径尺度上做反应机理建模",
+     "field": "计算化学与AI"
+    },
+    {
+     "title_en": "Synergistic Polarization Relaxation Loss in Multimetallic Hierarchical Hybridization and Preferred Orientation Strategies for Electromagnetic Wave Absorption",
+     "source": "Advanced Functional Materials",
+     "cited": 13,
+     "date": "2026-08-16",
+     "link": "https://doi.org/10.1002/adfm.77757",
+     "tier": 6,
+     "title_zh": "多金属分级杂化吸波材料",
+     "one_line": "用多金属离子交换构建分级异质结构，靠极化弛豫损耗增强电磁波吸收",
+     "field": "材料化学"
+    },
+    {
+     "title_en": "Machine‐Learning‐Guided Polarization‐Lattice Decoupling Enables Ultrahigh Energy Storage in Lead‐Free Dielectric Ceramics",
+     "source": "Advanced Materials",
+     "cited": 8,
+     "date": "2026-08-05",
+     "link": "https://doi.org/10.1002/adma.73801",
+     "tier": 8,
+     "title_zh": "机器学习解耦极化与晶格储能",
+     "one_line": "用可解释机器学习指导无铅介电陶瓷设计，解耦极化与击穿强度实现超高储能",
+     "field": "材料化学"
+    },
+    {
+     "title_en": "Low Energy Excitations in a [4]Triangulene Honeycomb Antiferromagnet",
+     "source": "ACS Nano",
+     "cited": 8,
+     "date": "2026-10-20",
+     "link": "https://doi.org/10.1021/acsnano.6c11666",
+     "tier": 7,
+     "title_zh": "三角烯蜂窝反铁磁体低能激发",
+     "one_line": "在表面合成碳基三角烯蜂窝晶格，观测并研究其低能激发和反铁磁行为",
+     "field": "材料化学"
+    },
+    {
+     "title_en": "Embracing triplet nitrenes for C-to-N replacement of complex bicyclic (hetero)aryl azides",
+     "source": "Science",
+     "cited": 6,
+     "date": "2026-09-24",
+     "link": "https://doi.org/10.1126/science.aef3511",
+     "tier": 10,
+     "title_zh": "三重态氮宾实现碳换氮",
+     "one_line": "利用三重态氮宾把复杂双环芳基叠氮中的碳原子替换成氮，绕开苛刻氧化条件",
+     "field": "有机合成"
+    },
+    {
+     "title_en": "Robust generative transition-state models for unseen chemistry",
+     "source": "Nature Computational Science",
+     "cited": 6,
+     "date": "2026-08-12",
+     "link": "https://doi.org/10.1038/s43588-026-01034-5",
+     "tier": 8,
+     "title_zh": "面向新化学的生成式过渡态模型",
+     "one_line": "构建稳健的生成式过渡态模型，用于预测训练中没见过的化学反应",
+     "field": "计算化学与AI"
+    },
+    {
+     "title_en": "Entropy–Enthalpy Compensation in Electrocatalytic Rates",
+     "source": "ACS Catalysis",
+     "cited": 6,
+     "date": "2026-10-29",
+     "link": "https://doi.org/10.1021/acscatal.6c05402",
+     "tier": 7,
+     "title_zh": "电催化速率中的熵焓补偿",
+     "one_line": "用简单表面动力学模型分析析氢反应速率随温度变化，揭示熵焓补偿效应",
+     "field": "催化"
+    },
+    {
+     "title_en": "High-throughput label-free single-cell proteomics enabled by multicolumn NanoLC",
+     "source": "Nature Communications",
+     "cited": 6,
+     "date": "2026-09-23",
+     "link": "https://doi.org/10.1038/s41467-026-78059-x",
+     "tier": 7,
+     "title_zh": "多柱纳流液相单细胞蛋白质组",
+     "one_line": "多柱纳流液相色谱质谱平台实现高通量免标记单细胞蛋白质组分析",
+     "field": "分析化学"
+    },
+    {
+     "title_en": "Mineral‐Inspired and Computation‐Assisted Rational Design of Polar Gittinsite‐Type Thiophosphates With Exceptional Nonlinear Optical Performance",
+     "source": "Advanced Functional Materials",
+     "cited": 6,
+     "date": "2026-08-06",
+     "link": "https://doi.org/10.1002/adfm.77528",
+     "tier": 6,
+     "title_zh": "仿矿物设计极性硫磷酸盐",
+     "one_line": "借鉴矿物结构并借助计算，设计出兼具大非线性光学响应和宽带隙的极性硫磷酸盐",
+     "field": "无机与配位"
+    }
+   ]
+  },
+  {
+   "key": "12m",
+   "label": "近 1 年",
+   "items": [
+    {
+     "title_en": "Rare-Earth-Induced Intermediate-Spin Co Centers in MnCo 2 O 4.5 for Sustainable Acidic Water Oxidation",
+     "source": "Journal of the American Chemical Society",
+     "cited": 99,
+     "date": "2025-11-28",
+     "link": "https://doi.org/10.1021/jacs.5c17361",
+     "tier": 8,
+     "title_zh": "稀土掺杂让钴自旋变中间态",
+     "one_line": "用稀土掺杂调钴的自旋态，让酸性析氧催化剂既更活泼又更稳定。",
+     "field": "催化"
+    },
+    {
+     "title_en": "Bioinspired Photothermal Superhydrophobic Metamaterial With Structured Micro‐Nano Crystal Arrays for Anti‐/De‐Icing",
+     "source": "Advanced Materials",
+     "cited": 96,
+     "date": "2025-11-05",
+     "link": "https://doi.org/10.1002/adma.202516655",
+     "tier": 8,
+     "title_zh": "仿生光热超疏水防冰材料",
+     "one_line": "仿生微纳晶体阵列做成光热超疏水表面，用来防冰除冰。",
+     "field": "材料化学"
+    },
+    {
+     "title_en": "Co3O4 as full-solar-spectrum photocatalyst for selective methane conversion through reactive oxygen species control",
+     "source": "Nature Catalysis",
+     "cited": 86,
+     "date": "2026-01-23",
+     "link": "https://doi.org/10.1038/s41929-025-01471-x",
+     "tier": 9,
+     "title_zh": "四氧化三钴全光谱光催化转化甲烷",
+     "one_line": "用四氧化三钴做全光谱光催化剂，靠调控活性氧选择性转化甲烷。",
+     "field": "催化"
+    },
+    {
+     "title_en": "Lignin-Directed Construction of Vertical Ru/RuO 2 Electron–Bridge Interfaces for Low-Input Self-Powered Hydrazine-Water Splitting",
+     "source": "Journal of the American Chemical Society",
+     "cited": 85,
+     "date": "2025-12-03",
+     "link": "https://doi.org/10.1021/jacs.5c15759",
+     "tier": 8,
+     "title_zh": "木质素引导构建钌基水合肼分解界面",
+     "one_line": "借木质素引导形成Ru/RuO2界面，实现低电压自供电水合肼-水分解制氢。",
+     "field": "电化学与能源"
+    },
+    {
+     "title_en": "Boosting Acidic Oxygen Evolution Electrocatalysis by Engineering the Interfacial Water at the Electrified RuO 2 -Electrolyte Interface",
+     "source": "Journal of the American Chemical Society",
+     "cited": 82,
+     "date": "2025-12-10",
+     "link": "https://doi.org/10.1021/jacs.5c16177",
+     "tier": 8,
+     "title_zh": "调控界面水提升酸性析氧稳定性",
+     "one_line": "通过间隙硼调控RuO2与电解液界面水结构，提升酸性析氧的长期稳定性。",
+     "field": "催化"
+    },
+    {
+     "title_en": "Vacuum ultraviolet second-harmonic generation in NH4B4O6F crystal",
+     "source": "Nature",
+     "cited": 80,
+     "date": "2026-01-28",
+     "link": "https://doi.org/10.1038/s41586-025-10007-z",
+     "tier": 10,
+     "title_zh": "NH4B4O6F晶体实现真空紫外倍频",
+     "one_line": "发现氟硼酸铵晶体NH4B4O6F可用于真空紫外激光倍频输出。",
+     "field": "无机与配位"
+    },
+    {
+     "title_en": "Mechanically Strong and Tough Ionic Liquid Gel Electrolyte for Four-Electron Zinc–Iodine Batteries",
+     "source": "Journal of the American Chemical Society",
+     "cited": 80,
+     "date": "2025-12-02",
+     "link": "https://doi.org/10.1021/jacs.5c18431",
+     "tier": 8,
+     "title_zh": "强韧离子液体凝胶用于锌碘电池",
+     "one_line": "设计兼具高强度和高韧性的离子液体凝胶电解质，用于四电子锌碘电池。",
+     "field": "电化学与能源"
+    },
+    {
+     "title_en": "Pore network tortuosity controls fast charging in supercapacitors",
+     "source": "Nature Materials",
+     "cited": 79,
+     "date": "2025-11-04",
+     "link": "https://doi.org/10.1038/s41563-025-02404-6",
+     "tier": 9,
+     "title_zh": "孔道弯曲度决定超级电容快充",
+     "one_line": "用核磁测孔道弯曲度，发现它而非介孔率才是超级电容快充的关键。",
+     "field": "材料化学"
+    },
+    {
+     "title_en": "Grain Boundary-Driven Synergistic Dual-Mechanism Catalysis in RuO 2 for Enhancing Acidic Oxygen Evolution Reaction Activity and Stability",
+     "source": "Journal of the American Chemical Society",
+     "cited": 76,
+     "date": "2025-11-20",
+     "link": "https://doi.org/10.1021/jacs.5c13192",
+     "tier": 8,
+     "title_zh": "晶界驱动RuO2双机制酸性析氧",
+     "one_line": "在超薄RuOx中造富晶界缺陷，让酸性析氧活性和稳定性同时提升。",
+     "field": "催化"
+    },
+    {
+     "title_en": "Decoupling the Effects of Ruthenium Sites and Oxygen Vacancies on the Mechanism Regulation of Acidic Water Oxidation",
+     "source": "ACS Nano",
+     "cited": 73,
+     "date": "2026-01-05",
+     "link": "https://doi.org/10.1021/acsnano.5c21185",
+     "tier": 7,
+     "title_zh": "拆分钌位点与氧空位对析氧的作用",
+     "one_line": "分别厘清钌掺杂和氧空位对酸性析氧晶格氧机制的各自贡献。",
+     "field": "催化"
+    }
+   ]
+  }
+ ]
+}

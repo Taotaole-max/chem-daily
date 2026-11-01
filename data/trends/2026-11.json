@@ -1,0 +1,418 @@
+{
+ "month": "2026-11",
+ "updated": "2026-11-01",
+ "window": {
+  "recent": "2026年08月–10月",
+  "base": "2025年08月–10月"
+ },
+ "months": [
+  "2024-11",
+  "2024-12",
+  "2025-01",
+  "2025-02",
+  "2025-03",
+  "2025-04",
+  "2025-05",
+  "2025-06",
+  "2025-07",
+  "2025-08",
+  "2025-09",
+  "2025-10",
+  "2025-11",
+  "2025-12",
+  "2026-01",
+  "2026-02",
+  "2026-03",
+  "2026-04",
+  "2026-05",
+  "2026-06",
+  "2026-07",
+  "2026-08",
+  "2026-09",
+  "2026-10"
+ ],
+ "headline": "磁性与辐射化学悄悄升温",
+ "intro": "本月化学圈的热点有点意思：一边是配位磁性和辐射探测这些偏基础的方向突然加速，同比涨幅都超过三成；另一边，电催化、钙钛矿和电池材料依然霸占发文量榜首，卷得飞起。整体看，大家在往更精细的调控和更交叉的应用上走。",
+ "rising": [
+  {
+   "id": "T10612",
+   "name_en": "Magnetism in coordination complexes",
+   "series": [
+    21,
+    18,
+    53,
+    12,
+    23,
+    12,
+    16,
+    21,
+    16,
+    10,
+    12,
+    18,
+    15,
+    23,
+    41,
+    9,
+    23,
+    19,
+    22,
+    20,
+    15,
+    23,
+    28,
+    24
+   ],
+   "recent": 75,
+   "base": 40,
+   "ratio": 1.65,
+   "papers": [
+    {
+     "title_en": "Redox-Controlled Access to Spin States from S = 0 to S = 3/2 in a 1,2-Dicarbonyl Scaffold Enabled by a Naphthoquinone-Fused N-Heterocyclic Carbene",
+     "link": "https://doi.org/10.1021/jacs.6c13908",
+     "source": "Journal of the American Chemical Society",
+     "cited": 2
+    },
+    {
+     "title_en": "Dinuclear Complexes of Linear, Two-Coordinate Iron(II) and Cobalt(II): Geometric Control over Magnetic Exchange between Anisotropic Metal Centers",
+     "link": "https://doi.org/10.1021/jacs.6c07793",
+     "source": "Journal of the American Chemical Society",
+     "cited": 1
+    },
+    {
+     "title_en": "Tau2: A Program for the Simulation of Magnetic Relaxation",
+     "link": "https://doi.org/10.1021/acs.jctc.6c00890",
+     "source": "Journal of Chemical Theory and Computation",
+     "cited": 1
+    }
+   ],
+   "name_zh": "配位磁学",
+   "one_line": "自旋态调控和磁弛豫模拟程序Tau2带火，分子磁体设计更精细了。"
+  },
+  {
+   "id": "T11216",
+   "name_en": "Radiation Detection and Scintillator Technologies",
+   "series": [
+    9,
+    11,
+    11,
+    8,
+    6,
+    8,
+    8,
+    7,
+    6,
+    8,
+    16,
+    7,
+    10,
+    10,
+    15,
+    12,
+    13,
+    11,
+    8,
+    8,
+    12,
+    16,
+    16,
+    16
+   ],
+   "recent": 48,
+   "base": 31,
+   "ratio": 1.33,
+   "papers": [
+    {
+     "title_en": "Scintillating Fibers From Stable Heteroleptic Hybrid Glasses for Remote X‑Ray Detection",
+     "link": "https://doi.org/10.1002/adma.74844",
+     "source": "Advanced Materials",
+     "cited": 1
+    },
+    {
+     "title_en": "Interference‐Resisting Mechanoluminescence Ratiometric Dosimetry",
+     "link": "https://doi.org/10.1002/adma.74687",
+     "source": "Advanced Materials",
+     "cited": 1
+    },
+    {
+     "title_en": "Heterometallic Cu(I)/Ag(I)‐I Clusters With Improved Light Yield Towards Amorphous Glass Fibre Scintillators",
+     "link": "https://doi.org/10.1002/anie.5181748",
+     "source": "Angewandte Chemie International Edition",
+     "cited": 0
+    }
+   ],
+   "name_zh": "辐射探测与闪烁体",
+   "one_line": "玻璃纤维闪烁体和抗干扰剂量计频出，远程X射线检测有进展。"
+  },
+  {
+   "id": "T10973",
+   "name_en": "Radioactive element chemistry and processing",
+   "series": [
+    8,
+    15,
+    46,
+    14,
+    13,
+    16,
+    8,
+    22,
+    14,
+    11,
+    10,
+    18,
+    18,
+    13,
+    31,
+    13,
+    20,
+    11,
+    16,
+    25,
+    14,
+    21,
+    25,
+    13
+   ],
+   "recent": 59,
+   "base": 39,
+   "ratio": 1.32,
+   "papers": [
+    {
+     "title_en": "Novel Pathways to Treat Radioactively Contaminated Land: Bisphosphonate Ligands Enhance 99Tc Sequestration by Phosphate Minerals",
+     "link": "https://doi.org/10.1021/acs.est.6c06029",
+     "source": "Environmental Science & Technology",
+     "cited": 1
+    },
+    {
+     "title_en": "Near-Adjacent Heavy Lanthanide Separation and Sensing Using Dimerizing Lanmodulins",
+     "link": "https://doi.org/10.1021/jacs.6c08525",
+     "source": "Journal of the American Chemical Society",
+     "cited": 1
+    },
+    {
+     "title_en": "Photoinduced Electronic Modulation in a Thorium Cluster: Enabling Dual Radiation Sensing and Photothermal Conversion",
+     "link": "https://doi.org/10.1021/acs.inorgchem.6c02391",
+     "source": "Inorganic Chemistry",
+     "cited": 1
+    }
+   ],
+   "name_zh": "放射性元素化学",
+   "one_line": "从污染土地修复到锕系簇合物光调控，核素处理与传感两开花。"
+  },
+  {
+   "id": "T10075",
+   "name_en": "Atmospheric chemistry and aerosols",
+   "series": [
+    16,
+    19,
+    17,
+    17,
+    19,
+    12,
+    14,
+    21,
+    12,
+    15,
+    14,
+    20,
+    13,
+    17,
+    26,
+    32,
+    21,
+    21,
+    22,
+    23,
+    22,
+    21,
+    27,
+    24
+   ],
+   "recent": 72,
+   "base": 49,
+   "ratio": 1.31,
+   "papers": [
+    {
+     "title_en": "Bulk PM2.5 Masks Oxidative Potential and Reactive Oxygen Species Responses by Metal–Organic Complexation in PM1 and PM1–2.5 Fractions",
+     "link": "https://doi.org/10.1021/acs.est.6c09837",
+     "source": "Environmental Science & Technology",
+     "cited": 1
+    },
+    {
+     "title_en": "Beyond Targeted Calibrations: Comprehensive Quantification of Oxygenated Organic Compounds in Urban Atmospheres",
+     "link": "https://doi.org/10.1021/acs.est.6c04149",
+     "source": "Environmental Science & Technology",
+     "cited": 1
+    },
+    {
+     "title_en": "Comparable Organic Aerosol Mass Enhancement during Photochemical and Dark Oxidation of Biomass Burning Emissions",
+     "link": "https://doi.org/10.1021/acs.est.5c15841",
+     "source": "Environmental Science & Technology",
+     "cited": 1
+    }
+   ],
+   "name_zh": "大气化学与气溶胶",
+   "one_line": "PM2.5氧化潜势和生物质燃烧有机气溶胶增强机制被深挖。"
+  },
+  {
+   "id": "T10495",
+   "name_en": "Catalysts for Methane Reforming",
+   "series": [
+    25,
+    24,
+    64,
+    29,
+    21,
+    35,
+    25,
+    24,
+    23,
+    24,
+    27,
+    30,
+    32,
+    50,
+    106,
+    38,
+    41,
+    32,
+    28,
+    32,
+    43,
+    45,
+    31,
+    34
+   ],
+   "recent": 110,
+   "base": 81,
+   "ratio": 1.24,
+   "papers": [
+    {
+     "title_en": "Efficient Photo-Assisted Thermal Catalytic CO2 Methanation by Synergy of Ru Single Atoms and Ni Nanoparticles",
+     "link": "https://doi.org/10.1021/acscatal.6c03630",
+     "source": "ACS Catalysis",
+     "cited": 5
+    },
+    {
+     "title_en": "Non‐Covalent Host–Guest Extraction of Methanol Enables Enhanced Syngas‐to‐Methanol Conversion Over Hybrid Oxide–Porous Framework Catalysis",
+     "link": "https://doi.org/10.1002/anie.1543450",
+     "source": "Angewandte Chemie International Edition",
+     "cited": 3
+    },
+    {
+     "title_en": "Vacancy-Engineered Perovskite Ferrites Stabilize Atomic Ru Sites and Activate Lattice Oxygen for Photothermal Methane Dry Reforming",
+     "link": "https://doi.org/10.1021/jacs.6c05473",
+     "source": "Journal of the American Chemical Society",
+     "cited": 3
+    }
+   ],
+   "name_zh": "甲烷重整催化剂",
+   "one_line": "单原子与钙钛矿缺陷工程联手，光热催化干重整效率往上走。"
+  },
+  {
+   "id": "T10502",
+   "name_en": "Advanced Memory and Neural Computing",
+   "series": [
+    25,
+    33,
+    39,
+    25,
+    34,
+    29,
+    34,
+    18,
+    30,
+    27,
+    35,
+    34,
+    31,
+    42,
+    48,
+    30,
+    13,
+    31,
+    37,
+    44,
+    61,
+    40,
+    45,
+    44
+   ],
+   "recent": 129,
+   "base": 96,
+   "ratio": 1.23,
+   "papers": [
+    {
+     "title_en": "Noise‐Limited Bit Precision in Ferroelectric Synaptic Transistors for High‐Resolution Neuromorphic Computing",
+     "link": "https://doi.org/10.1002/adfm.77505",
+     "source": "Advanced Functional Materials",
+     "cited": 4
+    },
+    {
+     "title_en": "From Filamentary Failure to Durable Halide Perovskite Memristors",
+     "link": "https://doi.org/10.1021/acsnano.6c04620",
+     "source": "ACS Nano",
+     "cited": 2
+    },
+    {
+     "title_en": "Bare‐Die Antiferromagnetic Computing",
+     "link": "https://doi.org/10.1002/adma.75126",
+     "source": "Advanced Materials",
+     "cited": 1
+    }
+   ],
+   "name_zh": "先进存储与神经计算",
+   "one_line": "铁电突触晶体管精度和卤化物钙钛矿忆阻器耐久性都有新解。"
+  }
+ ],
+ "biggest": [
+  {
+   "id": "T10030",
+   "name_en": "Electrocatalysts for Energy Conversion",
+   "recent": 614,
+   "name_zh": "能源转化电催化"
+  },
+  {
+   "id": "T10247",
+   "name_en": "Perovskite Materials and Applications",
+   "recent": 543,
+   "name_zh": "钙钛矿材料与应用"
+  },
+  {
+   "id": "T10281",
+   "name_en": "Advanced Battery Materials and Technologies",
+   "recent": 471,
+   "name_zh": "先进电池材料与技术"
+  },
+  {
+   "id": "T11690",
+   "name_en": "Advanced battery technologies research",
+   "recent": 338,
+   "name_zh": "先进电池技术研究"
+  },
+  {
+   "id": "T10018",
+   "name_en": "Advancements in Battery Materials",
+   "recent": 332,
+   "name_zh": "电池材料进展"
+  },
+  {
+   "id": "T10701",
+   "name_en": "Radical Photochemical Reactions",
+   "recent": 312,
+   "name_zh": "自由基光化学反应"
+  },
+  {
+   "id": "T10078",
+   "name_en": "Advanced Photocatalysis Techniques",
+   "recent": 311,
+   "name_zh": "先进光催化技术"
+  },
+  {
+   "id": "T10096",
+   "name_en": "Metal-Organic Frameworks: Synthesis and Applications",
+   "recent": 230,
+   "name_zh": "金属有机框架合成与应用"
+  }
+ ]
+}
