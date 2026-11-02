@@ -1,0 +1,195 @@
+{
+ "lead": "汞也能有稳定的氢化物，今天这期从“不可能”开始讲起。",
+ "items": [
+  {
+   "title_zh": "汞氢化物终于被逮住了",
+   "blurb": "有机汞氢化物（organomercury hydride）通常被认为是转瞬即逝的中间体，但这次用大位阻配体稳定住了一个芳基汞氢化物。它还能跟金属自由基反应生成汞-金属键。这说明汞氢键本身没那么弱，只是它太爱搞双金属反应了。",
+   "tags": [
+    "汞化学",
+    "金属氢化物",
+    "配位化学"
+   ],
+   "field": "无机与配位",
+   "title_en": "A Stable Terminal Mercury Hydride and Its Reactivity To Form Mercury–Metal Bonds",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c18189",
+   "doi": "10.1021/jacs.6c18189",
+   "image": null,
+   "authors": "Eric S. Yang, Milan Gembicky, Joshua S. Figueroa",
+   "id": "10.1021/jacs.6c18189"
+  },
+  {
+   "title_zh": "铁来帮忙，氧 redox 更可逆",
+   "blurb": "层状氧化物正极里的氧氧化还原（oxygen redox）能提高钠离子电池能量密度，但可逆性差一直是个坎。现在一种铁介导的氧化还原策略，为大幅提升氧氧化还原可逆性提供了路径。具体数据摘要没给，但方向挺实在。",
+   "tags": [
+    "钠离子电池",
+    "正极材料",
+    "氧氧化还原"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Ironing out oxygen instability",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02153-z",
+   "doi": "10.1038/s41560-026-02153-z",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02153-z/MediaObjects/41560_2026_2153_Fig1_HTML.png",
+   "authors": "Donggun Eum, William C. Chueh",
+   "id": "10.1038/s41560-026-02153-z"
+  },
+  {
+   "title_zh": "超声振动也能做聚硫氨酯",
+   "blurb": "用聚焦超声和机械振动在同一个反应锅里同时产生单电子和双电子硫醇反应，产物还能随反应伙伴偏转。作者用这个双电子路径首次振动驱动合成了聚硫氨酯（PTU），转化率超过90%，不用传统碱催化剂，聚合物还有抗疲劳的自适应行为。",
+   "tags": [
+    "机械化学",
+    "聚硫氨酯",
+    "超声合成"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Demonstration of a Two‐Electron Pathway in Piezoelectric Mechanochemistry: Synthesis and Mechanical Adaptation of Polythiourethane",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4499148?af=R",
+   "doi": "10.1002/anie.4499148",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/32f6d12c-e582-49c8-94ef-5e4691ba71db/anie75242-gra-0001-m.png",
+   "authors": "Yixiao Dong, \nFarsa Ram, \nJohn Brownridge, \nThalia Haines, \nPin‐Ruei Huang, \nMaría José Román‐Vasquez, \nJun Wang, \nAaron P. Esser‐Kahn",
+   "id": "10.1002/anie.4499148"
+  },
+  {
+   "title_zh": "氟石结构造出巨型负热膨胀",
+   "blurb": "首次合成出具有氟石结构的Ba[B(CN)4]2，平均原子体积很大。原位粉末X射线衍射显示，移除模板分子后它在620–657 K区间表现出巨型负热膨胀（NTE），体积热膨胀系数αv = –122.0 × 10−6 K−1。说明构建氟石结构是设计巨型NTE材料的有效策略。",
+   "tags": [
+    "负热膨胀",
+    "氟石结构",
+    "氰基硼酸盐"
+   ],
+   "field": "无机与配位",
+   "title_en": "Design of Giant Negative Thermal Expansion Based on a Fluorite Structure",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3246217?af=R",
+   "doi": "10.1002/anie.3246217",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/f36a2cf0-2bf4-44b9-a4ea-3029c52043c5/anie75555-gra-0001-m.png",
+   "authors": "Ayano Umakoshi, \nTakuo Minato, \nAkira Miura, \nTom Ichibha, \nRyo Maezono, \nMasahiro Sadakane",
+   "id": "10.1002/anie.3246217"
+  },
+  {
+   "title_zh": "中性水里沉淀分离稀土",
+   "blurb": "给EDTA接上疏水基团cs-124，得到EDTA-cs124，在中性水溶液中就能让轻稀土配合物优先沉淀。从废硬盘NdFeB磁体里回收钕，三次沉淀循环达到99.7%纯度、77%回收率，螯合剂还能以92%产率沉淀回收。全程不用有机溶剂。",
+   "tags": [
+    "稀土分离",
+    "EDTA",
+    "废物回收"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Lanthanide Separation via Selective Precipitation Under Neutral Aqueous Conditions With a Functionalized EDTA Chelator",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6458807?af=R",
+   "doi": "10.1002/anie.6458807",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/d1d2f41b-2c74-4c80-8420-277fe4e2bb2b/anie75539-gra-0001-m.png",
+   "authors": "Jiajun Qiu, \nLeo K. B. Tam, \nJean‐Claude G. Bünzli, \nKa‐Leung Wong",
+   "id": "10.1002/anie.6458807"
+  },
+  {
+   "title_zh": "碳量子环搞定聚集猝灭",
+   "blurb": "碳量子点（CQD）在固态容易聚集猝灭（ACQ），这次用闭环共轭的碳量子环拓扑结构来抑制分子间π–π耦合和非辐射衰减。溶液光致发光量子产率接近 unity，固态发光也高，天蓝色电致发光器件峰值外量子效率3.4%。",
+   "tags": [
+    "碳量子环",
+    "光致发光",
+    "电致发光"
+   ],
+   "field": "材料化学",
+   "title_en": "Topological Carbon Quantum Rings With Near‐Unity Photoluminescence for Efficient Sky‐Blue Electroluminescence",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7699510?af=R",
+   "doi": "10.1002/anie.7699510",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/4a7f3c37-3dc2-4fcd-8ce5-316520bcc7a3/anie75527-gra-0001-m.png",
+   "authors": "Renjing Chen, \nZemin Wang, \nXueting Liu, \nYa‐Kun Wang, \nPeng Pei, \nXiulin Li, \nPeng Wu, \nYourong Wu, \nJiaqi Wang, \nChunli Zhao, \nChenhao Li, \nJinli Liu, \nFanglong Yuan, \nKebin Lin",
+   "id": "10.1002/anie.7699510"
+  },
+  {
+   "title_zh": "银催化环氧化的氧覆盖度之争",
+   "blurb": "用操作态表面增强拉曼光谱（SERS）定量测工作态银催化剂上中间体的化学性质和表面浓度，来拆解氧覆盖度对环氧乙烷选择性的影响。发现选择性由两种机制竞争：氧覆盖度高会降低生成环氧乙烷的相对活化垒（电子效应），也会增加多氧碰撞概率（几何效应）。",
+   "tags": [
+    "银催化",
+    "环氧乙烷",
+    "拉曼光谱"
+   ],
+   "field": "催化",
+   "title_en": "Unveiling the Role of Surface Oxygen Coverage on Product Selectivity in Ethylene Epoxidation over Silver Catalysts via Operando Raman Spectroscopy",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16744",
+   "doi": "10.1021/jacs.6c16744",
+   "image": null,
+   "authors": "Shiuan-Bai Ann, Shawn Lu, Suljo Linic",
+   "id": "10.1021/jacs.6c16744"
+  },
+  {
+   "title_zh": "废PTFE变多孔碳纳米片",
+   "blurb": "用ZSM-5沸石颗粒做模板，把工业聚四氟乙烯（PTFE）废料共碳化转成多孔碳纳米片（PCN），同时把81%的氟固定成可回收的NaF。得到的碳比电容达430 F g−1，锌离子存储容量267 mAh g−1，还能适应极端温度，算是给PTFE废料找了条 scalable 的出路。",
+   "tags": [
+    "PTFE回收",
+    "多孔碳",
+    "电容储能"
+   ],
+   "field": "化学工程",
+   "title_en": "Scalable Upcycling of Industrial Waste Polytetrafluoroethylene Into Porous Carbon Nanosheets by Zeolite Particle Templates for Capacitive Energy Storage",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.5410375?af=R",
+   "doi": "10.1002/anie.5410375",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/6e6a805e-60da-4755-bc0f-47e3580569db/anie75420-gra-0001-m.png",
+   "authors": "Keyang Li, \nMenggang Li, \nYunfeng Feng, \nPeng Zhang, \nChenhui Zhou, \nZhuangzhuang He, \nYihong Liu, \nMengda Hou, \nJianning Gan, \nRongpei Wang, \nYilun Huang, \nMenghao Yang, \nMing Zhao, \nDaming Zhuang, \n",
+   "id": "10.1002/anie.5410375"
+  },
+  {
+   "title_zh": "AI把人的巧思变成酶",
+   "blurb": "化学助理教授Zhongyue Yang等人开发了一个AI工具，目标是把科学家的创意转化成增强功能的酶，而不是取代人。新闻里没给具体性能数据，但定位是辅助科研而不是抢饭碗，态度挺端正。",
+   "tags": [
+    "AI辅助设计",
+    "酶工程",
+    "计算化学"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemists-develop-ai-to.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html"
+  },
+  {
+   "title_zh": "钠离子电池也能拉伸",
+   "blurb": "研究人员从材料层面逐个设计，做出了一种可拉伸、可弯曲的钠离子电池，面向下一代可穿戴设备。具体性能摘要没展开，但“从零开始工程化每种材料”这个思路值得留意。",
+   "tags": [
+    "钠离子电池",
+    "可穿戴",
+    "柔性电池"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Sodium-ion batteries stretch their limits",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/energy/energy-storage/stretchable-rechargeable-sodium-ion-battery/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/News--Stretchable-sodium-ion-battery-for-wearables---662099:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Prachi Patel",
+   "id": "https://cen.acs.org/energy/energy-storage/stretchable-rechargeable-sodium-ion-battery/104/web/2026/10?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "汞是室温下唯一的液态金属",
+  "text": "汞（Hg）是元素周期表中唯一在标准状况下呈液态的金属，熔点约-38.8°C。这也是它被用来做温度计的原因之一，不过现在因为毒性，日常温度计已经很少用汞了。"
+ },
+ "stats": {
+  "fetched": 2388,
+  "candidates": 90
+ },
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T12:56:38+08:00"
+}

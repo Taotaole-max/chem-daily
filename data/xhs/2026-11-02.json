@@ -1,0 +1,101 @@
+{
+ "title": "氟石结构负热膨胀，真的巨型",
+ "cover_title": "氟石结构造出巨型负热膨胀",
+ "cover_lines": [
+  "废PTFE变多孔碳纳米片",
+  "中性水沉淀分离稀土",
+  "碳量子环搞定聚集猝灭"
+ ],
+ "body": "今天这几条，有把废料变宝的，也有把反常识做到极致的。\n\n1️⃣ 氟石结构造出巨型负热膨胀。首次合成出具有氟石结构的Ba[B(CN)4]2，平均原子体积很大。原位粉末X射线衍射显示，移除模板分子后它在620–657 K区间表现出巨型负热膨胀（NTE），体积热膨胀系数αv = –122.0 × 10−6 K−1。说明构建氟石结构是设计巨型NTE材料的有效策略。（Angewandte Chemie）\n\n2️⃣ 废PTFE变多孔碳纳米片。用ZSM-5沸石颗粒做模板，把工业聚四氟乙烯（PTFE）废料共碳化转成多孔碳纳米片（PCN），同时把81%的氟固定成可回收的NaF。得到的碳比电容达430 F g−1，锌离子存储容量267 mAh g−1，还能适应极端温度，算是给PTFE废料找了条可规模化的出路。（Angewandte Chemie）\n\n3️⃣ 中性水里沉淀分离稀土。给EDTA接上疏水基团cs-124，得到EDTA-cs124，在中性水溶液中就能让轻稀土配合物优先沉淀。从废硬盘NdFeB磁体里回收钕，三次沉淀循环达到99.7%纯度、77%回收率，螯合剂还能以92%产率沉淀回收。全程不用有机溶剂。（Angewandte Chemie）\n\n4️⃣ 碳量子环搞定聚集猝灭。碳量子点（CQD）在固态容易聚集猝灭（ACQ），这次用闭环共轭的碳量子环拓扑结构来抑制分子间π–π耦合和非辐射衰减。溶液光致发光量子产率接近 unity，固态发光也高，天蓝色电致发光器件峰值外量子效率3.4%。（Angewandte Chemie）\n\n5️⃣ 钠离子电池也能拉伸。研究人员从材料层面逐个设计，做出了一种可拉伸、可弯曲的钠离子电池，面向下一代可穿戴设备。具体性能摘要没展开，但“从零开始工程化每种材料”这个思路值得留意。（C&EN）\n\n你最近在做什么方向，有没有被负热膨胀或者回收稀土卡住过？",
+ "tags": [
+  "化学",
+  "材料",
+  "科研日常",
+  "读研",
+  "负热膨胀",
+  "稀土回收",
+  "钠离子电池",
+  "高分子",
+  "电化学"
+ ],
+ "id": "2026-11-02",
+ "kind": "daily",
+ "date": "2026-11-02",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月2日 周一",
+   "title": "氟石结构造出巨型负热膨胀",
+   "lines": [
+    "废PTFE变多孔碳纳米片",
+    "中性水沉淀分离稀土",
+    "碳量子环搞定聚集猝灭"
+   ],
+   "thumbs": [
+    "https://onlinelibrary.wiley.com/cms/asset/f36a2cf0-2bf4-44b9-a4ea-3029c52043c5/anie75555-gra-0001-m.png",
+    "https://onlinelibrary.wiley.com/cms/asset/6e6a805e-60da-4755-bc0f-47e3580569db/anie75420-gra-0001-m.png",
+    "https://onlinelibrary.wiley.com/cms/asset/d1d2f41b-2c74-4c80-8420-277fe4e2bb2b/anie75539-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "无机与配位",
+   "title": "氟石结构造出巨型负热膨胀",
+   "text": "首次合成出具有氟石结构的Ba[B(CN)4]2，平均原子体积很大。原位粉末X射线衍射显示，移除模板分子后它在620–657 K区间表现出巨型负热膨胀（NTE），体积热膨胀系数αv = –122.0 × 10−6 K−1。说明构建氟石结构是设计巨型NTE材料的有效策略。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Design of Giant Negative Thermal Expansion Based on a Fluorite Structure",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/f36a2cf0-2bf4-44b9-a4ea-3029c52043c5/anie75555-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "化学工程",
+   "title": "废PTFE变多孔碳纳米片",
+   "text": "用ZSM-5沸石颗粒做模板，把工业聚四氟乙烯（PTFE）废料共碳化转成多孔碳纳米片（PCN），同时把81%的氟固定成可回收的NaF。得到的碳比电容达430 F g−1，锌离子存储容量267 mAh g−1，还能适应极端温度，算是给PTFE废料找了条 scalable 的出路。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Scalable Upcycling of Industrial Waste Polytetrafluoroethylene Into Porous Carbon Nanosheets by Zeolite Particle Templates for Capacitive Energy Storage",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/6e6a805e-60da-4755-bc0f-47e3580569db/anie75420-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "中性水里沉淀分离稀土",
+   "text": "给EDTA接上疏水基团cs-124，得到EDTA-cs124，在中性水溶液中就能让轻稀土配合物优先沉淀。从废硬盘NdFeB磁体里回收钕，三次沉淀循环达到99.7%纯度、77%回收率，螯合剂还能以92%产率沉淀回收。全程不用有机溶剂。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Lanthanide Separation via Selective Precipitation Under Neutral Aqueous Conditions With a Functionalized EDTA Chelator",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/d1d2f41b-2c74-4c80-8420-277fe4e2bb2b/anie75539-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "材料化学",
+   "title": "碳量子环搞定聚集猝灭",
+   "text": "碳量子点（CQD）在固态容易聚集猝灭（ACQ），这次用闭环共轭的碳量子环拓扑结构来抑制分子间π–π耦合和非辐射衰减。溶液光致发光量子产率接近 unity，固态发光也高，天蓝色电致发光器件峰值外量子效率3.4%。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Topological Carbon Quantum Rings With Near‐Unity Photoluminescence for Efficient Sky‐Blue Electroluminescence",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/4a7f3c37-3dc2-4fcd-8ce5-316520bcc7a3/anie75527-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "钠离子电池也能拉伸",
+   "text": "研究人员从材料层面逐个设计，做出了一种可拉伸、可弯曲的钠离子电池，面向下一代可穿戴设备。具体性能摘要没展开，但“从零开始工程化每种材料”这个思路值得留意。",
+   "source": "C&EN",
+   "kind": "news",
+   "title_en": "Sodium-ion batteries stretch their limits",
+   "image": "https://s7d1.scene7.com/is/image/CENODS/News--Stretchable-sodium-ion-battery-for-wearables---662099:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+  }
+ ]
+}
