@@ -1,0 +1,101 @@
+{
+ "title": "氮气负离子能常温合成氨？",
+ "cover_title": "过电位一高，CO吸附拖后腿",
+ "cover_lines": [
+  "过电位升高动力学变了",
+  "金属液晶稳住钙钛矿晶界",
+  "锆催化一次干三份活"
+ ],
+ "body": "今天刷文献刷到几个挺有意思的活儿，挑几条跟大家唠唠。\n\n1️⃣ 电催化里总以为电压越高反应越快，但这项研究说一氧化碳电还原到甲醇时，过电位一高，动力学就从电荷转移限制变成吸附限制，CO吸附能成了热化学约束的描述符，别光盯着电子转移了。（Nature Chemistry）\n\n2️⃣ 钙钛矿电池效率卡在稳定性上，这工作用带介晶相的金属液晶去稳定晶界，甲脒-铯铅三碘化物钙钛矿和硅叠层电池的效率和稳定性一起往上走。（Nature Energy）\n\n3️⃣ 锆催化以前基本困在路易斯酸和氧化还原里，现在三功能锆催化把光化学、氧化还原和路易斯酸活性凑一块，用烷烃、醛和腈模块化合成苄胺，一次干三份活。（Nature Catalysis）\n\n4️⃣ 聚合物接枝纳米颗粒本来各向同性，但柔性配体一变形就产生有效价态，能让超晶格长出偏离最密堆积或最高配位数的对称性，给自组装多开一扇门。（Nature Materials）\n\n大家最近在做什么方向，有没有被哪个体系卡住？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "催化",
+  "电化学",
+  "钙钛矿",
+  "合成氨",
+  "文献分享"
+ ],
+ "id": "2026-11-03",
+ "kind": "daily",
+ "date": "2026-11-03",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月3日 周二",
+   "title": "过电位一高，CO吸附拖后腿",
+   "lines": [
+    "过电位升高动力学变了",
+    "金属液晶稳住钙钛矿晶界",
+    "锆催化一次干三份活"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02285-5/MediaObjects/41557_2026_2285_Figa_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02161-z/MediaObjects/41560_2026_2161_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01628-2/MediaObjects/41929_2026_1628_Figa_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "过电位一高，CO吸附成了拖后腿的",
+   "text": "电催化里常以为加电压就快，但这项研究说一氧化碳（CO）到甲醇的电还原，过电位升高后动力学从电荷转移限制切换成吸附限制。CO吸附能因此被拎出来当热化学约束的描述符，提醒大家别只盯着电子转移。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Thermochemical adsorption at high overpotentials limits molecular CO-to-methanol electroreduction",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02285-5/MediaObjects/41557_2026_2285_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "材料化学",
+   "title": "用金属液晶稳住钙钛矿的晶界",
+   "text": "甲脒-铯铅三碘化物钙钛矿有稳定性潜力，但电池效率还受限。这项工作用一种带介晶相的金属液晶（metallomesogen）去稳定晶界，让钙钛矿/硅叠层电池的效率和稳定性一起往上走。",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "title_en": "Grain boundary engineering using metallomesogen in formamidinium–caesium lead triiodide for stable perovskite/silicon tandem solar cells",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02161-z/MediaObjects/41560_2026_2161_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "有机合成",
+   "title": "锆催化一次干三份活",
+   "text": "锆催化以前基本困在路易斯酸和氧化还原里，光催化 C–H 活化只有零散例子。现在三功能锆催化把光化学、氧化还原和路易斯酸活性凑一块，用烷烃、醛和腈模块化合成苄胺。",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "title_en": "Trifunctional zirconium catalysis-enabled triple modular synthesis",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01628-2/MediaObjects/41929_2026_1628_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "催化",
+   "title": "氮气负离子想给合成氨降降温",
+   "text": "合成氨现在还得高温高压，根源是氮气（N₂）里那个三键太结实。这则报道介绍分子态二氮负离子（dinitrogen anions）的研究，目标是绕开这条费能路线，在低温下把氨（NH₃）做出来，顺带服务它当无碳氢载体的设想。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Molecular dinitrogen anions pave the way for low-temperature ammonia synthesis",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-dinitrogen-a.jpg"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "材料化学",
+   "title": "软配体自己造出“价态”来破对称",
+   "text": "聚合物接枝纳米颗粒本来各向同性，但柔性配体一变形就产生有效价态（valency）。这能让超晶格长出偏离最密堆积或最高配位数的对称性，给自组装多开一扇门。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Breaking symmetry in nanoparticle superlattices via spontaneous valency",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02787-0/MediaObjects/41563_2026_2787_Fig1_HTML.png"
+  }
+ ]
+}

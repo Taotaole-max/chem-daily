@@ -1,0 +1,195 @@
+{
+ "lead": "氮气今天有点忙：被铁簇拆、被做成负离子，就为少费点电。",
+ "items": [
+  {
+   "title_zh": "氮气负离子想给合成氨降降温",
+   "blurb": "合成氨现在还得高温高压，根源是氮气（N₂）里那个三键太结实。这则报道介绍分子态二氮负离子（dinitrogen anions）的研究，目标是绕开这条费能路线，在低温下把氨（NH₃）做出来，顺带服务它当无碳氢载体的设想。",
+   "tags": [
+    "合成氨",
+    "氮气活化",
+    "催化"
+   ],
+   "field": "催化",
+   "title_en": "Molecular dinitrogen anions pave the way for low-temperature ammonia synthesis",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-molecular-dinitrogen-anions-pave-temperature.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/molecular-dinitrogen-a.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-molecular-dinitrogen-anions-pave-temperature.html"
+  },
+  {
+   "title_zh": "过电位一高，CO吸附成了拖后腿的",
+   "blurb": "电催化里常以为加电压就快，但这项研究说一氧化碳（CO）到甲醇的电还原，过电位升高后动力学从电荷转移限制切换成吸附限制。CO吸附能因此被拎出来当热化学约束的描述符，提醒大家别只盯着电子转移。",
+   "tags": [
+    "电催化",
+    "CO还原",
+    "过电位"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Thermochemical adsorption at high overpotentials limits molecular CO-to-methanol electroreduction",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02285-5",
+   "doi": "10.1038/s41557-026-02285-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02285-5/MediaObjects/41557_2026_2285_Figa_HTML.png",
+   "authors": "Zhihao Cui, Alina Mary Varghese, Anne C. Co",
+   "id": "10.1038/s41557-026-02285-5"
+  },
+  {
+   "title_zh": "用金属液晶稳住钙钛矿的晶界",
+   "blurb": "甲脒-铯铅三碘化物钙钛矿有稳定性潜力，但电池效率还受限。这项工作用一种带介晶相的金属液晶（metallomesogen）去稳定晶界，让钙钛矿/硅叠层电池的效率和稳定性一起往上走。",
+   "tags": [
+    "钙钛矿",
+    "叠层电池",
+    "晶界工程"
+   ],
+   "field": "材料化学",
+   "title_en": "Grain boundary engineering using metallomesogen in formamidinium–caesium lead triiodide for stable perovskite/silicon tandem solar cells",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02161-z",
+   "doi": "10.1038/s41560-026-02161-z",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02161-z/MediaObjects/41560_2026_2161_Fig1_HTML.png",
+   "authors": "Biao Li, Xingtao Wang, Yehui Wen, Wenbin Han, Degong Ding, Yong Wang, Xuegong Yu, Deren Yang",
+   "id": "10.1038/s41560-026-02161-z"
+  },
+  {
+   "title_zh": "锆催化一次干三份活",
+   "blurb": "锆催化以前基本困在路易斯酸和氧化还原里，光催化 C–H 活化只有零散例子。现在三功能锆催化把光化学、氧化还原和路易斯酸活性凑一块，用烷烃、醛和腈模块化合成苄胺。",
+   "tags": [
+    "锆催化",
+    "光催化",
+    "模块化合成"
+   ],
+   "field": "有机合成",
+   "title_en": "Trifunctional zirconium catalysis-enabled triple modular synthesis",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01628-2",
+   "doi": "10.1038/s41929-026-01628-2",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01628-2/MediaObjects/41929_2026_1628_Figa_HTML.png",
+   "authors": "Ran Xu, Shuyang Liu, Zhiyan Xue, Lifang Wang, Ziyi Xu, Wenlong He, Hui Zi, Fangyi Qu, Tianye Zhao, Kexin Qu, Yunhe Jin",
+   "id": "10.1038/s41929-026-01628-2"
+  },
+  {
+   "title_zh": "软配体自己造出“价态”来破对称",
+   "blurb": "聚合物接枝纳米颗粒本来各向同性，但柔性配体一变形就产生有效价态（valency）。这能让超晶格长出偏离最密堆积或最高配位数的对称性，给自组装多开一扇门。",
+   "tags": [
+    "纳米颗粒",
+    "超晶格",
+    "自组装"
+   ],
+   "field": "材料化学",
+   "title_en": "Breaking symmetry in nanoparticle superlattices via spontaneous valency",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02787-0",
+   "doi": "10.1038/s41563-026-02787-0",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02787-0/MediaObjects/41563_2026_2787_Fig1_HTML.png",
+   "authors": "Nicholas Sbalbi, Stephen Kronenberger, Hana Shinzawa, Matthew Ye, Arthi Jayaraman, Robert J. Macfarlane",
+   "id": "10.1038/s41563-026-02787-0"
+  },
+  {
+   "title_zh": "小铁簇常温拆氮气还顺手拉上CO₂",
+   "blurb": "质谱显示小铁簇（Feₙ⁺）在常温下能劈开 N≡N 三键，Fe₃N₇⁺ 和 Fe₄N₇⁺ 是主要产物。通入 CO₂ 后还出现 FenNmCO⁺ 和 FenNmO⁺，说明 C═O 也被拆了，其中 Fe₃,₄N₅CO⁺ 走 C–N 偶联并放出 N₂O。",
+   "tags": [
+    "铁簇",
+    "固氮",
+    "CO₂活化"
+   ],
+   "field": "无机与配位",
+   "title_en": "Dual Activation and C–N Coupling of CO 2 and N 2 Mediated by Small Fe n + Clusters",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c14511",
+   "doi": "10.1021/jacs.6c14511",
+   "image": null,
+   "authors": "Lijun Geng, Shiquan Lin, Congyang Wang, Zhixun Luo",
+   "id": "10.1021/jacs.6c14511"
+  },
+  {
+   "title_zh": "给锂离子做个量子自旋探测口袋",
+   "blurb": "TA-TEMPO 这种共价有机框架（COF）里，稀释的氮氧自由基和结合 Li⁺ 的三嗪基团组成缺陷识别口袋，室温下做 ⁷Li 传感。在 LiBr 的四氢呋喃溶液里灵敏度到 1.0 × 10–4 mol·L–1，比之前基准好 50 倍，还能在大量 Na⁺ 里挑出 Li⁺。",
+   "tags": [
+    "量子传感",
+    "锂离子",
+    "共价有机框架"
+   ],
+   "field": "分析化学",
+   "title_en": "Quantum Sensing of Lithium Ions with Defect-Engineered Recognition Pockets in a TEMPO-Modified Covalent Organic Framework",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16503",
+   "doi": "10.1021/jacs.6c16503",
+   "image": null,
+   "authors": "Zhecheng Sun, Chang Tang, Guangfu Ni, Zexin Jin, Lei Sun",
+   "id": "10.1021/jacs.6c16503"
+  },
+  {
+   "title_zh": "可降解MOF捞金，捞完还能自己化掉",
+   "blurb": "电子垃圾里金不少，但这工作用生物来源、可环境降解的 MOF/低聚物复合材料 SU-102/pGSH 来吸附金，容量到 4385 mg·g–1，据称是 MOF 基吸附剂里最高。用完的吸附剂能降解成无害矿物相和天然代谢物，植物毒性可忽略。",
+   "tags": [
+    "MOF",
+    "金回收",
+    "可降解材料"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "A Biodegradable Metal–Organic Framework/Oligomer Composite for Sustainable Gold Recovery and Circular Water Management",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c20617",
+   "doi": "10.1021/jacs.6c20617",
+   "image": null,
+   "authors": "Tianwei Xue, Yanyin Wu, Longzhao Xu, Hongmei Qiao, Jinlong Wan, Shanshan Shi",
+   "id": "10.1021/jacs.6c20617"
+  },
+  {
+   "title_zh": "肿瘤里敲掉Sdhc，让免疫系统看见它",
+   "blurb": "MHC-I 表达低会让杀伤性 T 细胞认不出肿瘤。这套双肿瘤特异性 CRISPR/Cas9 系统精准敲除 Sdhc，通过表观和转录调控激活 MHC-I 通路；在 B16-OVA 黑色素瘤模型里靠增强的 T 细胞免疫应答产生抗肿瘤效果。",
+   "tags": [
+    "基因编辑",
+    "肿瘤免疫",
+    "CRISPR"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Tumor-Specific Gene Editing Enhances Cancer Immunogenicity through Succinate Metabolism-Mediated MHC-I Reprogramming",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c14840",
+   "doi": "10.1021/jacs.6c14840",
+   "image": null,
+   "authors": "He Yang, Haoyu Zhang, Ziyin Zhao, Yuxuan Ren, Yanhan Xu, Kaimin Cai",
+   "id": "10.1021/jacs.6c14840"
+  },
+  {
+   "title_zh": "让钌在单原子催化剂里少干活多出力",
+   "blurb": "钌（Ru）在工业催化里好用但稀有又贵。这则报道介绍一种新思路，目的是在单原子催化剂里更充分地利用钌，提升效率、降低化学生产的能耗，具体做法摘要没展开，先记个方向。",
+   "tags": [
+    "钌",
+    "单原子催化",
+    "资源利用"
+   ],
+   "field": "催化",
+   "title_en": "A new way to make better use of ruthenium in single-atom catalysts",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-ruthenium-atom-catalysts.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-way-to-make-bett.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-ruthenium-atom-catalysts.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "氮气三键有多难拆",
+  "text": "氮气（N₂）里的 N≡N 三键键能约 941 kJ/mol，是常见双原子分子里最结实的键之一。所以固氮要么靠高温高压，要么靠固氮酶在常温下慢慢磨。"
+ },
+ "stats": {
+  "fetched": 2067,
+  "candidates": 90
+ },
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03T13:44:31+08:00"
+}
