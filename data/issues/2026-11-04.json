@@ -1,0 +1,195 @@
+{
+ "lead": "今天看点：钠电池省钠、乙烯纯化反着来、还有蜜蜂教我们做塑料。",
+ "items": [
+  {
+   "title_zh": "无钠负极钠电池，靠一点张力续命",
+   "blurb": "无负极钠电池循环时总丢钠，这里用中等张力的环醚把电解液分解引导成一层薄而结实的界面膜，少耗钠，循环更稳。",
+   "tags": [
+    "钠电池",
+    "界面膜",
+    "电解液"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Stable anode-free sodium batteries enabled by controlled oligomerization",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02154-y",
+   "doi": "10.1038/s41560-026-02154-y",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02154-y/MediaObjects/41560_2026_2154_Fig1_HTML.png",
+   "authors": "Shuicen Ding, Xijie Chen, Zhen Yao, Mengdi Hao, Chuanjin Tian, Xuefeng Wang, Nian Zhang, Hui Zhang, Xue Han, Ru Li, Longji Xu, Zhao Chen, Jin Wang, Yong-Sheng Hu, Weijiang Xue",
+   "id": "10.1038/s41560-026-02154-y"
+  },
+  {
+   "title_zh": "硫化铋：吸光强，复合慢，不讲道理",
+   "blurb": "半导体里吸收好和发射强通常绑在一起，硫化铋有“准直接”带隙，间接跃迁能量更低，直接跃迁只高几个kBT，结果双分子复合明显变慢，给太阳能转换留了新口子。",
+   "tags": [
+    "半导体",
+    "光吸收",
+    "复合"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Delayed electron–hole recombination in a pseudo-direct semiconductor",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11223-x",
+   "doi": "10.1038/s41586-026-11223-x",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11223-x/MediaObjects/41586_2026_11223_Fig1_HTML.png",
+   "authors": "Marcello Righetto, Debalina Banerjee, Zhenglin Jia, Joshua R. S. Lilly, Vincent J. -Y. Lim, Snigdha Lal, Siyu Yan, Jae Eun Lee, Jay B. Patel, Michael B. Johnston, Qianqian Lin, Marina R. Filip, Laura ",
+   "id": "10.1038/s41586-026-11223-x"
+  },
+  {
+   "title_zh": "电子桥一搭，尿素电合成撑了1700小时",
+   "blurb": "用Pd1和Ni1双单原子位点，Ni1当电子桥把电荷往Pd1推，让CO2还原、硝酸盐还原和C–N偶联一起加速。尿素产率541.6 mmol gcat−1 h−1，法拉第效率57.3%，耐久性1700小时。",
+   "tags": [
+    "电催化",
+    "尿素合成",
+    "单原子"
+   ],
+   "field": "催化",
+   "title_en": "Electron Bridge Enhanced Charge Polarization Enables Efficient and Ultra‐Long Stable Urea Electrosynthesis",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2196422?af=R",
+   "doi": "10.1002/anie.2196422",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/3cf400ac-a1f1-4327-9f54-1c19c2cbbfaf/anie74869-gra-0001-m.png",
+   "authors": "Fan Wu, \nHaixia Wang, \nWei Wang, \nJunrong Zou, \nRuijie Zhou, \nFenglin Xie, \nPeng Gao, \nWeiliu Fan, \nNana Wang, \nZhongchao Bai, \nGuoxiu Wang, \nWei Ye",
+   "id": "10.1002/anie.2196422"
+  },
+  {
+   "title_zh": "这个MOF不按强弱吸附，改按跑得快慢分",
+   "blurb": "ZJNU-600是Hopf链接的金属有机框架（MOF），靠扩散门控把CO2、C2H2、C2H4的扩散速度排成CO2 > C2H2 > C2H4，反着常规吸附顺序，一步从三元混合气里拿到C2H4，还能直接回收C2H2。",
+   "tags": [
+    "MOF",
+    "乙烯纯化",
+    "扩散分离"
+   ],
+   "field": "材料化学",
+   "title_en": "Diffusion-Gating Enabled Ternary C2H4 Purification and Inverse C2H2/CO2 Separation in an Adaptive Hopf-Link Metal–Organic Framework",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16378",
+   "doi": "10.1021/jacs.6c16378",
+   "image": null,
+   "authors": "Lina Jiang, Zhixuan Liu, Tingting Pan, Zijin Mao, Jiacheng Zhou, Le Shi",
+   "id": "10.1021/jacs.6c16378"
+  },
+  {
+   "title_zh": "铜单原子位点，室温用水做氧源关环",
+   "blurb": "把Cu单原子位点固定在共价聚合物上，电催化交叉偶联环氧化，室温以水为氧源，一步合成2,5-双取代四氢呋喃（THF）衍生物，最优催化剂转化率>95%，交叉偶联产率约90%，还能做尿嘧啶核苷类似物。",
+   "tags": [
+    "电催化",
+    "有机合成",
+    "单原子"
+   ],
+   "field": "有机合成",
+   "title_en": "Cu Single-Atom Sites for Electrochemical Cross-Coupling Epoxidation of Alkenes",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16690",
+   "doi": "10.1021/jacs.6c16690",
+   "image": null,
+   "authors": "Linfeng Yu, Xiao Liang, Shuangchao Yao, Yiming Zhao, Qingyun Qu, Ji Shen",
+   "id": "10.1021/jacs.6c16690"
+  },
+  {
+   "title_zh": "不活化的甲醇，也能让酶来甲基化",
+   "blurb": "混搭MtaABC/MtgABC甲基转移酶系统，用甲醇和甜菜碱这类未活化甲基供体，实现非天然硫醇和苯胺的甲基化，周转数最高6000，首次展示钴胺酰胺依赖酶的对映选择性非天然催化。",
+   "tags": [
+    "酶催化",
+    "甲基化",
+    "生物催化"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Nonnative Thiol and Aniline Methylation, Including Enantioselective Dithiol Desymmetrization, by Multicomponent Cobamide‐Dependent Methyltransferases Using Unactivated Methyl Donors",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1537547?af=R",
+   "doi": "10.1002/anie.1537547",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/d3015796-8ed1-4fc8-b6de-be21f1ffaee6/anie74871-gra-0001-m.png",
+   "authors": "Amardeep Kumar, \nOsman Ishag Adam, \nParas Gupta, \nJared C. Lewis",
+   "id": "10.1002/anie.1537547"
+  },
+  {
+   "title_zh": "二聚受体不对称一点，有机太阳能电池到20.64%",
+   "blurb": "逐步多维不对称设计出C1、C2、C3三个二聚受体，把分子偶极从垂直转到接近平面，兼顾有序堆积和高光致发光量子产率（PLQY）。PM6:C3器件效率19.87%，D18:L8-BO:C3三元器件20.64%。",
+   "tags": [
+    "有机太阳能电池",
+    "二聚受体",
+    "不对称设计"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Stepwise Multidimensional Asymmetric Design of Dimeric Acceptors Enables Simultaneous Ordered Packing and High PLQY for High‐Efficiency Organic Solar Cells",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4282350?af=R",
+   "doi": "10.1002/anie.4282350",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/fbdf531e-fe25-47e7-bce1-35c4f5b0121b/anie74393-gra-0001-m.png",
+   "authors": "Xiaohui Ouyang, \nWen Zhou, \nChao Yang, \nZhuoran Kuang, \nLifu Zhang, \nLongbin Li, \nYouhui Zhang, \nFeiyan Wu, \nSangjin Yang, \nChangduk Yang, \nJiabin Liu, \nLie Chen",
+   "id": "10.1002/anie.4282350"
+  },
+  {
+   "title_zh": "二氧化硅筛子：芳烃留下，环烷烃走开",
+   "blurb": "把六硅脲基三角胺开口嵌进二氧化硅骨架，做成超分子二氧化硅纳米筛。它优先抓苯和甲苯，挡住环己烷和甲基环己烷，苯/环己烷理想选择性23.5，甲苯/甲基环己烷6.3，在石脑油和稀释原油里也管用。",
+   "tags": [
+    "分子筛",
+    "芳烃分离",
+    "二氧化硅"
+   ],
+   "field": "化学工程",
+   "title_en": "Suprasilica Nanosieves for Selective Capture of Aromatics Over Cyclic Aliphatics in Hydrocarbon Feedstocks",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75570?af=R",
+   "doi": "10.1002/adma.75570",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/90fa45e2-4d96-4f67-8b31-afdb7220de77/adma75570-gra-0001-m.png",
+   "authors": "Viktoriia Zheltova, \nArnaud Chaix, \nOmar El Tall, \nRomain Dupuis, \nMohammad Mriden, \nHolkan Vazquez‐Sanchez, \nLukman O. Alimi, \nSoumaya Khlifi, \nBambar Davaasuren, \nJose P. Pedrozo, \nCristiane R. De O",
+   "id": "10.1002/adma.75570"
+  },
+  {
+   "title_zh": "铱催化剂在肿瘤门口把前药激活",
+   "blurb": "巴塞尔大学Thomas Ward团队用人工金属化合物做催化剂，特异结合肿瘤细胞，在肿瘤位置把前药（prodrug）转成活性药物，思路是减少对健康组织的误伤。",
+   "tags": [
+    "前药",
+    "铱催化",
+    "靶向化疗"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Iridium catalyst activates chemotherapy drug directly at targeted cancer cells",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-iridium-catalyst-chemotherapy-drug-cancer.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/promising-approach-in.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-iridium-catalyst-chemotherapy-drug-cancer.html"
+  },
+  {
+   "title_zh": "蜜蜂巢内衬，可能教我们做可降解塑料",
+   "blurb": "蜜蜂造的一种天然塑料被拿来研究，发表在PNAS上，结果给可快速降解塑料的设计提供线索。普通塑料能撑几十年到几百年，这个思路想缩短这个时间。",
+   "tags": [
+    "可降解塑料",
+    "仿生",
+    "蜜蜂"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Bee nest linings could inspire plastics that break down in soil",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-bee-linings-plastics-soil.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bee-nest-linings-could.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-bee-linings-plastics-soil.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "石墨和钻石是亲兄弟",
+  "text": "石墨和金刚石都由碳组成，只是原子排列不同。石墨软得能当铅笔芯，金刚石硬得能划玻璃，同素异形体就是这么任性。"
+ },
+ "stats": {
+  "fetched": 1792,
+  "candidates": 90
+ },
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T13:17:45+08:00"
+}

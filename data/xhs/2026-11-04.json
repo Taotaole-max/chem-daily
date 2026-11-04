@@ -1,0 +1,101 @@
+{
+ "title": "有机太阳能电池破20.64%！🐝",
+ "cover_title": "有机太阳能电池到20.64%",
+ "cover_lines": [
+  "不对称二聚受体立大功",
+  "电子桥搭出1700小时尿素",
+  "无钠负极钠电池靠张力续命"
+ ],
+ "body": "今天化学圈挺热闹，挑几条有意思的聊聊。\n\n1️⃣ 有机太阳能电池效率冲到20.64%了。通过逐步多维不对称设计出三个二聚受体，把分子偶极从垂直转到接近平面，兼顾有序堆积和高光致发光量子产率，PM6:C3器件效率19.87%，三元器件20.64%。（Angewandte Chemie）\n\n2️⃣ 尿素电合成能撑1700小时了。用Pd1和Ni1双单原子位点，Ni1当电子桥把电荷往Pd1推，让CO2还原、硝酸盐还原和C–N偶联一起加速，尿素产率541.6 mmol gcat−1 h−1，法拉第效率57.3%。（Angewandte Chemie）\n\n3️⃣ 无钠负极钠电池靠一点张力续命。用中等张力的环醚把电解液分解引导成薄而结实的界面膜，少耗钠，循环更稳。（Nature Energy）\n\n4️⃣ 二氧化硅筛子能分芳烃和环烷烃。把六硅脲基三角胺开口嵌进二氧化硅骨架做成超分子纳米筛，优先抓苯和甲苯，挡住环己烷和甲基环己烷，苯/环己烷理想选择性23.5，甲苯/甲基环己烷6.3，在石脑油和稀释原油里也管用。（Advanced Materials）\n\n大家最近在做什么方向？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "有机太阳能电池",
+  "电催化",
+  "钠电池",
+  "化学生物学",
+  "MOF"
+ ],
+ "id": "2026-11-04",
+ "kind": "daily",
+ "date": "2026-11-04",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月4日 周三",
+   "title": "有机太阳能电池到20.64%",
+   "lines": [
+    "不对称二聚受体立大功",
+    "电子桥搭出1700小时尿素",
+    "无钠负极钠电池靠张力续命"
+   ],
+   "thumbs": [
+    "https://onlinelibrary.wiley.com/cms/asset/fbdf531e-fe25-47e7-bce1-35c4f5b0121b/anie74393-gra-0001-m.png",
+    "https://onlinelibrary.wiley.com/cms/asset/3cf400ac-a1f1-4327-9f54-1c19c2cbbfaf/anie74869-gra-0001-m.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02154-y/MediaObjects/41560_2026_2154_Fig1_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "二聚受体不对称一点，有机太阳能电池到20.64%",
+   "text": "逐步多维不对称设计出C1、C2、C3三个二聚受体，把分子偶极从垂直转到接近平面，兼顾有序堆积和高光致发光量子产率（PLQY）。PM6:C3器件效率19.87%，D18:L8-BO:C3三元器件20.64%。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Stepwise Multidimensional Asymmetric Design of Dimeric Acceptors Enables Simultaneous Ordered Packing and High PLQY for High‐Efficiency Organic Solar Cells",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/fbdf531e-fe25-47e7-bce1-35c4f5b0121b/anie74393-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "催化",
+   "title": "电子桥一搭，尿素电合成撑了1700小时",
+   "text": "用Pd1和Ni1双单原子位点，Ni1当电子桥把电荷往Pd1推，让CO2还原、硝酸盐还原和C–N偶联一起加速。尿素产率541.6 mmol gcat−1 h−1，法拉第效率57.3%，耐久性1700小时。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Electron Bridge Enhanced Charge Polarization Enables Efficient and Ultra‐Long Stable Urea Electrosynthesis",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/3cf400ac-a1f1-4327-9f54-1c19c2cbbfaf/anie74869-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "无钠负极钠电池，靠一点张力续命",
+   "text": "无负极钠电池循环时总丢钠，这里用中等张力的环醚把电解液分解引导成一层薄而结实的界面膜，少耗钠，循环更稳。",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "title_en": "Stable anode-free sodium batteries enabled by controlled oligomerization",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02154-y/MediaObjects/41560_2026_2154_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "铱催化剂在肿瘤门口把前药激活",
+   "text": "巴塞尔大学Thomas Ward团队用人工金属化合物做催化剂，特异结合肿瘤细胞，在肿瘤位置把前药（prodrug）转成活性药物，思路是减少对健康组织的误伤。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Iridium catalyst activates chemotherapy drug directly at targeted cancer cells",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/promising-approach-in.jpg"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "化学工程",
+   "title": "二氧化硅筛子：芳烃留下，环烷烃走开",
+   "text": "把六硅脲基三角胺开口嵌进二氧化硅骨架，做成超分子二氧化硅纳米筛。它优先抓苯和甲苯，挡住环己烷和甲基环己烷，苯/环己烷理想选择性23.5，甲苯/甲基环己烷6.3，在石脑油和稀释原油里也管用。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Suprasilica Nanosieves for Selective Capture of Aromatics Over Cyclic Aliphatics in Hydrocarbon Feedstocks",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/90fa45e2-4d96-4f67-8b31-afdb7220de77/adma75570-gra-0001-m.png"
+  }
+ ]
+}
