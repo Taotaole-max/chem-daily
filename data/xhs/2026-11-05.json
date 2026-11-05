@@ -1,0 +1,100 @@
+{
+ "title": "AI自己当PI？170阿秒也测得准",
+ "cover_title": "AI自己开实验室",
+ "cover_lines": [
+  "AI自主跑多目标实验",
+  "170阿秒脉冲被量出",
+  "氢原子缝里首次看到"
+ ],
+ "body": "今天这几条看完，我连移液枪都拿不稳了。\n\n1️⃣ AutoDNA 是个 AI 原生的自主生物分子工程实验室，能在多种仪器上跑多目标实验，让 AI 和自动化系统在多用户端到端框架里一起进化。简单说，以后做实验可能不用人盯着了。（Nature）\n\n2️⃣ 波长仅埃级的短 X 射线脉冲，持续时间只有 170 阿秒，现在终于被准确测出来了。这套光学系统还能当秒表，去量原子和分子里电子的快速运动。（Nature）\n\n3️⃣ 研究者通过理性设计分子空间共轭，让自组装分子排列得又整齐又贴合，做出高性能钙钛矿/硅叠层太阳能电池。分子怎么扭，电池效率说了算。（Nature）\n\n4️⃣ 研究发现添加剂吸附会因晶面不同而改变锌负极的功函数，进而影响锌的电结晶取向。用 29 种添加剂验证，准确率 93.1%，给添加剂筛选提供了界面电子描述符。（Nature Chemistry）\n\n你们最近在做什么方向，有没有被哪条戳到？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "AI化学",
+  "光谱",
+  "电池",
+  "钙钛矿"
+ ],
+ "id": "2026-11-05",
+ "kind": "daily",
+ "date": "2026-11-05",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月5日 周四",
+   "title": "AI自己开实验室",
+   "lines": [
+    "AI自主跑多目标实验",
+    "170阿秒脉冲被量出",
+    "氢原子缝里首次看到"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11228-6/MediaObjects/41586_2026_11228_Fig1_HTML.png",
+    "https://media.nature.com/lw1200/magazine-assets/d41586-026-03423-2/d41586-026-03423-2_53921156.jpg",
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-enables-s.jpg"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "计算化学与AI",
+   "title": "AI自己当PI，开起分子工程实验室",
+   "text": "AutoDNA是一个AI原生的自主生物分子工程实验室，能在多种仪器上跑多目标实验，让AI和自动化系统在多用户端到端框架里一起进化。简单说，以后做实验可能不用人盯着了。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "An AI-native experimental laboratory for autonomous biomolecular operations",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11228-6/MediaObjects/41586_2026_11228_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "X射线秒表开测，170阿秒也逃不掉",
+   "text": "波长仅埃级的短X射线脉冲，持续时间只有170阿秒，现在终于被准确测出来了。这套光学系统还能当“秒表”，去量原子和分子里电子的快速运动。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "X-ray stopwatch can measure durations of just attoseconds",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03423-2/d41586-026-03423-2_53921156.jpg"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "金属原子缝里的氢，第一次被直接看到",
+   "text": "悉尼大学团队首次直接观察到氢溶解在金属合金原子间的微小空隙里。这能帮我们理解氢为什么会削弱金属，也为设计更抗氢脆的材料提供线索。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "First direct observations reveal hydrogen dissolved in tiny gaps between metal atoms",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-enables-s.jpg"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "材料化学",
+   "title": "分子共轭调一调，叠层电池更高效",
+   "text": "研究者通过理性设计分子空间共轭，让自组装分子排列得又整齐又贴合，做出高性能钙钛矿/硅叠层太阳能电池。分子怎么扭，电池效率说了算。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Conjugation-regulated self-assembled molecules for tandem solar cells",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11226-8/MediaObjects/41586_2026_11226_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "添加剂吸在哪个晶面，锌电池说了算",
+   "text": "研究发现添加剂吸附会因晶面不同而改变锌负极的功函数，进而影响锌的电结晶取向。用29种添加剂验证，准确率93.1%，给添加剂筛选提供了界面电子描述符。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Facet-dependent molecular adsorption modulates zinc anode work function for the favourable orientation of zinc electrocrystallization",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02291-7/MediaObjects/41557_2026_2291_Figa_HTML.png"
+  }
+ ]
+}

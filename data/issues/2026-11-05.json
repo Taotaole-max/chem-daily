@@ -1,0 +1,195 @@
+{
+ "lead": "今日份化学：AI自己开实验室，X射线当秒表，连氢原子藏哪都被逮住了。",
+ "items": [
+  {
+   "title_zh": "AI自己当PI，开起分子工程实验室",
+   "blurb": "AutoDNA是一个AI原生的自主生物分子工程实验室，能在多种仪器上跑多目标实验，让AI和自动化系统在多用户端到端框架里一起进化。简单说，以后做实验可能不用人盯着了。",
+   "tags": [
+    "AI化学",
+    "自动化实验室",
+    "生物分子工程"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "An AI-native experimental laboratory for autonomous biomolecular operations",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11228-6",
+   "doi": "10.1038/s41586-026-11228-6",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11228-6/MediaObjects/41586_2026_11228_Fig1_HTML.png",
+   "authors": "Mingyu Wu, Zhaoguo Wang, Jiabin Wang, Zhiyuan Dong, Jingkai Yang, Qingting Li, Tianyu Huang, Chi Zhang, Ping Song, Lei Zhao, Mingqiang Li, Xiaolei Zuo, Fei Wang, Chunhai Fan, Haibo Chen",
+   "id": "10.1038/s41586-026-11228-6"
+  },
+  {
+   "title_zh": "分子共轭调一调，叠层电池更高效",
+   "blurb": "研究者通过理性设计分子空间共轭，让自组装分子排列得又整齐又贴合，做出高性能钙钛矿/硅叠层太阳能电池。分子怎么扭，电池效率说了算。",
+   "tags": [
+    "钙钛矿",
+    "叠层太阳能电池",
+    "自组装分子"
+   ],
+   "field": "材料化学",
+   "title_en": "Conjugation-regulated self-assembled molecules for tandem solar cells",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11226-8",
+   "doi": "10.1038/s41586-026-11226-8",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11226-8/MediaObjects/41586_2026_11226_Fig1_HTML.png",
+   "authors": "Zheng Fang, Zhijie Rao, Chongtao Liu, Lei Ding, Anqi Lv, Yuan Qin, Jingwei Xue, Vladyslav Hnapovskyi, Fuzong Xu, Tino Lukas, Zhaoyu Lou, Qingshui Zheng, Huimin Zhang, Yue Yin, Luxin Lu, Hongbo Mo, Fu ",
+   "id": "10.1038/s41586-026-11226-8"
+  },
+  {
+   "title_zh": "X射线秒表开测，170阿秒也逃不掉",
+   "blurb": "波长仅埃级的短X射线脉冲，持续时间只有170阿秒，现在终于被准确测出来了。这套光学系统还能当“秒表”，去量原子和分子里电子的快速运动。",
+   "tags": [
+    "阿秒",
+    "X射线",
+    "超快光谱"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "X-ray stopwatch can measure durations of just attoseconds",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/d41586-026-03423-2",
+   "doi": "10.1038/d41586-026-03423-2",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03423-2/d41586-026-03423-2_53921156.jpg",
+   "authors": "",
+   "id": "10.1038/d41586-026-03423-2"
+  },
+  {
+   "title_zh": "红外探测器直接长在读出芯片上",
+   "blurb": "把红外敏感的硫化铅薄膜直接长在能读电信号的电路上，这叫单片原位集成，材料生长和电子集成一步搞定。做出来的图像传感器对红外波段灵敏度不错。",
+   "tags": [
+    "红外探测",
+    "原位集成",
+    "硫化铅"
+   ],
+   "field": "材料化学",
+   "title_en": "Infrared image detectors grown directly on read-out chips",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/d41586-026-03420-5",
+   "doi": "10.1038/d41586-026-03420-5",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03420-5/d41586-026-03420-5_53934554.jpg",
+   "authors": "",
+   "id": "10.1038/d41586-026-03420-5"
+  },
+  {
+   "title_zh": "二维三轴编织，织出一张分子布",
+   "blurb": "把C3对称的大环分子编进三角形编织图案，做出一种二维网状三轴分子编织材料。多出来的拓扑维度，给功能材料设计开了条新路。",
+   "tags": [
+    "分子编织",
+    "二维材料",
+    "拓扑"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "A two-dimensional reticular triaxial molecularly woven fabric",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11218-8",
+   "doi": "10.1038/s41586-026-11218-8",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11218-8/MediaObjects/41586_2026_11218_Fig1_HTML.png",
+   "authors": "Mengbin Wang, Shuai Fang, Xuedong Xiao, Zhewen Guo, Tianyu Shan, Han Han, Chun Tang, Ding Xiao, Guangguo Wang, Zhongwen Liu, Bohan Zhao, Shang Li, Ming Liu, Yan-Fang Wang, Jinbo Li, Ming Li, Liya Chen",
+   "id": "10.1038/s41586-026-11218-8"
+  },
+  {
+   "title_zh": "添加剂吸在哪个晶面，锌电池说了算",
+   "blurb": "研究发现添加剂吸附会因晶面不同而改变锌负极的功函数，进而影响锌的电结晶取向。用29种添加剂验证，准确率93.1%，给添加剂筛选提供了界面电子描述符。",
+   "tags": [
+    "锌电池",
+    "添加剂",
+    "功函数"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Facet-dependent molecular adsorption modulates zinc anode work function for the favourable orientation of zinc electrocrystallization",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02291-7",
+   "doi": "10.1038/s41557-026-02291-7",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02291-7/MediaObjects/41557_2026_2291_Figa_HTML.png",
+   "authors": "Sijun Wang, Le Yu, Jing Huang, Ziyan Cai, Lu Chen, Ziyang Lu, Won-Yeong Kim, Yongming Sun, Sang-Young Lee, Chaoji Chen",
+   "id": "10.1038/s41557-026-02291-7"
+  },
+  {
+   "title_zh": "换个溶剂，无负极钠电池更稳",
+   "blurb": "无负极钠电池能省掉多余的钠、提高能量密度，但镀钠剥钠时钠会不可逆损失。用低应变环状溶剂形成低聚物界面相，不用功能添加剂或电极改性，就能让钠沉积高度可逆。",
+   "tags": [
+    "钠电池",
+    "无负极",
+    "溶剂"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Directing solvent reactivity",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02150-2",
+   "doi": "10.1038/s41560-026-02150-2",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02150-2/MediaObjects/41560_2026_2150_Fig1_HTML.png",
+   "authors": "Sanghyun Park, Yong-Mook Kang",
+   "id": "10.1038/s41560-026-02150-2"
+  },
+  {
+   "title_zh": "铁催化，把卤代烷和烯烃焊一起",
+   "blurb": "用铁/膦催化剂，让未活化的二级和三级卤代烷与烯烃（配合氢硅烷）发生烷基-烷基偶联，生成三级和四级碳。铁便宜又几乎无毒，条件温和还能容忍不少官能团。",
+   "tags": [
+    "铁催化",
+    "偶联反应",
+    "有机合成"
+   ],
+   "field": "有机合成",
+   "title_en": "Iron-Catalyzed Alkylation of Unactivated Secondary and Tertiary Alkyl Halides by Olefins to Form Tertiary and Quaternary Carbons",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c15991",
+   "doi": "10.1021/jacs.6c15991",
+   "image": null,
+   "authors": "Ting Hei Matthew Wong, Arup Mondal, Xiaoyu Tong, Shaoqian Yang, Drew E. Tarnopol, Gregory C. Fu",
+   "id": "10.1021/jacs.6c15991"
+  },
+  {
+   "title_zh": "光催化产氢，顺便把癌细胞饿死",
+   "blurb": "研究者开发了一种不依赖氧的光催化策略，在癌细胞里把谷胱甘肽转成氧化型，同时产生氢气，打乱胞内氧化还原平衡，诱导铁死亡并激活抗肿瘤免疫。",
+   "tags": [
+    "光催化",
+    "铁死亡",
+    "癌症治疗"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Photocatalytic therapy via cross-coupling hydrogen evolution in cancer cells",
+   "source": "Chem",
+   "kind": "paper",
+   "link": "https://www.cell.com/chem/fulltext/S2451-9294(26)00388-8?rss=yes",
+   "doi": "10.1016/j.chempr.2026.103322",
+   "image": null,
+   "authors": "Kun Zhou, Siyuan Wang, Mingwang Yang, Tianfeng Yang, Suyu Zhang, Chao Chen, Zheng Zhao, Ben Zhong Tang, Yanmin Zhang",
+   "id": "10.1016/j.chempr.2026.103322"
+  },
+  {
+   "title_zh": "金属原子缝里的氢，第一次被直接看到",
+   "blurb": "悉尼大学团队首次直接观察到氢溶解在金属合金原子间的微小空隙里。这能帮我们理解氢为什么会削弱金属，也为设计更抗氢脆的材料提供线索。",
+   "tags": [
+    "氢脆",
+    "金属晶格",
+    "原位观察"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "First direct observations reveal hydrogen dissolved in tiny gaps between metal atoms",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-reveal-hydrogen-dissolved-tiny-gaps.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-enables-s.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-reveal-hydrogen-dissolved-tiny-gaps.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "氢键不是化学键",
+  "text": "氢键虽然名字带“键”，但它不是真正的化学键，而是一种分子间作用力，强度比共价键弱得多，却足以让水在室温下是液体而不是气体。"
+ },
+ "stats": {
+  "fetched": 1682,
+  "candidates": 90
+ },
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T13:38:29+08:00"
+}
