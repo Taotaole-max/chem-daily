@@ -1,0 +1,102 @@
+{
+ "title": "牙刷发电杀菌？化学圈今日整活",
+ "cover_title": "牙刷靠刷毛动一动就发电杀菌",
+ "cover_lines": [
+  "废塑料升级成工业级胶水",
+  "界面电场和电位梯度各管一摊",
+  "堵住的滤膜没准能改造炼油"
+ ],
+ "body": "刷个牙也能发电杀菌，化学圈今天又整新活了。\n\n1️⃣ 一种新聚合物材料能在刷毛运动时产生电，用来对付细菌。报道说这可能让手动牙刷迎来一千多年来第一次大改版，不过目前还只是材料层面的进展。（Nature）\n\n2️⃣ 电化学动力学同时受热力学驱动力和界面极化影响。这项工作显示活化能随电位升高而下降，却随电位偏离零总电荷电位而上升，把动力学画成了一张多维地图。（Nature Chemistry）\n\n3️⃣ 新膜能在室温下分离原油，还借油本身在膜里形成微小的过滤通道。报道说这套方案有望把炼油能耗降近32%、碳排放降近38%、运营成本降36%，对一个出了名耗能的行业来说挺有想象空间。（ScienceDaily 化学）\n\n4️⃣ 研究首次用铁磁多功能材料做磁诱导反应性碳捕集：材料既吸附CO2，又靠高频交变磁场快速升温把它转成甲烷，升温速率200–400°C/min。有意思的是，最优的Na/NiFe在常规加热下反而没活性。（Angewandte Chemie）\n\n你最近在做什么方向，有没有被实验整活？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "催化",
+  "高分子",
+  "电化学",
+  "塑料回收",
+  "CO2转化",
+  "化学与材料"
+ ],
+ "id": "2026-11-06",
+ "kind": "daily",
+ "date": "2026-11-06",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月6日 周五",
+   "title": "牙刷靠刷毛动一动就发电杀菌",
+   "lines": [
+    "废塑料升级成工业级胶水",
+    "界面电场和电位梯度各管一摊",
+    "堵住的滤膜没准能改造炼油"
+   ],
+   "thumbs": [
+    "https://media.nature.com/lw1200/magazine-assets/d41586-026-03586-y/d41586-026-03586-y_53940374.jpg",
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plastic-waste-tran.jpg",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02290-8/MediaObjects/41557_2026_2290_Figa_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "材料化学",
+   "title": "牙刷靠刷毛动一动就发电杀菌",
+   "text": "一种新聚合物材料能在刷毛运动时产生电，用来对付细菌。报道说这可能让手动牙刷迎来一千多年来第一次大改版，不过目前还只是材料层面的进展。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Toothbrush zaps bacteria with electricity made when bristles move",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03586-y/d41586-026-03586-y_53940374.jpg"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "废塑料升级成工业级胶水",
+   "text": "全球每年产约4.5亿吨塑料，聚烯烃（PE、PP）这类包装材料占了约一半，用完多半进焚烧炉或填埋场。这项新升级回收方法把塑料袋和瓶子转成工业强度的胶黏剂，给难回收的聚烯烃找了条新出路。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Plastic bags and bottles become industrial-strength adhesives through new upcycling method",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plastic-waste-tran.jpg"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "界面电场和电位梯度原来各管一摊",
+   "text": "电化学动力学同时受热力学驱动力和界面极化影响。这项工作显示活化能随电位升高而下降，却随电位偏离零总电荷电位而上升，把动力学画成了一张多维地图。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Disentanglement of interfacial electric fields and electrochemical potential gradients reveals a multidimensional kinetic landscape",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02290-8/MediaObjects/41557_2026_2290_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "化学工程",
+   "title": "堵住的滤膜没准能改造炼油",
+   "text": "新膜能在室温下分离原油，还借油本身在膜里形成微小的过滤通道。报道说这套方案有望把炼油能耗降近32%、碳排放降近38%、运营成本降36%，对一个出了名耗能的行业来说挺有想象空间。",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "title_en": "Scientists discover that a clogged filter could revolutionize oil refining",
+   "image": "https://www.sciencedaily.com/images/1920/membrane-technolog-separates-crude-oil-without-boiling.webp"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "催化",
+   "title": "磁感应加热让CO2直接变甲烷",
+   "text": "研究首次用铁磁多功能材料做磁诱导反应性碳捕集：材料既吸附CO2，又靠高频交变磁场快速升温把它转成甲烷，升温速率200–400°C/min。有意思的是，最优的Na/NiFe在常规加热下反而没活性。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Magnetically Induced Reactive Carbon Capture With Ferromagnetic Multi‐Function Materials",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/0a0c5537-1ee1-4b62-955a-5de024813c82/anie75249-gra-0001-m.png"
+  }
+ ]
+}

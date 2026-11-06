@@ -1,0 +1,195 @@
+{
+ "lead": "塑料变胶水、牙刷会放电，今天化学圈有点会整活",
+ "items": [
+  {
+   "title_zh": "废塑料升级成工业级胶水",
+   "blurb": "全球每年产约4.5亿吨塑料，聚烯烃（PE、PP）这类包装材料占了约一半，用完多半进焚烧炉或填埋场。这项新升级回收方法把塑料袋和瓶子转成工业强度的胶黏剂，给难回收的聚烯烃找了条新出路。",
+   "tags": [
+    "塑料回收",
+    "聚烯烃",
+    "胶黏剂"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Plastic bags and bottles become industrial-strength adhesives through new upcycling method",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-plastic-bags-bottles-industrial-strength.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-plastic-waste-tran.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-plastic-bags-bottles-industrial-strength.html"
+  },
+  {
+   "title_zh": "双核铜酶干起了自由基卤化",
+   "blurb": "双核金属酶在生物催化里一直没被充分开发。研究者拿巨大芽孢杆菌的酪氨酸酶当平台，做成了立体选择性的自由基叠氮化、溴化、氯化和异硫氰化，把金属酶催化从单核体系往外扩了一步。",
+   "tags": [
+    "生物催化",
+    "双核铜酶",
+    "自由基反应"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "A binuclear copper enzyme platform for enantioconvergent radical (pseudo)halogenation",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02292-6",
+   "doi": "10.1038/s41557-026-02292-6",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02292-6/MediaObjects/41557_2026_2292_Figa_HTML.png",
+   "authors": "Xiao-Wang Chen, Oluwatosin Maryam Adeyemo, Heyu Chen, Hongda Chen, Ngoc Nguyen, Joseph Palazzo, Liu-Peng Zhao, Ken Lin, Binh Khanh Mai, Peng Liu, Shiliang Tian, Yang Yang",
+   "id": "10.1038/s41557-026-02292-6"
+  },
+  {
+   "title_zh": "堵住的滤膜没准能改造炼油",
+   "blurb": "新膜能在室温下分离原油，还借油本身在膜里形成微小的过滤通道。报道说这套方案有望把炼油能耗降近32%、碳排放降近38%、运营成本降36%，对一个出了名耗能的行业来说挺有想象空间。",
+   "tags": [
+    "膜分离",
+    "炼油",
+    "节能"
+   ],
+   "field": "化学工程",
+   "title_en": "Scientists discover that a clogged filter could revolutionize oil refining",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/membrane-technolog-separates-crude-oil-without-boiling.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm"
+  },
+  {
+   "title_zh": "磁感应加热让CO2直接变甲烷",
+   "blurb": "研究首次用铁磁多功能材料做磁诱导反应性碳捕集：材料既吸附CO2，又靠高频交变磁场快速升温把它转成甲烷，升温速率200–400°C/min。有意思的是，最优的Na/NiFe在常规加热下反而没活性。",
+   "tags": [
+    "碳捕集",
+    "磁感应",
+    "甲烷"
+   ],
+   "field": "催化",
+   "title_en": "Magnetically Induced Reactive Carbon Capture With Ferromagnetic Multi‐Function Materials",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4875918?af=R",
+   "doi": "10.1002/anie.4875918",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/0a0c5537-1ee1-4b62-955a-5de024813c82/anie75249-gra-0001-m.png",
+   "authors": "Hyewon Lee, \nCody J. Wrasman, \nSteven C. Hayden, \nMadeline Van Winkle, \nKlaertje K. Hesselink, \nChae Jeong‐Potter, \nAlexander J. Hill, \nAnh T. To, \nStephen D. House, \nW. Wilson McNeary",
+   "id": "10.1002/anie.4875918"
+  },
+  {
+   "title_zh": "给CO2制烯烃的反应网络做解耦",
+   "blurb": "铁基催化剂把CO2加氢变烯烃时，C═O活化慢、水还会氧化碳化铁，活性和选择性老打架。研究者用带氧空位和羟基的γ-Al2O3分担活化与吸水任务，烯烃时空产率做到3323.1 mg/gcat/h。",
+   "tags": [
+    "CO2加氢",
+    "烯烃",
+    "催化剂设计"
+   ],
+   "field": "催化",
+   "title_en": "Decoupling of Reaction Network for Ultra‐High Yield Synthesis of Olefins From CO2 Hydrogenation Over Fe‐Based Catalysts",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1470781?af=R",
+   "doi": "10.1002/anie.1470781",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/02b05a7b-d657-442b-a7a7-fae85ece2f16/anie75594-gra-0001-m.png",
+   "authors": "Zhiang Yuan, \nQi Li, \nDingyao Li, \nYang Wang, \nJian Wei, \nZhongquan Xiang, \nSong Li, \nKaixuan Huo, \nXinze Bi, \nQiang Liu, \nJian Sun, \nNoritatsu Tsubaki, \nMingbo Wu",
+   "id": "10.1002/anie.1470781"
+  },
+  {
+   "title_zh": "电解一把，给聚合物按分子量剪裁",
+   "blurb": "聚合物分子量分布通常只能靠重新合成来调。这项工作报告非均相大分子电解能在同一份预聚物上按需编辑分布，数均分子量从60调到902 kg mol–1，分散度从1.3到7，低分子量链因为扩散快而优先被活化。",
+   "tags": [
+    "高分子电解",
+    "分子量",
+    "电化学"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Physicochemical Reaction Control Enables Molar-Mass-Selective Macromolecular Electrolysis",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c12170",
+   "doi": "10.1021/jacs.6c12170",
+   "image": null,
+   "authors": "Sean R. Gitter, Gerald A. Camarella, Rhys W. Hughes, Ani N. Davis, Graham C. Gilchrist, Joshua D. Marquez",
+   "id": "10.1021/jacs.6c12170"
+  },
+  {
+   "title_zh": "牙刷靠刷毛动一动就发电杀菌",
+   "blurb": "一种新聚合物材料能在刷毛运动时产生电，用来对付细菌。报道说这可能让手动牙刷迎来一千多年来第一次大改版，不过目前还只是材料层面的进展。",
+   "tags": [
+    "抗菌材料",
+    "聚合物",
+    "牙刷"
+   ],
+   "field": "材料化学",
+   "title_en": "Toothbrush zaps bacteria with electricity made when bristles move",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/d41586-026-03586-y",
+   "doi": "10.1038/d41586-026-03586-y",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03586-y/d41586-026-03586-y_53940374.jpg",
+   "authors": "Elizabeth Gibney",
+   "id": "10.1038/d41586-026-03586-y"
+  },
+  {
+   "title_zh": "甜菜碱催化剂配上会“看相互作用”的模型",
+   "blurb": "不对称催化里预测对映选择性一直难，尤其当立体控制靠一堆弱而灵活的非共价相互作用时。研究者搭了手性咪唑鎓/芳氧基甜菜碱催化剂平台做1,3-偶极环加成，转化数最高3000，再用描述符统计模型预测选择性。",
+   "tags": [
+    "不对称催化",
+    "有机催化",
+    "机器学习"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "A Predictive Betaine Organocatalyst Platform for Asymmetric 1,3-Dipolar Cycloadditions Enabled by Interaction-Aware Modeling",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c15837",
+   "doi": "10.1021/jacs.6c15837",
+   "image": null,
+   "authors": "Lucca Pfitzer, Julia A. Turner, Adrian Bürstner, Felix Göbel, Bernd Maier, Johanna Osterbrink",
+   "id": "10.1021/jacs.6c15837"
+  },
+  {
+   "title_zh": "界面电场和电位梯度原来各管一摊",
+   "blurb": "电化学动力学同时受热力学驱动力和界面极化影响。这项工作显示活化能随电位升高而下降，却随电位偏离零总电荷电位而上升，把动力学画成了一张多维地图。",
+   "tags": [
+    "电化学",
+    "界面电场",
+    "反应动力学"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Disentanglement of interfacial electric fields and electrochemical potential gradients reveals a multidimensional kinetic landscape",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02290-8",
+   "doi": "10.1038/s41557-026-02290-8",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02290-8/MediaObjects/41557_2026_2290_Figa_HTML.png",
+   "authors": "Caroline J. Aschendorf, Francisco Sarabia, Matias Herran, Simeon Beinlich, Mathieu Lizée, Ya-Wei Zhou, Henry Geiß, Philipp Grosse, Wiebke Frandsen, Beatriz Roldan Cuenya, Sebastian Z. Oener",
+   "id": "10.1038/s41557-026-02290-8"
+  },
+  {
+   "title_zh": "蜜蜂自带可降解塑料配方",
+   "blurb": "独居的壁蜂用聚酯给巢穴做内衬，这种材料几个月内就能降解。研究者从中找可降解塑料的设计规则，算是向昆虫偷师的一例。",
+   "tags": [
+    "可降解塑料",
+    "聚酯",
+    "仿生"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "How cellophane bees make a plastic that doesn’t pile up",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/materials/biobased-materials/cellophane-bees-polyester-biodegradable-sustainable-plastics/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/NEWS--Cellophane-bee-s-bioplastic-is-biodegradable---674951:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Anirban Mukhopadhyay, special to C&EN",
+   "id": "https://cen.acs.org/materials/biobased-materials/cellophane-bees-polyester-biodegradable-sustainable-plastics/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "钻石和铅笔芯是亲戚",
+  "text": "金刚石和石墨都由碳元素组成，只是碳原子的排列方式不同：金刚石是三维网状结构，石墨是层状结构。同素异形体就是这么个意思，同一种元素换身衣服，性质天差地别。"
+ },
+ "stats": {
+  "fetched": 1676,
+  "candidates": 90
+ },
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06T13:35:23+08:00"
+}
