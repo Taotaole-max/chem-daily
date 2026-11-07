@@ -1,0 +1,195 @@
+{
+ "lead": "今日份化学日报：钙钛矿稳了，塑料变尼龙，玻璃也能被“编程”。",
+ "items": [
+  {
+   "title_zh": "钙钛矿埋底界面加磺酸盐，效率稳到98.9%",
+   "blurb": "用预去质子化的磺酸盐（DDANA）在钙钛矿和自组装单分子层之间搭了个富磺酸埋底界面，多站点抓铅、捕质子、还能可逆调节碘氧化还原。倒置电池效率做到27.38%（认证27.13%），1000小时最大功率跟踪后仍保持98.9%初始效率。",
+   "tags": [
+    "钙钛矿",
+    "界面工程",
+    "稳定性"
+   ],
+   "field": "材料化学",
+   "title_en": "Ionization‐State‐Directed Sulfonate‐Rich Buried Interfaces Enable Durable High‐Efficiency Perovskite Solar Cells and Modules",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75660?af=R",
+   "doi": "10.1002/adma.75660",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/04ee5b63-35b5-4e6d-b500-58989c987a1d/adma75660-gra-0001-m.png",
+   "authors": "Yihao Mo, \nYe Lan, \nHengyu Zhou, \nXiaowei Xu, \nSimeng Gao, \nShikang Zhu, \nJie Yu, \nLeixi He, \nSongyu Du, \nQuan Liu, \nWei Song, \nLihong Zhou, \nMengjin Yang, \nZiyi Ge",
+   "id": "10.1002/adma.75660"
+  },
+  {
+   "title_zh": "DNA纳米开关筛分子，专挑蛋白互作调节剂",
+   "blurb": "把DNA纳米开关和下一代测序搭在一起，做出FIND平台，超高通量筛选能诱导或增强蛋白-蛋白相互作用的分子。作者用它找到了稳定ACE2与新冠RBD结合的纳米抗体，还从DNA条码小分子库里挖到PPARγ激动剂。",
+   "tags": [
+    "DNA纳米技术",
+    "高通量筛选",
+    "蛋白互作"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Discovering molecular modulators with nanoswitch screening",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.adt7185?af=R",
+   "doi": "10.1126/science.adt7185",
+   "image": null,
+   "authors": "Clinton H. Hansen, Mark Lipstein, Sarah C. Erlandson, Tobias Schwalbe, Sylvie G. Bernier, Peter Gmeiner, Andrew C. Kruse, Wesley P. Wong",
+   "id": "10.1126/science.adt7185"
+  },
+  {
+   "title_zh": "聚乙烯变尼龙原料，LIKAT说能放大生产",
+   "blurb": "德国LIKAT的化学家把聚乙烯（塑料垃圾的主要成分）选择性转化成二羧酸，这玩意儿正好是尼龙的化学前体。如果将来能大规模用废塑料代替石油来产尼龙，对环境和气候都是好事。",
+   "tags": [
+    "聚乙烯",
+    "升级回收",
+    "尼龙"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "New method for upcycling polyethylene is suitable for mass production as a raw material for nylon",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-method-upcycling-polyethylene-suitable-mass.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-for-upcycli.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-method-upcycling-polyethylene-suitable-mass.html"
+  },
+  {
+   "title_zh": "这种高分子网络越受力越强，还会自己重组",
+   "blurb": "adapt-ring网络由致密可重构的α-环糊精晶区和稀疏交联的聚乙二醇组成，受力时会偏离平衡态重组，然后自我增强。简单说就是材料在机械应力下会“长肌肉”，越用越结实。",
+   "tags": [
+    "自适应材料",
+    "高分子网络",
+    "自增强"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Mechanical adaptation drives out-of-equilibrium network reorganization and self-strengthening in adapt-ring networks",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02795-0",
+   "doi": "10.1038/s41563-026-02795-0",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02795-0/MediaObjects/41563_2026_2795_Fig1_HTML.png",
+   "authors": "Dan Zheng, Zhaohan Yu, Yufei Chen, Cameron D. Smith, Mingliang Bai, Esther H. R. Tsai, Jiabin Liu, Wenlin Zhang, Shaoting Lin, Chenfeng Ke",
+   "id": "10.1038/s41563-026-02795-0"
+  },
+  {
+   "title_zh": "从头设计金属酶，把Salen催化剂装进蛋白里",
+   "blurb": "计算设计出全新三级结构的蛋白，能结合Co-salen这种经典小分子催化剂。六个设计里五个表达良好、结合辅因子并催化金属氢原子转移（MHAT）脱烯丙基反应，最活跃的序列晶体结构和设计吻合，pH 2–12、95 °C下都保持结构和活性。",
+   "tags": [
+    "金属酶",
+    "从头设计",
+    "催化"
+   ],
+   "field": "催化",
+   "title_en": "De Novo Design of Catalytically Active Salen-Binding Proteins",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c08768",
+   "doi": "10.1021/jacs.6c08768",
+   "image": null,
+   "authors": "Ian Bakanas, Maggie Horst, Stephanie Ouchida, Sungwon Jung, Lorena Simunic, Angela Lombardi",
+   "id": "10.1021/jacs.6c08768"
+  },
+  {
+   "title_zh": "量子点光催化给CO2“编程”，羧化和羰化都行",
+   "blurb": "半导体量子点（QD）在可见光下把CO2活化成CO2•–或CO，通过调节界面质子转移快慢来控制产物走向。慢质子转移时CO2•–寿命延长，被烯烃就地截获得β-羧酸；剩下的CO还能拿去做羰化反应的C1原料。",
+   "tags": [
+    "量子点",
+    "光催化",
+    "CO2转化"
+   ],
+   "field": "有机合成",
+   "title_en": "Quantum Dot Visible‐Light Photocatalysis Programs CO2 for Hydrocarboxylation and Carbonylation Reactions",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4892943?af=R",
+   "doi": "10.1002/anie.4892943",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/31568e29-950b-4740-8bee-fdb3a6e83251/anie75620-gra-0001-m.png",
+   "authors": "Yao Wang, \nXiao‐Lei Nan, \nMao‐Yong Huang, \nYing Tang, \nGuangbo Chen, \nTierui Zhang, \nXu‐Bing Li, \nChen‐Ho Tung, \nLi‐Zhu Wu",
+   "id": "10.1002/anie.4892943"
+  },
+  {
+   "title_zh": "用氘当替身，看到金属晶格里的间隙氢",
+   "blurb": "原子探针层析技术拿氘当氢的替身，首次在实验上看到不同FCC相中固溶的间隙氢，和理论预测的氢亲和性一致，还揭示了氢在结构合金里的分配行为。对理解氢脆和储氢材料都有参考价值。",
+   "tags": [
+    "间隙氢",
+    "原子探针",
+    "合金"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Towards observing interstitial hydrogen in solution in metal lattices",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11238-4",
+   "doi": "10.1038/s41586-026-11238-4",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11238-4/MediaObjects/41586_2026_11238_Fig1_HTML.png",
+   "authors": "Chao Huang, Saiyu Liu, Wenting Lv, Chun Chen, Shangkun Shen, Ranming Niu, Zhao Xu, Yanqi Tu, Siwen Shen, Cheng-Yun Wu, Pang-Yu Liu, Kewei Gao, Yu Yang, Hung-Wei Yen, Xinping Mao, Engang Fu, Julie Cair",
+   "id": "10.1038/s41586-026-11238-4"
+  },
+  {
+   "title_zh": "特殊分子给玻璃“重编程”，还能降熔点",
+   "blurb": "科学家找到一种特殊分子，能在降低熔点的同时重排玻璃内部的化学键，相当于重新编程玻璃结构。这有望做出磁性和光学性质精确可控的新玻璃，用于先进电子和传感器。",
+   "tags": [
+    "玻璃",
+    "结构调控",
+    "光学材料"
+   ],
+   "field": "无机与配位",
+   "title_en": "A clever molecular trick unlocks previously impossible properties in glass",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261103003202.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/new-glass-technology.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/11/261103003202.htm"
+  },
+  {
+   "title_zh": "数据少也能预测分子行为，MIT新方法赢了",
+   "blurb": "MIT团队开发的新方法，在某种技术相关性质数据很少时——比如配体对新靶点的亲和力——能比其他现有方法更好地缩小候选分子范围。成果发在《Journal of Chemical Information and Modeling》9月14日刊。",
+   "tags": [
+    "机器学习",
+    "分子预测",
+    "药物发现"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "How to predict the behavior of molecules from scant data",
+   "source": "MIT News 化学",
+   "kind": "news",
+   "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+   "doi": null,
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-cheme-chemeleon.jpg?itok=sxUBAH56",
+   "authors": "David L. Chandler | Department of Chemical Engineering",
+   "id": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106"
+  },
+  {
+   "title_zh": "电池热失控的隐藏推手：正极铝热反应",
+   "blurb": "含氧正极材料和金属铝在惰性气氛下也能形成自持传播的铝热前沿，把局部失效变成高温蔓延。用半一维复合棒平台隔离出这个界面氧化还原反应，发现富镍层状氧化物/铝体系在氩气中也能传播，速度与报道的热失控前沿同量级。",
+   "tags": [
+    "锂离子电池",
+    "热失控",
+    "铝热反应"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Cathode‐Driven Aluminothermic Fronts Amplify Thermal Runaway in Lithium‐Ion Batteries",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75673?af=R",
+   "doi": "10.1002/adma.75673",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/d783bb30-d6f3-4e76-bce8-ee3ab8ded00c/adma75673-gra-0001-m.png",
+   "authors": "Yuxin Zhou, \nLei Zhang, \nYichao Zhang, \nYanghan Su, \nCangsu Xu, \nShaorun Lin, \nZhirong Wang, \nXinyan Huang",
+   "id": "10.1002/adma.75673"
+  }
+ ],
+ "fun_fact": {
+  "title": "玻璃其实是过冷液体",
+  "text": "玻璃常被说成“流动极慢的液体”，但严格讲它是非晶态固体，分子没有长程有序，却不像液体那样能流动。所谓“老窗户下厚上薄”是制造工艺造成的，不是玻璃在流。"
+ },
+ "stats": {
+  "fetched": 1735,
+  "candidates": 90
+ },
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T13:02:55+08:00"
+}

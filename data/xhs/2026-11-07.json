@@ -1,0 +1,101 @@
+{
+ "title": "钙钛矿稳98.9%还有氘代显微镜",
+ "cover_title": "钙钛矿千小时只掉1.1%",
+ "cover_lines": [
+  "磺酸盐埋底界面抓铅捕质子",
+  "氘当替身看见晶格间隙氢",
+  "废聚乙烯变尼龙前体"
+ ],
+ "body": "今天这几条，从电池到塑料再到氢脆，全是界面和结构在搞事情。\n\n1️⃣ 钙钛矿电池在埋底界面加了一层预去质子化的磺酸盐，多站点抓铅、捕质子，还能可逆调节碘氧化还原。倒置器件效率做到27.38%，认证27.13%，最大功率跟踪1000小时后仍保持98.9%初始效率。（Advanced Materials）\n\n2️⃣ 原子探针层析技术拿氘当氢的替身，首次在实验上直接看到不同面心立方相中固溶的间隙氢，和理论预测的氢亲和性对得上。氢脆和储氢材料的研究者应该会盯上这篇。（Nature）\n\n3️⃣ 一种叫adapt-ring的高分子网络，由致密可重构的环糊精晶区和稀疏交联的聚乙二醇组成。受力时偏离平衡态重组，然后自我增强，简单说就是越用越结实。（Nature Materials）\n\n4️⃣ 含氧正极和金属铝在惰性气氛下也能形成自持传播的铝热前沿，把局部失效变成高温蔓延。富镍层状氧化物/铝体系在氩气中传播速度与报道的热失控前沿同量级，电池安全又多一个要防的点。（Advanced Materials）\n\n大家最近在做什么方向，有没有被界面问题折磨的？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "钙钛矿",
+  "电池安全",
+  "高分子",
+  "塑料回收",
+  "氢脆"
+ ],
+ "id": "2026-11-07",
+ "kind": "daily",
+ "date": "2026-11-07",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月7日 周六",
+   "title": "钙钛矿千小时只掉1.1%",
+   "lines": [
+    "磺酸盐埋底界面抓铅捕质子",
+    "氘当替身看见晶格间隙氢",
+    "废聚乙烯变尼龙前体"
+   ],
+   "thumbs": [
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/04ee5b63-35b5-4e6d-b500-58989c987a1d/adma75660-gra-0001-m.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11238-4/MediaObjects/41586_2026_11238_Fig1_HTML.png",
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-for-upcycli.jpg"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "材料化学",
+   "title": "钙钛矿埋底界面加磺酸盐，效率稳到98.9%",
+   "text": "用预去质子化的磺酸盐（DDANA）在钙钛矿和自组装单分子层之间搭了个富磺酸埋底界面，多站点抓铅、捕质子、还能可逆调节碘氧化还原。倒置电池效率做到27.38%（认证27.13%），1000小时最大功率跟踪后仍保持98.9%初始效率。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Ionization‐State‐Directed Sulfonate‐Rich Buried Interfaces Enable Durable High‐Efficiency Perovskite Solar Cells and Modules",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/04ee5b63-35b5-4e6d-b500-58989c987a1d/adma75660-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "用氘当替身，看到金属晶格里的间隙氢",
+   "text": "原子探针层析技术拿氘当氢的替身，首次在实验上看到不同FCC相中固溶的间隙氢，和理论预测的氢亲和性一致，还揭示了氢在结构合金里的分配行为。对理解氢脆和储氢材料都有参考价值。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Towards observing interstitial hydrogen in solution in metal lattices",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11238-4/MediaObjects/41586_2026_11238_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "聚乙烯变尼龙原料，LIKAT说能放大生产",
+   "text": "德国LIKAT的化学家把聚乙烯（塑料垃圾的主要成分）选择性转化成二羧酸，这玩意儿正好是尼龙的化学前体。如果将来能大规模用废塑料代替石油来产尼龙，对环境和气候都是好事。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "New method for upcycling polyethylene is suitable for mass production as a raw material for nylon",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-method-for-upcycli.jpg"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "这种高分子网络越受力越强，还会自己重组",
+   "text": "adapt-ring网络由致密可重构的α-环糊精晶区和稀疏交联的聚乙二醇组成，受力时会偏离平衡态重组，然后自我增强。简单说就是材料在机械应力下会“长肌肉”，越用越结实。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Mechanical adaptation drives out-of-equilibrium network reorganization and self-strengthening in adapt-ring networks",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02795-0/MediaObjects/41563_2026_2795_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "电池热失控的隐藏推手：正极铝热反应",
+   "text": "含氧正极材料和金属铝在惰性气氛下也能形成自持传播的铝热前沿，把局部失效变成高温蔓延。用半一维复合棒平台隔离出这个界面氧化还原反应，发现富镍层状氧化物/铝体系在氩气中也能传播，速度与报道的热失控前沿同量级。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Cathode‐Driven Aluminothermic Fronts Amplify Thermal Runaway in Lithium‐Ion Batteries",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/d783bb30-d6f3-4e76-bce8-ee3ab8ded00c/adma75673-gra-0001-m.png"
+  }
+ ]
+}
