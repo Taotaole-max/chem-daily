@@ -1,0 +1,100 @@
+{
+ "title": "硼氧分子等60年终被抓😲",
+ "cover_title": "等了60年的硼氧分子",
+ "cover_lines": [
+  "60年等一分子",
+  "快充10分钟跑起来",
+  "脂质纳米颗粒自己当药"
+ ],
+ "body": "今天这条等了60年，终于有人把硼氧分子稳稳逮住了。\n\n1️⃣ 科学家用相对简单的反应首次分离出稳定的硼氧分子，这东西以前被认为太不稳定、根本抓不住。意外突破可能为全新一类奇特化合物打开大门。（ScienceDaily）\n\n2️⃣ 通过电解液设计，在界面形成富含 Li3PO4-Li2SO4 的固态电解质界面（SEI），把界面锂离子传输的表观活化能从 39.1 降到 21.3 kJ mol−1。51.6 Ah 软包电池在 25°C 下 10.5 分钟充入 208.7 Wh kg−1，组装成 94 kWh 电池包后，5% 到 85% 充电用时 11.77 分钟。（Advanced Materials）\n\n3️⃣ 一种脂质纳米颗粒配方，仅靠其脂质成分就能降解肿瘤相关巨噬细胞上的免疫抑制受体，同时其信使 RNA（mRNA）货物把这些细胞原位重编程为抗肿瘤的嵌合抗原受体巨噬细胞，重塑胃肠道癌恶性腹水的免疫微环境。（Nature Materials）\n\n4️⃣ 低共熔溶剂（DES）介导的湿化学路线，把便宜的水合前驱体变成高性能卤化物固态电解质。氢键锚定和竞争配位抑制金属离子水解，尿素帮忙热化学除水，得到纯相 Li3MCl6，离子电导率 >0.30 mS cm−1，可做到 100 克级生产，潮湿降解的材料还能再生。（Angewandte Chemie）\n\n你最近在做什么方向，有没有被哪条戳中？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "电化学",
+  "固态电池",
+  "纳米材料",
+  "有机合成"
+ ],
+ "id": "2026-11-08",
+ "kind": "daily",
+ "date": "2026-11-08",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月8日 周日",
+   "title": "等了60年的硼氧分子",
+   "lines": [
+    "60年等一分子",
+    "快充10分钟跑起来",
+    "脂质纳米颗粒自己当药"
+   ],
+   "thumbs": [
+    "https://www.sciencedaily.com/images/1920/newly-prepared-oxoborane.webp",
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/6b8255ee-cb79-45c6-a825-e6e2d2c93ff3/adma75045-gra-0001-m.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02774-5/MediaObjects/41563_2026_2774_Fig1_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "无机与配位",
+   "title": "等了60年，硼氧分子终于被逮住",
+   "text": "科学家用相对简单的反应，首次分离出稳定的硼氧分子（boron-oxygen molecules），这类分子此前被认为太不稳定、根本抓不住。意外突破可能为全新一类奇特化合物打开大门。",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "title_en": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
+   "image": "https://www.sciencedaily.com/images/1920/newly-prepared-oxoborane.webp"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "给SEI“降活化能”，快充10分钟跑起来",
+   "text": "通过电解液设计，在界面形成富含 Li3PO4-Li2SO4 的固态电解质界面（SEI），把界面锂离子传输的表观活化能从 39.1 降到 21.3 kJ mol−1。51.6 Ah 软包电池在 25°C 下 10.5 分钟充入 208.7 Wh kg−1，组装成 94 kWh 电池包后，5% 到 85% 充电用时 11.77 分钟。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Extreme‐Fast‐Charging Li‐Ion Batteries via Activation‐Energy Regulation With a Li3PO4‐Li2SO4‐Rich Solid Electrolyte Interphase",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/6b8255ee-cb79-45c6-a825-e6e2d2c93ff3/adma75045-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "脂质纳米颗粒：自己当药，还带mRNA",
+   "text": "一种脂质纳米颗粒配方，仅靠其脂质成分就能降解肿瘤相关巨噬细胞上的免疫抑制受体，同时其信使 RNA（mRNA）货物把这些细胞原位重编程为抗肿瘤的嵌合抗原受体巨噬细胞，重塑胃肠道癌恶性腹水的免疫微环境。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Nanoparticles as carrier and drug",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02774-5/MediaObjects/41563_2026_2774_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "植物基涂层，让咖啡杯更好回收",
+   "text": "传统一次性咖啡杯的内衬会释放塑料颗粒，还难回收。一种新的植物基涂层有望解决这些问题，让你早上的那杯咖啡少点微塑料负担。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Coating made from renewable plant-based materials could simplify recycling while reducing exposure to microplastics",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/disposable-coffee-cup.jpg"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "用低共熔溶剂“熬”出固态电解质",
+   "text": "低共熔溶剂（DES）介导的湿化学路线，把便宜的水合前驱体变成高性能卤化物固态电解质。氢键锚定和竞争配位抑制金属离子水解，尿素帮忙热化学除水，得到纯相 Li3MCl6，离子电导率 >0.30 mS cm−1，可做到 100 克级生产，潮湿降解的材料还能再生。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "A General Deep Eutectic Solvent‐Mediated Scalable Preparation of Halide Solid‐State Electrolytes for All‐Solid‐State Batteries",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/6ca26e9a-7fb3-4c9d-82c0-be17b4c32d60/anie75630-gra-0001-m.png"
+  }
+ ]
+}

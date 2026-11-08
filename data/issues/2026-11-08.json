@@ -1,0 +1,195 @@
+{
+ "lead": "今日份化学：有人捡漏60年谜题，有人让电池10分钟满血。",
+ "items": [
+  {
+   "title_zh": "等了60年，硼氧分子终于被逮住",
+   "blurb": "科学家用相对简单的反应，首次分离出稳定的硼氧分子（boron-oxygen molecules），这类分子此前被认为太不稳定、根本抓不住。意外突破可能为全新一类奇特化合物打开大门。",
+   "tags": [
+    "硼化学",
+    "不稳定分子",
+    "意外发现"
+   ],
+   "field": "无机与配位",
+   "title_en": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/newly-prepared-oxoborane.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm"
+  },
+  {
+   "title_zh": "用低共熔溶剂“熬”出固态电解质",
+   "blurb": "低共熔溶剂（DES）介导的湿化学路线，把便宜的水合前驱体变成高性能卤化物固态电解质。氢键锚定和竞争配位抑制金属离子水解，尿素帮忙热化学除水，得到纯相 Li3MCl6，离子电导率 >0.30 mS cm−1，可做到 100 克级生产，潮湿降解的材料还能再生。",
+   "tags": [
+    "固态电池",
+    "低共熔溶剂",
+    "可规模化"
+   ],
+   "field": "电化学与能源",
+   "title_en": "A General Deep Eutectic Solvent‐Mediated Scalable Preparation of Halide Solid‐State Electrolytes for All‐Solid‐State Batteries",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6271513?af=R",
+   "doi": "10.1002/anie.6271513",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/6ca26e9a-7fb3-4c9d-82c0-be17b4c32d60/anie75630-gra-0001-m.png",
+   "authors": "Yijie Zhang, \nLingzhi Cao, \nJichang Sun, \nZuxin Long, \nQin Yin, \nPengyu Meng, \nJefferson Zhe Liu, \nLiansheng Li, \nQinghua Liang",
+   "id": "10.1002/anie.6271513"
+  },
+  {
+   "title_zh": "给SEI“降活化能”，快充10分钟跑起来",
+   "blurb": "通过电解液设计，在界面形成富含 Li3PO4-Li2SO4 的固态电解质界面（SEI），把界面锂离子传输的表观活化能从 39.1 降到 21.3 kJ mol−1。51.6 Ah 软包电池在 25°C 下 10.5 分钟充入 208.7 Wh kg−1，组装成 94 kWh 电池包后，5% 到 85% 充电用时 11.77 分钟。",
+   "tags": [
+    "快充",
+    "固态电解质界面",
+    "锂离子电池"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Extreme‐Fast‐Charging Li‐Ion Batteries via Activation‐Energy Regulation With a Li3PO4‐Li2SO4‐Rich Solid Electrolyte Interphase",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75045?af=R",
+   "doi": "10.1002/adma.75045",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/6b8255ee-cb79-45c6-a825-e6e2d2c93ff3/adma75045-gra-0001-m.png",
+   "authors": "Wenfeng Mao, \nHuarong Xia, \nFeng Pei, \nZhipeng Hu, \nLiya Cai, \nXiangbo Tang, \nGuo Ai, \nXian Jun Loh, \nXiaodong Chen, \nXiangdong Huang",
+   "id": "10.1002/adma.75045"
+  },
+  {
+   "title_zh": "脂质纳米颗粒：自己当药，还带mRNA",
+   "blurb": "一种脂质纳米颗粒配方，仅靠其脂质成分就能降解肿瘤相关巨噬细胞上的免疫抑制受体，同时其信使 RNA（mRNA）货物把这些细胞原位重编程为抗肿瘤的嵌合抗原受体巨噬细胞，重塑胃肠道癌恶性腹水的免疫微环境。",
+   "tags": [
+    "脂质纳米颗粒",
+    "mRNA",
+    "肿瘤免疫"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Nanoparticles as carrier and drug",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02774-5",
+   "doi": "10.1038/s41563-026-02774-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02774-5/MediaObjects/41563_2026_2774_Fig1_HTML.png",
+   "authors": "Irene de Lázaro",
+   "id": "10.1038/s41563-026-02774-5"
+  },
+  {
+   "title_zh": "铁催化，把四元环“撑”成含氮五元环",
+   "blurb": "低价铁配合物 Bu4N[Fe(CO)3(NO)] 催化密集取代的环丁基叠氮化物发生 C(sp3)─C(sp3) 键胺化，得到 2H-吡咯啉，产率好到优秀。铁-氮宾物种高选择性地插入更富电子、取代更多的 C─C 键，没有观察到竞争性 C─H 胺化。",
+   "tags": [
+    "铁催化",
+    "C-C键活化",
+    "扩环"
+   ],
+   "field": "有机合成",
+   "title_en": "Iron‐Catalyzed C(sp3)─C(sp3) Bond Amination—The Nitrogenative Ring Expansion of Cyclobutanes",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9987201?af=R",
+   "doi": "10.1002/anie.9987201",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/471d2291-b481-4d15-8f36-49a787786cef/anie75533-gra-0001-m.png",
+   "authors": "Annika Röske, \nSebastian Angstmann, \nNiklas Langendorf, \nYuzhou Wang, \nMaria Degli Innocenti, \nBernd Plietker",
+   "id": "10.1002/anie.9987201"
+  },
+  {
+   "title_zh": "光照+Cu2O，室温水里长MOF",
+   "blurb": "用 Cu2O 纳米颗粒在可见光下自氧化产生局部过饱和，构建自组装纳米反应器。亚稳过饱和先形成壳层限制反应物交换，继续释放的铜驱动向易变区域演化，促使向内结晶。这样 HKUST-1 在室温水中就能结晶，不用外部加热。",
+   "tags": [
+    "金属有机框架",
+    "光化学",
+    "室温合成"
+   ],
+   "field": "材料化学",
+   "title_en": "Light‐Programmed Localized Supersaturation Enables Ambient Aqueous Synthesis of Highly Crystalline Metal–Organic Frameworks",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75080?af=R",
+   "doi": "10.1002/adma.75080",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/8bd9ee36-d179-4f59-9c0a-baad82238590/adma75080-gra-0001-m.png",
+   "authors": "Yongdeok Ahn, \nSeunghyeon Jeong, \nSun Ho Park, \nJuhyeong Cho, \nNak Cheon Jeong, \nDaeha Seo",
+   "id": "10.1002/adma.75080"
+  },
+  {
+   "title_zh": "超薄膜加微电压，把锂从卤水里“筛”出来",
+   "blurb": "约 8.56 nm 厚的超薄聚合物膜带对齐的埃级卟啉孔，降低内阻后可在微伏级电压下同时区分六种离子。对 Li+ 有异常选择性，阈值电压约 400 mV，比最近竞争者高 370 mV。两级装置从低品质卤水提锂，回收率 >98%，能耗 1.1×10−4 Wh/gLi。",
+   "tags": [
+    "离子筛分",
+    "锂提取",
+    "超薄膜"
+   ],
+   "field": "化学工程",
+   "title_en": "Threshold‐Voltage Ion Sieving in Ultrathin Polymeric Membranes for Energy‐Efficient Lithium Extraction",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75638?af=R",
+   "doi": "10.1002/adma.75638",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/878ce792-8c2a-4f78-aab3-6550eda1b1ac/adma75638-gra-0001-m.png",
+   "authors": "Danying Zhao, \nWei Jiang, \nJiale Zhou, \nYan Ye, \nYu Zhang, \nZhenhua Jiang, \nLei Jiang, \nConghui Liu, \nKe Zhou, \nYahong Zhou, \nYunhe Zhang",
+   "id": "10.1002/adma.75638"
+  },
+  {
+   "title_zh": "深度学习量子蒙特卡洛，算激发态更省",
+   "blurb": "提出可迁移的深度学习量子蒙特卡洛方法用于分子激发态。共享参数的拟设（ansatz）能跨分子几何构型和电子态表示波函数，降低势能面建模的成本。",
+   "tags": [
+    "量子蒙特卡洛",
+    "激发态",
+    "机器学习"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Ab initio simulation of excited-state potential energy surfaces with transferable deep quantum Monte Carlo",
+   "source": "Nature Computational Science",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s43588-026-01065-y",
+   "doi": "10.1038/s43588-026-01065-y",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-026-01065-y/MediaObjects/43588_2026_1065_Fig1_HTML.png",
+   "authors": "Zeno Schätzle, P. Bernát Szabó, Alice Cuzzocrea, Matěj Mezera, Frank Noé",
+   "id": "10.1038/s43588-026-01065-y"
+  },
+  {
+   "title_zh": "植物基涂层，让咖啡杯更好回收",
+   "blurb": "传统一次性咖啡杯的内衬会释放塑料颗粒，还难回收。一种新的植物基涂层有望解决这些问题，让你早上的那杯咖啡少点微塑料负担。",
+   "tags": [
+    "植物基材料",
+    "微塑料",
+    "回收"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Coating made from renewable plant-based materials could simplify recycling while reducing exposure to microplastics",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-coating-renewable-based-materials-recycling.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/disposable-coffee-cup.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-coating-renewable-based-materials-recycling.html"
+  },
+  {
+   "title_zh": "无金属沸石也能催化羰基化",
+   "blurb": "无金属沸石可以催化羰基化反应，孔道结构决定了反应的选择性。",
+   "tags": [
+    "沸石",
+    "羰基化",
+    "多相催化"
+   ],
+   "field": "催化",
+   "title_en": "Metal-free zeolite catalyzes carbonylation",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/synthesis/catalysis/zeolite-geometry-catalyzes-carbonylation-without-precious-metals/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://cen.acs.org/content/dam/cen/104/11/WEB/667351-zeolitevideo-lead.mp4",
+   "authors": "Sydney Smith",
+   "id": "https://cen.acs.org/synthesis/catalysis/zeolite-geometry-catalyzes-carbonylation-without-precious-metals/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "液氧是淡蓝色的",
+  "text": "氧气在室温下无色，但冷却到约 -183°C 变成液体后，会呈现明显的淡蓝色。这颜色来自氧分子中电子跃迁对红光的吸收，是教科书里常提的经典现象。"
+ },
+ "stats": {
+  "fetched": 1812,
+  "candidates": 90
+ },
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T12:58:06+08:00"
+}
