@@ -1,0 +1,101 @@
+{
+ "title": "聚酰亚胺300℃还能打🔋",
+ "cover_title": "聚酰亚胺300度还能打",
+ "cover_lines": [
+  "电容存5.9焦每立方厘米",
+  "扭二碲化钼变量子态",
+  "旧风机叶片闪蒸重生"
+ ],
+ "body": "今天这波材料新闻，从耐高温电容到量子扭转，全是硬货。\n\n1️⃣ 聚酰亚胺（PI）薄膜在300°C下扛住高场非线性导电，放电能量密度做到5.9 J cm−3，300°C下还能循环超过10^5次。电动车、地热、航空电容可能都用得上。（Advanced Materials）\n\n2️⃣ 把双层二碲化钼（MoTe2）扭个角度，就能看到从分数量子拓扑态到关联绝缘体、再到超导的转变。拓扑、对称性破缺和磁性在这类摩尔量子材料里纠缠在一起，角度成了调参旋钮。（Nature）\n\n3️⃣ 退役的风机叶片不好回收，现在用闪蒸焦耳加热（Flash Joule Heating）把旧叶片转化成有价值的树脂添加剂，再拿去做新叶片。风电的循环经济，从垃圾堆里捡回来一点。（C&EN）\n\n4️⃣ 适配体（aptamer）通常只认特定配体，现在发现二级适配体能识别一级适配体结合配体后的构象。这样就能夹心检测那些只有一个结合位点的小分子，已经集成到侧向流检测里测血清素了。（Nature Chemistry）\n\n5️⃣ 邻苯二酚配合物（catecholate）一直以结构多样、好修饰著称，这回首次被证明有铁电性。锗配合物[Et4N][Cl-Ge(cat)2]薄膜表现出可切换极化和压电响应，给杂化分子铁电添了个新平台。（Angewandte Chemie）\n\n你最近在做什么方向，有没有被哪种材料卡住过？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "聚酰亚胺",
+  "量子材料",
+  "风电回收",
+  "适配体",
+  "铁电"
+ ],
+ "id": "2026-11-09",
+ "kind": "daily",
+ "date": "2026-11-09",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月9日 周一",
+   "title": "聚酰亚胺300度还能打",
+   "lines": [
+    "电容存5.9焦每立方厘米",
+    "扭二碲化钼变量子态",
+    "旧风机叶片闪蒸重生"
+   ],
+   "thumbs": [
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/4f0f7bdb-5cc5-4bee-b63d-827cb1d0cfed/adma75078-gra-0001-m.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11274-0/MediaObjects/41586_2026_11274_Fig1_HTML.png",
+    "https://s7d1.scene7.com/is/image/CENODS/Recycling-Wind-turbine-blades-using-Flash-Joule-heating---676949:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "聚酰亚胺耐到300度，电容还能存5.9焦",
+   "text": "用构象加振动工程削弱电子耦合、压住热助电荷传输，让聚酰亚胺（PI）薄膜在300°C下扛住高场非线性导电。放电能量密度做到5.9 J cm−3，300°C下还能循环超过10^5次。电动车、地热、航空电容可能都用得上。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Record‐High Capacitive Energy Density in Polyimide Dielectrics at 300°C via Conformational–Vibrational Engineering",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/4f0f7bdb-5cc5-4bee-b63d-827cb1d0cfed/adma75078-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "扭一扭二碲化钼，量子态跟着变",
+   "text": "把双层二碲化钼（MoTe2）扭个角度，就能看到从分数量子拓扑态到关联绝缘体、再到超导的转变。拓扑、对称性破缺和磁性在这类摩尔量子材料里纠缠在一起，角度成了调参旋钮。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Twist-angle-dependent quantum phase diagrams in moiré bilayer MoTe 2",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11274-0/MediaObjects/41586_2026_11274_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "旧风机叶片，闪蒸一下变新叶片原料",
+   "text": "退役的风机叶片不好回收，现在用闪蒸焦耳加热（Flash Joule Heating）把旧叶片转化成有价值的树脂添加剂，再拿去做新叶片。风电的循环经济，从垃圾堆里捡回来一点。",
+   "source": "C&EN",
+   "kind": "news",
+   "title_en": "Using old wind turbine blades to make new ones",
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Recycling-Wind-turbine-blades-using-Flash-Joule-heating---676949:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "适配体认适配体，夹心检测多一招",
+   "text": "适配体（aptamer）通常只认特定配体，现在发现二级适配体能识别一级适配体结合配体后的构象。这样就能夹心检测那些只有一个结合位点的小分子，已经集成到侧向流检测里测血清素了。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Aptamers enable a distinct mode of conformational DNA recognition",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02286-4/MediaObjects/41557_2026_2286_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "无机与配位",
+   "title": "百年邻苯二酚，今朝玩起铁电",
+   "text": "p区邻苯二酚配合物（catecholate）一直以结构多样、好修饰著称，这回首次被证明有铁电性。锗配合物[Et4N][Cl-Ge(cat)2]薄膜表现出可切换极化和压电响应，给杂化分子铁电添了个新平台。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "p‐Block Catecholates: A Century‐Old Platform for Hybrid Molecular Ferroelectrics",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/93071cb4-9527-4e55-a3b1-e34318ffba52/anie75632-gra-0001-m.png"
+  }
+ ]
+}

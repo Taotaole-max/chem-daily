@@ -1,0 +1,195 @@
+{
+ "lead": "今日份化学：钙钛矿少点坑，聚酰亚胺扛住300度，还有金催化玩出了新配体。",
+ "items": [
+  {
+   "title_zh": "室内光伏要出道，先给电池换个妆",
+   "blurb": "把实验室里那些效率漂亮的电池，改造成真正适合室内光线的产品。重点在宽禁带吸光材料、降低非辐射电压损失，还有重新设计组件。以后智能家居的小玩意儿说不定就靠它供电。",
+   "tags": [
+    "室内光伏",
+    "宽禁带",
+    "组件设计"
+   ],
+   "field": "材料化学",
+   "title_en": "Accelerating commercialization and deployment of indoor photovoltaics",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11133-y",
+   "doi": "10.1038/s41586-026-11133-y",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11133-y/MediaObjects/41586_2026_11133_Fig1_HTML.png",
+   "authors": "Tae Hyuk Kim, Yong Cui, Jianhui Hou, Yi Hou, Yelim Kang, Canek Fuentes-Hernandez, Shin Woei Leow, Jia Li, Se-Woong Baek, Seon Joong Kim, Han Young Woo, Hae Jung Son, Muhammad Ahsan Saeed, Gyeong Min L",
+   "id": "10.1038/s41586-026-11133-y"
+  },
+  {
+   "title_zh": "扭一扭二碲化钼，量子态跟着变",
+   "blurb": "把双层二碲化钼（MoTe2）扭个角度，就能看到从分数量子拓扑态到关联绝缘体、再到超导的转变。拓扑、对称性破缺和磁性在这类摩尔量子材料里纠缠在一起，角度成了调参旋钮。",
+   "tags": [
+    "摩尔材料",
+    "二碲化钼",
+    "量子相图"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Twist-angle-dependent quantum phase diagrams in moiré bilayer MoTe 2",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11274-0",
+   "doi": "10.1038/s41586-026-11274-0",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11274-0/MediaObjects/41586_2026_11274_Fig1_HTML.png",
+   "authors": "Zheng Sun, Fan Xu, Jiayi Li, Yifan Jiang, Jingjing Gao, Cheng Xu, Tongtong Jia, Kehao Cheng, Shaozheng Wang, Wanghao Tian, Jinyang Zhang, Kenji Watanabe, Takashi Taniguchi, Jinfeng Jia, Shengwei Jiang",
+   "id": "10.1038/s41586-026-11274-0"
+  },
+  {
+   "title_zh": "聚酰亚胺耐到300度，电容还能存5.9焦",
+   "blurb": "用构象加振动工程削弱电子耦合、压住热助电荷传输，让聚酰亚胺（PI）薄膜在300°C下扛住高场非线性导电。放电能量密度做到5.9 J cm−3，300°C下还能循环超过10^5次。电动车、地热、航空电容可能都用得上。",
+   "tags": [
+    "聚酰亚胺",
+    "高温电容",
+    "介电储能"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Record‐High Capacitive Energy Density in Polyimide Dielectrics at 300°C via Conformational–Vibrational Engineering",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75078?af=R",
+   "doi": "10.1002/adma.75078",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/4f0f7bdb-5cc5-4bee-b63d-827cb1d0cfed/adma75078-gra-0001-m.png",
+   "authors": "Guanghu He, \nWenhan Xu, \nJiajun Peng, \nHang Luo, \nZhifang Zhou, \nXiaona Li, \nYuting Wan, \nDou Zhang",
+   "id": "10.1002/adma.75078"
+  },
+  {
+   "title_zh": "液相帮晶体长个，钙钛矿缺陷少一截",
+   "blurb": "成均馆大学团队联合KRICT、UCSD和普林斯顿，用液相辅助晶体生长做出缺陷大幅减少的钙钛矿半导体薄膜。同一材料平台同时演示了高效太阳能电池和LED，一鱼两吃。",
+   "tags": [
+    "钙钛矿",
+    "晶体生长",
+    "太阳能电池"
+   ],
+   "field": "材料化学",
+   "title_en": "Liquid-assisted crystal growth cuts perovskite defects for efficient solar cells and LEDs",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/skku-develops-ultra-lo-1.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html"
+  },
+  {
+   "title_zh": "百年邻苯二酚，今朝玩起铁电",
+   "blurb": "p区邻苯二酚配合物（catecholate）一直以结构多样、好修饰著称，这回首次被证明有铁电性。锗配合物[Et4N][Cl-Ge(cat)2]薄膜表现出可切换极化和压电响应，给杂化分子铁电添了个新平台。",
+   "tags": [
+    "分子铁电",
+    "邻苯二酚",
+    "p区化学"
+   ],
+   "field": "无机与配位",
+   "title_en": "p‐Block Catecholates: A Century‐Old Platform for Hybrid Molecular Ferroelectrics",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6350098?af=R",
+   "doi": "10.1002/anie.6350098",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/93071cb4-9527-4e55-a3b1-e34318ffba52/anie75632-gra-0001-m.png",
+   "authors": "Supriya Sahoo, \nSophia Klubertz, \nNikhil Singh, \nMartin Richter, \nPetra Tegeder, \nDibyajyoti Ghosh, \nMartijn Kemerink, \nLutz Greb",
+   "id": "10.1002/anie.6350098"
+  },
+  {
+   "title_zh": "适配体认适配体，夹心检测多一招",
+   "blurb": "适配体（aptamer）通常只认特定配体，现在发现二级适配体能识别一级适配体结合配体后的构象。这样就能夹心检测那些只有一个结合位点的小分子，已经集成到侧向流检测里测血清素了。",
+   "tags": [
+    "适配体",
+    "侧向流检测",
+    "血清素"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Aptamers enable a distinct mode of conformational DNA recognition",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02286-4",
+   "doi": "10.1038/s41557-026-02286-4",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02286-4/MediaObjects/41557_2026_2286_Figa_HTML.png",
+   "authors": "Annina Stuber, Kyungae Yang, Sandra Hernández Escobar, Antoine Cléry, Ali Douaki, Núria Moretó Bravo, Diego Lamm, Vlastimil Jirasko, Frédéric H.-T. Allain, Denis Garoli, Nako Nakatsuka",
+   "id": "10.1038/s41557-026-02286-4"
+  },
+  {
+   "title_zh": "AI找固态电解质，别再瞎试了",
+   "blurb": "固态电解质在实验室里看着完美，装进真电池却可能翻车。这篇提出一个AI驱动的发现框架，想帮研究者跳出试错循环，更系统地找材料。具体细节摘要没展开，但方向挺实在。",
+   "tags": [
+    "固态电解质",
+    "AI材料发现",
+    "电池"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Beyond trial and error: A framework for AI-driven solid-electrolyte discovery",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-trial-error-framework-ai-driven.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/beyond-trial-and-error-2.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-trial-error-framework-ai-driven.html"
+  },
+  {
+   "title_zh": "旧风机叶片，闪蒸一下变新叶片原料",
+   "blurb": "退役的风机叶片不好回收，现在用闪蒸焦耳加热（Flash Joule Heating）把旧叶片转化成有价值的树脂添加剂，再拿去做新叶片。风电的循环经济，从垃圾堆里捡回来一点。",
+   "tags": [
+    "风机叶片",
+    "闪蒸焦耳加热",
+    "回收"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Using old wind turbine blades to make new ones",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/environment/recycling/recycling-wind-turbine-blades-flash-joule-heating/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Recycling-Wind-turbine-blades-using-Flash-Joule-heating---676949:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Ananya Palivela",
+   "id": "https://cen.acs.org/environment/recycling/recycling-wind-turbine-blades-flash-joule-heating/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "这家初创融了3000万，想让氟化学少碰HF",
+   "blurb": "FluoRok拿到3000万美元，要放大一种更安全的氟化学工艺。目标是在电池、药物和农化品生产里把氢氟酸（HF）拿掉，毕竟这玩意儿谁碰谁紧张。",
+   "tags": [
+    "氟化学",
+    "氢氟酸",
+    "工艺放大"
+   ],
+   "field": "化学工程",
+   "title_en": "FluoRok raises $30 million to scale up safer fluorochemical process",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/business/investment/fluorok-raises-30-million-fluorochemicals-hydrogen-fluoride/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Embargo-1am-11-5--FluoRok-raises--30-mil---675245:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Brianna Barbu",
+   "id": "https://cen.acs.org/business/investment/fluorok-raises-30-million-fluorochemicals-hydrogen-fluoride/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "Tröger碱变配体，金催化不对称加料",
+   "blurb": "从Tröger碱衍生出手性P^N配体TrögPhos，首次用于不对称金(I)/金(III)催化。39个例子做胺芳基化、氧芳基化、双芳基化，平均产率68%、最高98%，平均77% ee、最高>99% ee。对双取代烯烃还给出不寻常的区域选择性，能选择性成苯并环丁烯。",
+   "tags": [
+    "金催化",
+    "Tröger碱",
+    "不对称合成"
+   ],
+   "field": "有机合成",
+   "title_en": "Asymmetric Au(I)/Au(III) Catalysis with Chiral bis(P'̂'N) Ligands Deriving from Tröger’s Bases",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c13732",
+   "doi": "10.1021/jacs.6c13732",
+   "image": null,
+   "authors": "Vivek W. Bhoyare, Nidal Saleh, Stéphane Grass, Charles-Louis Serpentini, Sonia Mallet-Ladeira, Gennaro Pescitelli",
+   "id": "10.1021/jacs.6c13732"
+  }
+ ],
+ "fun_fact": {
+  "title": "金刚石就是纯碳",
+  "text": "金刚石和石墨都是碳的单质，只是原子排列方式不同。金刚石里每个碳原子跟另外四个碳原子以共价键连成三维网络，所以硬度拉满；石墨则是层状结构，层间容易滑，拿来写字正好。"
+ },
+ "stats": {
+  "fetched": 1863,
+  "candidates": 90
+ },
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T13:07:07+08:00"
+}
