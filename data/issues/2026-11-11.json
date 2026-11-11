@@ -1,0 +1,195 @@
+{
+ "lead": "今日份化学：吃塑料的酶提速十倍，金三螺旋发光，还有电网里每分钟一次的集体心跳。",
+ "items": [
+  {
+   "title_zh": "换个汤底，吃塑料的酶猛了十倍",
+   "blurb": "研究者改造了一种降解PET塑料的酶，只靠调整反应液体和酶结构的小改动，就让降解速度快了10倍，同时酶用量降到原来的十分之一。对塑料回收来说，这意味着更少的酶干更多的活。",
+   "tags": [
+    "酶工程",
+    "塑料降解",
+    "PET"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "New approach boosts plastic-eating enzyme's activity nearly tenfold",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-approach-boosts-plastic-enzyme-tenfold.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-approach-boosts-pl.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-approach-boosts-plastic-enzyme-tenfold.html"
+  },
+  {
+   "title_zh": "铁硫簇住进有机框架，光合作用有救了",
+   "blurb": "铁硫簇是参与电子传递和光合作用的古老蛋白辅因子，但怕氧气、不稳定，一直难实用。新工作把它装进有机铁硫框架里，提升了光合作用和固碳表现。",
+   "tags": [
+    "铁硫簇",
+    "有机框架",
+    "光合作用"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "New organic iron-sulfur framework boosts photosynthesis and carbon fixation",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-iron-sulfur-framework-boosts-photosynthesis.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-organic-iron-sulfu.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-iron-sulfur-framework-boosts-photosynthesis.html"
+  },
+  {
+   "title_zh": "催化剂层用得好不好，看边界密度",
+   "blurb": "膜电极组件里的催化剂层常常没被充分利用，浪费效率。这项研究发现反应主要发生在催化剂层与多孔传输层接触的边界附近，并引入“边界密度”作为预测利用率的几何指标。",
+   "tags": [
+    "膜电极",
+    "催化剂层",
+    "边界密度"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Boundary density predicts catalyst-layer utilization in membrane-electrode assemblies",
+   "source": "Joule",
+   "kind": "paper",
+   "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00403-4?rss=yes",
+   "doi": "10.1016/j.joule.2026.102719",
+   "image": null,
+   "authors": "Li Yu, Muhan Zhang, Deli Zhou, Zhichao Gong, Weizhe Zhang, Chia-Jung Kuo, Tzu-Yun Chao, Hsuan-Yi Wang, Yiju Li, Yixiang Shi, Weihong Li",
+   "id": "10.1016/j.joule.2026.102719"
+  },
+  {
+   "title_zh": "金也能编出三重螺旋，还带圆偏振光",
+   "blurb": "手性螺旋超结构能调控光子偏振和电子自旋，但用无机材料搭建很难。研究者通过调整手性环状配体的位阻和立体化学，用金组装出同手性三重螺旋，并表现出明显的圆偏振发光。",
+   "tags": [
+    "金配合物",
+    "三重螺旋",
+    "圆偏振发光"
+   ],
+   "field": "无机与配位",
+   "title_en": "Programming golden triple helices",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02304-5",
+   "doi": "10.1038/s41557-026-02304-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02304-5/MediaObjects/41557_2026_2304_Fig1_HTML.png",
+   "authors": "Chenjie Zeng",
+   "id": "10.1038/s41557-026-02304-5"
+  },
+  {
+   "title_zh": "沸石里关三原子铜，产氢稳过600小时",
+   "blurb": "铜基催化剂做甲醇蒸汽重整活性高，但铜离子价态来回跳、容易烧结。研究者用氨基“抓手”把三原子铜氧化物固定在Beta沸石里，与硅醇巢的OH协同，实现951 molH2·molCu⁻¹·h⁻¹的比活性和超过600小时的稳定性。",
+   "tags": [
+    "铜催化剂",
+    "沸石限域",
+    "甲醇重整"
+   ],
+   "field": "催化",
+   "title_en": "Zeolite-Confined Triatomic Cu Oxides at Silanol Nests as Hydrogen Transport Channels for H2 Production from Methanol Steam Reforming",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c15075",
+   "doi": "10.1021/jacs.6c15075",
+   "image": null,
+   "authors": "Yongbin Yao, Maoshuai Jiang, Fan Wang, Ligang Zhang, Rudong Liu, Shihao Wang",
+   "id": "10.1021/jacs.6c15075"
+  },
+  {
+   "title_zh": "铱用量砍到极低，酸性析氧照样跑",
+   "blurb": "酸性析氧反应依赖稀缺的铱。这项工作在荷ollandite型MnO2纳米线里掺入超低负载铱（3 at%，<16 µgIr cm⁻²），把10 mA cm⁻²下的过电位从580 mV降到303 mV，铱质量活性比商业IrOx高一个数量级。",
+   "tags": [
+    "铱催化剂",
+    "析氧反应",
+    "酸性电解"
+   ],
+   "field": "材料化学",
+   "title_en": "Ultralow Loading Iridium Doped Hollandite Manganese Oxide Nanowires for Efficient Acidic Oxygen Evolution Reaction",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75604?af=R",
+   "doi": "10.1002/adma.75604",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/5c2873c1-a66f-4666-89aa-8f81a25fe974/adma75604-gra-0001-m.png",
+   "authors": "Ruihan Li, \nRoberto dos Reis, \nAbharana Nagendra, \nSejal Vispute, \nMark Kazour, \nVinayak Dravid, \nLinsey C. Seitz",
+   "id": "10.1002/adma.75604"
+  },
+  {
+   "title_zh": "二茂铁的远房表亲，靠Fe(I)才合成出来",
+   "blurb": "研究者报道了一个双自由基配体夹心二茂铁类似物，是该配体类别里首个同配夹心配合物。有意思的是，用Fe(0)或Fe(II)路线都拿不到目标产物，反而少见的+1氧化态中间体成了关键。",
+   "tags": [
+    "二茂铁类似物",
+    "双自由基配体",
+    "铁化学"
+   ],
+   "field": "有机合成",
+   "title_en": "A Homoleptic Biradicaloid‐Ligated Analogue of Ferrocene",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.8019368?af=R",
+   "doi": "10.1002/anie.8019368",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/280c83bb-56b8-4dc7-85f5-27a1cfdebae6/anie75677-gra-0001-m.png",
+   "authors": "David Zuber, \nRobert Kruk, \nOksana Storcheva, \nMichael Neuwirt, \nPeter Coburger, \nOliver P. E. Townrow",
+   "id": "10.1002/anie.8019368"
+  },
+  {
+   "title_zh": "碳纳米管通电，自由基C─N coupling不用催化剂",
+   "blurb": "在导电碳纳米管界面施加电场，就能在常温常压下促进苯胺衍生物与含氮杂环的自由基C─N偶联，无需催化剂。机理实验和DFT计算支持电场辅助的界面电子转移路径，降低了自由基生成能垒。",
+   "tags": [
+    "碳纳米管",
+    "自由基偶联",
+    "电场催化"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Radical C─N Coupling at Electrified Carbon Nanotube Interfaces",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3357957?af=R",
+   "doi": "10.1002/anie.3357957",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/38d3961d-a236-4291-b1fd-8a0de96e7478/anie75680-gra-0001-m.png",
+   "authors": "Fuhua Qin, \nYanzi Shi, \nShuo Wang, \nYuanlong Huang, \nYiming Qin",
+   "id": "10.1002/anie.3357957"
+  },
+  {
+   "title_zh": "扩散模型设计小分子，这篇综述讲透了",
+   "blurb": "扩散模型能从噪声或部分指定的分子状态逐步生成候选结构，并接受结构、几何和性质约束。这篇综述梳理了方法基础、代表性应用，以及性质引导、靶点感知、多目标优化和合成可及性等方向，也讨论了数据与实验验证的挑战。",
+   "tags": [
+    "扩散模型",
+    "小分子设计",
+    "药物发现"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Diffusion Models for Small-Molecule Design",
+   "source": "Chemical Reviews",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/acs.chemrev.6c00161",
+   "doi": "10.1021/acs.chemrev.6c00161",
+   "image": null,
+   "authors": "Jiacai Yi, Yue Li, Dejun Jiang, Youchao Deng, Xinyu Gu, Chengkun Wu",
+   "id": "10.1021/acs.chemrev.6c00161"
+  },
+  {
+   "title_zh": "电网每分钟抖一下，原来是UPS在集体自检",
+   "blurb": "电网频率的小偏差通常被归因于负荷和发电的随机波动。新研究发现全球电网里存在精确每分钟一次的扰动，源头是电池供电的不间断电源（UPS）按时钟同步进行自检，不约而同地一起动作。",
+   "tags": [
+    "电网频率",
+    "UPS自检",
+    "同步扰动"
+   ],
+   "field": "化学工程",
+   "title_en": "An extra beat every minute",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02156-w",
+   "doi": "10.1038/s41560-026-02156-w",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02156-w/MediaObjects/41560_2026_2156_Fig1_HTML.png",
+   "authors": "Florian Dörfler",
+   "id": "10.1038/s41560-026-02156-w"
+  }
+ ],
+ "fun_fact": {
+  "title": "一摩尔有多重",
+  "text": "1摩尔任何粒子的数量是阿伏伽德罗常数，约6.022×10²³。如果一秒钟数一个，数完一摩尔需要大约1900万亿年，远超宇宙年龄。"
+ },
+ "stats": {
+  "fetched": 1845,
+  "candidates": 90
+ },
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T13:09:46+08:00"
+}

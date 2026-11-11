@@ -1,0 +1,102 @@
+{
+ "title": "酶喝对汤底，吃塑料快十倍",
+ "cover_title": "换个汤底，酶吃塑料快十倍",
+ "cover_lines": [
+  "酶用量砍到十分之一",
+  "金也能编出三重螺旋",
+  "二茂铁表亲靠Fe(I)合成"
+ ],
+ "body": "今天这几条，从塑料回收到网格频率，都有点意思。\n\n1️⃣ 手性螺旋超结构能调控光子偏振，但用无机材料搭很难。研究者调手性环状配体的位阻和立体化学，用金组装出同手性三重螺旋，还看到明显的圆偏振发光。（Nature Chemistry）\n\n2️⃣ 二茂铁的远房表亲来了。研究者报道了一个双自由基配体夹心二茂铁类似物，是该配体类别里首个同配夹心配合物。有意思的是，用Fe(0)或Fe(II)路线都拿不到目标产物，反而少见的+1氧化态中间体成了关键。（Angewandte Chemie）\n\n3️⃣ 电网频率每分钟抖一下，源头不是负荷波动，而是全球电池供电的不间断电源（UPS）按时钟同步自检，不约而同一起动作。（Nature Energy）\n\n4️⃣ 沸石里关三原子铜，产氢稳过600小时。研究者用氨基抓手把三原子铜氧化物固定在Beta沸石里，与硅醇巢的OH协同，实现951 molH2·molCu⁻¹·h⁻¹的比活性和超过600小时的稳定性。（JACS）\n\n你最近在做什么方向，评论区聊聊。",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "塑料回收",
+  "酶催化",
+  "配位化学",
+  "电化学",
+  "催化",
+  "文献分享"
+ ],
+ "id": "2026-11-11",
+ "kind": "daily",
+ "date": "2026-11-11",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月11日 周三",
+   "title": "换个汤底，酶吃塑料快十倍",
+   "lines": [
+    "酶用量砍到十分之一",
+    "金也能编出三重螺旋",
+    "二茂铁表亲靠Fe(I)合成"
+   ],
+   "thumbs": [
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/new-approach-boosts-pl.jpg",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02304-5/MediaObjects/41557_2026_2304_Fig1_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/280c83bb-56b8-4dc7-85f5-27a1cfdebae6/anie75677-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "换个汤底，吃塑料的酶猛了十倍",
+   "text": "研究者改造了一种降解PET塑料的酶，只靠调整反应液体和酶结构的小改动，就让降解速度快了10倍，同时酶用量降到原来的十分之一。对塑料回收来说，这意味着更少的酶干更多的活。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "New approach boosts plastic-eating enzyme's activity nearly tenfold",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-approach-boosts-pl.jpg"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "无机与配位",
+   "title": "金也能编出三重螺旋，还带圆偏振光",
+   "text": "手性螺旋超结构能调控光子偏振和电子自旋，但用无机材料搭建很难。研究者通过调整手性环状配体的位阻和立体化学，用金组装出同手性三重螺旋，并表现出明显的圆偏振发光。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Programming golden triple helices",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02304-5/MediaObjects/41557_2026_2304_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "有机合成",
+   "title": "二茂铁的远房表亲，靠Fe(I)才合成出来",
+   "text": "研究者报道了一个双自由基配体夹心二茂铁类似物，是该配体类别里首个同配夹心配合物。有意思的是，用Fe(0)或Fe(II)路线都拿不到目标产物，反而少见的+1氧化态中间体成了关键。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "A Homoleptic Biradicaloid‐Ligated Analogue of Ferrocene",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/280c83bb-56b8-4dc7-85f5-27a1cfdebae6/anie75677-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "化学工程",
+   "title": "电网每分钟抖一下，原来是UPS在集体自检",
+   "text": "电网频率的小偏差通常被归因于负荷和发电的随机波动。新研究发现全球电网里存在精确每分钟一次的扰动，源头是电池供电的不间断电源（UPS）按时钟同步进行自检，不约而同地一起动作。",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "title_en": "An extra beat every minute",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02156-w/MediaObjects/41560_2026_2156_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "催化",
+   "title": "沸石里关三原子铜，产氢稳过600小时",
+   "text": "铜基催化剂做甲醇蒸汽重整活性高，但铜离子价态来回跳、容易烧结。研究者用氨基“抓手”把三原子铜氧化物固定在Beta沸石里，与硅醇巢的OH协同，实现951 molH2·molCu⁻¹·h⁻¹的比活性和超过600小时的稳定性。",
+   "source": "JACS",
+   "kind": "paper",
+   "title_en": "Zeolite-Confined Triatomic Cu Oxides at Silanol Nests as Hydrogen Transport Channels for H2 Production from Methanol Steam Reforming",
+   "image": ""
+  }
+ ]
+}
