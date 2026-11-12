@@ -1,0 +1,195 @@
+{
+ "lead": "今日份化学：碳氢键玩出花，碘电池告别卤素，AI靠谱吗？",
+ "items": [
+  {
+   "title_zh": "催化剂说了算：芳烃C–H芳基化",
+   "blurb": "Nature上的一篇论文报道了一种催化剂控制的芳烃C–H芳基化方法。简单说，就是靠催化剂来决定在哪个碳氢键上装芳基，省去了预先活化的步骤，对合成化学来说是个提效的思路。",
+   "tags": [
+    "C–H活化",
+    "芳基化",
+    "催化"
+   ],
+   "field": "有机合成",
+   "title_en": "Efficient catalyst-controlled C–H arylation of arenes",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11391-w",
+   "doi": "10.1038/s41586-026-11391-w",
+   "image": null,
+   "authors": "Minhao Zhang, Elisa González-Fernández, Jyoti Dhankhar, Mingyu Zhang, Marzia Dell’Aera, Somayeh Salarinejad, Soohee Huh, Olivier Blacque, Anthony Linden, Ilija Čorić",
+   "id": "10.1038/s41586-026-11391-w"
+  },
+  {
+   "title_zh": "无卤素水系电解液搞定四电子碘反应",
+   "blurb": "研究者设计了一种无卤素的水系电解液框架，利用阴离子化学来调控界面微环境和分子间相互作用，实现了可逆的四电子碘转化，并在金属–碘电池中做了验证。对想摆脱卤素依赖的电池体系来说是个新选项。",
+   "tags": [
+    "水系电解液",
+    "碘电池",
+    "四电子"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Non-halogen aqueous electrolytes for four-electron iodine conversion",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11282-0",
+   "doi": "10.1038/s41586-026-11282-0",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11282-0/MediaObjects/41586_2026_11282_Fig1_HTML.png",
+   "authors": "Ruwei Chen, Haobo Dong, Yuhang Dai, Jingyu Wang, Jie Chen, Jiyang Liu, Jianrui Feng, Yunpeng Zhong, Wei Zong, Wei Zhang, Hang Yang, Zhe Cui, Guanjie He",
+   "id": "10.1038/s41586-026-11282-0"
+  },
+  {
+   "title_zh": "有机半导体光催化片，全靠太阳来拆水",
+   "blurb": "用可溶液加工的有机半导体做出一张光催化片，通过底层工程调控，在模拟太阳光下实现了无需外加偏压的全解水。这类材料便宜好铺开，如果稳定性跟得上，产氢的路子会更宽。",
+   "tags": [
+    "光催化",
+    "全解水",
+    "有机半导体"
+   ],
+   "field": "催化",
+   "title_en": "An organic semiconductor-based photocatalyst sheet for overall solar-driven water splitting",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02160-0",
+   "doi": "10.1038/s41560-026-02160-0",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02160-0/MediaObjects/41560_2026_2160_Fig1_HTML.png",
+   "authors": "Nicolas J. Diercks, Jin Su Park, Jun-Ho Yum, Yan Meng, Arthur E. Bouchez, Fabien Sorin, Han-Hee Cho, Kevin Sivula",
+   "id": "10.1038/s41560-026-02160-0"
+  },
+  {
+   "title_zh": "拿复杂网络原理捏材料，力学性能可调",
+   "blurb": "网络科学启发的材料设计：受力时能把形变分散开，刚度可调，还能控制振动波。把复杂网络的拓扑思路搬到材料结构上，给力学超材料提供了新的设计语言。",
+   "tags": [
+    "复杂网络",
+    "超材料",
+    "力学"
+   ],
+   "field": "材料化学",
+   "title_en": "Extraordinary materials shaped by the principles of complex networks",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/d41586-026-03272-z",
+   "doi": "10.1038/d41586-026-03272-z",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03272-z/d41586-026-03272-z_53962276.jpg",
+   "authors": "Marco Paggi",
+   "id": "10.1038/d41586-026-03272-z"
+  },
+  {
+   "title_zh": "芳基自由基被“缓冲”，双C–H交叉偶联更顺",
+   "blurb": "光氧化还原–铜接力催化，实现芳烃和苄位C–H键的对映选择性交叉偶联，拿到手性1,1-二芳基化合物。铜催化剂给芳基自由基当缓冲，延长寿命、压制副反应，效率就上来了。",
+   "tags": [
+    "光氧化还原",
+    "铜催化",
+    "不对称合成"
+   ],
+   "field": "有机合成",
+   "title_en": "Aryl radical buffering facilitates asymmetric dual C–H cross-coupling",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44160-026-01229-8",
+   "doi": "10.1038/s44160-026-01229-8",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01229-8/MediaObjects/44160_2026_1229_Fig1_HTML.png",
+   "authors": "",
+   "id": "10.1038/s44160-026-01229-8"
+  },
+  {
+   "title_zh": "合成囊泡也会“躲”乳酸：负趋化新玩法",
+   "blurb": "聚合物囊泡不需要催化设计，靠膜本身的构象动力学产生界面张力梯度，就能从乳酸源头游开。人工系统里实现负趋化一直不容易，这个例子说明被动物理机制也能驱动定向运动。",
+   "tags": [
+    "负趋化",
+    "聚合物囊泡",
+    "软物质"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Conformationally driven negative chemotaxis in synthetic vesicles",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02298-0",
+   "doi": "10.1038/s41557-026-02298-0",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02298-0/MediaObjects/41557_2026_2298_Figa_HTML.png",
+   "authors": "Danni Wang, Jiabin Luan, Ajeeth Kanagarajan, Rachel L. Hendrikse, Mark R. Wilson, Shaohua Zhang, Wei Li, Daniela A. Wilson",
+   "id": "10.1038/s41557-026-02298-0"
+  },
+  {
+   "title_zh": "钼酶远程送硫，造麦角硫因",
+   "blurb": "来自Caldithrix abyssi的钼蝶呤依赖型麦角硫因合成酶，是首个已知催化碳–硫键形成的钼酶。它在PLP位点脱硫半胱氨酸，把硫原子经过硫化物接力送到50 Å开外的钼中心，再装到咪唑环上，结构基础靠冷冻电镜和晶体学等一堆手段拼出来。",
+   "tags": [
+    "钼酶",
+    "碳硫键",
+    "麦角硫因"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "A Molybdoenzyme Mediates Carbon–Sulfur Bond Making and Breaking in Ergothioneine Biosynthesis",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c14677",
+   "doi": "10.1021/jacs.6c14677",
+   "image": null,
+   "authors": "Gladwin Suryatin Alim, Roman P. Jakob, Seseg B. Bolotova, Jing Yang, Martin L. Kirk, Timm Maier",
+   "id": "10.1021/jacs.6c14677"
+  },
+  {
+   "title_zh": "无氟CO₂电解槽，酸性下产乙醇",
+   "blurb": "把PDMS基气体扩散电极、离子聚合物刷和无氟膜凑成一套全无氟架构，用于CO₂电解，在酸性条件下拿到43%的乙醇法拉第效率。氟-free路线对环保和成本都友好，值得盯后续。",
+   "tags": [
+    "CO₂电解",
+    "无氟",
+    "乙醇"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Fluorine-free CO 2 electrolyzer for multicarbon products",
+   "source": "Energy Environ. Sci.",
+   "kind": "paper",
+   "link": "https://doi.org/10.1039/d6ee05693h",
+   "doi": "10.1039/d6ee05693h",
+   "image": null,
+   "authors": "Zahra Azimi Dijvejin, Fatemeh Arabyarmohammadi, Hafiz Ghulam Abbas, Mackenzie Gole, Mohammad Zargartalebi, Fariba Vaez Ghasemi",
+   "id": "10.1039/d6ee05693h"
+  },
+  {
+   "title_zh": "可编程催化剂，让铂突破Sabatier限制",
+   "blurb": "C&EN报道，光和电压帮忙下，铂分解甲酸的速度超过了理论上的Sabatier极限。传统催化理论说活性有天花板，这里用外部刺激给反应“开挂”，思路挺野。",
+   "tags": [
+    "可编程催化",
+    "Sabatier极限",
+    "铂"
+   ],
+   "field": "催化",
+   "title_en": "Programmable catalysts go beyond the Sabatier limit",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/synthesis/catalysis/sabatier-principle-catalysis-catalytic-reaction/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Passing-the-Sabatier-limit---679505:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Ananya Palivela",
+   "id": "https://cen.acs.org/synthesis/catalysis/sabatier-principle-catalysis-catalytic-reaction/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "AI帮化学干活，哪里靠谱哪里翻车",
+   "blurb": "Skoltech AI中心等团队在Chemical Society Reviews发文，梳理AI在化学研究流程中哪些环节有可测量的价值、怎么评估可靠性，并指出基准分数高不等于实验室里好使。用AI之前先看看这份“避坑指南”。",
+   "tags": [
+    "AI",
+    "化学信息学",
+    "可靠性"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Where AI can aid chemistry research and where reliability falls short",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-ai-aid-chemistry-reliability-falls.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-from-skolt.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-ai-aid-chemistry-reliability-falls.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "苯环的凯库勒梦",
+  "text": "据说凯库勒梦见蛇咬住自己的尾巴，从而悟出苯的环状结构。虽然故事真假难考，但苯的六元环确实是化学史上最著名的结构之一。"
+ },
+ "stats": {
+  "fetched": 1893,
+  "candidates": 90
+ },
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T14:13:25+08:00"
+}
