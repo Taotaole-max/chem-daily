@@ -248,3 +248,13 @@ https://phys.org/news/2026-11-iron-sulfur-framework-boosts-photosynthesis.html
 10.1039/d6ee05693h
 https://cen.acs.org/synthesis/catalysis/sabatier-principle-catalysis-catalytic-reaction/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen
 https://phys.org/news/2026-11-ai-aid-chemistry-reliability-falls.html
+10.1021/jacs.6c14148
+10.1038/s41563-026-02783-4
+10.1002/adma.75161
+10.1002/adma.75152
+10.1016/j.chempr.2026.103333
+10.1038/s44160-026-01208-z
+10.1021/jacs.6c14033
+10.1038/s41586-026-11258-0
+10.1038/s41586-026-11272-2
+https://phys.org/news/2026-11-catalyst-regeneration-enables-durable-hydrogen.html

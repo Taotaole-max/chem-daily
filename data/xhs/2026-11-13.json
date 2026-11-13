@@ -1,0 +1,100 @@
+{
+ "title": "钌单原子找铬邻居，稳了😎",
+ "cover_title": "钌单原子找铬邻居",
+ "cover_lines": [
+  "铬邻居帮忙抗过氧化",
+  "核孔屏障怎么选择性运输",
+  "单晶介电层让二维器件省电"
+ ],
+ "body": "今天这几篇，有篇给单原子催化剂上了保险，还有核孔和二维器件的硬货。\n\n1️⃣ 酸性电解水析氧时，钌单原子容易被过度氧化而失活。这里做了Ru–O–Cr位点，让铬邻居帮忙缓冲钌的过氧化，稳定性就上来了。单原子省贵金属，但孤立位点脆弱，这思路算给它们上了个保险。（Nature Materials）\n\n2️⃣ 核孔蛋白靠协同分子相互作用维持流动且空间有序的屏障，糖基化和输入蛋白参与其中。这解释了细胞如何做到选择性运输，也调和了核孔结构模型之间的竞争观点。（Nature）\n\n3️⃣ 用可转移的单晶锐钛矿二氧化钛做介电层，和二维半导体形成高质量界面，开关接近理想、迟滞低，做出超低功耗的互补晶体管和反相器。二维器件要省电，介电层这关绕不过去。（Nature）\n\n4️⃣ 用Flory–Huggins参数调控给受体混溶性，氯仿-二硫化碳混合溶剂动态调χ，铸态就形成合适的相分离和纤维网络。D18:L8–BO器件效率20.11%（认证19.69%），稳定性也不错。省掉后处理，对卷对卷生产是个好消息。（Advanced Materials）\n\n5️⃣ 光氧化还原和铜接力催化，实现芳基C–H和苄基C–H之间的形式交叉偶联，拿到一系列手性1,1-二芳基化合物。铜催化剂给瞬态芳基自由基当缓冲，延长寿命、压副反应。双C–H直接偶联，省了预官能团化。（Nature Synthesis）\n\n你们最近在做什么方向，有没有被单原子稳定性坑过？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "电催化",
+  "二维材料",
+  "有机合成",
+  "文献分享"
+ ],
+ "id": "2026-11-13",
+ "kind": "daily",
+ "date": "2026-11-13",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月13日 周五",
+   "title": "钌单原子找铬邻居",
+   "lines": [
+    "铬邻居帮忙抗过氧化",
+    "核孔屏障怎么选择性运输",
+    "单晶介电层让二维器件省电"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02783-4/MediaObjects/41563_2026_2783_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11258-0/MediaObjects/41586_2026_11258_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11272-2/MediaObjects/41586_2026_11272_Fig1_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "催化",
+   "title": "给钌单原子找个铬邻居，抗过氧化",
+   "text": "酸性电解水析氧时，钌单原子容易被过度氧化而失活。这里做了Ru–O–Cr位点，让铬邻居帮忙缓冲钌的过氧化，稳定性就上来了。单原子催化剂省贵金属，但孤立的位点脆弱，这个思路算是给它们上了个保险。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Proximal redox coupling enables oxidation damping for stable water electrolysis",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02783-4/MediaObjects/41563_2026_2783_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "核孔屏障靠糖基化和输入蛋白液化",
+   "text": "核孔蛋白通过协同分子相互作用维持流动且空间有序的屏障，糖基化和输入蛋白参与其中。这解释了细胞如何做到选择性运输，也调和了核孔结构模型之间的竞争观点。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Glycosylation and importins liquefy the FG barrier in live nuclear pores",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11258-0/MediaObjects/41586_2026_11258_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "材料化学",
+   "title": "单晶高κ介电层，二维晶体管低功耗",
+   "text": "用可转移的单晶锐钛矿二氧化钛做介电层，和二维半导体形成高质量界面，开关接近理想、迟滞低，做出超低功耗的互补晶体管和反相器。二维器件要省电，介电层这关绕不过去。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Low-power 2D CFETs using single-crystal high- κ dielectrics",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11272-2/MediaObjects/41586_2026_11272_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "材料化学",
+   "title": "不用退火，有机太阳能电池效率破20%",
+   "text": "用Flory–Huggins参数调控给受体混溶性，氯仿-二硫化碳混合溶剂动态调χ，铸态就形成合适的相分离和纤维网络。D18:L8–BO器件效率20.11%（认证19.69%），稳定性也不错。省掉后处理步骤，对卷对卷生产是个好消息。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Over 20% Efficiency in As–Cast Organic Solar Cells Enabled by Flory–Huggins Parameter Engineering",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/975bea81-9bac-4792-b982-53eefc41bd2e/adma75152-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "有机合成",
+   "title": "铜当缓冲垫，双C–H不对称交叉偶联",
+   "text": "光氧化还原和铜接力催化，实现芳基C–H和苄基C–H之间的形式交叉偶联，拿到一系列手性1,1-二芳基化合物。机理上铜催化剂给瞬态芳基自由基当缓冲，延长寿命、压副反应。双C–H直接偶联，省了预官能团化。",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "title_en": "Catalytic enantioselective dual C–H cross-coupling enabled by a radical-buffering strategy",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01208-z/MediaObjects/44160_2026_1208_Figa_HTML.png"
+  }
+ ]
+}
