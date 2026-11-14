@@ -1,0 +1,195 @@
+{
+ "lead": "今天看点：碳原子钻晶格、单个水分子催反应，化学家真会抠细节。",
+ "items": [
+  {
+   "title_zh": "碳原子钻进高熵氧化物，OER稳跑8000小时",
+   "blurb": "把碳原子塞进高熵过渡金属氧化物（HETMO）纳米片的晶格间隙，构建出金属-氧-碳（TMoct–O–C）基元，调控金属-氧共价性，让析氧反应（OER）走直接氧-氧偶联的氧化物路径。在1.0 M KOH中500 mA cm−2下过电位260 mV，稳定运行8000小时（超11个月），比未掺碳的HETMO寿命延长约两个数量级。",
+   "tags": [
+    "析氧反应",
+    "高熵氧化物",
+    "电解水"
+   ],
+   "field": "催化",
+   "title_en": "Interstitial C‐Atom Insertion‐Assisted High‐Entropy Engineering Boosts Ultrastable Ampere‐Level Oxygen Evolution",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74788?af=R",
+   "doi": "10.1002/adma.74788",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/d85f8255-5c18-4846-b996-d3cee2aac1e6/adma74788-gra-0001-m.png",
+   "authors": "Zhiang Hu, \nJian Li, \nJingkun Yu, \nJiangwei Chang, \nHan Wu, \nGeoffrey I. N. Waterhouse, \nXue Yong, \nZhiyong Tang, \nJunbiao Chang, \nSiyu Lu",
+   "id": "10.1002/adma.74788"
+  },
+  {
+   "title_zh": "酶催化玩转磷自由基，手性磷产物安排上了",
+   "blurb": "光酶催化（photoenzymatic catalysis）此前能搞定多种不对称自由基转化，但含磷自由基一直没辙。这项工作报告用工程化酶实现了立体选择性氢膦化（hydrophosphinylation），产物可以带碳手性中心、磷手性中心，或者两个都有。",
+   "tags": [
+    "光酶催化",
+    "磷自由基",
+    "不对称合成"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Photoenzymatic control of phosphorus radicals",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01633-5",
+   "doi": "10.1038/s41929-026-01633-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01633-5/MediaObjects/41929_2026_1633_Fig1_HTML.png",
+   "authors": "Manik Sharma, Kyle F. Biegasiewicz",
+   "id": "10.1038/s41929-026-01633-5"
+  },
+  {
+   "title_zh": "电解液做减法，钠电池低温也能跑",
+   "blurb": "用大位阻缺电子添加剂TMSB（三(三甲基硅基)硼酸酯）竞争络合PF6–，同时压住阴离子-钠和溶剂-钠的配位，做出低配位电解液。离子电导率从2.41提到5.34 mS cm–1，去溶剂化能垒从44.82降到33.97 kJ mol–1。6.8 Ah软包电池在25 °C实现200 Wh kg–1能量密度，支持4.5 V和−40到25 °C工作。",
+   "tags": [
+    "钠离子电池",
+    "电解液",
+    "低温"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Solvent/Anion Codepleted Solvation Engineering Enables Low-Coordination Electrolytes for High-Energy and Low-Temperature Sodium-Ion Pouch Cells",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17549",
+   "doi": "10.1021/jacs.6c17549",
+   "image": null,
+   "authors": "Xinhong Hu, Qinhao Shi, Jinyu Wan, Meiyi Zhang, Yongfeng Zhao, Zi-Feng Ma",
+   "id": "10.1021/jacs.6c17549"
+  },
+  {
+   "title_zh": "TLR4的TIR结构域竟是隐藏的酶",
+   "blurb": "动物先天免疫受体里的TIR结构域过去被认为只是招募接头的脚手架，但TLR4的TIR结构域其实有变构激活的NAD+水解酶（NADase）活性，且是单周转模式。产物ADP-核糖不被释放，而是被“困住”当分子胶水，稳定与TIRAP的复合催化口袋，启动信号体组装。",
+   "tags": [
+    "先天免疫",
+    "TIR结构域",
+    "分子胶水"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "A trapped catalytic product acts as molecular glue for innate immune signalosome assembly",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aef3150?af=R",
+   "doi": "10.1126/science.aef3150",
+   "image": null,
+   "authors": "Qi Liu, Zhongjian Bai, Tianyi Liu, Fangshuai Jia, Yi Ji, Canxi Chen, Yao Gong, Liuyuan Duan, Jiahui Zhou, Qian Guo, Ling Zhu, Huarui Kang, Haiyong Wang, Zhewen Shen, Xiaoxiang Huang, Jiayi Shen, Wengu",
+   "id": "10.1126/science.aef3150"
+  },
+  {
+   "title_zh": "一个水分子，把碘离子氧化提速23倍",
+   "blurb": "用线性离子阱质谱研究气相中碘离子与臭氧的反应，发现单个水分子就能让碘离子氧化速率加快23（±6）倍。计算显示水通过氢键降低单重态表面决速步的能垒。这个结果有助于理解海洋表面碘释放，并外推到极地和臭氧层相关低温条件。",
+   "tags": [
+    "大气化学",
+    "水分子",
+    "反应动力学"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "A Single Water Molecule Drives a 20-Fold Acceleration in the Gas-Phase Reaction of Iodide with Ozone",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c15483",
+   "doi": "10.1021/jacs.6c15483",
+   "image": null,
+   "authors": "Samuel C. Brydon, Péter Szabó, David L. Marshall, Adam J. Trevitt, Evan J. Bieske, Jeremy N. Harvey",
+   "id": "10.1021/jacs.6c15483"
+  },
+  {
+   "title_zh": "醛基搭的HOF，潮湿环境照样分CO2/CH4",
+   "blurb": "用醛基而非传统羧酸或二氨基三嗪来构建氢键有机框架（HOF）HFPTP-HOF，层状堆叠把氢键护在里面，沸水、强酸强碱泡7天不散。298 K下等摩尔CO2/CH4的IAST选择性为18.61，动态穿透实验产出99.99%纯甲烷，90%相对湿度下仍保留88%容量。",
+   "tags": [
+    "氢键有机框架",
+    "气体分离",
+    "耐湿性"
+   ],
+   "field": "材料化学",
+   "title_en": "Ultrastable Hydrogen‐Bonded Organic Framework for Efficient CO2/CH4 Separation in Humid Environments",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2076718?af=R",
+   "doi": "10.1002/anie.2076718",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/b35d5575-c677-47aa-b46c-b19a761d365a/anie75042-gra-0001-m.png",
+   "authors": "Shuai Zhang, \nJingru Fu, \nMaochun Yang, \nDan Li, \nYue Feng, \nYifan Xie, \nYayu Lv, \nTeng Ben, \nBanglin Chen",
+   "id": "10.1002/anie.2076718"
+  },
+  {
+   "title_zh": "软聚合物涂层，也能形成硬核定向键",
+   "blurb": "软聚合物涂层在纳米球表面会自发重排，形成定向键。这给精细纳米颗粒超晶格（nanoparticle superlattices）的组装提供了一条替代路线，说明软物质也能干“硬”活。",
+   "tags": [
+    "聚合物涂层",
+    "纳米颗粒",
+    "超晶格"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Soft polymer coatings form hard directional bonding",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02797-y",
+   "doi": "10.1038/s41563-026-02797-y",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02797-y/MediaObjects/41563_2026_2797_Fig1_HTML.png",
+   "authors": "Rui Huang, Zhiwei Li",
+   "id": "10.1038/s41563-026-02797-y"
+  },
+  {
+   "title_zh": "铕光催化剂搞定C(sp3)–C(sp3)交叉偶联",
+   "blurb": "用一个铕穴合物（europium-cryptate）光催化剂，把单电子转移产生苄基自由基和双分子均裂取代（SH2）结合起来，实现苄基氯的选择性C(sp3)–C(sp3)交叉偶联。机理经过Eu(II)-苄基中间体，再与Eu(III)-苄基物种发生SH2成键。",
+   "tags": [
+    "光催化",
+    "交叉偶联",
+    "稀土"
+   ],
+   "field": "有机合成",
+   "title_en": "Bimolecular Homolytic Substitution Catalysis with a Europium Photocatalyst for Single Functional Group Cross-Coupling",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c18958",
+   "doi": "10.1021/jacs.6c18958",
+   "image": null,
+   "authors": "Zhongzhen Wang, Wenchao Yan, Dajiang Huang, Jinxiao Yang, Tianming Zhong, Shuangji Song",
+   "id": "10.1021/jacs.6c18958"
+  },
+  {
+   "title_zh": "遇水就硬，这种聚合物水下粘玻璃",
+   "blurb": "水泥遇水硬化叫水硬性（hydraulicity），在有机聚合物里很难复现，因为材料要么怕水要么固化不彻底。这条新闻介绍了一种水激活聚合物，能在水下形成固体形状，还能把玻璃碎片粘起来。",
+   "tags": [
+    "聚合物",
+    "水硬性",
+    "水下粘接"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Water-activated polymer forms solid shapes underwater and bonds glass fragments",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-polymer-solid-underwater-bonds-glass.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-water-curing-polymer.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-polymer-solid-underwater-bonds-glass.html"
+  },
+  {
+   "title_zh": "超薄磁性材料去掉“死层”，AI芯片省电有戏",
+   "blurb": "布朗大学的研究者解决了一个老问题：有前景的磁性材料做薄到接近原子尺度时会形成“死层”而失效。新技术不仅保住了电学和磁学性质，还让磁性变强，目标是做超低功耗计算机芯片，给AI的能耗压力降降温。",
+   "tags": [
+    "磁性材料",
+    "低功耗芯片",
+    "AI硬件"
+   ],
+   "field": "材料化学",
+   "title_en": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/multiferroic-material-three-layer-system.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm"
+  }
+ ],
+ "fun_fact": {
+  "title": "水硬性不是水变硬",
+  "text": "水泥遇水后发生水化反应，生成水化硅酸钙等产物并交织成网，从而在潮湿环境中固化，这叫水硬性。它和石膏遇水变软再固化不是一回事，石膏主要靠结晶水合，耐水性差得多。"
+ },
+ "stats": {
+  "fetched": 2135,
+  "candidates": 90
+ },
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T13:25:25+08:00"
+}

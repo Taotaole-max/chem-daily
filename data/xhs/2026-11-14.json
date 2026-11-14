@@ -1,0 +1,101 @@
+{
+ "title": "催化跑8000小时，酶也玩磷自由基",
+ "cover_title": "碳原子钻晶格，OER稳跑8000",
+ "cover_lines": [
+  "碳原子塞进晶格，OER稳跑800",
+  "酶催化首次搞定手性磷自由基",
+  "醛基搭的HOF，沸水泡7天不散"
+ ],
+ "body": "今天日报几条都挺硬核，从催化到酶到材料，挑几条能让你在组会上装一下的。\n\n1️⃣ 碳原子钻进高熵氧化物晶格间隙，构建金属-氧-碳基元调控共价性，让析氧反应走直接氧-氧偶联路径。1.0 M KOH中500 mA cm−2下过电位260 mV，稳定运行8000小时，比未掺碳的寿命延长约两个数量级。（Advanced Materials）\n\n2️⃣ 光酶催化此前搞不定含磷自由基，这项工作报告用工程化酶实现立体选择性氢膦化，产物可以带碳手性中心、磷手性中心，或者两个都有。（Nature Catalysis）\n\n3️⃣ 用醛基而非传统羧酸或二氨基三嗪搭氢键有机框架，层状堆叠把氢键护在里面，沸水、强酸强碱泡7天不散。298 K下等摩尔CO2/CH4的IAST选择性18.61，动态穿透产出99.99%纯甲烷，90%相对湿度下仍保留88%容量。（Angewandte Chemie）\n\n4️⃣ 软聚合物涂层在纳米球表面自发重排形成定向键，给精细纳米颗粒超晶格组装提供替代路线，说明软物质也能干硬活。（Nature Materials）\n\n5️⃣ 线性离子阱质谱研究气相碘离子与臭氧反应，发现单个水分子就能让氧化速率加快23（±6）倍，计算显示水通过氢键降低决速步能垒。这有助于理解海洋表面碘释放，并外推到极地和臭氧层相关低温条件。（JACS）\n\n你最近在做什么方向，有没有被哪条戳中？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "催化",
+  "电化学",
+  "化学生物学",
+  "高分子",
+  "文献分享"
+ ],
+ "id": "2026-11-14",
+ "kind": "daily",
+ "date": "2026-11-14",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月14日 周六",
+   "title": "碳原子钻晶格，OER稳跑8000",
+   "lines": [
+    "碳原子塞进晶格，OER稳跑800",
+    "酶催化首次搞定手性磷自由基",
+    "醛基搭的HOF，沸水泡7天不散"
+   ],
+   "thumbs": [
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/d85f8255-5c18-4846-b996-d3cee2aac1e6/adma74788-gra-0001-m.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01633-5/MediaObjects/41929_2026_1633_Fig1_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/b35d5575-c677-47aa-b46c-b19a761d365a/anie75042-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "催化",
+   "title": "碳原子钻进高熵氧化物，OER稳跑8000小时",
+   "text": "把碳原子塞进高熵过渡金属氧化物（HETMO）纳米片的晶格间隙，构建出金属-氧-碳（TMoct–O–C）基元，调控金属-氧共价性，让析氧反应（OER）走直接氧-氧偶联的氧化物路径。在1.0 M KOH中500 mA cm−2下过电位260 mV，稳定运行8000小时（超11个月），比未掺碳的HETMO寿命延长约两个数量级。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Interstitial C‐Atom Insertion‐Assisted High‐Entropy Engineering Boosts Ultrastable Ampere‐Level Oxygen Evolution",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/d85f8255-5c18-4846-b996-d3cee2aac1e6/adma74788-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "酶催化玩转磷自由基，手性磷产物安排上了",
+   "text": "光酶催化（photoenzymatic catalysis）此前能搞定多种不对称自由基转化，但含磷自由基一直没辙。这项工作报告用工程化酶实现了立体选择性氢膦化（hydrophosphinylation），产物可以带碳手性中心、磷手性中心，或者两个都有。",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "title_en": "Photoenzymatic control of phosphorus radicals",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01633-5/MediaObjects/41929_2026_1633_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "材料化学",
+   "title": "醛基搭的HOF，潮湿环境照样分CO2/CH4",
+   "text": "用醛基而非传统羧酸或二氨基三嗪来构建氢键有机框架（HOF）HFPTP-HOF，层状堆叠把氢键护在里面，沸水、强酸强碱泡7天不散。298 K下等摩尔CO2/CH4的IAST选择性为18.61，动态穿透实验产出99.99%纯甲烷，90%相对湿度下仍保留88%容量。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Ultrastable Hydrogen‐Bonded Organic Framework for Efficient CO2/CH4 Separation in Humid Environments",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/b35d5575-c677-47aa-b46c-b19a761d365a/anie75042-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "软聚合物涂层，也能形成硬核定向键",
+   "text": "软聚合物涂层在纳米球表面会自发重排，形成定向键。这给精细纳米颗粒超晶格（nanoparticle superlattices）的组装提供了一条替代路线，说明软物质也能干“硬”活。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Soft polymer coatings form hard directional bonding",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02797-y/MediaObjects/41563_2026_2797_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "一个水分子，把碘离子氧化提速23倍",
+   "text": "用线性离子阱质谱研究气相中碘离子与臭氧的反应，发现单个水分子就能让碘离子氧化速率加快23（±6）倍。计算显示水通过氢键降低单重态表面决速步的能垒。这个结果有助于理解海洋表面碘释放，并外推到极地和臭氧层相关低温条件。",
+   "source": "JACS",
+   "kind": "paper",
+   "title_en": "A Single Water Molecule Drives a 20-Fold Acceleration in the Gas-Phase Reaction of Iodide with Ozone",
+   "image": ""
+  }
+ ]
+}
