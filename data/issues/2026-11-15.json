@@ -1,0 +1,195 @@
+{
+ "lead": "今天论文有点多，氧气、石墨烯、牙膏都来抢戏。",
+ "items": [
+  {
+   "title_zh": "大气氧气帮我们算了笔碳账",
+   "blurb": "用30多年的大气氧气和二氧化碳观测数据，估算出海洋碳汇在1990–2019年间以每十年0.63 Pg C year⁻¹的速度增强，平均每年吸收2.8 Pg C，占化石排放的35%；陆地净碳汇则没有稳健趋势，平均每年1.0 Pg C。这跟不少过程模型的模拟结果对不上。",
+   "tags": [
+    "碳汇",
+    "气候变化",
+    "大气观测"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Atmospheric O2 reveals a strengthening ocean carbon sink and a stagnant net land sink since 1990",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aed9544?af=R",
+   "doi": "10.1126/science.aed9544",
+   "image": null,
+   "authors": "Eric J. Morgan, Yuming Jin, Elena Kozlova, Andrew J. Watson, Andrew C. Manning, Sönke Zaehle, Yasunori Tohjima, Xin Lan, Ralph F. Keeling",
+   "id": "10.1126/science.aed9544"
+  },
+  {
+   "title_zh": "魔角石墨烯一拉就变电阻",
+   "blurb": "在魔角（约1.1°）附近的扭转双层石墨烯上施加连续单轴应变，器件表现出巨大的弹性电阻效应， gauge factor 比传统金属高两个数量级以上。某些掺杂区间还出现类似居里-外斯型的温度发散，可能跟向列涨落和等自旋矩涨落带来的电子熵增强有关。",
+   "tags": [
+    "石墨烯",
+    "莫尔材料",
+    "应变调控"
+   ],
+   "field": "材料化学",
+   "title_en": "Giant elastoresistance in magic-angle twisted bilayer graphene",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.adz0597?af=R",
+   "doi": "10.1126/science.adz0597",
+   "image": null,
+   "authors": "Xuetao Ma, Zhaoyu Liu, Jiaqi Cai, Kenji Watanabe, Takashi Taniguchi, Xiaodong Xu, Jiun-Haw Chu, Matthew Yankowitz",
+   "id": "10.1126/science.adz0597"
+  },
+  {
+   "title_zh": "硫氧键一拉一断，氧 redox 稳了",
+   "blurb": "在钠层状氧化物正极里引入可逆的界面S–O键：充电时成键稳住氧化的氧物种，放电时断键恢复原来的晶格氧。这种动态的电子限域抑制了不可逆氧流失，为高能电池正极提供了一种通用策略。",
+   "tags": [
+    "钠离子电池",
+    "氧 redox",
+    "界面化学"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Dynamic Interfacial S–O Bonding Stabilizes Oxygen Redox Through Reversible Electron Confinement",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75712?af=R",
+   "doi": "10.1002/adma.75712",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/67822b4e-74c0-4b2e-80a0-3a259b594f46/adma75712-gra-0001-m.png",
+   "authors": "Jiaxin Yan, \nYuanheng Wang, \nRuichen Zhu, \nXin Chen, \nHaixia Yang, \nZhengyang Bao, \nYifan Li, \nChade Lv, \nLiguang Wang, \nPengjian Zuo",
+   "id": "10.1002/adma.75712"
+  },
+  {
+   "title_zh": "钌锰搭档直接耦合氧自由基",
+   "blurb": "Ru@Mn-RuO2核壳催化剂里，Ru和Mn双位点通过界面电荷再分布同步氧中间体演化，把反应路径从AEM切换到同步氧耦合机制（SOCM），绕开*OOH形成的动力学限制。在酸性电解质中达到10 mA cm⁻²只需172 mV过电位，稳定运行超过4000小时。",
+   "tags": [
+    "电催化",
+    "析氧反应",
+    "PEMWE"
+   ],
+   "field": "催化",
+   "title_en": "Activating Oxygen Radical Coupling via Ru–Mn Dual‐Site Electronic Regulation for Durable Acidic Oxygen Evolution",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6281030?af=R",
+   "doi": "10.1002/anie.6281030",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/ce864d69-4590-4501-960f-4dd50217c571/anie75708-gra-0001-m.png",
+   "authors": "Yijun Xiang, \nShaoxiong Li, \nLuqi Wang, \nLiming Deng, \nXingming Xie, \nJiahui Yang, \nBoyuan Li, \nTsung‐Yi Chen, \nJianwei Ren, \nYuping Wu, \nYuxiang Hu, \nShengjie Peng, \nLinlin Li",
+   "id": "10.1002/anie.6281030"
+  },
+  {
+   "title_zh": "铬把钌按在地上不让它飘",
+   "blurb": "ICFO的研究人员用铬来稳住单原子钌催化剂：钌单独用时容易过度氧化溶解，像个不接地气的梦想家；铬的化学作用把它拉回现实，让水电解产绿氢更稳。具体数据摘要没给，但思路挺有意思。",
+   "tags": [
+    "单原子催化",
+    "水电解",
+    "稳定性"
+   ],
+   "field": "催化",
+   "title_en": "A perfect couple: Chromium keeps ruthenium grounded in water electrolysis",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-couple-chromium-ruthenium-grounded-electrolysis.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-perfect-couple-chrom.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-couple-chromium-ruthenium-grounded-electrolysis.html"
+  },
+  {
+   "title_zh": "HFIP：我不仅能当溶剂，还能上CF3",
+   "blurb": "用光电化学铁催化把廉价易得的HFIP（六氟异丙醇）变成CF3自由基前体，实现对未活化芳烃、杂芳烃和烯烃的三氟甲基化。底物范围宽、官能团耐受好，还能放大，并成功用于多肽中色氨酸残基的选择性修饰。",
+   "tags": [
+    "三氟甲基化",
+    "光电磁催化",
+    "有机合成"
+   ],
+   "field": "有机合成",
+   "title_en": "Empowering HFIP as a Radical Trifluoromethylating Reagent by Photoelectrochemical Iron Catalysis",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16642",
+   "doi": "10.1021/jacs.6c16642",
+   "image": null,
+   "authors": "Naifu Zhou, Xinyi Wang, Huaiyu Hu, Tong Mu, Xiao-Song Xue, Lu Song",
+   "id": "10.1021/jacs.6c16642"
+  },
+  {
+   "title_zh": "苯酚挪个位，长出1,2-偶氮三氟甲磺酸酯",
+   "blurb": "通过形式上的C–O键转位，把便宜苯酚变成1,2-偶氮三氟甲磺酸酯。偶氮和三氟甲磺酸酯两个把手可以分别做自由基官能化和过渡金属交叉偶联，从同一酚前体发散合成不同取代模式的芳烃，还能用来做复杂药物分子。",
+   "tags": [
+    "苯酚转化",
+    "合成子",
+    "芳烃编辑"
+   ],
+   "field": "有机合成",
+   "title_en": "A 1, 2‐Azo‐Triflate Synthon by Phenol Transposition",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7687394?af=R",
+   "doi": "10.1002/anie.7687394",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/3faf7d99-2c11-49b0-965b-f95509b74b59/anie75573-gra-0001-m.png",
+   "authors": "Simon Edelmann, \nWenyu Qian, \nLuke Burke, \nKenneth Virgel N. Esguerra, \nJean‐Philip Lumb",
+   "id": "10.1002/anie.7687394"
+  },
+  {
+   "title_zh": "单细胞组学反向设计纳米酶",
+   "blurb": "用单细胞转录组和代谢通量分析找到肝癌的三重代谢弱点，再把需求映射到量子化学描述符，从260个候选材料里筛出氮磷双配位的金单原子纳米酶（APNC）。它级联催化重塑肿瘤微环境，肿瘤抑制率最高达95%。",
+   "tags": [
+    "纳米酶",
+    "单细胞组学",
+    "肿瘤代谢"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Decoding Tumor Metabolic Dysregulation Through Single‐Cell Analysis Informs the Inverse Design of Therapeutic Nanozymes",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75692?af=R",
+   "doi": "10.1002/adma.75692",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/9e23f7ca-8093-4f85-8aa0-9fb13dc3fe2d/adma75692-gra-0001-m.png",
+   "authors": "Yimeng Wang, \nHanchao Lin, \nWeiwei Gao, \nYonghui Gao, \nHongyu Lin, \nLinzi Zeng, \nJiajun Wu, \nLuming Zhang, \nSifeng Wang, \nLina Wang, \nQiongzhu Dong, \nZhiling Zhu",
+   "id": "10.1002/adma.75692"
+  },
+  {
+   "title_zh": "H型堆叠让激子松绑，H2O2光合更高效",
+   "blurb": "在苝二酰亚胺（PDI）超分子里，H型堆叠增强分子间电子离域、降低激子结合能，促进电荷产生，从而提升太阳能驱动H2O2光合效率。这工作把超分子堆积当成管理激子的设计策略。",
+   "tags": [
+    "超分子",
+    "激子",
+    "光合成"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "H-aggregated supramolecular packing lowers exciton binding energy for efficient quinone-phenol-mediated H2O2 photosynthesis",
+   "source": "Chem",
+   "kind": "paper",
+   "link": "https://www.cell.com/chem/fulltext/S2451-9294(26)00407-9?rss=yes",
+   "doi": "10.1016/j.chempr.2026.103341",
+   "image": null,
+   "authors": "Yaxin Shang, Miao Li, Qixin Zhou, Hao Wang, Jiaxi Hu, Jingyi Xu, Yirong An, Zonghao Zhang, Haoying Wang, Meng Sun, Yongfa Zhu, Yifei Wang",
+   "id": "10.1016/j.chempr.2026.103341"
+  },
+  {
+   "title_zh": "宝洁说牙膏里加啤酒花提取物能护龈",
+   "blurb": "Crest的制造商宝洁声称，啤酒花β-酸能通过破坏生物膜来减少牙龈出血，效果可与亚锡氟化物相提并论。具体临床数据摘要没给，但牙膏界好久没这么热闹了。",
+   "tags": [
+    "牙膏",
+    "生物膜",
+    "口腔护理"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "P&G claims toothpaste breakthrough on par with stannous fluoride",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/business/consumer-products/pg-claims-toothpaste-breakthrough-par/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Toothpaste-news---650946:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Craig Bettenhausen",
+   "id": "https://cen.acs.org/business/consumer-products/pg-claims-toothpaste-breakthrough-par/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "氧气其实有颜色",
+  "text": "液氧是淡蓝色的，因为氧分子在可见光区有微弱的电子跃迁吸收。不过气态氧颜色太浅，我们平时看不出来。"
+ },
+ "stats": {
+  "fetched": 2125,
+  "candidates": 90
+ },
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T13:22:34+08:00"
+}

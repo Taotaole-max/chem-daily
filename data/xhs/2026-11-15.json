@@ -1,0 +1,100 @@
+{
+ "title": "钌催化剂跑4000小时不歇 😳",
+ "cover_title": "钌催化剂稳定运行4000小时",
+ "cover_lines": [
+  "酸性电解水过电位仅172毫伏",
+  "单细胞组学筛出纳米酶抑瘤95%",
+  "硫氧键动态开关稳住晶格氧"
+ ],
+ "body": "今天这几条，从催化到牙膏，化学圈挺热闹。\n\n1️⃣ 钌锰搭档直接耦合氧自由基：Ru@Mn-RuO2核壳催化剂里，Ru和Mn双位点同步氧中间体演化，把反应路径从AEM切换到同步氧耦合机制，绕开*OOH形成的动力学限制。酸性电解质中10 mA cm⁻²只需172 mV过电位，稳定运行超过4000小时。（Angewandte Chemie）\n\n2️⃣ 单细胞组学反向设计纳米酶：用单细胞转录组和代谢通量分析找到肝癌的三重代谢弱点，映射到量子化学描述符，从260个候选材料里筛出氮磷双配位的金单原子纳米酶。它级联催化重塑肿瘤微环境，肿瘤抑制率最高达95%。（Advanced Materials）\n\n3️⃣ 硫氧键一拉一断，氧redox稳了：钠层状氧化物正极里引入可逆的界面S–O键，充电时成键稳住氧化的氧物种，放电时断键恢复晶格氧。这种动态电子限域抑制不可逆氧流失，为高能电池正极提供通用策略。（Advanced Materials）\n\n4️⃣ 苯酚挪个位，长出1,2-偶氮三氟甲磺酸酯：通过形式上的C–O键转位，把便宜苯酚变成1,2-偶氮三氟甲磺酸酯。偶氮和三氟甲磺酸酯两个把手可分别做自由基官能化和过渡金属交叉偶联，从同一酚前体发散合成不同取代模式芳烃，还能用来做复杂药物分子。（Angewandte Chemie）\n\n5️⃣ 宝洁说牙膏里加啤酒花提取物能护龈：Crest的制造商宝洁声称，啤酒花β-酸能通过破坏生物膜来减少牙龈出血，效果可与亚锡氟化物相提并论。具体临床数据摘要没给，但牙膏界好久没这么热闹了。（C&EN）\n\n你最近在做什么方向，有没有被催化剂稳定性折磨到？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "催化",
+  "电化学",
+  "纳米酶",
+  "有机合成"
+ ],
+ "id": "2026-11-15",
+ "kind": "daily",
+ "date": "2026-11-15",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月15日 周日",
+   "title": "钌催化剂稳定运行4000小时",
+   "lines": [
+    "酸性电解水过电位仅172毫伏",
+    "单细胞组学筛出纳米酶抑瘤95%",
+    "硫氧键动态开关稳住晶格氧"
+   ],
+   "thumbs": [
+    "https://onlinelibrary.wiley.com/cms/asset/ce864d69-4590-4501-960f-4dd50217c571/anie75708-gra-0001-m.png",
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/9e23f7ca-8093-4f85-8aa0-9fb13dc3fe2d/adma75692-gra-0001-m.png",
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/67822b4e-74c0-4b2e-80a0-3a259b594f46/adma75712-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "催化",
+   "title": "钌锰搭档直接耦合氧自由基",
+   "text": "Ru@Mn-RuO2核壳催化剂里，Ru和Mn双位点通过界面电荷再分布同步氧中间体演化，把反应路径从AEM切换到同步氧耦合机制（SOCM），绕开*OOH形成的动力学限制。在酸性电解质中达到10 mA cm⁻²只需172 mV过电位，稳定运行超过4000小时。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Activating Oxygen Radical Coupling via Ru–Mn Dual‐Site Electronic Regulation for Durable Acidic Oxygen Evolution",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/ce864d69-4590-4501-960f-4dd50217c571/anie75708-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "单细胞组学反向设计纳米酶",
+   "text": "用单细胞转录组和代谢通量分析找到肝癌的三重代谢弱点，再把需求映射到量子化学描述符，从260个候选材料里筛出氮磷双配位的金单原子纳米酶（APNC）。它级联催化重塑肿瘤微环境，肿瘤抑制率最高达95%。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Decoding Tumor Metabolic Dysregulation Through Single‐Cell Analysis Informs the Inverse Design of Therapeutic Nanozymes",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/9e23f7ca-8093-4f85-8aa0-9fb13dc3fe2d/adma75692-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "硫氧键一拉一断，氧 redox 稳了",
+   "text": "在钠层状氧化物正极里引入可逆的界面S–O键：充电时成键稳住氧化的氧物种，放电时断键恢复原来的晶格氧。这种动态的电子限域抑制了不可逆氧流失，为高能电池正极提供了一种通用策略。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Dynamic Interfacial S–O Bonding Stabilizes Oxygen Redox Through Reversible Electron Confinement",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/67822b4e-74c0-4b2e-80a0-3a259b594f46/adma75712-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "有机合成",
+   "title": "苯酚挪个位，长出1,2-偶氮三氟甲磺酸酯",
+   "text": "通过形式上的C–O键转位，把便宜苯酚变成1,2-偶氮三氟甲磺酸酯。偶氮和三氟甲磺酸酯两个把手可以分别做自由基官能化和过渡金属交叉偶联，从同一酚前体发散合成不同取代模式的芳烃，还能用来做复杂药物分子。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "A 1, 2‐Azo‐Triflate Synthon by Phenol Transposition",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/3faf7d99-2c11-49b0-965b-f95509b74b59/anie75573-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "宝洁说牙膏里加啤酒花提取物能护龈",
+   "text": "Crest的制造商宝洁声称，啤酒花β-酸能通过破坏生物膜来减少牙龈出血，效果可与亚锡氟化物相提并论。具体临床数据摘要没给，但牙膏界好久没这么热闹了。",
+   "source": "C&EN",
+   "kind": "news",
+   "title_en": "P&G claims toothpaste breakthrough on par with stannous fluoride",
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Toothpaste-news---650946:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+  }
+ ]
+}
