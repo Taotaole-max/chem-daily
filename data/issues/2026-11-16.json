@@ -1,0 +1,195 @@
+{
+ "lead": "今天阳光电池和制氢催化剂都在卷效率，金催化偷偷把炔烃掰成了反式烯烃。",
+ "items": [
+  {
+   "title_zh": "给受体分子打个环，效率冲到20.9%",
+   "blurb": "设计了一个环状二聚受体（cyclic dimer acceptor）CR-L8，用不对称连接单元把共轭平面撑开，同时用柔性链调节分子堆积。环状构型压住了分子振动和电子-声子耦合（electron-phonon coupling），非辐射复合通道被堵，单组分器件做到17.23%，三元体系（D18:L8-BO:CR-L8）冲到20.92%。",
+   "tags": [
+    "有机太阳能电池",
+    "受体材料",
+    "电子-声子耦合"
+   ],
+   "field": "材料化学",
+   "title_en": "Cyclic Dimer Acceptor towards 20.9% Efficient Organic Solar Cells by Suppressing Electron‐Phonon Coupling",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7582301?af=R",
+   "doi": "10.1002/anie.7582301",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/d3f4cc66-7ee3-41af-8289-6970bb8efd82/anie75601-gra-0001-m.png",
+   "authors": "Xiaopeng Duan, \nJunjie Zhang, \nXiaoming Li, \nZezhou Liang, \nBusheng Zhang, \nHaisheng Ma, \nZiwei Zhang, \nWenzhi Ma, \nXuelin Wang, \nJialong Gong, \nZheng Tang, \nJun Yan, \nBiao Xiao, \nXian‐Kai Chen, \nZhis",
+   "id": "10.1002/anie.7582301"
+  },
+  {
+   "title_zh": "给氢原子修条高速路，工业电流密度下跑起来",
+   "blurb": "在L12-Pt3Fe/TiO2金属间化合物催化剂里构建有序原子通道，把氢迁移能垒压下来，让氢溢流（hydrogen spillover）跑得更快。Pt周围电子环境更均匀，高能垒路径被大幅削减，酸性析氢反应（HER）和质子交换膜水电解（PEMWE）在工业级电流密度下表现亮眼。",
+   "tags": [
+    "氢溢流",
+    "析氢反应",
+    "金属间化合物"
+   ],
+   "field": "催化",
+   "title_en": "Ordered Atomic Channels Enable Ultrafast Hydrogen Spillover for Hydrogen Evolution at Industrial Current Densities",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2900055?af=R",
+   "doi": "10.1002/anie.2900055",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/f8e951ee-ef88-45e2-abcc-ae1fb09f9923/anie75626-gra-0001-m.png",
+   "authors": "Xingming Xie, \nPengcheng Liu, \nShengjie Wei, \nChunhao Sun, \nChengjie Wang, \nHuawei Han, \nXinyan Zhao, \nYongde Long, \nYuxiang Hu, \nZhigang Zou",
+   "id": "10.1002/anie.2900055"
+  },
+  {
+   "title_zh": "金催化：把炔烃反着还原成反式烯烃",
+   "blurb": "用双功能联萘基膦配体，让金(I)催化体系实现氢负离子/质子的反式加成，把内炔变成(E)-烯烃。以前大家认为阳离子酸性金催化里插不进氢负离子，这回靠金属-配体协同做到了，立体选择性好、产率高，还没看到过度还原或双键迁移。",
+   "tags": [
+    "金催化",
+    "炔烃还原",
+    "立体选择性"
+   ],
+   "field": "有机合成",
+   "title_en": "Bifunctional Ligand‐Enabled Au(I)‐Catalyzed trans‐Reduction of Alkynes to (E)‐Alkenes",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9040375?af=R",
+   "doi": "10.1002/anie.9040375",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/71dcc615-1f39-4af2-8aa9-861cae1ce5c8/anie75565-gra-0001-m.png",
+   "authors": "Carlos D. Quintanilla, \nKe Zhao, \nXinyi Li, \nZiguang Yang, \nLiming Zhang",
+   "id": "10.1002/anie.9040375"
+  },
+  {
+   "title_zh": "宽禁带钙钛矿排好队，叠硅电池到34%",
+   "blurb": "宽禁带（WBG）钙钛矿做叠层顶电池时，成核和结晶不好控，组分容易不均。作者用长链烷基膦酸分子调控胶体结构，引导快速成核、缓慢结晶，做出组分均匀、缺陷密度低的薄膜。基于工业硅异质结电池的叠层器件，1平方厘米面积拿到34.01%的效率（认证反扫33.65%）。",
+   "tags": [
+    "钙钛矿叠层",
+    "宽禁带",
+    "胶体工程"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Colloidally Prepared Homogeneous Wide-Bandgap Perovskites for Efficient Tandem Solar Cells with Industrial Silicon",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c10873",
+   "doi": "10.1021/jacs.6c10873",
+   "image": null,
+   "authors": "Wentao Liu, Shaofei Yang, Long Jiang, Minglong Liu, Zhiliang Liu, Jun Fang",
+   "id": "10.1021/jacs.6c10873"
+  },
+  {
+   "title_zh": "亚硝酸根搬家，顺手把氨合成拉满",
+   "blurb": "在Cu-Ag双位点界面，硝酸根先在Cu上活化成*NO2，再迁移到Ag位点上被稳定和加氢。这个Cu到Ag的接力让界面水合氢键网络更连通，*H供给更顺。优化后的CuAg-N-C在流动池里氨的法拉第效率（FE）接近100%，产率411.8 mmol g–1 h–1，1 A cm–2下还能保持83%。",
+   "tags": [
+    "硝酸根还原",
+    "氨合成",
+    "界面氢键"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Directional Nitrite Spillover Couples to Interfacial Hydrogen-Bond Networks for Ampere-Level Nitrate-to-Ammonia Electrosynthesis",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c20417",
+   "doi": "10.1021/jacs.6c20417",
+   "image": null,
+   "authors": "Qingshuang Xu, Kangyu Lou, Zihan Liu, Xuesong Zhao, Jesse S. Dondapati, Zhiguang Zhang",
+   "id": "10.1021/jacs.6c20417"
+  },
+  {
+   "title_zh": "把钴位点掰歪一点，塑料光解更给力",
+   "blurb": "在聚合氮化碳上把对称的Co-N4位点重构为不对称Co-N3，打破对称性后电子离域被抑制，Co的d带中心上移，电荷分离更顺。室温、1 bar氧气、白光下就能把聚苯乙烯变成苯甲酸，产率39.6%，碳回收率71.6%，条件比很多报道的体系温和。",
+   "tags": [
+    "单原子催化",
+    "塑料升级回收",
+    "光催化"
+   ],
+   "field": "催化",
+   "title_en": "Reduced Electron Delocalization via Symmetry Breaking at Single‐Atom Cobalt Sites for Efficient Photocatalytic Plastic Upcycling",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75166?af=R",
+   "doi": "10.1002/adma.75166",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/82df59a0-ae4d-4daa-9eb7-52eeb629a450/adma75166-gra-0001-m.png",
+   "authors": "Yanglin Chen, \nGanghua Zhou, \nZiyu Mei, \nXingyu Wang, \nLimo He, \nRiyanka Karmakar, \nWeidong Hou, \nXingwang Zhu, \nChao Wu, \nShibo Xi, \nLiang Wang, \nTze Chien Sum, \nHan Sen Soo, \nCan Xue, \nLydia Helena ",
+   "id": "10.1002/adma.75166"
+  },
+  {
+   "title_zh": "室温下让自旋跑100微米",
+   "blurb": "用过渡金属硫族化物做极化激元波导（polariton waveguide），在室温下实现自旋信息传播距离最长到100微米，同时保持较大的极化激元非线性。自旋电子学愁传输距离短、光子愁没有非线性相互作用，这个平台想把两边的好处凑一凑。",
+   "tags": [
+    "极化激元",
+    "自旋传输",
+    "二维材料"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Nonlinear waveguide polaritons for long-distance propagation of spins at room temperature",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02802-4",
+   "doi": "10.1038/s41563-026-02802-4",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02802-4/MediaObjects/41563_2026_2802_Fig1_HTML.png",
+   "authors": "",
+   "id": "10.1038/s41563-026-02802-4"
+  },
+  {
+   "title_zh": "核孔屏障蛋白其实像液体一样动",
+   "blurb": "核孔控制进出细胞核的分子交通，形成选择性屏障的柔性蛋白链在活细胞里其实高度动态。测量加分子动力学模拟显示，糖修饰和载体蛋白importin-β有助于维持这种动态状态，相当于给“门卫”上了润滑油。",
+   "tags": [
+    "核孔",
+    "蛋白动态",
+    "分子模拟"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Proteins that form the nuclear pore barrier move like liquids",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/d41586-026-03428-x",
+   "doi": "10.1038/d41586-026-03428-x",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03428-x/d41586-026-03428-x_53961974.jpg",
+   "authors": "",
+   "id": "10.1038/d41586-026-03428-x"
+  },
+  {
+   "title_zh": "Rh₃小团簇：脱氢不贪心，选择性在线",
+   "blurb": "中科院金属所联合北大、重庆大学的工作，研究亚纳米铑活性位点的几何和电子性质如何影响丁烷脱氢中的C-H活化、产物脱附和C-C断裂。说白了就是找那个“活性和丁烯选择性”之间的平衡点。",
+   "tags": [
+    "铑团簇",
+    "丁烷脱氢",
+    "选择性"
+   ],
+   "field": "催化",
+   "title_en": "Rh₃ clusters balance activity and butene selectivity in butane dehydrogenation",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-rh-clusters-butene-butane-dehydrogenation.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rh-clusters-balance-ac.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-rh-clusters-butene-butane-dehydrogenation.html"
+  },
+  {
+   "title_zh": "柠檬渣变塑料，比市售的更软乎",
+   "blurb": "发表在Polymers上的研究，用柠檬加工残渣当碳源，靠嗜盐古菌Haloferax mediterranei发酵生产PHBV生物塑料。报道说得到的材料比商业同类产品更柔韧，算是给柠檬废料找了条新出路。",
+   "tags": [
+    "生物塑料",
+    "废弃物利用",
+    "PHBV"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Lemon waste yields bioplastic more flexible than commercial counterpart, study finds",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-lemon-yields-bioplastic-flexible-commercial.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lemon-waste-turned-int.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-lemon-yields-bioplastic-flexible-commercial.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "金不是永远不锈",
+  "text": "金化学性质稳定，但王水能溶它：硝酸把金氧化成Au³⁺，氯离子再把它络合成AuCl₄⁻，拉走平衡。所以“真金不怕火炼”没错，但怕王水。"
+ },
+ "stats": {
+  "fetched": 2188,
+  "candidates": 90
+ },
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T13:20:44+08:00"
+}

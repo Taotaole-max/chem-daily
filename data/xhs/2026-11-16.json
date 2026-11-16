@@ -1,0 +1,102 @@
+{
+ "title": "环状受体效率破20%",
+ "cover_title": "给受体分子打个环 效率20.9%",
+ "cover_lines": [
+  "环状受体效率冲20.9%",
+  "歪钴位点塑料光解变苯甲酸",
+  "钙钛矿叠硅电池到34%"
+ ],
+ "body": "今天文献刷得我眼睛都花了，挑几条有意思的聊聊。\n\n1️⃣ 给受体分子打个环，效率直接起飞。设计了一个环状二聚受体，不对称连接单元把共轭平面撑开，柔性链调堆积，环状构型压住分子振动和电子-声子耦合，非辐射复合通道被堵，单组分器件17.23%，三元体系冲到20.92%。（Angewandte Chemie）\n\n2️⃣ 把钴位点掰歪一点，塑料光解更给力。在聚合氮化碳上把对称Co-N4重构成不对称Co-N3，打破对称性后电子离域被抑制，d带中心上移，室温1 bar氧气白光下就能把聚苯乙烯变成苯甲酸，产率39.6%，碳回收率71.6%。（Advanced Materials）\n\n3️⃣ 宽禁带钙钛矿排好队，叠硅电池到34%。用长链烷基膦酸分子调控胶体结构，引导快速成核缓慢结晶，薄膜组分均匀缺陷少，1平方厘米叠层器件效率34.01%，认证反扫33.65%。（JACS）\n\n4️⃣ 核孔屏障蛋白其实像液体一样动。活细胞里形成选择性屏障的柔性蛋白链高度动态，糖修饰和载体蛋白importin-β帮忙维持这个状态，相当于给门卫上了润滑油。（Nature）\n\n5️⃣ 金催化把炔烃反着还原成反式烯烃。双功能联萘基膦配体让金(I)体系实现氢负离子/质子反式加成，内炔变(E)-烯烃，立体选择性好产率高，没看到过度还原或双键迁移。（Angewandte Chemie）\n\n你们最近在做什么方向，有没有被哪条戳中？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "文献分享",
+  "有机合成",
+  "催化",
+  "钙钛矿",
+  "电化学",
+  "生物化学"
+ ],
+ "id": "2026-11-16",
+ "kind": "daily",
+ "date": "2026-11-16",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月16日 周一",
+   "title": "给受体分子打个环 效率20.9%",
+   "lines": [
+    "环状受体效率冲20.9%",
+    "歪钴位点塑料光解变苯甲酸",
+    "钙钛矿叠硅电池到34%"
+   ],
+   "thumbs": [
+    "https://onlinelibrary.wiley.com/cms/asset/d3f4cc66-7ee3-41af-8289-6970bb8efd82/anie75601-gra-0001-m.png",
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/82df59a0-ae4d-4daa-9eb7-52eeb629a450/adma75166-gra-0001-m.png",
+    "https://media.nature.com/lw1200/magazine-assets/d41586-026-03428-x/d41586-026-03428-x_53961974.jpg"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "材料化学",
+   "title": "给受体分子打个环，效率冲到20.9%",
+   "text": "设计了一个环状二聚受体（cyclic dimer acceptor）CR-L8，用不对称连接单元把共轭平面撑开，同时用柔性链调节分子堆积。环状构型压住了分子振动和电子-声子耦合（electron-phonon coupling），非辐射复合通道被堵，单组分器件做到17.23%，三元体系（D18:L8-BO:CR-L8）冲到20.92%。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Cyclic Dimer Acceptor towards 20.9% Efficient Organic Solar Cells by Suppressing Electron‐Phonon Coupling",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/d3f4cc66-7ee3-41af-8289-6970bb8efd82/anie75601-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "催化",
+   "title": "把钴位点掰歪一点，塑料光解更给力",
+   "text": "在聚合氮化碳上把对称的Co-N4位点重构为不对称Co-N3，打破对称性后电子离域被抑制，Co的d带中心上移，电荷分离更顺。室温、1 bar氧气、白光下就能把聚苯乙烯变成苯甲酸，产率39.6%，碳回收率71.6%，条件比很多报道的体系温和。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Reduced Electron Delocalization via Symmetry Breaking at Single‐Atom Cobalt Sites for Efficient Photocatalytic Plastic Upcycling",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/82df59a0-ae4d-4daa-9eb7-52eeb629a450/adma75166-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "宽禁带钙钛矿排好队，叠硅电池到34%",
+   "text": "宽禁带（WBG）钙钛矿做叠层顶电池时，成核和结晶不好控，组分容易不均。作者用长链烷基膦酸分子调控胶体结构，引导快速成核、缓慢结晶，做出组分均匀、缺陷密度低的薄膜。基于工业硅异质结电池的叠层器件，1平方厘米面积拿到34.01%的效率（认证反扫33.65%）。",
+   "source": "JACS",
+   "kind": "paper",
+   "title_en": "Colloidally Prepared Homogeneous Wide-Bandgap Perovskites for Efficient Tandem Solar Cells with Industrial Silicon",
+   "image": ""
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "核孔屏障蛋白其实像液体一样动",
+   "text": "核孔控制进出细胞核的分子交通，形成选择性屏障的柔性蛋白链在活细胞里其实高度动态。测量加分子动力学模拟显示，糖修饰和载体蛋白importin-β有助于维持这种动态状态，相当于给“门卫”上了润滑油。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Proteins that form the nuclear pore barrier move like liquids",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03428-x/d41586-026-03428-x_53961974.jpg"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "有机合成",
+   "title": "金催化：把炔烃反着还原成反式烯烃",
+   "text": "用双功能联萘基膦配体，让金(I)催化体系实现氢负离子/质子的反式加成，把内炔变成(E)-烯烃。以前大家认为阳离子酸性金催化里插不进氢负离子，这回靠金属-配体协同做到了，立体选择性好、产率高，还没看到过度还原或双键迁移。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Bifunctional Ligand‐Enabled Au(I)‐Catalyzed trans‐Reduction of Alkynes to (E)‐Alkenes",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/71dcc615-1f39-4af2-8aa9-861cae1ce5c8/anie75565-gra-0001-m.png"
+  }
+ ]
+}

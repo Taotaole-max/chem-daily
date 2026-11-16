@@ -278,3 +278,13 @@ https://phys.org/news/2026-11-couple-chromium-ruthenium-grounded-electrolysis.ht
 10.1002/adma.75692
 10.1016/j.chempr.2026.103341
 https://cen.acs.org/business/consumer-products/pg-claims-toothpaste-breakthrough-par/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen
+10.1002/anie.7582301
+10.1002/anie.2900055
+10.1002/anie.9040375
+10.1021/jacs.6c10873
+10.1021/jacs.6c20417
+10.1002/adma.75166
+10.1038/s41563-026-02802-4
+10.1038/d41586-026-03428-x
+https://phys.org/news/2026-11-rh-clusters-butene-butane-dehydrogenation.html
+https://phys.org/news/2026-11-lemon-yields-bioplastic-flexible-commercial.html
