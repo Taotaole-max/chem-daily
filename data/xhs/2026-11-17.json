@@ -1,0 +1,101 @@
+{
+ "title": "层间距调五个数量级？😳",
+ "cover_title": "层间距跨五个数量级",
+ "cover_lines": [
+  "膜分离人狂喜",
+  "碗形碳塞负离子环",
+  "MOF孔里拆氟代甲烷"
+ ],
+ "body": "今天这几条，从膜到碳碗到月球毯，化学圈又在闷声搞事情。\n\n1️⃣ 层状材料膜用去质子化-离子配位策略，层间距能精确可逆地调，从纳米一路到亚毫米，跨度五个数量级。做膜分离的估计已经在算自己体系能塞多大了（Nature Materials）。\n\n2️⃣ 碗形纳米碳里嵌了个阴离子型、芳香的环戊二烯负离子环，π面还能做位点选择性共价修饰和金属配位。非平面π体系里塞芳香阴离子，结构和电子性质都挺特别（Nature Chemistry）。\n\n3️⃣ 互穿阴离子柱撑MOF孔里搭了静电互补识别环境，用TiF6²⁻柱的负电位位点匹配CHF3的静电图案，把CH3F几何卡住。0.1 kPa下吸附18.5 cm³/g的CHF3，能从CH3F里吸掉痕量CHF3（Angewandte Chemie）。\n\n4️⃣ 吩嗪类氧化还原介体在水-有机界面上介导硝基化合物加氢，温和条件下底物浓度还能做高。介导电合成卡在介体稳定性和可调性上，这次算往前挪了一步（Nature Catalysis）。\n\n5️⃣ 把应急毯那种薄塑料做成层层堆叠的强隔热材料，扛得住压溃压力还不丢热防护性能。要是真用在月球栖息地上，宇航员对付极端温度就多一层底气（ScienceDaily 化学）。\n\n你们最近在做什么方向，有没有被层间距或者介体稳定性卡住的，评论区聊聊。",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "MOF",
+  "电催化",
+  "膜分离",
+  "纳米材料",
+  "文献分享"
+ ],
+ "id": "2026-11-17",
+ "kind": "daily",
+ "date": "2026-11-17",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月17日 周二",
+   "title": "层间距跨五个数量级",
+   "lines": [
+    "膜分离人狂喜",
+    "碗形碳塞负离子环",
+    "MOF孔里拆氟代甲烷"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02799-w/MediaObjects/41563_2026_2799_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02293-5/MediaObjects/41557_2026_2293_Figa_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/6e1e7c1f-9230-47dd-b504-fe3235a0b5e8/anie75737-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "材料化学",
+   "title": "层间距从纳米调到亚毫米，五个数量级",
+   "text": "用去质子化-离子配位策略对层状材料膜做微结构工程，层间距可以精确且可逆地调节，跨度达到五个数量级，从纳米一直到亚毫米。做膜分离的人大概会盯着这个可调性流口水。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Two-dimensional material membranes with precisely tunable interlayer spacing from nanometre to submillimetre",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02799-w/MediaObjects/41563_2026_2799_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "有机合成",
+   "title": "碗形纳米碳里塞了个芳香环戊二烯负离子",
+   "text": "五元环在非平面π体系里常见，但多半是中性的、非芳香或反芳香的。这回制备了一个碗形纳米碳，里面嵌着阴离子型、芳香的环戊二烯负离子（cyclopentadienide）环，结构电子性质都挺特别，π面上还能做位点选择性共价修饰和金属配位。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "A bowl-shaped nanocarbon incorporating an aromatic cyclopentadienide ring",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02293-5/MediaObjects/41557_2026_2293_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "无机与配位",
+   "title": "MOF孔里搞静电互补，分开CH3F和CHF3",
+   "text": "CH3F和CHF3大小和动力学都太像，常规亲和描述还互相打架。作者在互穿阴离子柱撑MOF孔里构建空间组织的静电互补识别（ECR）环境，用TiF6 2-柱的负电位位点匹配CHF3的1H/3F静电图案，把CH3F的3H/1F图案几何上卡住。TIFSIX-Cu-dpt在0.1 kPa下吸附18.5 cm3/g的CHF3，实现了从CH3F中吸附脱除痕量CHF3。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Spatial Electrostatic Complementarity in MOF Pores Enables Selective Recognition of Closely Related Fluoromethanes",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/6e1e7c1f-9230-47dd-b504-fe3235a0b5e8/anie75737-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "吩嗪当媒人，水油界面搞加氢",
+   "text": "在温和条件下，吩嗪类氧化还原介体（redox mediator）能在水-有机界面上介导硝基化合物的加氢，底物浓度还能做得比较高。这类介导电合成一直卡在介体稳定性和可调性上，这次算是往前挪了一步。",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "title_en": "Aqueous phenazine catholytes mediate efficient hydrogenation at an aqueous–organic interface",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01625-5/MediaObjects/41929_2026_1625_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "材料化学",
+   "title": "月球基地的隔热秘密，可能在应急毯里",
+   "text": "科学家把应急毯那种薄塑料做成层层堆叠的强隔热材料，能扛住压溃压力还不丢热防护性能。要是真能用在月球栖息地上，宇航员对付极端温度就多一层底气。",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "title_en": "The secret to building Moon bases may be hiding in emergency blankets",
+   "image": "https://www.sciencedaily.com/images/1920/stacking-layers-of-mylar-for-lunar-insulation.webp"
+  }
+ ]
+}

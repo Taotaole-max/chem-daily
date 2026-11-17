@@ -1,0 +1,195 @@
+{
+ "lead": "今天从电化学到月球建材，化学人连应急毯都不放过。",
+ "items": [
+  {
+   "title_zh": "吩嗪当媒人，水油界面搞加氢",
+   "blurb": "在温和条件下，吩嗪类氧化还原介体（redox mediator）能在水-有机界面上介导硝基化合物的加氢，底物浓度还能做得比较高。这类介导电合成一直卡在介体稳定性和可调性上，这次算是往前挪了一步。",
+   "tags": [
+    "电合成",
+    "氧化还原介体",
+    "加氢"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Aqueous phenazine catholytes mediate efficient hydrogenation at an aqueous–organic interface",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01625-5",
+   "doi": "10.1038/s41929-026-01625-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01625-5/MediaObjects/41929_2026_1625_Figa_HTML.png",
+   "authors": "Abdulrahman M. Alfaraidi, Nicholas Su, Jianhan Zhou, Anton Ni, Leena K. Alshammasi, Dawei Xi, Joonho Lee, Eugene E. Kwan, Michael J. Aziz, Richard Y. Liu",
+   "id": "10.1038/s41929-026-01625-5"
+  },
+  {
+   "title_zh": "层间距从纳米调到亚毫米，五个数量级",
+   "blurb": "用去质子化-离子配位策略对层状材料膜做微结构工程，层间距可以精确且可逆地调节，跨度达到五个数量级，从纳米一直到亚毫米。做膜分离的人大概会盯着这个可调性流口水。",
+   "tags": [
+    "二维材料膜",
+    "层间距",
+    "膜分离"
+   ],
+   "field": "材料化学",
+   "title_en": "Two-dimensional material membranes with precisely tunable interlayer spacing from nanometre to submillimetre",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02799-w",
+   "doi": "10.1038/s41563-026-02799-w",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02799-w/MediaObjects/41563_2026_2799_Fig1_HTML.png",
+   "authors": "Qixiang Zhang, Minmin Xue, Yongxin Wang, Junjie Shi, Dandan Lei, Shulong Li, Xiaoyang Zhang, Mengjie Wang, Yanan Ma, Yang Yue, Zhuhua Zhang",
+   "id": "10.1038/s41563-026-02799-w"
+  },
+  {
+   "title_zh": "碗形纳米碳里塞了个芳香环戊二烯负离子",
+   "blurb": "五元环在非平面π体系里常见，但多半是中性的、非芳香或反芳香的。这回制备了一个碗形纳米碳，里面嵌着阴离子型、芳香的环戊二烯负离子（cyclopentadienide）环，结构电子性质都挺特别，π面上还能做位点选择性共价修饰和金属配位。",
+   "tags": [
+    "纳米碳",
+    "芳香性",
+    "碗形分子"
+   ],
+   "field": "有机合成",
+   "title_en": "A bowl-shaped nanocarbon incorporating an aromatic cyclopentadienide ring",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02293-5",
+   "doi": "10.1038/s41557-026-02293-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02293-5/MediaObjects/41557_2026_2293_Figa_HTML.png",
+   "authors": "Nan Luo, Chuang Ye, Zian Zhou, Yiqiang Ou, Yanpeng Zhu, Long Jiang, Jiajian Gu, Chenyu Fan, Xinhai Zhu, Takashi Hirose, Jiaobing Wang",
+   "id": "10.1038/s41557-026-02293-5"
+  },
+  {
+   "title_zh": "NHPI里藏的反芳香性，被揪出来了",
+   "blurb": "NHPI/PINO是常用的氢原子转移（HAT）介体，但催化剂设计长期靠经验。作者发现五元酰亚胺环里被忽略的反芳香去稳定化会削弱O-H键，在羰基和芳环之间插个杂原子就能加速HAT，苯甲醇类底物速率最高提升36倍，含硫的NHTBU在活性和稳定性之间平衡得不错。",
+   "tags": [
+    "氢原子转移",
+    "反芳香性",
+    "电化学氧化"
+   ],
+   "field": "催化",
+   "title_en": "Disrupting Hidden Antiaromaticity in N -Hydroxyphthalimide Reveals a Design Principle for Highly Reactive N -Oxyl Hydrogen Atom Transfer Mediators",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c15887",
+   "doi": "10.1021/jacs.6c15887",
+   "image": null,
+   "authors": "Luke A. Farmer, Cheng Yang, Olaya Bernardo, Owen O. Yoshida, Sahil Arora, Subrata K. Ghosh",
+   "id": "10.1021/jacs.6c15887"
+  },
+  {
+   "title_zh": "第二溶剂化壳层：快充锂金属电池的新抓手",
+   "blurb": "多数电解液策略盯着第一溶剂化壳层，但极化界面下Li+耗竭还是躲不掉。这项工作用DME、TFDMP和DMTMSA组成三元电解液，让DMTMSA待在第二壳层，抑制长程离子团簇，维持界面离子可用性。16 mA cm–2下库仑效率98.4%，10C下比容量162.0 mAh g–1，200圈容量保持90.4%。",
+   "tags": [
+    "锂金属电池",
+    "溶剂化结构",
+    "快充"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Secondary Solvation Shell Regulation for Fast-Charging Lithium Metal Batteries",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17148",
+   "doi": "10.1021/jacs.6c17148",
+   "image": null,
+   "authors": "Jimin Lee, Minkwan Kim, Junyoung Choi, Lea Pompizii, Seungwoo Choi, Ki-Yong Yoon",
+   "id": "10.1021/jacs.6c17148"
+  },
+  {
+   "title_zh": "MOF孔里搞静电互补，分开CH3F和CHF3",
+   "blurb": "CH3F和CHF3大小和动力学都太像，常规亲和描述还互相打架。作者在互穿阴离子柱撑MOF孔里构建空间组织的静电互补识别（ECR）环境，用TiF6 2-柱的负电位位点匹配CHF3的1H/3F静电图案，把CH3F的3H/1F图案几何上卡住。TIFSIX-Cu-dpt在0.1 kPa下吸附18.5 cm3/g的CHF3，实现了从CH3F中吸附脱除痕量CHF3。",
+   "tags": [
+    "MOF",
+    "气体分离",
+    "静电识别"
+   ],
+   "field": "无机与配位",
+   "title_en": "Spatial Electrostatic Complementarity in MOF Pores Enables Selective Recognition of Closely Related Fluoromethanes",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.7323951?af=R",
+   "doi": "10.1002/anie.7323951",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/6e1e7c1f-9230-47dd-b504-fe3235a0b5e8/anie75737-gra-0001-m.png",
+   "authors": "Rongrong Fan, \nTian Ke, \nCheng Li, \nWenjun Zhang, \nZhiguo Zhang, \nZongbi Bao, \nQilong Ren, \nQiwei Yang",
+   "id": "10.1002/anie.7323951"
+  },
+  {
+   "title_zh": "自旋态一换，E/Z烯丙胺跟着分家",
+   "blurb": "在同样的弱场联吡啶骨架里，金属中心自旋态切换就能让烯丙基取代的E/Z选择性分道扬镳：高自旋Ni催化剂给E-烯丙胺，低自旋Pd给Z-异构体。Fe、Rh、Ir体系也支持自旋态和烯烃几何的关联，DFT显示是自旋依赖的电子结构在稳定不同的E/Z过渡态。",
+   "tags": [
+    "自旋态",
+    "立体发散合成",
+    "烯丙胺"
+   ],
+   "field": "有机合成",
+   "title_en": "Metal-Centered Spin-State Switching Promotes Stereodivergent Synthesis of E - and Z -Allylamines",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17994",
+   "doi": "10.1021/jacs.6c17994",
+   "image": null,
+   "authors": "Lu Zhang, Chenxi Zhang, Yuanlin Wang, Haidong Hu, Lingyu Kong, Tongchen Zhu",
+   "id": "10.1021/jacs.6c17994"
+  },
+  {
+   "title_zh": "CO2基内酯换个异构体，硫醇-烯聚合快多了",
+   "blurb": "CO2/丁二烯调聚直接得到的(E)EVP，α-烷叉基团拖慢硫醇-烯聚合，分子量上不去。作者用碱催化做α,β-到β,γ-的光脱共轭，得到DVP，α-烯 consumption速率提升17倍、δ-烯提升8倍，和二醇二硫醇聚合得到34 kDa的聚硫醚，比EVP路线上限高10倍，还能当压敏胶用。",
+   "tags": [
+    "聚硫醚",
+    "CO2利用",
+    "硫醇-烯"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Thiol-ene Radical Polymerizations of Regio - and Stereo -Isomers of a CO2-Derived δ-Lactone Leading to High Molar Mass Polythioethers",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c21270",
+   "doi": "10.1021/jacs.6c21270",
+   "image": null,
+   "authors": "Arron C. Deacy, Christopher K. Webber, Madhur M. Bhatt, Jaydon T. Donely, Ian. A. Tonks",
+   "id": "10.1021/jacs.6c21270"
+  },
+  {
+   "title_zh": "AI加实验，查废塑料热解油的杂质",
+   "blurb": "韩国团队用催化实验加AI计算化学，摸清了杂质怎么干扰废塑料热解油当石化原料。成果发在ACS Catalysis，能根据杂质种类和浓度预测催化性能可能掉多少，给热解油回收补了块科学地基。",
+   "tags": [
+    "废塑料",
+    "热解油",
+    "AI辅助"
+   ],
+   "field": "化学工程",
+   "title_en": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-and-experiments-rev-2.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html"
+  },
+  {
+   "title_zh": "月球基地的隔热秘密，可能在应急毯里",
+   "blurb": "科学家把应急毯那种薄塑料做成层层堆叠的强隔热材料，能扛住压溃压力还不丢热防护性能。要是真能用在月球栖息地上，宇航员对付极端温度就多一层底气。",
+   "tags": [
+    "月球建材",
+    "隔热材料",
+    "聚合物"
+   ],
+   "field": "材料化学",
+   "title_en": "The secret to building Moon bases may be hiding in emergency blankets",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/stacking-layers-of-mylar-for-lunar-insulation.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
+  }
+ ],
+ "fun_fact": {
+  "title": "干冰不是冰",
+  "text": "干冰是固态二氧化碳，在常压下不经液态直接升华成气体，所以叫“干”。它的升华点约-78.5°C，常用来做低温冷浴和舞台白雾。"
+ },
+ "stats": {
+  "fetched": 2143,
+  "candidates": 90
+ },
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T15:02:04+08:00"
+}
