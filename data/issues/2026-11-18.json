@@ -1,0 +1,195 @@
+{
+ "lead": "今天这份日报：电、光、MOF轮番上阵，化学家把“不可能”改成了“已投用”。",
+ "items": [
+  {
+   "title_zh": "油水交界处，电池分子当起了反应引擎",
+   "blurb": "哈佛的化学家和工程师把原本给电池用的分子重新利用，靠电驱动在油与水的界面上完成关键化学转化。这类转化过去往往要靠高温、重金属催化剂和危险的氢气，现在换成电，路线干净不少。",
+   "tags": [
+    "电化学",
+    "界面反应",
+    "绿色合成"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Repurposed battery molecules drive key chemical reactions where oil meets water",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-repurposed-battery-molecules-key-chemical.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/repurposed-battery-mol.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-repurposed-battery-molecules-key-chemical.html"
+  },
+  {
+   "title_zh": "给甲烷加个“防过氧化阀门”，只出甲醛",
+   "blurb": "光催化把甲烷变甲醛时，甲醛容易继续被氧化成二氧化碳。研究者让氢化WO2.72表面长出W-H键，像阀门一样优先被·OOH切断，把中间体拉回甲醛。检测到的含碳产物里甲醛选择性达100%，产率30.94 µmol·h−1。",
+   "tags": [
+    "光催化",
+    "甲烷转化",
+    "选择性"
+   ],
+   "field": "催化",
+   "title_en": "W–H Bond‐Mediated “Anti‐Overoxidation Valve”: 100% Formaldehyde Selectivity Among Detected Products in Photocatalytic Methane‐to‐Formaldehyde Conversion",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2226950?af=R",
+   "doi": "10.1002/anie.2226950",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/7d62decb-dfcf-4cc4-8125-41ce098a2ed8/anie75119-gra-0001-m.png",
+   "authors": "Rui Li, \nJingjing Peng, \nQing Xi, \nLulu Zhang, \nJilong Qin, \nJinghao Fan, \nHoufen Li, \nYawen Wang, \nZhuobin Yu, \nFangxia Xie, \nXuan Jian, \nJianxin Liu, \nJiancheng Wang",
+   "id": "10.1002/anie.2226950"
+  },
+  {
+   "title_zh": "沙漠里靠MOF从空气里拧出水",
+   "blurb": "团队做了个离网、被动加热的吸水装置，用MOF薄涂层堆成圆盘结构来加强水汽传输和传热。在沙特阿拉伯沙漠实地测试，平均湿度12.4%、平均温度20.5 °C，每天产出46.7 ± 1.5 mL水，折合185 mL kgMOF−1 day−1。",
+   "tags": [
+    "MOF",
+    "空气取水",
+    "沙漠测试"
+   ],
+   "field": "材料化学",
+   "title_en": "An Autonomous Off-Grid MOF Water Harvester for Extreme Arabian Desert Conditions",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c14381",
+   "doi": "10.1021/jacs.6c14381",
+   "image": null,
+   "authors": "Ali H. Alawadhi, Nakul Rampal, Daniel Ahn, Omar M. Yaghi",
+   "id": "10.1021/jacs.6c14381"
+  },
+  {
+   "title_zh": "怕湿的碳捕集材料，这回反过来利用水汽",
+   "blurb": "新开发的碳捕集材料把湿度从障碍变成帮手，在极潮湿条件下也能工作，而且能反复使用。摘要没给具体材料名和数字，但方向很明确：让工业烟气里抓CO2这件事更便宜、更可行。",
+   "tags": [
+    "碳捕集",
+    "高湿度",
+    "可重复使用"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "This remarkable new material could solve a major carbon capture problem",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/industrial-exhaust-carbon-capture-breakthrough.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm"
+  },
+  {
+   "title_zh": "铟铋联手当“氢泵”，电合成甘氨酸",
+   "blurb": "研究者用In-Bi催化剂把草酸和硝酸盐电化学C-N偶联成甘氨酸，铟位点像主动氢泵一样加速水分解、供应*H。甘氨酸法拉第效率83.3%，电流密度361.3 mA cm−2；10 cm2电极放大后6小时产出1.4 g甘氨酸。",
+   "tags": [
+    "电合成",
+    "C-N偶联",
+    "催化剂"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Enhanced Electrochemical C–N Coupling for Glycine Synthesis via an Active Hydrogen Pump",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2390339?af=R",
+   "doi": "10.1002/anie.2390339",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/4b6afbf2-f45f-4543-bcba-0d39d1d10d98/anie75238-gra-0001-m.png",
+   "authors": "Jiankang Liu, \nHengan Wang, \nZhonghua Wu, \nZongren Song, \nZhongnan Ling, \nShuming Zhou, \nShiju Yu, \nMingxin Gao, \nYanjia Wang, \nXiaoxue Ma, \nDawei Fang, \nXueqing Xing, \nXinchen Kang, \nBuxing Han",
+   "id": "10.1002/anie.2390339"
+  },
+  {
+   "title_zh": "晶格氧自己循环，海水电解扛住9500小时",
+   "blurb": "Ag-RuFeCo层状双氢氧化物把无序激活的晶格氧机制和银氧化物形成的阴离子选择界面结合起来，让晶格氧循环能自我维持。在碱性天然海水里累计9500小时、308 mV过电位下达到1.0 A cm−2，电解槽能耗4.59 kWh Nm−3 H2。",
+   "tags": [
+    "海水电解",
+    "析氧反应",
+    "耐久性"
+   ],
+   "field": "催化",
+   "title_en": "Self‐Sustaining Lattice‐Oxygen Cycling Enables Durable Industrial‐Level Seawater Electrolysis",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75651?af=R",
+   "doi": "10.1002/adma.75651",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/86b04eff-e228-4783-a752-23615567f98b/adma75651-gra-0001-m.png",
+   "authors": "Chunyan Chen, \nZhengkun Zhang, \nLonghua Li, \nYu Yu, \nWeidong Shi",
+   "id": "10.1002/adma.75651"
+  },
+  {
+   "title_zh": "三单元流水线，把卟啉生产拉成连续工艺",
+   "blurb": "卟啉在医药、农业、材料、食品都有用，但生物法生产一直受限于效率。研究者搭了微生物发酵、耐热全细胞催化、化学衍生化三单元集成平台，可放大连续运行，还能做出常规路线拿不到的卟啉中间体和衍生物。",
+   "tags": [
+    "卟啉",
+    "连续生产",
+    "生物制造"
+   ],
+   "field": "化学工程",
+   "title_en": "A scalable three-unit continuous operation platform for efficient porphyrin production",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44160-026-01195-1",
+   "doi": "10.1038/s44160-026-01195-1",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01195-1/MediaObjects/44160_2026_1195_Figa_HTML.png",
+   "authors": "Chengyu Zhang, Liran Zhang, Simin Chen, Haihong Chen, Xiaoxia Ma, Xinyu Wang, Ying Luo, Zhengduo Wang, Bixiao Li, Zilong Li, Shanshan Li, Gao-Yi Tan, Menglei Xia, Wensheng Xiang, Yongtao Xie, Lixin Zh",
+   "id": "10.1038/s44160-026-01195-1"
+  },
+  {
+   "title_zh": "激酶抑制剂不盯活性位点，反而更挑食",
+   "blurb": "研究团队发现一个p38δ亚型选择性抑制剂，选择性比现有化合物提升12000倍。晶体结构显示它靠非经典n-π-π堆叠夹心相互作用结合，还让P-loop发生结构重塑，把自己“包”进结合口袋，靠p38δ独有的H30氢键网络加固。",
+   "tags": [
+    "激酶抑制剂",
+    "选择性",
+    "药物化学"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Thinking Outside the Binding Site: A Self‐Encapsulating Kinase Inhibitor Remodels Its Pocket to Achieve Selectivity",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2953141?af=R",
+   "doi": "10.1002/anie.2953141",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/f53c1091-2383-4eb4-b063-c09fa6bb4173/anie74609-gra-0001-m.png",
+   "authors": "Nico J. Seidler, \nMonica R. MacDonald, \nAthina A. Moschopoulou, \nSahba Cunningham, \nTess M. Weber, \nNader N. Nasief, \nLorenz Mayer, \nFrederik W. Hacker, \nEkaterina Hermann, \nMareike B. Möllers, \nYulii",
+   "id": "10.1002/anie.2953141"
+  },
+  {
+   "title_zh": "序列分两级写，合成三螺旋也分左右手",
+   "blurb": "研究者在寡聚间苯乙炔撑主链里编码两层信息：芳香主链先限定出四种可互变螺旋，侧链再把这个平衡推向其中一种，即P-三螺旋。相当于用序列分级控制合成多股螺旋的组装和手性，向生物聚合物那种序列决定结构靠了一步。",
+   "tags": [
+    "超分子组装",
+    "螺旋手性",
+    "序列控制"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Hierarchical Sequence Control Enables Assembly of a Triple Helix With Preferred Handedness",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2518487?af=R",
+   "doi": "10.1002/anie.2518487",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/2b91be99-26e3-4029-8e86-b8e0ef8e6848/anie75288-gra-0001-m.png",
+   "authors": "Nadège You, \nLouise Miton, \nJessica Rumfeldt, \nAmar Raj, \nMax Perlot, \nRosa M. Gomila, \nAntonio Frontera, \nFabien B. L. Cougnon",
+   "id": "10.1002/anie.2518487"
+  },
+  {
+   "title_zh": "极化激元化学的悖论，先数清楚暗模",
+   "blurb": "极化激元化学想用光学腔里的强耦合来控制反应，但理论算出来大量不活跃的暗模会淹没活跃极化激元，看起来根本没法影响化学。研究者这次对暗模做了定量处理，试图解开这个长期存在的悖论。",
+   "tags": [
+    "极化激元",
+    "强耦合",
+    "光谱"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Quantifying dark modes to advance polariton chemistry",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-quantifying-dark-modes-advance-polariton.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantifying-dark-modes.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-quantifying-dark-modes-advance-polariton.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "水是万能溶剂？不完全是",
+  "text": "水常被叫作万能溶剂，但它其实溶解不了非极性物质，油和水分层就是最直观的例子。化学里判断溶解性常看“相似相溶”：极性溶剂擅长拉走极性分子，非极性溶剂才留得住油脂。"
+ },
+ "stats": {
+  "fetched": 2267,
+  "candidates": 90
+ },
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T14:23:42+08:00"
+}

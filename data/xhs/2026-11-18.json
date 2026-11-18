@@ -1,0 +1,102 @@
+{
+ "title": "电池分子跨界打工，甲烷只出甲醛",
+ "cover_title": "电池分子跨界当反应引擎",
+ "cover_lines": [
+  "油水界面上电驱转化",
+  "甲烷变甲醛选择性100%",
+  "海水电解扛住9500小时"
+ ],
+ "body": "今天这几条，有跨界打工的，也有在沙漠和海水里硬扛的，看完觉得自己那点实验不顺都不算啥。\n\n1️⃣ 光催化把甲烷变甲醛，甲醛容易继续氧化成二氧化碳。研究者在氢化WO2.72表面长出W-H键，像阀门一样优先被·OOH切断，把中间体拉回甲醛，含碳产物里甲醛选择性达100%，产率30.94 µmol·h−1（Angewandte Chemie）。\n\n2️⃣ 海水电解最怕电极扛不住，这个Ag-RuFeCo层状双氢氧化物让晶格氧循环自我维持，在碱性天然海水里累计9500小时、308 mV过电位下达到1.0 A cm−2，电解槽能耗4.59 kWh Nm−3 H2（Advanced Materials）。\n\n3️⃣ 激酶抑制剂不一定死盯活性位点。一个p38δ选择性抑制剂靠非经典n-π-π堆叠夹心相互作用结合，还让P-loop结构重塑，把自己包进口袋，选择性比现有化合物提升12000倍（Angewandte Chemie）。\n\n4️⃣ 铟铋联手当氢泵，用In-Bi催化剂把草酸和硝酸盐电化学C-N偶联成甘氨酸，铟位点加速水分解供应*H，法拉第效率83.3%，电流密度361.3 mA cm−2，10 cm2电极放大后6小时产出1.4 g甘氨酸（Angewandte Chemie）。\n\n你们最近在做什么方向，有没有被哪个反应卡住？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "电化学",
+  "催化",
+  "光催化",
+  "海水电解",
+  "药物化学",
+  "文献分享"
+ ],
+ "id": "2026-11-18",
+ "kind": "daily",
+ "date": "2026-11-18",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月18日 周三",
+   "title": "电池分子跨界当反应引擎",
+   "lines": [
+    "油水界面上电驱转化",
+    "甲烷变甲醛选择性100%",
+    "海水电解扛住9500小时"
+   ],
+   "thumbs": [
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/repurposed-battery-mol.jpg",
+    "https://onlinelibrary.wiley.com/cms/asset/7d62decb-dfcf-4cc4-8125-41ce098a2ed8/anie75119-gra-0001-m.png",
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/86b04eff-e228-4783-a752-23615567f98b/adma75651-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "油水交界处，电池分子当起了反应引擎",
+   "text": "哈佛的化学家和工程师把原本给电池用的分子重新利用，靠电驱动在油与水的界面上完成关键化学转化。这类转化过去往往要靠高温、重金属催化剂和危险的氢气，现在换成电，路线干净不少。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Repurposed battery molecules drive key chemical reactions where oil meets water",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/repurposed-battery-mol.jpg"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "催化",
+   "title": "给甲烷加个“防过氧化阀门”，只出甲醛",
+   "text": "光催化把甲烷变甲醛时，甲醛容易继续被氧化成二氧化碳。研究者让氢化WO2.72表面长出W-H键，像阀门一样优先被·OOH切断，把中间体拉回甲醛。检测到的含碳产物里甲醛选择性达100%，产率30.94 µmol·h−1。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "W–H Bond‐Mediated “Anti‐Overoxidation Valve”: 100% Formaldehyde Selectivity Among Detected Products in Photocatalytic Methane‐to‐Formaldehyde Conversion",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/7d62decb-dfcf-4cc4-8125-41ce098a2ed8/anie75119-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "催化",
+   "title": "晶格氧自己循环，海水电解扛住9500小时",
+   "text": "Ag-RuFeCo层状双氢氧化物把无序激活的晶格氧机制和银氧化物形成的阴离子选择界面结合起来，让晶格氧循环能自我维持。在碱性天然海水里累计9500小时、308 mV过电位下达到1.0 A cm−2，电解槽能耗4.59 kWh Nm−3 H2。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Self‐Sustaining Lattice‐Oxygen Cycling Enables Durable Industrial‐Level Seawater Electrolysis",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/86b04eff-e228-4783-a752-23615567f98b/adma75651-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "激酶抑制剂不盯活性位点，反而更挑食",
+   "text": "研究团队发现一个p38δ亚型选择性抑制剂，选择性比现有化合物提升12000倍。晶体结构显示它靠非经典n-π-π堆叠夹心相互作用结合，还让P-loop发生结构重塑，把自己“包”进结合口袋，靠p38δ独有的H30氢键网络加固。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Thinking Outside the Binding Site: A Self‐Encapsulating Kinase Inhibitor Remodels Its Pocket to Achieve Selectivity",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/f53c1091-2383-4eb4-b063-c09fa6bb4173/anie74609-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "铟铋联手当“氢泵”，电合成甘氨酸",
+   "text": "研究者用In-Bi催化剂把草酸和硝酸盐电化学C-N偶联成甘氨酸，铟位点像主动氢泵一样加速水分解、供应*H。甘氨酸法拉第效率83.3%，电流密度361.3 mA cm−2；10 cm2电极放大后6小时产出1.4 g甘氨酸。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Enhanced Electrochemical C–N Coupling for Glycine Synthesis via an Active Hydrogen Pump",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/4b6afbf2-f45f-4543-bcba-0d39d1d10d98/anie75238-gra-0001-m.png"
+  }
+ ]
+}
