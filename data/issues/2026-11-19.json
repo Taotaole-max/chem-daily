@@ -1,0 +1,195 @@
+{
+ "lead": "今天催化剂卷起来了，维生素B12也来电池界客串。",
+ "items": [
+  {
+   "title_zh": "钌催化剂瘦身，产氨速率飙57倍",
+   "blurb": "把钌催化剂颗粒做小，氨的合成速率最高提升57倍。氨是储氢的“魔法容器”，也是无碳燃料，产氨效率提上去，它当燃料才更有戏。",
+   "tags": [
+    "催化",
+    "氨",
+    "储氢"
+   ],
+   "field": "催化",
+   "title_en": "Shrinking ruthenium catalysts boosts ammonia production rate up to 57-fold",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-ruthenium-catalysts-boosts-ammonia-production.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-boosts-ammonia-p.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-ruthenium-catalysts-boosts-ammonia-production.html"
+  },
+  {
+   "title_zh": "维生素B12变身电池材料",
+   "blurb": "科学家用维生素B12做出可充电电池原型，充放电循环撑到250次。原料便宜又安全，说不定能给锂离子电池当个环保替补。",
+   "tags": [
+    "电池",
+    "维生素B12",
+    "储能"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Scientists create a remarkable new rechargeable battery using vitamin B12",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/futuristic-powerful-quantum-battery-technology.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm"
+  },
+  {
+   "title_zh": "原位显微镜看催化剂现场变脸",
+   "blurb": "用原位显微和光谱技术，追踪Co(OH)2纳米片在碱性水氧化中怎么重构，还特别关注电解液杂质的影响。催化剂“工作时的样子”比静息态复杂得多。",
+   "tags": [
+    "电催化",
+    "原位表征",
+    "析氧反应"
+   ],
+   "field": "催化",
+   "title_en": "Visualizing surface restructuring and chemical state transitions in Co(OH) 2 electrocatalysts during the oxygen evolution reaction",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01636-2",
+   "doi": "10.1038/s41929-026-01636-2",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01636-2/MediaObjects/41929_2026_1636_Figa_HTML.png",
+   "authors": "Fengli Yang, Wei Nie, Daniel Escalera-Lόpez, Andrea Martini, Shih-Yu Fu, Chenyue Qiu, Daniel Zeitler, Markus Weigand, Krzysztof Matlak, Dan Zhou, Janis Timoshenko, Arno Bergmann, Christopher Kley, See",
+   "id": "10.1038/s41929-026-01636-2"
+  },
+  {
+   "title_zh": "铜团簇把CO2精准变成乙醇",
+   "blurb": "用缺位多酸锚定全暴露铜团簇，在322.4 mA cm−2电流密度下CO2-to-乙醇法拉第效率达80.6%，677.7 mA cm−2时仍有75.3%。高电流密度下产乙醇，这条路线又稳了一步。",
+   "tags": [
+    "CO2还原",
+    "铜团簇",
+    "电催化"
+   ],
+   "field": "催化",
+   "title_en": "Precise Modulation of CO2‐to‐Ethanol Conversion by Fully‐Exposed Cun Clusters Induced by Dangling Bonds in Lacunary Polyoxometalate",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75291?af=R",
+   "doi": "10.1002/adma.75291",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/684fcf47-beaa-45ab-a315-4f946c26868c/adma75291-gra-0001-m.png",
+   "authors": "Yunxiu Zhao, \nJiahui Bi, \nYiyuan Xu, \nChangle Yue, \nFengyue Sun, \nNa Liu, \nFan Wang, \nHaoping Di, \nChongzheng Xu, \nYanwei Ju, \nShuo Wang, \nXiangxi Meng, \nYukun Lu",
+   "id": "10.1002/adma.75291"
+  },
+  {
+   "title_zh": "锂硫固态电池里多硫化物竟能稳住",
+   "blurb": "把硫和硫化锂机械混合，表征发现室温下能稳定存在多硫化锂物种，打破了固态电池里多硫化物不稳定的旧印象。这些物种反应更快，充放电全程都在。",
+   "tags": [
+    "固态电池",
+    "锂硫电池",
+    "多硫化物"
+   ],
+   "field": "电化学与能源",
+   "title_en": "High‐Performance Lithium‐Sulfur All‐Solid–State Batteries Enabled by Chemically Synthesized Lithium Polysulfide Cathodes",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75274?af=R",
+   "doi": "10.1002/adma.75274",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/087d5c8d-b4a0-43c9-adff-c40f2042f324/adma75274-gra-0001-m.png",
+   "authors": "Ke Zhou, \nSha Tan, \nNicholas Solan, \nMalia Monge, \nJianbin Zhou, \nYu‐Ting Chen, \nMounesha Garaga Nagendrachar, \nWenxi Wang, \nYang Ha, \nChristopher J. Brooks, \nTod A. Pascal, \nEnyuan Hu, \nPing Liu",
+   "id": "10.1002/adma.75274"
+  },
+  {
+   "title_zh": "废塑料里的无机杂质会毒死催化剂",
+   "blurb": "研究消费后塑料废物中无机杂质对聚烯烃催化裂化的影响，发现Na、K、Ca、Mg、Cu等金属会毒化分子筛，而硫和氯相对温和。想把废塑料变干净油，先得管住这些杂质。",
+   "tags": [
+    "塑料回收",
+    "催化裂化",
+    "杂质"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "The effect of inorganic impurities in post-consumer plastic waste on the catalytic cracking of polyolefins",
+   "source": "Nature Chemical Engineering",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44286-026-00464-2",
+   "doi": "10.1038/s44286-026-00464-2",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44286-026-00464-2/MediaObjects/44286_2026_464_Figa_HTML.png",
+   "authors": "Sebastian Rejman, Nasrin Faroughi, Devanshu Sajwan, Vaishnavi Ganesh, Ina Vollmer, Bert M. Weckhuysen",
+   "id": "10.1038/s44286-026-00464-2"
+  },
+  {
+   "title_zh": "Isomorphic Labs融资50亿美元做AI制药",
+   "blurb": "这家公司拿到50亿美元，用来打磨平台、把分子推进临床试验。AI找药的故事还在继续，钱先到位了。",
+   "tags": [
+    "AI制药",
+    "融资",
+    "药物发现"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Isomorphic Labs raises $5 billion for AI drug discovery",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/business/investment/isomorphic-labs-ai-drug-discovery/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Isomorphic-raises--5-billion-for-AI-drug-discovery---691952:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Aayushi Pratap",
+   "id": "https://cen.acs.org/business/investment/isomorphic-labs-ai-drug-discovery/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "金属EuSi里找到p波磁性证据",
+   "blurb": "结合对称性分析、第一性原理计算、中子散射和光电子能谱，在化学计量比的金属EuSi近费米面能带结构中发现p波磁性的证据。磁性家族又多了一种新玩法。",
+   "tags": [
+    "p波磁性",
+    "能带结构",
+    "光谱"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Evidence for p -wave magnetism in electronic band structure of metallic EuSi",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11295-9",
+   "doi": "10.1038/s41586-026-11295-9",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11295-9/MediaObjects/41586_2026_11295_Fig1_HTML.png",
+   "authors": "Erjian Cheng, Yixing Yang, Yifan Gao, Jan Priessnitz, Yiqing Hao, Jieyi Liu, Rui Lou, Alexander Fedorov, Mengyu Yao, Yuri Prots, Houke Chen, Ralf Koban, Xuemin Shi, Ying-Ting Chan, Ulrich Burkhardt, B",
+   "id": "10.1038/s41586-026-11295-9"
+  },
+  {
+   "title_zh": "剪切主导剥离，百克级单层材料",
+   "blurb": "用水溶性聚合物做剪切传导界面，把球磨的破坏性冲击转成有益剪切，全水相常压剥离出百克级单层氟化石墨烯，还保住了氟。方法对其他层状材料也通用。",
+   "tags": [
+    "二维材料",
+    "剥离",
+    "氟化石墨烯"
+   ],
+   "field": "材料化学",
+   "title_en": "Scalable Nondestructive Exfoliation of Layered Materials Into Monolayers via Shear‐Transducing Interfaces",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75262?af=R",
+   "doi": "10.1002/adma.75262",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/a6ea18fd-794f-4563-8cf7-fe2fe7e11f02/adma75262-gra-0001-m.png",
+   "authors": "Zhuang Zhao, \nJialei Chen, \nWei Wang, \nXuelong Liao, \nZhuo Chen, \nFengyuan Zhang, \nShan Chen, \nJiacheng Sun, \nWenge Song, \nHaonan Liu, \nTiantian Lu, \nYue Wang, \nLinjie Guo, \nYing Liu, \nYaqi Gao, \nYuji",
+   "id": "10.1002/adma.75262"
+  },
+  {
+   "title_zh": "纳米材料给AI芯片降温",
+   "blurb": "几家初创公司说，新型导热材料能大幅削减下一代数据中心的能耗。AI越算越热，散热材料也该卷一卷了。",
+   "tags": [
+    "纳米材料",
+    "散热",
+    "数据中心"
+   ],
+   "field": "化学工程",
+   "title_en": "Betting on nanomaterials to cool AI chips",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/materials/nanomaterials/nanomaterials-ai-chip-cooling-data-centers-novolinc-carbice/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Short-feature--Nanomaterials-for-data-center-cooling---660601:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Prachi Patel",
+   "id": "https://cen.acs.org/materials/nanomaterials/nanomaterials-ai-chip-cooling-data-centers-novolinc-carbice/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "氨的“魔法容器”外号",
+  "text": "氨分子含三个氢，按质量算储氢密度约17.6%，比液氢还高。而且氨在常压下零下33度就能液化，运输起来比液氢省事多了。"
+ },
+ "stats": {
+  "fetched": 2371,
+  "candidates": 90
+ },
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T14:25:21+08:00"
+}

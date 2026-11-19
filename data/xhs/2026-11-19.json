@@ -1,0 +1,100 @@
+{
+ "title": "钌催化剂瘦身，产氨快57倍",
+ "cover_title": "钌催化剂瘦身产氨快57倍",
+ "cover_lines": [
+  "钌颗粒做小，产氨速率飙57倍",
+  "铜团簇把二氧化碳精准变乙醇",
+  "维生素B12变身电池材料"
+ ],
+ "body": "今天这几条，从催化剂瘦身到维生素B12当电池材料，都挺有看头。\n\n1️⃣ 用缺位多酸锚定全暴露铜团簇，在322.4 mA cm−2电流密度下二氧化碳到乙醇的法拉第效率达80.6%，677.7 mA cm−2时仍有75.3%。高电流密度下产乙醇，这条路线又稳了一步。（Advanced Materials）\n\n2️⃣ 科学家用维生素B12做出可充电电池原型，充放电循环撑到250次。原料便宜又安全，说不定能给锂离子电池当个环保替补。（ScienceDaily 化学）\n\n3️⃣ 用水溶性聚合物做剪切传导界面，把球磨的破坏性冲击转成有益剪切，全水相常压剥离出百克级单层氟化石墨烯，还保住了氟。方法对其他层状材料也通用。（Advanced Materials）\n\n4️⃣ 把硫和硫化锂机械混合，表征发现室温下能稳定存在多硫化锂物种，打破了固态电池里多硫化物不稳定的旧印象。这些物种反应更快，充放电全程都在。（Advanced Materials）\n\n你最近在做什么方向，有没有被催化剂“变脸”坑过？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "催化",
+  "电化学",
+  "电池",
+  "二氧化碳转化"
+ ],
+ "id": "2026-11-19",
+ "kind": "daily",
+ "date": "2026-11-19",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月19日 周四",
+   "title": "钌催化剂瘦身产氨快57倍",
+   "lines": [
+    "钌颗粒做小，产氨速率飙57倍",
+    "铜团簇把二氧化碳精准变乙醇",
+    "维生素B12变身电池材料"
+   ],
+   "thumbs": [
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-boosts-ammonia-p.jpg",
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/684fcf47-beaa-45ab-a315-4f946c26868c/adma75291-gra-0001-m.png",
+    "https://www.sciencedaily.com/images/1920/futuristic-powerful-quantum-battery-technology.webp"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "催化",
+   "title": "钌催化剂瘦身，产氨速率飙57倍",
+   "text": "把钌催化剂颗粒做小，氨的合成速率最高提升57倍。氨是储氢的“魔法容器”，也是无碳燃料，产氨效率提上去，它当燃料才更有戏。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Shrinking ruthenium catalysts boosts ammonia production rate up to 57-fold",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/kaist-boosts-ammonia-p.jpg"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "催化",
+   "title": "铜团簇把CO2精准变成乙醇",
+   "text": "用缺位多酸锚定全暴露铜团簇，在322.4 mA cm−2电流密度下CO2-to-乙醇法拉第效率达80.6%，677.7 mA cm−2时仍有75.3%。高电流密度下产乙醇，这条路线又稳了一步。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Precise Modulation of CO2‐to‐Ethanol Conversion by Fully‐Exposed Cun Clusters Induced by Dangling Bonds in Lacunary Polyoxometalate",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/684fcf47-beaa-45ab-a315-4f946c26868c/adma75291-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "维生素B12变身电池材料",
+   "text": "科学家用维生素B12做出可充电电池原型，充放电循环撑到250次。原料便宜又安全，说不定能给锂离子电池当个环保替补。",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "title_en": "Scientists create a remarkable new rechargeable battery using vitamin B12",
+   "image": "https://www.sciencedaily.com/images/1920/futuristic-powerful-quantum-battery-technology.webp"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "材料化学",
+   "title": "剪切主导剥离，百克级单层材料",
+   "text": "用水溶性聚合物做剪切传导界面，把球磨的破坏性冲击转成有益剪切，全水相常压剥离出百克级单层氟化石墨烯，还保住了氟。方法对其他层状材料也通用。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Scalable Nondestructive Exfoliation of Layered Materials Into Monolayers via Shear‐Transducing Interfaces",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/a6ea18fd-794f-4563-8cf7-fe2fe7e11f02/adma75262-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "锂硫固态电池里多硫化物竟能稳住",
+   "text": "把硫和硫化锂机械混合，表征发现室温下能稳定存在多硫化锂物种，打破了固态电池里多硫化物不稳定的旧印象。这些物种反应更快，充放电全程都在。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "High‐Performance Lithium‐Sulfur All‐Solid–State Batteries Enabled by Chemically Synthesized Lithium Polysulfide Cathodes",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/087d5c8d-b4a0-43c9-adff-c40f2042f324/adma75274-gra-0001-m.png"
+  }
+ ]
+}
