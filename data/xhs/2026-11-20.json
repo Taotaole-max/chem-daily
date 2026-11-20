@@ -1,0 +1,101 @@
+{
+ "title": "癌细胞铁死亡竟帮它逃免疫😳",
+ "cover_title": "铁死亡反助肿瘤逃逸",
+ "cover_lines": [
+  "铁死亡癌细胞产PGE2",
+  "太阳光下克级产氨",
+  "氢火焰隐形是钠捣鬼"
+ ],
+ "body": "今天刷到一条挺反直觉的：癌细胞铁死亡之后，居然反过来帮肿瘤躲免疫。\n\n1️⃣ 铁死亡的癌细胞会激活一套分子程序，导致PGE2水平升高，PGE2再去损害1型经典树突状细胞功能，削弱抗肿瘤CD8+ T细胞免疫，等于给铁死亡和免疫逃逸之间搭了条线（Nature）。\n\n2️⃣ 户外太阳光驱动的光催化体系，用625平方厘米板式反应器把硝酸盐还原成氨，产率72 mmol g−1 h−1，5个循环累计运行115小时，产出177.18 mmol NH3和7.83 g NH4Cl固体，太阳能到氨效率0.664%（Advanced Materials）。\n\n3️⃣ 氢火焰能从亮橙色变成几乎看不见，原因出人意料：空气里漂浮的微量钠。科学家说这发现可能帮未来的氢动力灶具和烤箱更安全，用专用传感器替代视觉火焰检测（ScienceDaily 化学）。\n\n4️⃣ 把螺旋结构直接引入diPDI主链，构建出螺旋聚合物(SSSS)-diPDI-C8-T-T，在已报道单组分手性聚合物中|gph|达1.03，还做出双波长CPL-PUF（405和535 nm）用于光学加密，安全性和不可预测性更高（Advanced Materials）。\n\n5️⃣ 3DOM高熵尖晶石氧化物通过熵驱动几何和电子重构，解锁相邻位点O–O耦合，让析氧反应从吸附质演化机制切换到氧化物路径机制，绕开传统标度约束，兼顾高活性和长期稳定性（Angewandte Chemie）。\n\n你最近在做什么方向，有没有被哪条戳中？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "铁死亡",
+  "光催化",
+  "电化学",
+  "高分子",
+  "文献笔记"
+ ],
+ "id": "2026-11-20",
+ "kind": "daily",
+ "date": "2026-11-20",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月20日 周五",
+   "title": "铁死亡反助肿瘤逃逸",
+   "lines": [
+    "铁死亡癌细胞产PGE2",
+    "太阳光下克级产氨",
+    "氢火焰隐形是钠捣鬼"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11333-6/MediaObjects/41586_2026_11333_Fig1_HTML.png",
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/65a16ae4-0be4-4d34-aad6-a9be01551291/adma75249-gra-0001-m.png",
+    "https://www.sciencedaily.com/images/1920/hydrogen-stove-flames.webp"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "癌细胞铁死亡后产PGE2，帮肿瘤免疫逃逸",
+   "text": "铁死亡的癌细胞会激活一套分子程序，导致PGE2水平升高。PGE2反过来损害1型经典树突状细胞功能，削弱抗肿瘤CD8+ T细胞免疫。这给铁死亡和免疫逃逸之间搭了条线。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Ferroptosis in cancer cells triggers PGE 2 production for tumour immune escape",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11333-6/MediaObjects/41586_2026_11333_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "太阳光下克级产氨，户外也能跑",
+   "text": "一个户外太阳光驱动的光催化体系，用625平方厘米板式反应器把硝酸盐还原成氨，产率72 mmol g−1 h−1。5个循环累计运行115小时，产出177.18 mmol NH3和7.83 g NH4Cl固体，太阳能到氨效率0.664%。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Sunlight‐Driven Gram‐Scale Nitrate Reduction to Ammonia by an In Situ Formed Fe3+1‐xFe2+xOOH/CdSeS Photocatalyst",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/65a16ae4-0be4-4d34-aad6-a9be01551291/adma75249-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "氢火焰为啥先橙后隐形？钠在捣鬼",
+   "text": "氢火焰能从亮橙色变成几乎看不见，原因出人意料：空气里漂浮的微量钠。科学家说这发现可能帮未来的氢动力灶具和烤箱更安全，用专用传感器替代视觉火焰检测。",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "title_en": "Why hydrogen flames can glow orange, then turn nearly invisible",
+   "image": "https://www.sciencedaily.com/images/1920/hydrogen-stove-flames.webp"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "螺旋聚合物做圆偏振光探测，gph破1",
+   "text": "把螺旋结构直接引入diPDI主链，构建出螺旋聚合物(SSSS)-diPDI-C8-T-T，在已报道单组分手性聚合物中|gph|达1.03。还做出双波长CPL-PUF（405和535 nm），用于光学加密，安全性和不可预测性更高。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "π‑Conjugated Helical Polymer for Circularly Polarized Photodetection and Secure Optoelectronic Encoding",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/360ae042-0e57-44bb-9152-ae0e04d4c3a8/adma75741-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "催化",
+   "title": "熵触发机制切换，绕开水氧化标度限制",
+   "text": "3DOM高熵尖晶石氧化物通过熵驱动几何和电子重构，解锁相邻位点O–O耦合，让析氧反应从吸附质演化机制切换到氧化物路径机制。这一转变绕开传统标度约束，兼顾高活性和长期稳定性。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Entropy‐Triggered Mechanistic Reconfiguration: Unleashing Adjacent‐Site Oxygen Coupling to Circumvent Scaling Limit in Water Oxidation",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/21821951-8f05-45eb-89bb-d8a07c43a5d1/anie75755-gra-0001-m.png"
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "lead": "今日份化学：光酶联手、钴基省铱、太阳光造氨，还有看不见的氢火焰。",
+ "items": [
+  {
+   "title_zh": "光催化剂和酶组队，玩出自由基新反应",
+   "blurb": "把光氧化还原催化剂和酶配对，能做出单独任一方都实现不了的反应。系统筛查了180种配对后，发现一种C(sp3)–C(sp3)自由基交叉偶联，可定向到β位或γ位，用来合成有价值的非天然氨基酸。",
+   "tags": [
+    "光催化",
+    "酶催化",
+    "自由基偶联"
+   ],
+   "field": "催化",
+   "title_en": "Radical detour in photocatalyst–enzyme pairs",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01635-3",
+   "doi": "10.1038/s41929-026-01635-3",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01635-3/MediaObjects/41929_2026_1635_Fig1_HTML.png",
+   "authors": "Amelia I. Liu, Richard Y. Liu",
+   "id": "10.1038/s41929-026-01635-3"
+  },
+  {
+   "title_zh": "把铱塞进氧化钴晶格，省铱还更稳",
+   "blurb": "质子交换膜电解水想少用铱又不牺牲活性和耐久性，是个难题。这项工作把低价态铱限制在Co3O4晶格内，电子上稳定了邻近的钴位点，抑制载体降解和铱流失，给低铱耐用阳极提供了通用策略。",
+   "tags": [
+    "电解水",
+    "铱",
+    "催化剂稳定性"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Precise regulation of iridium electronic state reversely stabilizes cobalt oxide for practical proton-exchange membrane electrolysis",
+   "source": "Joule",
+   "kind": "paper",
+   "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00430-7?rss=yes",
+   "doi": "10.1016/j.joule.2026.102746",
+   "image": null,
+   "authors": "Chenhui Zhou, Zhaoqi Dong, Hengyue Xu, Jia Shi, Lu Li, Zheng Lin, Ruijin Zeng, Changze Wei, Lingyou Zeng, Menggang Li, Qinghua Zhang, Lin Gu, Fan Lv, Mingchuan Luo, Shaojun Guo",
+   "id": "10.1016/j.joule.2026.102746"
+  },
+  {
+   "title_zh": "太阳光下克级产氨，户外也能跑",
+   "blurb": "一个户外太阳光驱动的光催化体系，用625平方厘米板式反应器把硝酸盐还原成氨，产率72 mmol g−1 h−1。5个循环累计运行115小时，产出177.18 mmol NH3和7.83 g NH4Cl固体，太阳能到氨效率0.664%。",
+   "tags": [
+    "光催化",
+    "硝酸盐还原",
+    "产氨"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Sunlight‐Driven Gram‐Scale Nitrate Reduction to Ammonia by an In Situ Formed Fe3+1‐xFe2+xOOH/CdSeS Photocatalyst",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75249?af=R",
+   "doi": "10.1002/adma.75249",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/65a16ae4-0be4-4d34-aad6-a9be01551291/adma75249-gra-0001-m.png",
+   "authors": "Xin‐Ling Zhang, \nChen Zhang, \nWei‐Chao Li, \nJia‐Hao Wu, \nShu‐Lin Meng, \nJia‐Hao Li, \nYu‐Lin Yin, \nLei Zhu, \nZhe‐Shuai Lin, \nChen Ye, \nZhi‐Jun Li, \nYu‐Zhe Chen, \nChen‐Ho Tung, \nLi‐Zhu Wu",
+   "id": "10.1002/adma.75249"
+  },
+  {
+   "title_zh": "双连续介孔氮化碳，油水界面连续光合",
+   "blurb": "两亲性离子型双连续介孔氮化碳，能在油水界面同时光催化产H2O2和串联C–H活化/C–N环化。把牺牲剂变成高价值药物中间体BzlM，双功能催化剂在连续流反应器里稳定共生产超过200小时。",
+   "tags": [
+    "氮化碳",
+    "连续流",
+    "双相合成"
+   ],
+   "field": "材料化学",
+   "title_en": "Ionic and bicontinuous mesoporous carbon nitride with multilevel structures for continuous tandem photosynthesis of value-added chemicals",
+   "source": "Chem",
+   "kind": "paper",
+   "link": "https://www.cell.com/chem/fulltext/S2451-9294(26)00411-0?rss=yes",
+   "doi": "10.1016/j.chempr.2026.103345",
+   "image": null,
+   "authors": "Maocheng Zuo, Xin Liu, Hongye Chen, Xiaoke Jia, Ting Wang, Fugui Xu, Mohsen Adeli, Hao Wu, Shuang Li, Kun Zhang, Yiyong Mai, Chong Cheng",
+   "id": "10.1016/j.chempr.2026.103345"
+  },
+  {
+   "title_zh": "熵触发机制切换，绕开水氧化标度限制",
+   "blurb": "3DOM高熵尖晶石氧化物通过熵驱动几何和电子重构，解锁相邻位点O–O耦合，让析氧反应从吸附质演化机制切换到氧化物路径机制。这一转变绕开传统标度约束，兼顾高活性和长期稳定性。",
+   "tags": [
+    "析氧反应",
+    "高熵氧化物",
+    "机制切换"
+   ],
+   "field": "催化",
+   "title_en": "Entropy‐Triggered Mechanistic Reconfiguration: Unleashing Adjacent‐Site Oxygen Coupling to Circumvent Scaling Limit in Water Oxidation",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.anie-26-23204?af=R",
+   "doi": "10.1002/anie.anie-26-23204",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/21821951-8f05-45eb-89bb-d8a07c43a5d1/anie75755-gra-0001-m.png",
+   "authors": "Zhenhui Cao, \nZiye Li, \nJingwei Liu, \nYunchao Liang, \nXiaoyong Ma, \nJuan He, \nWeizhe Chen, \nWeiheng Ding, \nFei Yan, \nJianan Dang, \nJiachen Wang, \nGuoqi Cai, \nZhengyu Bai, \nXuanhua Li, \nZhen Zhang",
+   "id": "10.1002/anie.anie-26-23204"
+  },
+  {
+   "title_zh": "螺旋聚合物做圆偏振光探测，gph破1",
+   "blurb": "把螺旋结构直接引入diPDI主链，构建出螺旋聚合物(SSSS)-diPDI-C8-T-T，在已报道单组分手性聚合物中|gph|达1.03。还做出双波长CPL-PUF（405和535 nm），用于光学加密，安全性和不可预测性更高。",
+   "tags": [
+    "螺旋聚合物",
+    "圆偏振光",
+    "光学加密"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "π‑Conjugated Helical Polymer for Circularly Polarized Photodetection and Secure Optoelectronic Encoding",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75741?af=R",
+   "doi": "10.1002/adma.75741",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/360ae042-0e57-44bb-9152-ae0e04d4c3a8/adma75741-gra-0001-m.png",
+   "authors": "Zhenping Li, \nChao Zhang, \nJiajun Fu, \nShijin Jian, \nChun‐Lin Sun, \nKe Gao, \nLin Han, \nHaoze Li, \nHaitao Cheng, \nWenhan Wu, \nXingshuo Chu, \nPei Zhou, \nHanfei Gao, \nGuankui Long, \nWei Ma, \nXiaobo Shang",
+   "id": "10.1002/adma.75741"
+  },
+  {
+   "title_zh": "无金属电催化路线，温和条件造双氧水",
+   "blurb": "C&EN报道了一种有机电催化剂，能在温和条件下驱动过氧化氢这种大宗化学品的生产。具体细节摘要没展开，但无金属路线本身挺让人好奇。",
+   "tags": [
+    "电催化",
+    "过氧化氢",
+    "无金属"
+   ],
+   "field": "电化学与能源",
+   "title_en": "A metal-free efficient route to hydrogen peroxide",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/synthesis/catalysis/metal-free-electrocatalyst-hydrogen-peroxide/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/News--Metal-free-electrochem-way-to-make-H2O2---677799:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Victoria Corless, special to C&EN",
+   "id": "https://cen.acs.org/synthesis/catalysis/metal-free-electrocatalyst-hydrogen-peroxide/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "癌细胞铁死亡后产PGE2，帮肿瘤免疫逃逸",
+   "blurb": "铁死亡的癌细胞会激活一套分子程序，导致PGE2水平升高。PGE2反过来损害1型经典树突状细胞功能，削弱抗肿瘤CD8+ T细胞免疫。这给铁死亡和免疫逃逸之间搭了条线。",
+   "tags": [
+    "铁死亡",
+    "前列腺素E2",
+    "免疫逃逸"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Ferroptosis in cancer cells triggers PGE 2 production for tumour immune escape",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11333-6",
+   "doi": "10.1038/s41586-026-11333-6",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11333-6/MediaObjects/41586_2026_11333_Fig1_HTML.png",
+   "authors": "Lukas Ramsauer, Anna-Marie Pedde, Anna Hirschberger, María Parra Reyes, Nadine Nuschele, Felix Bayerl, Sebastian Lacher, Sainitin Donakonda, Kevin Schmid, Benedikt Spitzlberger, Daina Chakma, Martina ",
+   "id": "10.1038/s41586-026-11333-6"
+  },
+  {
+   "title_zh": "LLM读文献+机器学习，筛MOF光催化CO2还原",
+   "blurb": "用大语言模型辅助关系提取加人工验证，建了文献级数据集，再用迁移学习CGCNN预测带隙，MAE为0.31 eV。多任务框架预测电子亲和能和电离能，三个分类器分别筛活性、性能和产物选择性。",
+   "tags": [
+    "机器学习",
+    "MOF",
+    "CO2还原"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "High-Throughput Screening of Photocatalytic Metal–Organic Frameworks for CO2 Reduction Using Relational Data Extraction and Hierarchical Machine Learning",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c14994",
+   "doi": "10.1021/jacs.6c14994",
+   "image": null,
+   "authors": "Xiao Niu, Yan Liu, Yong Cui, Jianwen Jiang",
+   "id": "10.1021/jacs.6c14994"
+  },
+  {
+   "title_zh": "氢火焰为啥先橙后隐形？钠在捣鬼",
+   "blurb": "氢火焰能从亮橙色变成几乎看不见，原因出人意料：空气里漂浮的微量钠。科学家说这发现可能帮未来的氢动力灶具和烤箱更安全，用专用传感器替代视觉火焰检测。",
+   "tags": [
+    "氢火焰",
+    "钠",
+    "燃烧安全"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Why hydrogen flames can glow orange, then turn nearly invisible",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/hydrogen-stove-flames.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm"
+  }
+ ],
+ "fun_fact": {
+  "title": "火焰颜色来自电子跃迁",
+  "text": "钠原子受热激发后，电子从3p跃迁回3s，发出约589纳米的黄光。日常黄路灯和实验室焰色试验里的亮黄，都是这个跃迁的功劳。"
+ },
+ "stats": {
+  "fetched": 2346,
+  "candidates": 90
+ },
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T14:12:29+08:00"
+}
