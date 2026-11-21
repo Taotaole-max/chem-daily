@@ -1,0 +1,195 @@
+{
+ "lead": "氧硼烷三键终于被抓进晶体，化学家们可以少熬点夜了。",
+ "items": [
+  {
+   "title_zh": "氧硼烷三键，这回真被关进晶体了",
+   "blurb": "氧硼烷（oxoborane）中心硼只连一个氧，还带B–O三键，历来被认为极活泼、只能瞬态存在。两篇独立研究从相关二硼累积烯出发，分别拿到了中性和阳离子氧硼烷的单晶。从1960年代开始试，现在终于能在瓶子里看它了。",
+   "tags": [
+    "氧硼烷",
+    "硼氧三键",
+    "晶体结构"
+   ],
+   "field": "无机与配位",
+   "title_en": "Isolable crystalline oxoboranes",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02310-7",
+   "doi": "10.1038/s41557-026-02310-7",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02310-7/MediaObjects/41557_2026_2310_Fig1_HTML.png",
+   "authors": "Todd W. Hudnall",
+   "id": "10.1038/s41557-026-02310-7"
+  },
+  {
+   "title_zh": "镍催化剂给烯烃骨架分拣路线",
+   "blurb": "烯烃结构稍微一变，合成路线往往就得大改。现在镍催化剂能把自由基路径和有机金属路径分开走，从相关砌块得到四种烯烃架构。相当于给反应装了分拣带，省去换路线的麻烦。",
+   "tags": [
+    "镍催化",
+    "烯烃合成",
+    "反应路径"
+   ],
+   "field": "有机合成",
+   "title_en": "Sorting reaction pathways to program alkene skeletons",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02306-3",
+   "doi": "10.1038/s41557-026-02306-3",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02306-3/MediaObjects/41557_2026_2306_Fig1_HTML.png",
+   "authors": "Shuxin Mao, Kathrin Junge, Matthias Beller",
+   "id": "10.1038/s41557-026-02306-3"
+  },
+  {
+   "title_zh": "薄壁沸石：介孔微孔一起上",
+   "blurb": "沸石选择性好但微孔太窄，扩散慢。研究报道了NJU120-5和NJU120-7两种本征介孔-微孔铝硅酸盐，壁厚两个T原子，含有序10元环孔道，形成全连通的孔网络。重油裂化中高价值燃料收率高，积碳还少。",
+   "tags": [
+    "沸石",
+    "介孔材料",
+    "重油裂化"
+   ],
+   "field": "化学工程",
+   "title_en": "Meso–microporous zeolitic materials with thin walls containing ordered 10-ring channels",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aei6161?af=R",
+   "doi": "10.1126/science.aei6161",
+   "image": null,
+   "authors": "Zhenghan Zhang, Jiazheng Sun, Chao Ma, Xudong Tian, Mao Luo, Qike Jiang, Lei Han, Cong Lin, Haitao Song, Le Xu, Wei Lin, Jian Li",
+   "id": "10.1126/science.aei6161"
+  },
+  {
+   "title_zh": "全固态锂硫电池：界面也得管",
+   "blurb": "全固态锂硫电池想装更多硫，厚电极里电解质/正极界面和传输迂曲度一样关键。研究在15 MPa堆压、6.1 mg cm−2硫载量下做到10 mAh cm−2面容量。高载量下界面工程不能只盯着导电网络。",
+   "tags": [
+    "全固态电池",
+    "锂硫电池",
+    "界面工程"
+   ],
+   "field": "电化学与能源",
+   "title_en": "High-loading all-solid-state lithium–sulfur batteries enabled by tailored sulfur–sulfide and sulfur–carbon interfaces",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02813-1",
+   "doi": "10.1038/s41563-026-02813-1",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02813-1/MediaObjects/41563_2026_2813_Fig1_HTML.png",
+   "authors": "Yukio Cho, Hongchang Hao, Miso Kim, Madison King, Zisheng Zhang, Shripad Patil, Jason Hwong, Haoyu Liu, Duhan Zhang, Yifan Quan, Xueli Zheng, Yan-Kai Tzeng, Bonggeun Shong, John Watt, Frank Abild-Pede",
+   "id": "10.1038/s41563-026-02813-1"
+  },
+  {
+   "title_zh": "蒽桥卟啉纳米带，全局反芳香",
+   "blurb": "共轭分子带因径向p轨道有奇特电子性质。研究者用镍(0)介导偶联再Scholl氧化，做出蒽桥卟啉纳米带。这些杂化带显示全局反芳香性，Hückel回路有72、96或120个π电子。",
+   "tags": [
+    "纳米带",
+    "反芳香性",
+    "卟啉"
+   ],
+   "field": "材料化学",
+   "title_en": "Globally antiaromatic anthracene–porphyrin nanobelts",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02302-7",
+   "doi": "10.1038/s41557-026-02302-7",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02302-7/MediaObjects/41557_2026_2302_Figa_HTML.png",
+   "authors": "Leonard S. L. Goh, Lene A. Gödde, Ka Man Cheung, Prakhar Gupta, Arnau Rodríguez-Rubio, Harry L. Anderson",
+   "id": "10.1038/s41557-026-02302-7"
+  },
+  {
+   "title_zh": "光供电微传感器，无线盯反应",
+   "blurb": "实时监测反应常要专用仪器或侵入取样。反应遥测用光供电微电子器件，在反应容器里光学通信、自主传感。在制药和精细化工相关反应中连续测热，包括光化学和电化学体系，时间分辨率亚秒级。",
+   "tags": [
+    "反应监测",
+    "无线传感",
+    "量热"
+   ],
+   "field": "分析化学",
+   "title_en": "Telemetric calorimetry for wireless continuous reaction profiling",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aei7840?af=R",
+   "doi": "10.1126/science.aei7840",
+   "image": null,
+   "authors": "Sukwoo Lee, Evan A. Weingarten, Michael F. Reynolds, Kevin Sun, Alejandro J. Cortese, Huw M. L. Davies, Alyosha C. Molnar, Paul L. McEuen, Song Lin",
+   "id": "10.1126/science.aei7840"
+  },
+  {
+   "title_zh": "P450自由基环化酶，补上利福霉素缺口",
+   "blurb": "利福霉素的8-羟基萘环怎么酶促组装一直是个谜。研究鉴定Rif-Orf0为细胞色素P450自由基环化酶，经低能垒双自由基环化把前体变成中间体，再由RifS/RifT脱氢酶捕获芳构化，跑赢自发副反应。",
+   "tags": [
+    "P450",
+    "利福霉素",
+    "生物合成"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "A Cryptic Cytochrome P450 Radical Cyclase Catalyzes Naphthalene-Ring Closure in Rifamycin Biosynthesis",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17690",
+   "doi": "10.1021/jacs.6c17690",
+   "image": null,
+   "authors": "Feng Ye, Lingfei Hu, Meng Niu, Yanrong Shi, Zhongyue Li, Gang Lu",
+   "id": "10.1021/jacs.6c17690"
+  },
+  {
+   "title_zh": "锌带着氢跑，不用管道",
+   "blurb": "机器学习找出的乳酸根配体把Zn(II)在碱液中的溶解度翻倍，让金属锌能当可运输的能量载体。需要时按需放氢，不需要外电路。氢储运的另一种思路。",
+   "tags": [
+    "锌",
+    "储氢",
+    "能量载体"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Zinc carries hydrogen beyond pipelines",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44160-026-01228-9",
+   "doi": "10.1038/s44160-026-01228-9",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01228-9/MediaObjects/44160_2026_1228_Fig1_HTML.png",
+   "authors": "Huayi Yin, Zishuai Hu",
+   "id": "10.1038/s44160-026-01228-9"
+  },
+  {
+   "title_zh": "超辐射频率梳，连续变脉冲",
+   "blurb": "在耦合自旋-谐振器系统里，观察到超辐射发射从连续过渡到周期性脉冲。这和时晶体有联系，还能同步微波与光学频率梳。频率梳家族又添新玩法。",
+   "tags": [
+    "超辐射",
+    "频率梳",
+    "时晶体"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Observation of tunable superradiant frequency combs",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11289-7",
+   "doi": "10.1038/s41586-026-11289-7",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11289-7/MediaObjects/41586_2026_11289_Fig1_HTML.png",
+   "authors": "Tian Xie, Rikuto Fukumori, Wai-Keong Mok, Jiahui Li, Joonhee Choi, Andrei Faraon",
+   "id": "10.1038/s41586-026-11289-7"
+  },
+  {
+   "title_zh": "不用贵金属，也能造双氧水",
+   "blurb": "双氧水全球每年产几百万吨，标准路线依赖稀有贵金属。美国Rutgers大学纽瓦克分校和德国波恩大学的化学家描述了替代技术，不用这些金属，可能更便宜更可持续，成果发在Nature Communications上。",
+   "tags": [
+    "双氧水",
+    "无贵金属",
+    "绿色合成"
+   ],
+   "field": "催化",
+   "title_en": "Q&A: Making hydrogen peroxide without using precious metals",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-qa-hydrogen-peroxide-precious-metals.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/university-of-bonn-res.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-qa-hydrogen-peroxide-precious-metals.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "双氧水会自己分解",
+  "text": "过氧化氢在常温下会缓慢分解成水和氧气，光照和金属杂质会加速这个过程。所以实验室的双氧水通常装在避光容器里，有时还加一点稳定剂。"
+ },
+ "stats": {
+  "fetched": 2278,
+  "candidates": 90
+ },
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T14:00:47+08:00"
+}

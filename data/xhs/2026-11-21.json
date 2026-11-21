@@ -1,0 +1,100 @@
+{
+ "title": "氧硼烷三键，终于关进晶体里了",
+ "cover_title": "等了六十年的氧硼烷晶体",
+ "cover_lines": [
+  "三键物种首次拿到单晶",
+  "沸石孔道微孔介孔全连通",
+  "固态锂硫做到10毫安时"
+ ],
+ "body": "今天这条真的有点历史感：一个从上世纪六十年代就开始追的物种，终于被装进单晶里了。\n\n1️⃣ 氧硼烷中心硼只连一个氧，还带B–O三键，长期被认为太活泼、只能瞬态存在。两篇独立研究从相关二硼累积烯出发，分别拿到中性和阳离子氧硼烷的单晶，等于把它请进了瓶子（Nature Chemistry）。\n\n2️⃣ 沸石选择性好但微孔太窄、扩散慢。这次报道的NJU120-5和NJU120-7是本征介孔-微孔铝硅酸盐，壁厚两个T原子，含有序10元环孔道，孔网络全连通；重油裂化里高价值燃料收率高，积碳还少（Science）。\n\n3️⃣ 全固态锂硫电池想多装硫，厚电极里电解质与正极的界面和传输迂曲度一样关键。研究在15 MPa堆压、6.1 mg cm−2硫载量下做到10 mAh cm−2面容量，说明高载量下光盯导电网络不够（Nature Materials）。\n\n4️⃣ 共轭分子带的径向p轨道能玩出奇特电子性质。研究者用镍(0)介导偶联再加Scholl氧化，做出蒽桥卟啉纳米带，这些杂化带表现出全局反芳香性，Hückel回路有72、96或120个π电子（Nature Chemistry）。\n\n5️⃣ 双氧水全球每年产几百万吨，标准路线离不开稀有贵金属。美国Rutgers大学纽瓦克分校和德国波恩大学的化学家描述了不用这些金属的替代技术，可能更便宜更可持续（Nature Communications）。\n\n你们现在都在做什么方向，有没有被某个“理论上存在”的物种折磨过？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "无机化学",
+  "电化学",
+  "催化",
+  "文献分享"
+ ],
+ "id": "2026-11-21",
+ "kind": "daily",
+ "date": "2026-11-21",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月21日 周六",
+   "title": "等了六十年的氧硼烷晶体",
+   "lines": [
+    "三键物种首次拿到单晶",
+    "沸石孔道微孔介孔全连通",
+    "固态锂硫做到10毫安时"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02310-7/MediaObjects/41557_2026_2310_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02813-1/MediaObjects/41563_2026_2813_Fig1_HTML.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02302-7/MediaObjects/41557_2026_2302_Figa_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "无机与配位",
+   "title": "氧硼烷三键，这回真被关进晶体了",
+   "text": "氧硼烷（oxoborane）中心硼只连一个氧，还带B–O三键，历来被认为极活泼、只能瞬态存在。两篇独立研究从相关二硼累积烯出发，分别拿到了中性和阳离子氧硼烷的单晶。从1960年代开始试，现在终于能在瓶子里看它了。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Isolable crystalline oxoboranes",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02310-7/MediaObjects/41557_2026_2310_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "化学工程",
+   "title": "薄壁沸石：介孔微孔一起上",
+   "text": "沸石选择性好但微孔太窄，扩散慢。研究报道了NJU120-5和NJU120-7两种本征介孔-微孔铝硅酸盐，壁厚两个T原子，含有序10元环孔道，形成全连通的孔网络。重油裂化中高价值燃料收率高，积碳还少。",
+   "source": "Science",
+   "kind": "paper",
+   "title_en": "Meso–microporous zeolitic materials with thin walls containing ordered 10-ring channels",
+   "image": ""
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "全固态锂硫电池：界面也得管",
+   "text": "全固态锂硫电池想装更多硫，厚电极里电解质/正极界面和传输迂曲度一样关键。研究在15 MPa堆压、6.1 mg cm−2硫载量下做到10 mAh cm−2面容量。高载量下界面工程不能只盯着导电网络。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "High-loading all-solid-state lithium–sulfur batteries enabled by tailored sulfur–sulfide and sulfur–carbon interfaces",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02813-1/MediaObjects/41563_2026_2813_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "材料化学",
+   "title": "蒽桥卟啉纳米带，全局反芳香",
+   "text": "共轭分子带因径向p轨道有奇特电子性质。研究者用镍(0)介导偶联再Scholl氧化，做出蒽桥卟啉纳米带。这些杂化带显示全局反芳香性，Hückel回路有72、96或120个π电子。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Globally antiaromatic anthracene–porphyrin nanobelts",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02302-7/MediaObjects/41557_2026_2302_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "催化",
+   "title": "不用贵金属，也能造双氧水",
+   "text": "双氧水全球每年产几百万吨，标准路线依赖稀有贵金属。美国Rutgers大学纽瓦克分校和德国波恩大学的化学家描述了替代技术，不用这些金属，可能更便宜更可持续，成果发在Nature Communications上。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Q&A: Making hydrogen peroxide without using precious metals",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/university-of-bonn-res.jpg"
+  }
+ ]
+}
