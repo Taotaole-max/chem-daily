@@ -1,0 +1,195 @@
+{
+ "lead": "钙钛矿怕热怕光？今天几篇论文给它上强度、上胶水，还有细菌酶偷偷用tRNA搬砖。",
+ "items": [
+  {
+   "title_zh": "纳米金刚石给钙钛矿上紧发条",
+   "blurb": "卤化物钙钛矿（halide perovskites）的软晶格既带来高性能，也让它不耐用。研究者把刚性纳米金刚石掺进去，让晶界处的弹性场重新分布、耗散，而不是在晶体内部堆积。0.09平方厘米器件认证效率27.6%，16.1平方厘米迷你组件24.3%，85°C最大功率点运行5000小时后保持80%初始效率。",
+   "tags": [
+    "钙钛矿",
+    "太阳能电池",
+    "稳定性"
+   ],
+   "field": "材料化学",
+   "title_en": "Elastic-field reorganization stabilizes soft-lattice perovskites for durable solar cells",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aeh3114?af=R",
+   "doi": "10.1126/science.aeh3114",
+   "image": null,
+   "authors": "Biao Li, Tianchi Zhang, Xingtao Wang, Yehui Wen, Yong Wang, Xuegong Yu, Deren Yang",
+   "id": "10.1126/science.aeh3114"
+  },
+  {
+   "title_zh": "给钙钛矿界面涂一层分子胶水",
+   "blurb": "钙钛矿组件要耐用，界面得又牢又低损耗。研究者用带芳香双位点配体的分子界面层，靠分子间作用和化学键把埋底界面粘牢，还能释放界面应变。900平方厘米子组件效率22.7%，7200平方厘米标准组件21.3%，在户外测试105天性能稳定。",
+   "tags": [
+    "钙钛矿",
+    "界面工程",
+    "光伏组件"
+   ],
+   "field": "材料化学",
+   "title_en": "Molecular adhesion for durable metal halide perovskite modules",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aej5001?af=R",
+   "doi": "10.1126/science.aej5001",
+   "image": null,
+   "authors": "Chenglin Yang, Tian Hou, Yafeng Xu, Charles Robinson, Joshua S. Stein, Yingtong Guo, Qingchao Chang, Hong Li, Lang Yu, Yuanyuan Qin, Omar F. Mohammed, Yuelong Huang, Shuai You, Xiaopeng Zheng",
+   "id": "10.1126/science.aej5001"
+  },
+  {
+   "title_zh": "空气变尿素，光催化两步走",
+   "blurb": "用两步串联光催化把大气里的CO2和N2直接变成尿素。离子液体修饰的MOF负责抓CO2并还原成CO，铜基共价有机框架（COF）把CO和N2氧化来的*NO偶联起来。尿素产率259.87 µg·gcat−1·h−1，作者称这是首次实现从大气CO2和N2光催化合成尿素。",
+   "tags": [
+    "光催化",
+    "尿素合成",
+    "MOF"
+   ],
+   "field": "催化",
+   "title_en": "Photocatalytic Tandem Reaction for Urea Synthesis From Atmospheric CO2 and N2",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75407?af=R",
+   "doi": "10.1002/adma.75407",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/8452ad8a-06b0-430d-833f-bbca482b54d0/adma75407-gra-0001-m.png",
+   "authors": "Nan‐Nan Zhang, \nLing‐He Kong, \nZhi‐Hao Zhao, \nXiu Qiao, \nTian‐Shu Song, \nYan Sun, \nYa Wang, \nLu‐Hua Shao, \nHong Dong, \nFeng‐Ming Zhang",
+   "id": "10.1002/adma.75407"
+  },
+  {
+   "title_zh": "氧化钕钉住铜，CO2变乙烯更稳",
+   "blurb": "铜催化CO2还原制乙烯时，活性位点容易在负电位下重构。研究者用非晶Nd2O3纳米结构钉在Cu2O界面，稳住欠配位铜位点，还把C–C偶联从CO–CO二聚导向更省能量的CO–CHO不对称路径。1.1 A cm−2下乙烯法拉第效率59.5%，1.5 A cm−2下部分电流密度达762.5 mA cm−2。",
+   "tags": [
+    "电催化",
+    "CO2还原",
+    "乙烯"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Steering C–C Coupling via Amorphous Nd2O3 Pinning for Efficient CO2 Electroreduction to Ethylene",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2320153?af=R",
+   "doi": "10.1002/anie.2320153",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/ba77d070-eee3-4bc4-9e55-4e6cbff9a554/anie75820-gra-0001-m.png",
+   "authors": "Luming Zhang, \nXiaomei Liu, \nYilin Zhao, \nMengna Zhang, \nYuxia Jin, \nZiyuan Yang, \nHaibin Wang, \nGaolei Qin, \nChanglin Qi, \nZiluo Ding, \nMingchuan Luo, \nFei Wang, \nXiao‐Dong Wen",
+   "id": "10.1002/anie.2320153"
+  },
+  {
+   "title_zh": "光镍联手，给烯烃不对称硅氢化",
+   "blurb": "缺电子烯烃的不对称硅氢化一直难做，化学、区域和对映选择性很难同时管住。研究者用金属光氧化还原催化，把Si–C成键和对映选择性决定步骤拆开，绕过消旋背景反应。方法底物范围宽，能克级放大，还能扩展到氢锗化。",
+   "tags": [
+    "不对称催化",
+    "光氧化还原",
+    "硅氢化"
+   ],
+   "field": "有机合成",
+   "title_en": "Enantioselective Radical Hydrosilylation of Electron‐Deficient Alkenes Enabled by Metallaphotoredox Catalysis",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9261601?af=R",
+   "doi": "10.1002/anie.9261601",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/4d437548-9870-4ac3-bb23-4d51ebfc102f/anie75675-gra-0001-m.png",
+   "authors": "Yongliang Huang, \nChengyang Li, \nYu Ding, \nHaoran Wu, \nZhen Xu, \nYupeng Zhang, \nGan He, \nHaohua Huo",
+   "id": "10.1002/anie.9261601"
+  },
+  {
+   "title_zh": "Heck反应啃下大位阻烯烃",
+   "blurb": "三取代和四取代烯烃的分子间Heck反应从1970年代就是难题。研究者用简单PdCl2或Pd(OAc)2做预催化剂，不需要导向基，让芳基碘和芳基溴与位阻烯烃高效偶联。机理研究指向无膦的醋酸芳基钯物种，单体或桥连二聚体都可能是活性种。",
+   "tags": [
+    "Heck反应",
+    "钯催化",
+    "位阻烯烃"
+   ],
+   "field": "有机合成",
+   "title_en": "Aryl Palladium Acetates as Highly Active Species in Intermolecular Heck Reactions of Hindered Olefins",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17222",
+   "doi": "10.1021/jacs.6c17222",
+   "image": null,
+   "authors": "Jingyao Hu, Bo Xiao, Xiuhua Wang, Jianrong Steve Zhou",
+   "id": "10.1021/jacs.6c17222"
+  },
+  {
+   "title_zh": "RXFP1受体被两种激动剂分头激活",
+   "blurb": "松弛素受体RXFP1是抗纤维化和心衰的靶点，蛋白药和小分子药都在中段临床。研究者解了三个冷冻电镜结构：无配体、结合松弛素-2、结合小分子AZD5462。松弛素-2结合胞外域并让连接域变成螺旋，AZD5462则结合跨膜域，走另一套构象变化来稳定活性状态。",
+   "tags": [
+    "受体结构",
+    "冷冻电镜",
+    "药物发现"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Divergent activation of the RXFP1 relaxin receptor by protein and small-molecule agonists",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aei0135?af=R",
+   "doi": "10.1126/science.aei0135",
+   "image": null,
+   "authors": "James Osei-Owusu, Tristan Girbau, Xunan Wang, Jeffrey S. Smith, Pengxiang Shen, Sarah C. Erlandson, Amanda K. Williamson, Xiaojing Cong, Mark W. Grinstaff, Daniel E. Kahne, Cherine Bechara, Andrew C. ",
+   "id": "10.1126/science.aei0135"
+  },
+  {
+   "title_zh": "细菌造硫醇，最后一步靠tRNA",
+   "blurb": "杆菌硫醇（bacillithiol）是革兰氏阳性菌里重要的低分子量硫醇。研究者化学合成了它和糖骨架中间体，发现BshC酶需要来自翻译机器的半胱氨酰-tRNA来形成酰胺键。这可能是首个在核糖体蛋白合成之外，用tRNA活化羧酸完成酰胺键连接的酶。",
+   "tags": [
+    "化学生物学",
+    "tRNA",
+    "细菌硫醇"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Elucidation of the Final Step in the Biosynthesis of Bacillithiol Reveals tRNA-Dependent Ligation of Cysteine",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c22378",
+   "doi": "10.1021/jacs.6c22378",
+   "image": null,
+   "authors": "Houyuan Zhao, Hung-wen Liu",
+   "id": "10.1021/jacs.6c22378"
+  },
+  {
+   "title_zh": "糖基水凝胶越掰越结实",
+   "blurb": "大多数材料用久了会变弱，但华盛顿大学圣路易斯分校Chenfeng Ke团队做出一种聚合物，反复弯折后反而更强。摘要没给具体数字和机理，但“越用越强”这个反直觉现象本身就值得关注，尤其对软材料和可拉伸器件来说。",
+   "tags": [
+    "水凝胶",
+    "高分子",
+    "软物质"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-sugar-based-hydrogel.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-necklace-with-beads.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-sugar-based-hydrogel.html"
+  },
+  {
+   "title_zh": "Evonik用AI给化工厂省蒸汽",
+   "blurb": "Evonik报告用AI在化工厂减少6%的蒸汽用量，但完整节能效果还不确定。对化工行业来说，蒸汽是实打实的能耗大头，6%已经不小；不过摘要没给更多工艺细节，先当一条工程侧的风向看。",
+   "tags": [
+    "化学工程",
+    "AI节能",
+    "化工"
+   ],
+   "field": "化学工程",
+   "title_en": "Evonik uses AI to cut energy consumption at chemical plants",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/business/petrochemicals/evonik-ai-energy-consumption-chemical-plants-germany-belgium/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Evonik-uses-AI-to-cut-energy-consumption-at-chemical-plants---693690:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Sascha Brodsky, special to C&EN",
+   "id": "https://cen.acs.org/business/petrochemicals/evonik-ai-energy-consumption-chemical-plants-germany-belgium/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "石墨和钻石是亲戚",
+  "text": "石墨和金刚石都由碳组成，只是原子排列方式不同。石墨层内是sp2杂化，层间靠范德华力；金刚石是sp3杂化三维网络。所以铅笔芯和钻石在化学上是同一种元素，性格却差很远。"
+ },
+ "stats": {
+  "fetched": 2428,
+  "candidates": 90
+ },
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T13:37:52+08:00"
+}

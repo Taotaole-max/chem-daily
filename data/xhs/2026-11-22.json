@@ -1,0 +1,101 @@
+{
+ "title": "空气变尿素？今日化学圈整活",
+ "cover_title": "空气直接变尿素",
+ "cover_lines": [
+  "光催化两步串联",
+  "铜位点被钉住了",
+  "光镍联手不对称"
+ ],
+ "body": "今天翻完文献，感觉化学圈在偷偷点科技树。\n\n1️⃣ 空气里的二氧化碳和氮气，两步光催化直接串成尿素。离子液体修饰的MOF先抓CO2还原成CO，铜基共价有机框架再把CO和N2氧化来的NO偶联起来，产率259.87 µg·gcat−1·h−1，作者说这是头一回从大气里光催化合成尿素。（Advanced Materials）\n\n2️⃣ 铜催化CO2还原制乙烯时，活性位点总在负电位下重构。这次用非晶Nd2O3纳米结构钉在Cu2O界面，稳住欠配位铜位点，还把C–C偶联导向更省能量的路径。1.1 A cm−2下乙烯法拉第效率59.5%，1.5 A cm−2下部分电流密度762.5 mA cm−2。（Angewandte Chemie）\n\n3️⃣ 缺电子烯烃的不对称硅氢化一直难搞，化学、区域和对映选择性很难同时管住。光镍联手把Si–C成键和对映选择性决定步骤拆开，绕过消旋背景反应，底物范围宽，能克级放大，还能扩展到氢锗化。（Angewandte Chemie）\n\n4️⃣ 钙钛矿的软晶格让人又爱又恨。掺入刚性纳米金刚石，让晶界处弹性场重新分布、耗散，而不是在晶体内部堆积。0.09平方厘米器件认证效率27.6%，16.1平方厘米迷你组件24.3%，85°C最大功率点跑5000小时还剩80%初始效率。（Science）\n\n你们最近在做什么方向，有没有被哪个反直觉现象惊到？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "光催化",
+  "钙钛矿",
+  "电化学",
+  "有机合成",
+  "水凝胶"
+ ],
+ "id": "2026-11-22",
+ "kind": "daily",
+ "date": "2026-11-22",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月22日 周日",
+   "title": "空气直接变尿素",
+   "lines": [
+    "光催化两步串联",
+    "铜位点被钉住了",
+    "光镍联手不对称"
+   ],
+   "thumbs": [
+    "https://advanced.onlinelibrary.wiley.com/cms/asset/8452ad8a-06b0-430d-833f-bbca482b54d0/adma75407-gra-0001-m.png",
+    "https://onlinelibrary.wiley.com/cms/asset/ba77d070-eee3-4bc4-9e55-4e6cbff9a554/anie75820-gra-0001-m.png",
+    "https://onlinelibrary.wiley.com/cms/asset/4d437548-9870-4ac3-bb23-4d51ebfc102f/anie75675-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "催化",
+   "title": "空气变尿素，光催化两步走",
+   "text": "用两步串联光催化把大气里的CO2和N2直接变成尿素。离子液体修饰的MOF负责抓CO2并还原成CO，铜基共价有机框架（COF）把CO和N2氧化来的*NO偶联起来。尿素产率259.87 µg·gcat−1·h−1，作者称这是首次实现从大气CO2和N2光催化合成尿素。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Photocatalytic Tandem Reaction for Urea Synthesis From Atmospheric CO2 and N2",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/8452ad8a-06b0-430d-833f-bbca482b54d0/adma75407-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "氧化钕钉住铜，CO2变乙烯更稳",
+   "text": "铜催化CO2还原制乙烯时，活性位点容易在负电位下重构。研究者用非晶Nd2O3纳米结构钉在Cu2O界面，稳住欠配位铜位点，还把C–C偶联从CO–CO二聚导向更省能量的CO–CHO不对称路径。1.1 A cm−2下乙烯法拉第效率59.5%，1.5 A cm−2下部分电流密度达762.5 mA cm−2。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Steering C–C Coupling via Amorphous Nd2O3 Pinning for Efficient CO2 Electroreduction to Ethylene",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/ba77d070-eee3-4bc4-9e55-4e6cbff9a554/anie75820-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "有机合成",
+   "title": "光镍联手，给烯烃不对称硅氢化",
+   "text": "缺电子烯烃的不对称硅氢化一直难做，化学、区域和对映选择性很难同时管住。研究者用金属光氧化还原催化，把Si–C成键和对映选择性决定步骤拆开，绕过消旋背景反应。方法底物范围宽，能克级放大，还能扩展到氢锗化。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Enantioselective Radical Hydrosilylation of Electron‐Deficient Alkenes Enabled by Metallaphotoredox Catalysis",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/4d437548-9870-4ac3-bb23-4d51ebfc102f/anie75675-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "糖基水凝胶越掰越结实",
+   "text": "大多数材料用久了会变弱，但华盛顿大学圣路易斯分校Chenfeng Ke团队做出一种聚合物，反复弯折后反而更强。摘要没给具体数字和机理，但“越用越强”这个反直觉现象本身就值得关注，尤其对软材料和可拉伸器件来说。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-necklace-with-beads.jpg"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "材料化学",
+   "title": "纳米金刚石给钙钛矿上紧发条",
+   "text": "卤化物钙钛矿（halide perovskites）的软晶格既带来高性能，也让它不耐用。研究者把刚性纳米金刚石掺进去，让晶界处的弹性场重新分布、耗散，而不是在晶体内部堆积。0.09平方厘米器件认证效率27.6%，16.1平方厘米迷你组件24.3%，85°C最大功率点运行5000小时后保持80%初始效率。",
+   "source": "Science",
+   "kind": "paper",
+   "title_en": "Elastic-field reorganization stabilizes soft-lattice perovskites for durable solar cells",
+   "image": ""
+  }
+ ]
+}
