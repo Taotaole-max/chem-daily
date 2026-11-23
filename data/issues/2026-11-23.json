@@ -1,0 +1,195 @@
+{
+ "lead": "今天份的化学新闻：相对论来砸场子，锡烯来搞催化，还有CO₂变乙醇的新把戏。",
+ "items": [
+  {
+   "title_zh": "相对论：你化学课本得改改了",
+   "blurb": "布朗大学的研究者发现，爱因斯坦相对论会改变重原子形成三键的方式，让原本分得清的三键类型混在一起。这验证了几十年前的预测，也说明传统化学规则对铋这类重元素不太够用。",
+   "tags": [
+    "相对论",
+    "重元素",
+    "化学键"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Einstein’s relativity just upended a fundamental rule of chemistry",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/einstein-equations-gravity-spacetime.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm"
+  },
+  {
+   "title_zh": "两配位锡烯，配位越少反应越猛",
+   "blurb": "一个可分离的非环状两配位亚锡烯离子，同时具有强路易斯酸性和可及的孤对电子，能活化小分子。它实现了锡(II)/锡(IV)氧化还原催化，用于酮的硅氢化反应，还分离到了催化相关的锡烯-酮加合物。",
+   "tags": [
+    "主族催化",
+    "锡烯",
+    "氧化还原"
+   ],
+   "field": "无机与配位",
+   "title_en": "An Acyclic Two‐Coordinate Stannyliumylidene Enables SnII/SnIV Redox Catalysis",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4327543?af=R",
+   "doi": "10.1002/anie.4327543",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/9801a407-eafe-493d-b2c5-85f3db85f5ae/anie75808-gra-0001-m.png",
+   "authors": "Priyanka Chakraborty, \nDechuang Niu, \nArseni Kostenko, \nXufang Liu, \nTobias Weng, \nShigeyoshi Inoue",
+   "id": "10.1002/anie.4327543"
+  },
+  {
+   "title_zh": "铜气凝胶掺银镍，CO₂变乙醇更专一",
+   "blurb": "研究者设计了掺杂银和镍的铜金属气凝胶，银位点促进*CO生成，镍位点促进*OH产生，两者协同把C₂产物从乙烯转向乙醇。最终乙醇法拉第效率达到47.4%，乙醇/乙烯比为3.1。",
+   "tags": [
+    "CO₂电还原",
+    "乙醇",
+    "铜气凝胶"
+   ],
+   "field": "催化",
+   "title_en": "Cu Aerogel Doped with Dual-Functional AgNi Sites Enables Selective CO2 Electroreduction to Ethanol via Boosted *CO and *OH Generation",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16351",
+   "doi": "10.1021/jacs.6c16351",
+   "image": null,
+   "authors": "Haohao Duan, Mengqian Li, Yuan Wang, Qingxia Chen, Zhijie Wang, Wenya Fan",
+   "id": "10.1021/jacs.6c16351"
+  },
+  {
+   "title_zh": "钌铁双单原子，甲烷变甲酸更可控",
+   "blurb": "在ZSM-5分子筛中，孤立的Ru和Fe单原子分工合作：Fe活化甲烷生成甲基自由基，Ru活化H₂O₂并缓冲羟基自由基。这种策略把含氧产物产率提高到Fe/ZSM-5的2.2倍，甲酸选择性达92.3%。",
+   "tags": [
+    "甲烷氧化",
+    "单原子催化",
+    "甲酸"
+   ],
+   "field": "催化",
+   "title_en": "Radical Buffering by Isolated Ru and Fe Sites in ZSM‐5 for Selective Methane Oxidation to Formic Acid",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4792783?af=R",
+   "doi": "10.1002/anie.4792783",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/a38b9d15-3705-4068-9016-90e69677879a/anie75743-gra-0001-m.png",
+   "authors": "Bo Liu, \nYang Tang, \nHongyue Pan, \nZemin An, \nYuanjie Xu, \nLizhi Wu, \nLi Tan, \nXupeng Zong, \nYihu Dai, \nJiabin Chen, \nZailai Xie, \nYu Tang",
+   "id": "10.1002/anie.4792783"
+  },
+  {
+   "title_zh": "机器学习帮钛合金长出10纳米细结构",
+   "blurb": "通过机器学习指导设计增材制造的钛合金，利用可控马氏体相变获得10纳米级的超细结构，实现了超过1.7 GPa的极限抗拉强度和7.5%的均匀延伸率。",
+   "tags": [
+    "钛合金",
+    "增材制造",
+    "机器学习"
+   ],
+   "field": "材料化学",
+   "title_en": "Nanostructures strengthen titanium alloys",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02801-5",
+   "doi": "10.1038/s41563-026-02801-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02801-5/MediaObjects/41563_2026_2801_Fig1_HTML.png",
+   "authors": "Jianwen Liu, Aijun Huang",
+   "id": "10.1038/s41563-026-02801-5"
+  },
+  {
+   "title_zh": "自由基COF让锌碘电池循环十万次",
+   "blurb": "研究者把TTF给体和NDI受体整合到共价有机框架（COF）中，形成分子结。TTF•+和NDI产生强局部静电势，驱动不对称碘转化路径，抑制多碘化物穿梭。优化后的阴极在1 A g⁻¹下比容量228.7 mAh g⁻¹，循环超过100,000次。",
+   "tags": [
+    "锌碘电池",
+    "共价有机框架",
+    "自由基"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Radical Molecular-Junction Covalent Organic Framework for Asymmetric Iodide Conversion: 100,000 Cycles in Zn-Iodine Batteries",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c20563",
+   "doi": "10.1021/jacs.6c20563",
+   "image": null,
+   "authors": "Liqi Bai, Ke Fan, Si-Miao Wang, Long-Zhang Dong, Hai-Ting Li, Chao Chen",
+   "id": "10.1021/jacs.6c20563"
+  },
+  {
+   "title_zh": "CO₂和环硅烷、环氧化物三元共聚，序列可控还可回收",
+   "blurb": "催化CO₂、环硅烷和环氧化物的交替三元聚合，利用Si─O键形成的热力学驱动力，得到A-B-C序列精确的聚(硅醚-酯)。这类聚合物热稳定性好，中性水中稳定，但在酸碱条件下可降解，温和催化下可解聚回收单体。",
+   "tags": [
+    "CO₂共聚",
+    "可回收聚合物",
+    "序列可控"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Alternating Terpolymerization of CO2 With Cyclosilanes and Epoxides to A‐B‐C‐Sequenced Recyclable Poly(silyl ether–ester)",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4655243?af=R",
+   "doi": "10.1002/anie.4655243",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/ee2b7e76-f47b-4640-94e1-2188d7d6379b/anie75764-gra-0001-m.png",
+   "authors": "Min Zhu, \nXavier Westworth, \nYingluo Zhao, \nEugene Y.‐X. Chen",
+   "id": "10.1002/anie.4655243"
+  },
+  {
+   "title_zh": "FAU分子筛双阳离子，把乙炔抓到ppm级",
+   "blurb": "Ni-Ba-Y吸附剂通过Ba²⁺调节配位不饱和的Ni²⁺中心，增强对乙炔的π反馈键，在500–10,000 ppm乙炔浓度下动态吸附量0.37–0.82 mmol·g⁻¹，乙炔/乙烯选择性超过100。过程模拟显示乙烯时空产率提高200倍以上，能耗降低44%以上。",
+   "tags": [
+    "乙炔捕获",
+    "分子筛",
+    "气体分离"
+   ],
+   "field": "分析化学",
+   "title_en": "Extraframework Cations Promoted Ultratrace Acetylene Capture by Coordinatively Unsaturated Nickel Sites in FAU Zeolites",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c17503",
+   "doi": "10.1021/jacs.6c17503",
+   "image": null,
+   "authors": "Jian Wang, Jiarui Fan, Bin Yue, Bin Qin, Shanshan Liu, Yuchao Chai",
+   "id": "10.1021/jacs.6c17503"
+  },
+  {
+   "title_zh": "病毒衣壳组装怎么被小分子带偏的",
+   "blurb": "研究者用动力学蒙特卡洛模型模拟乙肝病毒衣壳组装，模型参数来自全原子模拟，能重现衣壳组装调节剂（CAM）对组装产物分布的影响。分析组装轨迹后，他们厘清了热力学和动力学在决定产物中的作用，并预测了通向正常衣壳或畸形结构的关键中间体。",
+   "tags": [
+    "病毒衣壳",
+    "动力学蒙特卡洛",
+    "抗病毒"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Multiscale Modeling of Virus Capsid Self-Assembly Reveals How Small Molecule Antivirals Can Redirect Assembly Pathways and Products",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c12725",
+   "doi": "10.1021/jacs.6c12725",
+   "image": null,
+   "authors": "Layne B. Frechette, Smriti Pradhan, Farzaneh Mohajerani, Carolina Pérez-Segura, Jodi A. Hadden-Perilla, Adam Zlotnick",
+   "id": "10.1021/jacs.6c12725"
+  },
+  {
+   "title_zh": "木质素加硬脂酸，植物灵感防水涂层",
+   "blurb": "一种可生物降解的纳米颗粒，把木质素和硬脂酸结合起来，做出疏水涂层，有望替代某些PFAS涂层。",
+   "tags": [
+    "PFAS替代",
+    "木质素",
+    "疏水涂层"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Plant-inspired material could replace certain PFAS coatings",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/materials/biobased-materials/pfas-coatings-biodegradable-nanoparticles-lignin-stearic-acid/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": null,
+   "authors": "Helen Albert, special to C&EN",
+   "id": "https://cen.acs.org/materials/biobased-materials/pfas-coatings-biodegradable-nanoparticles-lignin-stearic-acid/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "惰性气体其实不惰",
+  "text": "氙气能与氟气反应生成二氟化氙，氪也能形成二氟化氪。所谓惰性气体只是反应性低，并非绝对不反应。"
+ },
+ "stats": {
+  "fetched": 2485,
+  "candidates": 90
+ },
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T14:19:13+08:00"
+}

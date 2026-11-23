@@ -1,0 +1,89 @@
+{
+ "title": "课本要改？相对论影响化学键",
+ "cover_title": "相对论改了化学键",
+ "cover_lines": [
+  "重原子三键类型混了",
+  "钛合金10纳米超细结构",
+  "CO₂三元共聚可回收"
+ ],
+ "body": "听说化学课本要改？布朗大学的研究者发现，爱因斯坦相对论会改变重原子形成三键的方式，让原本分得清的三键类型混在一起。这验证了几十年前的预测，也说明传统化学规则对铋这类重元素不太够用。（ScienceDaily）\n\n1️⃣ 机器学习帮钛合金长出10纳米细结构。通过机器学习指导设计增材制造的钛合金，利用可控马氏体相变获得10纳米级的超细结构，实现了超过1.7 GPa的极限抗拉强度和7.5%的均匀延伸率。（Nature Materials）\n\n2️⃣ CO₂和环硅烷、环氧化物三元共聚，序列可控还可回收。催化CO₂、环硅烷和环氧化物的交替三元聚合，利用Si─O键形成的热力学驱动力，得到A-B-C序列精确的聚(硅醚-酯)。这类聚合物热稳定性好，中性水中稳定，但在酸碱条件下可降解，温和催化下可解聚回收单体。（Angewandte Chemie）\n\n3️⃣ 铜气凝胶掺银镍，CO₂变乙醇更专一。研究者设计了掺杂银和镍的铜金属气凝胶，银位点促进*CO生成，镍位点促进*OH产生，两者协同把C₂产物从乙烯转向乙醇。最终乙醇法拉第效率达到47.4%，乙醇/乙烯比为3.1。（JACS）\n\n你最近在做什么方向？评论区聊聊。",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "催化",
+  "CO2还原",
+  "钛合金",
+  "相对论",
+  "高分子"
+ ],
+ "id": "2026-11-23",
+ "kind": "daily",
+ "date": "2026-11-23",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月23日 周一",
+   "title": "相对论改了化学键",
+   "lines": [
+    "重原子三键类型混了",
+    "钛合金10纳米超细结构",
+    "CO₂三元共聚可回收"
+   ],
+   "thumbs": [
+    "https://www.sciencedaily.com/images/1920/einstein-equations-gravity-spacetime.webp",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02801-5/MediaObjects/41563_2026_2801_Fig1_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/ee2b7e76-f47b-4640-94e1-2188d7d6379b/anie75764-gra-0001-m.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 4,
+   "field": "物理化学与光谱",
+   "title": "相对论：你化学课本得改改了",
+   "text": "布朗大学的研究者发现，爱因斯坦相对论会改变重原子形成三键的方式，让原本分得清的三键类型混在一起。这验证了几十年前的预测，也说明传统化学规则对铋这类重元素不太够用。",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "title_en": "Einstein’s relativity just upended a fundamental rule of chemistry",
+   "image": "https://www.sciencedaily.com/images/1920/einstein-equations-gravity-spacetime.webp"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 4,
+   "field": "材料化学",
+   "title": "机器学习帮钛合金长出10纳米细结构",
+   "text": "通过机器学习指导设计增材制造的钛合金，利用可控马氏体相变获得10纳米级的超细结构，实现了超过1.7 GPa的极限抗拉强度和7.5%的均匀延伸率。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Nanostructures strengthen titanium alloys",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02801-5/MediaObjects/41563_2026_2801_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 4,
+   "field": "高分子与软物质",
+   "title": "CO₂和环硅烷、环氧化物三元共聚，序列可控还可回收",
+   "text": "催化CO₂、环硅烷和环氧化物的交替三元聚合，利用Si─O键形成的热力学驱动力，得到A-B-C序列精确的聚(硅醚-酯)。这类聚合物热稳定性好，中性水中稳定，但在酸碱条件下可降解，温和催化下可解聚回收单体。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Alternating Terpolymerization of CO2 With Cyclosilanes and Epoxides to A‐B‐C‐Sequenced Recyclable Poly(silyl ether–ester)",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/ee2b7e76-f47b-4640-94e1-2188d7d6379b/anie75764-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 4,
+   "field": "催化",
+   "title": "铜气凝胶掺银镍，CO₂变乙醇更专一",
+   "text": "研究者设计了掺杂银和镍的铜金属气凝胶，银位点促进*CO生成，镍位点促进*OH产生，两者协同把C₂产物从乙烯转向乙醇。最终乙醇法拉第效率达到47.4%，乙醇/乙烯比为3.1。",
+   "source": "JACS",
+   "kind": "paper",
+   "title_en": "Cu Aerogel Doped with Dual-Functional AgNi Sites Enables Selective CO2 Electroreduction to Ethanol via Boosted *CO and *OH Generation",
+   "image": ""
+  }
+ ]
+}
