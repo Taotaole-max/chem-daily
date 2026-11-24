@@ -1,0 +1,101 @@
+{
+ "title": "光酶逼出反式电环化｜今日化学",
+ "cover_title": "人工光酶逼出反式电环化",
+ "cover_lines": [
+  "Taxol 全合成路径拼全",
+  "蛋盒界面让固态电池少长空洞",
+  "立方烷里塞进一个氮"
+ ],
+ "body": "今天刷到几个挺带劲的活儿，从酶催化到固态电池都有。\n\n1️⃣ 人工光酶逼出反式电环化：研究者用定向进化搞出一个人工光酶，把丙烯酰苯胺底物预先摆成特定构象，实现高选择性的 6π-电环化，而且走的是反式路径。酶催化电环化本来少得可怜，这回算是把“结构决定选择性”玩明白了。（Nature Chemistry）\n\n2️⃣ Taxol 生物合成路线终于拼全：抗癌药 Taxol 在红豆杉里天然生成，但它的生物合成路径复杂得让科学家啃了几十年。C&EN 报道说完整路径终于被解析清楚，这对以后靠发酵或异源表达来生产应该是个大新闻。（C&EN）\n\n3️⃣ 蛋盒界面让固态电池少长空洞：锂金属固态电池放电时界面容易长空洞，作者把锂/陶瓷电解质界面做成蛋盒状起伏，空洞阈值提高了一个数量级，还能跑出接近实际电动车的放电曲线而不极化。形状工程又赢一局。（Nature Energy）\n\n4️⃣ 立方烷里塞进一个氮：化学家搞出了一种简洁的合成方法，把氮原子嵌进立方烷骨架，得到含氮的 3D 分子。这种立体结构在药物开发里挺有想象空间，毕竟碳骨架换杂原子经常能改出意想不到的性质。（C&EN）\n\n5️⃣ 退磁手性声子给热流装开关：在铁磁 [Co/Pt] 和多层手性 α-SiO2 的异质结里，退磁驱动的 chiral phonon 能选择性地传热：声子手性和晶体手性匹配就增强，反了就抑制。室温热开关比到 1.07，50 K 时约 1.2，手性热二极管有点意思。（Advanced Materials）\n\n大家最近在做什么方向，有没有被哪个条目戳中？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "化学生物学",
+  "固态电池",
+  "有机合成",
+  "催化",
+  "文献分享"
+ ],
+ "id": "2026-11-24",
+ "kind": "daily",
+ "date": "2026-11-24",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月24日 周二",
+   "title": "人工光酶逼出反式电环化",
+   "lines": [
+    "Taxol 全合成路径拼全",
+    "蛋盒界面让固态电池少长空洞",
+    "立方烷里塞进一个氮"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02297-1/MediaObjects/41557_2026_2297_Figa_HTML.png",
+    "https://s7d1.scene7.com/is/image/CENODS/Complete-paclitaxel-pathway-in-tobacco---693548:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02172-w/MediaObjects/41560_2026_2172_Fig1_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "人工光酶逼出反式电环化",
+   "text": "研究者用定向进化搞出一个人工光酶，能把丙烯酰苯胺底物预先摆成特定构象，实现高选择性的 6π-电环化，而且走的是反式（antarafacial）路径。酶催化电环化本来少得可怜，这回算是把“结构决定选择性”玩明白了。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "An artificial photoenzyme constrains substrates for selective antarafacial electrocyclizations",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02297-1/MediaObjects/41557_2026_2297_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "Taxol 生物合成路线终于拼全",
+   "text": "抗癌药 Taxol 在红豆杉里天然生成，但它的生物合成路径复杂得让科学家啃了几十年。C&EN 报道说完整路径终于被解析清楚，这对以后靠发酵或异源表达来生产应该是个大新闻。",
+   "source": "C&EN",
+   "kind": "news",
+   "title_en": "Complete biosynthetic pathway of Taxol finally resolved",
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Complete-paclitaxel-pathway-in-tobacco---693548:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "蛋盒界面让固态电池少长空洞",
+   "text": "锂金属固态电池放电时界面容易长空洞，作者把锂/陶瓷电解质界面做成蛋盒状起伏，空洞阈值提高了一个数量级，还能跑出接近实际电动车的放电曲线而不极化。形状工程又赢一局。",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "title_en": "Contouring mitigates voiding at the lithium/ceramic electrolyte interface on discharging solid-state batteries",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02172-w/MediaObjects/41560_2026_2172_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "有机合成",
+   "title": "立方烷里塞进一个氮",
+   "text": "化学家搞出了一种简洁的合成方法，把氮原子嵌进立方烷骨架，得到含氮的 3D 分子。这种立体结构在药物开发里挺有想象空间，毕竟碳骨架换杂原子经常能改出意想不到的性质。",
+   "source": "C&EN",
+   "kind": "news",
+   "title_en": "Chemists put the N in cubane",
+   "image": "https://s7d1.scene7.com/is/image/CENODS/azahomocubane16x9:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "退磁手性声子给热流装开关",
+   "text": "在铁磁 [Co/Pt] 和多层手性 α-SiO2 的异质结里，退磁驱动的 chiral phonon 能选择性地传热：声子手性和晶体手性匹配就增强，反了就抑制。室温热开关比到 1.07，50 K 时约 1.2，手性热二极管有点意思。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Demagnetization‐Driven Nanoscale Chirality‐Selective Phonon Transport",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/67e058da-b342-4a0e-82d8-16316f96832e/adma75346-gra-0001-m.png"
+  }
+ ]
+}

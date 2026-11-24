@@ -1,0 +1,195 @@
+{
+ "lead": "今天有光酶、固态电池和一堆催化新活，Taxol 的全合成路线也终于拼齐了。",
+ "items": [
+  {
+   "title_zh": "人工光酶逼出反式电环化",
+   "blurb": "研究者用定向进化搞出一个人工光酶，能把丙烯酰苯胺底物预先摆成特定构象，实现高选择性的 6π-电环化，而且走的是反式（antarafacial）路径。酶催化电环化本来少得可怜，这回算是把“结构决定选择性”玩明白了。",
+   "tags": [
+    "光酶",
+    "电环化",
+    "定向进化"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "An artificial photoenzyme constrains substrates for selective antarafacial electrocyclizations",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02297-1",
+   "doi": "10.1038/s41557-026-02297-1",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02297-1/MediaObjects/41557_2026_2297_Figa_HTML.png",
+   "authors": "Jonathan S. Trimble, Jordan Berreur, Anna R. Kohn, Rebecca Crawshaw, Linus O. Johannissen, Mary Ortmayer, Colin W. Levy, Derren J. Heyes, Sam Hay, Anthony P. Green",
+   "id": "10.1038/s41557-026-02297-1"
+  },
+  {
+   "title_zh": "蛋盒界面让固态电池少长空洞",
+   "blurb": "锂金属固态电池放电时界面容易长空洞，作者把锂/陶瓷电解质界面做成蛋盒状起伏，空洞阈值提高了一个数量级，还能跑出接近实际电动车的放电曲线而不极化。形状工程又赢一局。",
+   "tags": [
+    "固态电池",
+    "锂金属",
+    "界面工程"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Contouring mitigates voiding at the lithium/ceramic electrolyte interface on discharging solid-state batteries",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02172-w",
+   "doi": "10.1038/s41560-026-02172-w",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02172-w/MediaObjects/41560_2026_2172_Fig1_HTML.png",
+   "authors": "Shengming Zhang, Bingkun Hu, Dominic L. R. Melvin, Dominic Spencer-Jolly, Xiangwen Gao, Longlong Wang, Lechen Yang, Charles W. Monroe, Peter G. Bruce",
+   "id": "10.1038/s41560-026-02172-w"
+  },
+  {
+   "title_zh": "Cu2+/Cu0 联手，CO2 变正丙醇",
+   "blurb": "CO2 电还原到正丙醇卡在 *C2–*C1 偶联这一步，作者在 Janus Cu2+/Cu0 催化剂上走通了少见的 *CH–*CHO 偶联路径，正丙醇法拉第效率做到 18.1%。原位红外和 DFT 都来站台，路径算是有了实锤。",
+   "tags": [
+    "CO2 还原",
+    "C–C 偶联",
+    "铜催化剂"
+   ],
+   "field": "催化",
+   "title_en": "Elusive *CH–*CHO Coupling Pathway for High-Performance CO2 Electroreduction to n-Propanol",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c15732",
+   "doi": "10.1021/jacs.6c15732",
+   "image": null,
+   "authors": "Chenchen Fang, Xiaoyuan Zhang, Jinghong Wang, Liming Dai, Yaya Wang, Hua Wen",
+   "id": "10.1021/jacs.6c15732"
+  },
+  {
+   "title_zh": "界面氧化还原把碘和铅拉回来",
+   "blurb": "宽禁带钙钛矿里碘离子乱跑会引发相分离，作者用 4-羧基苯硫酚和空穴选择分子共吸附，在埋底界面搭了个氧化还原 shuttle，把 I2 和 Pb0 转回卤化物。1.79 eV 子电池效率 21.02%，65°C 下 T90 超过 800 小时。",
+   "tags": [
+    "钙钛矿",
+    "界面钝化",
+    "叠层电池"
+   ],
+   "field": "材料化学",
+   "title_en": "Interfacial redox mediation enables efficient, stable wide-bandgap perovskites for perovskite-organic tandem solar cells",
+   "source": "Joule",
+   "kind": "paper",
+   "link": "https://www.cell.com/joule/fulltext/S2542-4351(26)00398-3?rss=yes",
+   "doi": "10.1016/j.joule.2026.102714",
+   "image": null,
+   "authors": "Fanbo Feng, Lingchen Kong, Yiming Yang, Xiaofeng Huang, Kai-Kai Liu, Mingqian Chen, Alex K.-Y. Jen",
+   "id": "10.1016/j.joule.2026.102714"
+  },
+  {
+   "title_zh": "Taxol 生物合成路线终于拼全",
+   "blurb": "抗癌药 Taxol 在红豆杉里天然生成，但它的生物合成路径复杂得让科学家啃了几十年。C&EN 报道说完整路径终于被解析清楚，这对以后靠发酵或异源表达来生产应该是个大新闻。",
+   "tags": [
+    "紫杉醇",
+    "生物合成",
+    "天然产物"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Complete biosynthetic pathway of Taxol finally resolved",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/biological-chemistry/cancer/Complete-biosynthetic-pathway-Taxol-finally/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/Complete-paclitaxel-pathway-in-tobacco---693548:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Max Barnhart",
+   "id": "https://cen.acs.org/biological-chemistry/cancer/Complete-biosynthetic-pathway-Taxol-finally/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "立方烷里塞进一个氮",
+   "blurb": "化学家搞出了一种简洁的合成方法，把氮原子嵌进立方烷骨架，得到含氮的 3D 分子。这种立体结构在药物开发里挺有想象空间，毕竟碳骨架换杂原子经常能改出意想不到的性质。",
+   "tags": [
+    "立方烷",
+    "含氮杂环",
+    "合成方法"
+   ],
+   "field": "有机合成",
+   "title_en": "Chemists put the N in cubane",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/synthesis/chemists-put-nitrogen-in-cubanes/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/azahomocubane16x9:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Victoria Corless, special to C&EN",
+   "id": "https://cen.acs.org/synthesis/chemists-put-nitrogen-in-cubanes/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
+   "title_zh": "退磁手性声子给热流装开关",
+   "blurb": "在铁磁 [Co/Pt] 和多层手性 α-SiO2 的异质结里，退磁驱动的 chiral phonon 能选择性地传热：声子手性和晶体手性匹配就增强，反了就抑制。室温热开关比到 1.07，50 K 时约 1.2，手性热二极管有点意思。",
+   "tags": [
+    "手性声子",
+    "热输运",
+    "自旋电子学"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Demagnetization‐Driven Nanoscale Chirality‐Selective Phonon Transport",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75346?af=R",
+   "doi": "10.1002/adma.75346",
+   "image": "https://advanced.onlinelibrary.wiley.com/cms/asset/67e058da-b342-4a0e-82d8-16316f96832e/adma75346-gra-0001-m.png",
+   "authors": "In Hyeok Choi, \nDaeheon Kim, \nYeon Jong Jin, \nSeungmo Yang, \nTae‐Seong Ju, \nChangsoo Kim, \nChanyong Hwang, \nDongbin Shin, \nJong Seok Lee",
+   "id": "10.1002/adma.75346"
+  },
+  {
+   "title_zh": "限域让 CO 和硝酸根直接合成肟",
+   "blurb": "把超小铜纳米颗粒塞进 SBA-15 介孔里，让慢的 C–C 二聚和快的硝酸根还原在动力学上匹配，走通 C–N 偶联直接电合成乙醛肟。产率 255.1 mmol gcat.−1 h−1，法拉第效率 8.2%，碳氮废物一起升级利用。",
+   "tags": [
+    "电催化",
+    "C–N 偶联",
+    "限域效应"
+   ],
+   "field": "催化",
+   "title_en": "Confinement Enables Direct Electrosynthesis of Acetaldoxime From CO and Nitrate",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.3995081?af=R",
+   "doi": "10.1002/anie.3995081",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/4dd96fda-bc9b-43df-9929-f7f01f9cff8f/anie75778-gra-0001-m.png",
+   "authors": "Rongxing Qiu, \nJiaran Li, \nKe Chen, \nDan Wu, \nPeng Qiu, \nSiyu Yang, \nQiuhong Min, \nZhuo Wang, \nLong Liao, \nZixi Huang, \nJian Jin, \nChundong Wang, \nYuanjie Pang",
+   "id": "10.1002/anie.3995081"
+  },
+  {
+   "title_zh": "向导 DNA 让酶直接读双链 ctDNA",
+   "blurb": "用化学修饰的向导 DNA 编程 λ 核酸外切酶，在室温下直接处理天然双链 ctDNA，不用变性也不用扩增。接上 DNAzyme 和单分子荧光读出，能测到 10 fM，还能识别 EGFR L858R 突变。",
+   "tags": [
+    "ctDNA 检测",
+    "向导 DNA",
+    "单分子荧光"
+   ],
+   "field": "分析化学",
+   "title_en": "Guide DNAs Program Enzyme for Detection of Circulating Tumor DNA Without Target Denaturation and Amplification",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4701250?af=R",
+   "doi": "10.1002/anie.4701250",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/6738568a-29a3-4b75-ad9d-4df2667e0973/anie75822-gra-0001-m.png",
+   "authors": "Xinmiao Kang, \nQinze Rong, \nYifan Bo, \nXin Li, \nLiang Ma, \nShihui Wang, \nXin Su",
+   "id": "10.1002/anie.4701250"
+  },
+  {
+   "title_zh": "催化剂颗粒覆盖度变量被拆开",
+   "blurb": "C&EN 报道了一个研究，提出策略把催化剂颗粒覆盖度的影响和其他变量解耦，顺便给塑料分解的催化过程提供了新 insight。做多相催化的人应该会想看看他们怎么拆的。",
+   "tags": [
+    "多相催化",
+    "覆盖度",
+    "塑料降解"
+   ],
+   "field": "催化",
+   "title_en": "Catalyst particle coverage effects deconvoluted",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/physical-chemistry/surface-chemistry/ruthenium-catalyst-particle-surface-coverage-effects-disentangled-for-plastic-breakdown/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/News--Catalyst-particle-density-effects-detangled---689156:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Sydney Smith",
+   "id": "https://cen.acs.org/physical-chemistry/surface-chemistry/ruthenium-catalyst-particle-surface-coverage-effects-disentangled-for-plastic-breakdown/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "液氧其实能被磁铁吸住",
+  "text": "氧气分子有两个未成对电子，是顺磁性的。把液氧倒在强磁铁两极之间，它会黏在那里不走，像蓝色的小舌头。这也是中学演示顺磁性最直观的实验之一。"
+ },
+ "stats": {
+  "fetched": 2401,
+  "candidates": 90
+ },
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T16:54:10+08:00"
+}
