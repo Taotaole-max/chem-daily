@@ -1,0 +1,102 @@
+{
+ "title": "蚊子为啥专咬你？分子层面有答案🦟",
+ "cover_title": "汗里的酸如何打开蚊子离子通道",
+ "cover_lines": [
+  "蚊子受体结合皮肤酸性物质",
+  "非卤溶剂有机太阳能电池20.35",
+  "单原子编辑合成硼杂环新骨架"
+ ],
+ "body": "夏天快到了，蚊子为什么总盯着你不放？今天这篇 Nature 从分子层面给了个解释。\n\n1️⃣ 研究解析了蚊子受体结合人皮肤酸性物质的结构，这些信息或许能启发新策略，用来阻断携带疟疾的蚊子对人体的吸引。夏天少挨咬，可能要从分子层面下手。（Nature）\n\n2️⃣ 有机太阳能电池这边，研究者通过调节柔性连接链和不对称端基，合成了双不对称巨分子受体 ADY8T-FCl。在邻二甲苯/二硫化碳非卤溶剂中，二元器件效率达到 20.35%，三元器件更是冲到 20.82%，柔性二元器件也有 18.4%。非卤溶剂能做到这个数，离实用更近了一步。（Advanced Materials）\n\n3️⃣ 有机合成玩起了骨架编辑：研究者通过苯并硼杂环丁烯与硼碳双自由基的可逆互变，模块化合成了三类苯并硫族硼杂环骨架，还测试了部分化合物的铁死亡抑制活性。这种思路为快速拓展类药化学空间提供了新招。（Nature Chemistry）\n\n4️⃣ 酸性电解水一直怕钌溶解，这次在二氧化锰载体上原子级分散的 Ru–O–Cr 基元有效抑制了氧化导致的钌流失。贵金属用得少一点、撑得久一点，析氧反应催化剂的耐久性就这么上来了。（Nature Materials）\n\n5️⃣ 液晶不光能显示图像，还能当存储介质。研究者用光图案化取向层制造周期性涡旋阵列，用来钉扎液晶中的缺陷线，这些拓扑缺陷线可以通过光学操控重排成大量状态，从而存储信息。把信息编进涡旋阵列，有点意思。（Nature Materials）\n\n你最近在做什么方向？评论区聊聊，说不定能蹲到同方向的。",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "有机合成",
+  "电催化",
+  "太阳能电池",
+  "液晶",
+  "化学生物学",
+  "文献分享"
+ ],
+ "id": "2026-11-25",
+ "kind": "daily",
+ "date": "2026-11-25",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月25日 周三",
+   "title": "汗里的酸如何打开蚊子离子通道",
+   "lines": [
+    "蚊子受体结合皮肤酸性物质",
+    "非卤溶剂有机太阳能电池20.35",
+    "单原子编辑合成硼杂环新骨架"
+   ],
+   "thumbs": [
+    "https://media.nature.com/lw1200/magazine-assets/d41586-026-03381-9/d41586-026-03381-9_54003454.jpg",
+    "https://onlinelibrary.wiley.com/cms/asset/1d438e3d-80d4-4e99-9a9a-58fd491fe605/adma75666-gra-0001-m.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02301-8/MediaObjects/41557_2026_2301_Figa_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "汗里的酸如何打开蚊子离子通道",
+   "text": "研究解析了蚊子受体结合人皮肤酸性物质的结构。这些结构信息或许能启发新策略，用来阻断携带疟疾的蚊子对人体的吸引。夏天少挨咬，可能要从分子层面下手。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "How acidic compounds in human sweat open a mosquito ion channel",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03381-9/d41586-026-03381-9_54003454.jpg"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "材料化学",
+   "title": "双不对称巨分子受体：非卤溶剂也能20.35%",
+   "text": "通过调节柔性连接链和不对称端基，研究者合成了双不对称巨分子受体ADY8T-FCl。在邻二甲苯/二硫化碳非卤溶剂中，二元有机太阳能电池（OSC）效率达到20.35%，三元器件更是冲到20.82%，柔性二元器件也有18.4%。",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "title_en": "Dual‐Asymmetric Giant Molecule Acceptors Featuring Asymmetric Terminals and Flexible Alkyl‐Flank Architecture for Efficient and Robust Non‐Halogen Solvent‐Processed Binary and Ternary Organic Solar Cells",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/1d438e3d-80d4-4e99-9a9a-58fd491fe605/adma75666-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "有机合成",
+   "title": "单原子编辑：硼环变身苯并硫族硼杂环",
+   "text": "研究者通过苯并硼杂环丁烯与硼碳双自由基的可逆互变（他们叫“双自由基储库”过程），模块化地合成了三类苯并硫族硼杂环骨架，并测试了部分化合物的铁死亡抑制活性。这种骨架编辑思路为快速拓展类药化学空间提供了新招。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Construction of benzochalcogenaboroles via single-atom editing of boracycles",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02301-8/MediaObjects/41557_2026_2301_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "把钌和铬放近点，酸性电解水更耐用",
+   "text": "在MnO2载体上原子级分散的Ru–O–Cr基元，能有效抑制氧化导致的钌溶解。这种邻近单原子设计提升了酸性电解水析氧反应（OER）催化剂的耐久性，让贵金属用得少一点、撑得久一点。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Proximal single atoms for stable electrocatalysts",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02796-z/MediaObjects/41563_2026_2796_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "液晶拓扑缺陷刺绣：把信息编进涡旋阵列",
+   "text": "研究者用光图案化取向层制造周期性涡旋阵列，用来钉扎液晶中的缺陷线。这些拓扑缺陷线可以通过光学操控重排成大量状态，从而存储信息。液晶不光能显示图像，还能当存储介质。",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "title_en": "Encoding information into an embroidery of topological defects in liquid crystals",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02798-x/MediaObjects/41563_2026_2798_Fig1_HTML.png"
+  }
+ ]
+}

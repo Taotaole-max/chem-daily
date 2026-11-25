@@ -1,0 +1,195 @@
+{
+ "lead": "今天化学界有点忙：蚊子为啥爱咬人、塑料太阳电池破纪录，还有用声波造双氧水。",
+ "items": [
+  {
+   "title_zh": "单原子编辑：硼环变身苯并硫族硼杂环",
+   "blurb": "研究者通过苯并硼杂环丁烯与硼碳双自由基的可逆互变（他们叫“双自由基储库”过程），模块化地合成了三类苯并硫族硼杂环骨架，并测试了部分化合物的铁死亡抑制活性。这种骨架编辑思路为快速拓展类药化学空间提供了新招。",
+   "tags": [
+    "有机合成",
+    "骨架编辑",
+    "双自由基"
+   ],
+   "field": "有机合成",
+   "title_en": "Construction of benzochalcogenaboroles via single-atom editing of boracycles",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02301-8",
+   "doi": "10.1038/s41557-026-02301-8",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02301-8/MediaObjects/41557_2026_2301_Figa_HTML.png",
+   "authors": "Xinmou Wang, Chanin Sillapachaiyaporn, Peiqi Zhang, Zhiyi Yang, Chao Li, Yinghe Xu, Tengteng Chen, Zhenyang Lin, Billy Wai-Lung Ng, Yangjian Quan",
+   "id": "10.1038/s41557-026-02301-8"
+  },
+  {
+   "title_zh": "钴催化电化学：给磷自由基找个好归宿",
+   "blurb": "控制磷酰自由基的立体化学一直很难。现在，钴介导的电催化策略实现了高对映选择性的C–P键构建，能得到多种含P(V)手性中心的化合物。这为不对称电合成补上了一块重要拼图。",
+   "tags": [
+    "电催化",
+    "不对称合成",
+    "有机磷"
+   ],
+   "field": "催化",
+   "title_en": "Chiral cobalt-catalysed electrochemical enantioselective C–P coupling via phosphinoyl radicals",
+   "source": "Nature Catalysis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41929-026-01643-3",
+   "doi": "10.1038/s41929-026-01643-3",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41929-026-01643-3/MediaObjects/41929_2026_1643_Figa_HTML.png",
+   "authors": "Hongyi Wang, Minghao Liu, Chang Guo",
+   "id": "10.1038/s41929-026-01643-3"
+  },
+  {
+   "title_zh": "把钌和铬放近点，酸性电解水更耐用",
+   "blurb": "在MnO2载体上原子级分散的Ru–O–Cr基元，能有效抑制氧化导致的钌溶解。这种邻近单原子设计提升了酸性电解水析氧反应（OER）催化剂的耐久性，让贵金属用得少一点、撑得久一点。",
+   "tags": [
+    "单原子催化",
+    "酸性电解水",
+    "OER"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Proximal single atoms for stable electrocatalysts",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02796-z",
+   "doi": "10.1038/s41563-026-02796-z",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02796-z/MediaObjects/41563_2026_2796_Fig1_HTML.png",
+   "authors": "Rafael Guzman-Soriano, Yao Yang",
+   "id": "10.1038/s41563-026-02796-z"
+  },
+  {
+   "title_zh": "双不对称巨分子受体：非卤溶剂也能20.35%",
+   "blurb": "通过调节柔性连接链和不对称端基，研究者合成了双不对称巨分子受体ADY8T-FCl。在邻二甲苯/二硫化碳非卤溶剂中，二元有机太阳能电池（OSC）效率达到20.35%，三元器件更是冲到20.82%，柔性二元器件也有18.4%。",
+   "tags": [
+    "有机太阳能电池",
+    "非卤溶剂",
+    "巨分子受体"
+   ],
+   "field": "材料化学",
+   "title_en": "Dual‐Asymmetric Giant Molecule Acceptors Featuring Asymmetric Terminals and Flexible Alkyl‐Flank Architecture for Efficient and Robust Non‐Halogen Solvent‐Processed Binary and Ternary Organic Solar Cells",
+   "source": "Advanced Materials",
+   "kind": "paper",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75666?af=R",
+   "doi": "10.1002/adma.75666",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/1d438e3d-80d4-4e99-9a9a-58fd491fe605/adma75666-gra-0001-m.png",
+   "authors": "Heng Zhang, \nHaotian Hu, \nFeng‐Ke Liu, \nWei Song, \nZe‐Fan Yao, \nZi‐Yi Yang, \nJi‐Wei Feng, \nHong‐Fu Zhi, \nWeijian Li, \nHongchen Rong, \nYin Song, \nZiyi Ge, \nJin‐Liang Wang",
+   "id": "10.1002/adma.75666"
+  },
+  {
+   "title_zh": "汗里的酸如何打开蚊子离子通道",
+   "blurb": "研究解析了蚊子受体结合人皮肤酸性物质的结构。这些结构信息或许能启发新策略，用来阻断携带疟疾的蚊子对人体的吸引。夏天少挨咬，可能要从分子层面下手。",
+   "tags": [
+    "化学生物学",
+    "蚊子",
+    "离子通道"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "How acidic compounds in human sweat open a mosquito ion channel",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/d41586-026-03381-9",
+   "doi": "10.1038/d41586-026-03381-9",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03381-9/d41586-026-03381-9_54003454.jpg",
+   "authors": "Swathi Pantheerayil, Janesh Kumar",
+   "id": "10.1038/d41586-026-03381-9"
+  },
+  {
+   "title_zh": "液晶拓扑缺陷刺绣：把信息编进涡旋阵列",
+   "blurb": "研究者用光图案化取向层制造周期性涡旋阵列，用来钉扎液晶中的缺陷线。这些拓扑缺陷线可以通过光学操控重排成大量状态，从而存储信息。液晶不光能显示图像，还能当存储介质。",
+   "tags": [
+    "液晶",
+    "拓扑缺陷",
+    "信息存储"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Encoding information into an embroidery of topological defects in liquid crystals",
+   "source": "Nature Materials",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41563-026-02798-x",
+   "doi": "10.1038/s41563-026-02798-x",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02798-x/MediaObjects/41563_2026_2798_Fig1_HTML.png",
+   "authors": "Simon Čopar, Slobodan Žumer",
+   "id": "10.1038/s41563-026-02798-x"
+  },
+  {
+   "title_zh": "声波帮忙：聚多巴胺界面连续造双氧水",
+   "blurb": "一种受蒽醌法启发的聚多巴胺（PDA）机械氧化还原催化剂，在环境条件下就能从水和氧气连续合成过氧化氢（H2O2）。它靠动态的儿茶酚/醌循环和超声界面应变维持 redox 周转，提供了一条无有机溶剂的按需生产路线。",
+   "tags": [
+    "机械氧化还原",
+    "过氧化氢",
+    "绿色化学"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Mechano-redox catalysis enables anthraquinone-inspired H2O2 synthesis at polydopamine-water interfaces",
+   "source": "Chem",
+   "kind": "paper",
+   "link": "https://www.cell.com/chem/fulltext/S2451-9294(26)00409-2?rss=yes",
+   "doi": "10.1016/j.chempr.2026.103343",
+   "image": null,
+   "authors": "Longfei Li, Weixin Li, Jikai Sun, Fei Ye, Chang Li, Chongjun Tang, Kun Zhao, Zhenxing Zeng, Zhourong Xiao, Shuaijie Wang, Qingrui Zhang, Feng Ru Fan",
+   "id": "10.1016/j.chempr.2026.103343"
+  },
+  {
+   "title_zh": "交联卤化物网络：锂超离子导体新思路",
+   "blurb": "针对氧掺杂卤化物中非桥氧阻碍锂离子迁移的问题，研究者用多阴离子交联策略促进桥氧配位。PO4³⁻交联的ZrClx卤化物网络在30°C下离子电导率达2.8×10⁻³ S cm⁻¹，且在5%相对湿度下暴露12小时后仍保持>10⁻³ S cm⁻¹，组装的固态电池在55°C和4.6V下稳定循环。",
+   "tags": [
+    "固态电解质",
+    "锂离子导体",
+    "卤化物"
+   ],
+   "field": "无机与配位",
+   "title_en": "Cross-Linked Halide Networks for Lithium Superionic Conduction",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c10351",
+   "doi": "10.1021/jacs.6c10351",
+   "image": null,
+   "authors": "Shuaika Liang, Feilong Wang, Wen Tang, Fiaz Hussain, Jo-chi Tseng, Zhepu Shi",
+   "id": "10.1021/jacs.6c10351"
+  },
+  {
+   "title_zh": "可见光驱动催化剂，把二氧化碳变原料",
+   "blurb": "莱斯大学的研究者展示了一种利用可见光、无需外部加热就能拆分二氧化碳的方法，克服了可持续化学制造中的一个主要能源障碍。CO2转化又多了一条温和路线。",
+   "tags": [
+    "光催化",
+    "二氧化碳转化",
+    "化学工程"
+   ],
+   "field": "化学工程",
+   "title_en": "Visible light powers new catalyst to turn carbon dioxide into industrial raw material",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-visible-powers-catalyst-carbon-dioxide.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/visible-light-powers-n.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-visible-powers-catalyst-carbon-dioxide.html"
+  },
+  {
+   "title_zh": "多谱学联手，给药物里的氯位点定位",
+   "blurb": "研究者结合35Cl核四极共振（NQR）、Zeeman扰动NQR、固体核磁和三维电子衍射，在粉末样品中分辨含氯药物分子的不同氯位点。以酮康唑和氯胺-T为例，展示了该方法在表征局部结构不均一性和水合状态方面的能力。",
+   "tags": [
+    "分析化学",
+    "NQR",
+    "药物晶型"
+   ],
+   "field": "分析化学",
+   "title_en": "Resolving Chlorine Sites in Pharmaceuticals by Integrated Site-Resolved Zeeman-Perturbed NQR, Solid-State NMR, and Electron Diffraction Crystallography",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c15658",
+   "doi": "10.1021/jacs.6c15658",
+   "image": null,
+   "authors": "Alireza Nari, Jonathan Ngo-Minh Rusimovic, Patrick M. J. Szell, Mohammed Jasil, Victor Terskikh, David L. Bryce",
+   "id": "10.1021/jacs.6c15658"
+  }
+ ],
+ "fun_fact": {
+  "title": "蚊子靠二氧化碳和乳酸找人",
+  "text": "蚊子定位宿主时，会追踪呼出的二氧化碳和皮肤挥发的乳酸等物质。今天第4条讲的汗中酸性成分打开蚊子离子通道，正是这条化学追踪链上的一环。"
+ },
+ "stats": {
+  "fetched": 2328,
+  "candidates": 90
+ },
+ "date": "2026-11-25",
+ "generated_at": "2026-11-25T15:31:13+08:00"
+}
