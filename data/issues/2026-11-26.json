@@ -1,0 +1,195 @@
+{
+ "lead": "今天份的化学新闻：从秒烧水泥到酶做多糖，还有分子玩魔方。",
+ "items": [
+  {
+   "title_zh": "酶法活性聚合造多糖",
+   "blurb": "用酶来模仿合成聚合物的套路，做出高分子量多糖（polysaccharide），而不是走生物合成路线。这给多糖制备开了条新路，说不定以后能像塑料一样按需定制。",
+   "tags": [
+    "酶催化",
+    "多糖",
+    "聚合"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Enzymatic living polymerization for polysaccharide synthesis",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11304-x",
+   "doi": "10.1038/s41586-026-11304-x",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11304-x/MediaObjects/41586_2026_11304_Fig1_HTML.png",
+   "authors": "Lin Yin, Qi He, Yingxin Wang, Xinyu Bian, Xiaoduo Dong, Yating Liu, Shanshan Li, Xiangyun Xu, Jieyi An, Xiangcheng Pan, Myongsoo Lee, Long Li, Guosong Chen",
+   "id": "10.1038/s41586-026-11304-x"
+  },
+  {
+   "title_zh": "微波等离子体秒烧水泥",
+   "blurb": "用微波碳等离子体方法加速反应动力学，把水泥生产的标准处理时间从几小时缩短到几秒。水泥行业碳排放不小，这招要是能落地，减排潜力值得期待。",
+   "tags": [
+    "水泥",
+    "微波等离子体",
+    "可持续"
+   ],
+   "field": "化学工程",
+   "title_en": "Sustainable cement production via a liquid-phase pathway",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11313-w",
+   "doi": "10.1038/s41586-026-11313-w",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11313-w/MediaObjects/41586_2026_11313_Fig1_HTML.png",
+   "authors": "Qi Zheng, Haiyan Mao, Chengyao Liang, Xinyu Dou, Stuart McElhany, Cruz Carlos, Xiaohong Zhu, Jiawei Wang, Yuqi Li, Xiwen Chi, Dilworth Parkinson, Roya Maboudian, Peter Ercius, Robert B. Jackson, Yi Cu",
+   "id": "10.1038/s41586-026-11313-w"
+  },
+  {
+   "title_zh": "电化学让烯烃和CO₂牵手",
+   "blurb": "首次实现未活化烯烃与CO₂的电化学烯丙位羧化，直接拿到β,γ-不饱和羧酸。机理上CO₂自由基阴离子既当羧化试剂又拔氢，一物两用挺巧妙。",
+   "tags": [
+    "电化学",
+    "二氧化碳",
+    "羧化"
+   ],
+   "field": "有机合成",
+   "title_en": "Electrochemical Allylic Carboxylation of Unactivated Alkenes with CO2",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c18933",
+   "doi": "10.1021/jacs.6c18933",
+   "image": null,
+   "authors": "Wei Zhang, Chuan-Kun Ran, Li Li, Long-Fei Dai, Guo-Quan Sun, Jun-Ping Yue",
+   "id": "10.1021/jacs.6c18933"
+  },
+  {
+   "title_zh": "光氧化还原迭代拼分子",
+   "blurb": "用迭代光氧化还原脱羧加成，把大位阻α-取代丙烯酸酯一个个接上去，不寡聚，在连续流里快速合成分子量、序列都可定义的大分子。自由基聚合终于也能玩出精准序列了。",
+   "tags": [
+    "光氧化还原",
+    "序列定义",
+    "连续流"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Molar-mass- and sequence-defined vinyl macromolecules via iterative photoredox decarboxylative addition of α-substituted acrylates",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02303-6",
+   "doi": "10.1038/s41557-026-02303-6",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02303-6/MediaObjects/41557_2026_2303_Figa_HTML.png",
+   "authors": "Dogyun Kim, Dongkyu Kim, Gyeonghun Jeong, Kyoung Taek Kim",
+   "id": "10.1038/s41557-026-02303-6"
+  },
+  {
+   "title_zh": "原位氧化还原分子助叠层电池",
+   "blurb": "全钙钛矿叠层太阳能电池里用了一种原位氧化还原转化的分子。摘要信息有限，但叠层电池的效率天花板一直靠界面和缺陷工程撑着，这类分子值得关注。",
+   "tags": [
+    "钙钛矿",
+    "叠层电池",
+    "氧化还原"
+   ],
+   "field": "材料化学",
+   "title_en": "An in situ redox-converted molecule for all-perovskite tandem solar cells",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11465-9",
+   "doi": "10.1038/s41586-026-11465-9",
+   "image": null,
+   "authors": "Shaomin Yang, Chunxiang Lan, Miaomiao Zeng, Liqing Wu, Tian Zhang, Mimi Fu, Boyu Yang, Ziwei Zheng, Yu Wu, Jing Guo, Rui Guo, Mi Xu, Rongyan Wen, Zaiwei Wang, Shuangyan Hu, Mostafa Boshta, Jun Chen, Y",
+   "id": "10.1038/s41586-026-11465-9"
+  },
+  {
+   "title_zh": "盐湖卤水直接结晶锂",
+   "blurb": "用太阳能驱动的分离-结晶泵，靠蒸发负压和毛细负压协同，从原始盐湖卤水直接结晶出锂。省掉一堆中间步骤，盐湖提锂要是能这么干就省事了。",
+   "tags": [
+    "锂",
+    "盐湖卤水",
+    "结晶"
+   ],
+   "field": "电化学与能源",
+   "title_en": "Synergistic high negative pressure enables direct lithium crystallization from raw salt-lake brine",
+   "source": "Energy Environ. Sci.",
+   "kind": "paper",
+   "link": "https://doi.org/10.1039/d6ee04333j",
+   "doi": "10.1039/d6ee04333j",
+   "image": null,
+   "authors": "He Yang, Chenyang Dai, Jiayi Huang, Shihua Li, Yinghui Sun, Meiwen Peng",
+   "id": "10.1039/d6ee04333j"
+  },
+  {
+   "title_zh": "磷酸盐让铜催化产氨翻十倍",
+   "blurb": "硝酸盐是常见水污染物，电催化还原能把它转成氨，但铜催化剂上氨只是众多产物之一。加入磷酸盐后硝酸盐转化率提升十倍，帮铜催化剂更偏向产氨。",
+   "tags": [
+    "电催化",
+    "硝酸盐还原",
+    "氨"
+   ],
+   "field": "催化",
+   "title_en": "Phosphate boosts nitrate conversion tenfold, helping copper catalysts produce ammonia",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-phosphate-boosts-nitrate-conversion-tenfold.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/local-action-microenvi.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-phosphate-boosts-nitrate-conversion-tenfold.html"
+  },
+  {
+   "title_zh": "酶半还原丙二烯拿手性产物",
+   "blurb": "用烯还原酶（EREDs）选择性半还原取代丙二烯，得到手性β,γ-不饱和羰基化合物，最优结果>99% ee，还能拆分手性丙二烯。生物催化在不对称合成里又下一城。",
+   "tags": [
+    "生物催化",
+    "烯还原酶",
+    "手性"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Stereoselective Semireduction of Allenes to Chiral β,γ‐Unsaturated Carbonyl Compounds by Ene Reductases",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.1267947?af=R",
+   "doi": "10.1002/anie.1267947",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/571f2dc8-7bae-4008-a7bf-4f222ab2233e/anie75186-gra-0001-m.png",
+   "authors": "Allison E. Wolder, \nChristian M. Heckmann, \nYasmin van der Velden, \nDiederik J. Opperman, \nCaroline E. Paul",
+   "id": "10.1002/anie.1267947"
+  },
+  {
+   "title_zh": "人工光合作用七天种出蛋白真菌",
+   "blurb": "用废弃CO₂进行人工光合作用，七天就能培育出富含蛋白的可食用真菌。联合国粮农组织预计2050年农业产量要比2012年多近50%，这种思路算是给蛋白供给开脑洞。",
+   "tags": [
+    "人工光合作用",
+    "CO₂利用",
+    "蛋白"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Artificial photosynthesis uses waste CO₂ to grow protein-rich edible fungus in seven days",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/edible-fungus-looks-li.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-artificial-photosynthesis-protein-rich-edible.html"
+  },
+  {
+   "title_zh": "魔方分子让半导体能拉伸",
+   "blurb": "导电塑料里的刚性晶体不够柔，容易裂。多伦多大学的研究者用“魔方分子”提高材料拉伸性，同时保持导电能力，未来可能在医学和生物领域派上用场。",
+   "tags": [
+    "导电聚合物",
+    "柔性电子",
+    "半导体"
+   ],
+   "field": "材料化学",
+   "title_en": "'Rubik's Cube molecule' puts the stretch in next-gen semiconductors",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-rubik-cube-molecule-gen-semiconductors.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/rubiks-cube-molecule-p.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-rubik-cube-molecule-gen-semiconductors.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "钻石就是纯碳",
+  "text": "钻石和石墨一样，化学成分都是碳单质，只是原子排列方式不同。钻石里每个碳原子与另外四个碳原子以四面体方式共价连接，形成自然界最硬的材料之一。"
+ },
+ "stats": {
+  "fetched": 2287,
+  "candidates": 90
+ },
+ "date": "2026-11-26",
+ "generated_at": "2026-11-26T15:18:59+08:00"
+}

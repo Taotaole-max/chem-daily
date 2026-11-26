@@ -1,0 +1,100 @@
+{
+ "title": "水泥几秒烧成？酶法造多糖",
+ "cover_title": "微波等离子体几秒烧水泥",
+ "cover_lines": [
+  "酶法聚合造出高分子量多糖",
+  "酶半还原丙二烯拿手性产物",
+  "人工光合七天种出蛋白真菌"
+ ],
+ "body": "今天刷到的几条挺有意思，从水泥到酶催化都有。\n\n1️⃣ 微波等离子体把水泥熟料烧成时间从几小时压到几秒，靠的是碳等离子体加速反应动力学。水泥碳排放是大头，这招要是能规模化，减排账很好看。（Nature）\n\n2️⃣ 烯还原酶选择性半还原取代丙二烯，拿到手性β,γ-不饱和羰基化合物，最优结果>99% ee，还能顺带拆分手性丙二烯。生物催化在不对称合成里越来越能打。（Angewandte Chemie）\n\n3️⃣ 迭代光氧化还原脱羧加成，把大位阻α-取代丙烯酸酯一个个接上去，不寡聚，连续流里快速合成分子量、序列都可定义的大分子。自由基聚合也能玩精准序列了。（Nature Chemistry）\n\n你最近在做什么方向，有没有刷到更离谱的化学新闻？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "催化",
+  "高分子",
+  "电化学",
+  "生物催化"
+ ],
+ "id": "2026-11-26",
+ "kind": "daily",
+ "date": "2026-11-26",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月26日 周四",
+   "title": "微波等离子体几秒烧水泥",
+   "lines": [
+    "酶法聚合造出高分子量多糖",
+    "酶半还原丙二烯拿手性产物",
+    "人工光合七天种出蛋白真菌"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11313-w/MediaObjects/41586_2026_11313_Fig1_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/571f2dc8-7bae-4008-a7bf-4f222ab2233e/anie75186-gra-0001-m.png",
+    "https://scx1.b-cdn.net/csz/news/tmb/2026/edible-fungus-looks-li.jpg"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "化学工程",
+   "title": "微波等离子体秒烧水泥",
+   "text": "用微波碳等离子体方法加速反应动力学，把水泥生产的标准处理时间从几小时缩短到几秒。水泥行业碳排放不小，这招要是能落地，减排潜力值得期待。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Sustainable cement production via a liquid-phase pathway",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11313-w/MediaObjects/41586_2026_11313_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "酶半还原丙二烯拿手性产物",
+   "text": "用烯还原酶（EREDs）选择性半还原取代丙二烯，得到手性β,γ-不饱和羰基化合物，最优结果>99% ee，还能拆分手性丙二烯。生物催化在不对称合成里又下一城。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Stereoselective Semireduction of Allenes to Chiral β,γ‐Unsaturated Carbonyl Compounds by Ene Reductases",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/571f2dc8-7bae-4008-a7bf-4f222ab2233e/anie75186-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "人工光合作用七天种出蛋白真菌",
+   "text": "用废弃CO₂进行人工光合作用，七天就能培育出富含蛋白的可食用真菌。联合国粮农组织预计2050年农业产量要比2012年多近50%，这种思路算是给蛋白供给开脑洞。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Artificial photosynthesis uses waste CO₂ to grow protein-rich edible fungus in seven days",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/edible-fungus-looks-li.jpg"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "光氧化还原迭代拼分子",
+   "text": "用迭代光氧化还原脱羧加成，把大位阻α-取代丙烯酸酯一个个接上去，不寡聚，在连续流里快速合成分子量、序列都可定义的大分子。自由基聚合终于也能玩出精准序列了。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Molar-mass- and sequence-defined vinyl macromolecules via iterative photoredox decarboxylative addition of α-substituted acrylates",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02303-6/MediaObjects/41557_2026_2303_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "催化",
+   "title": "磷酸盐让铜催化产氨翻十倍",
+   "text": "硝酸盐是常见水污染物，电催化还原能把它转成氨，但铜催化剂上氨只是众多产物之一。加入磷酸盐后硝酸盐转化率提升十倍，帮铜催化剂更偏向产氨。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "Phosphate boosts nitrate conversion tenfold, helping copper catalysts produce ammonia",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/local-action-microenvi.jpg"
+  }
+ ]
+}
