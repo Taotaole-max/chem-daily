@@ -1,0 +1,101 @@
+{
+ "title": "纳米带越窄电阻越低，反直觉",
+ "cover_title": "纳米带越窄电阻反而越低",
+ "cover_lines": [
+  "NbP纳米带反常电阻行为",
+  "球磨30分钟搞定双羟化",
+  "双核铜酶光催化卤化"
+ ],
+ "body": "今天翻期刊翻到一个反直觉的：纳米带越窄，电阻反而越低，这是要挑战初中物理？\n\n1️⃣ NbP半金属纳米带宽度减小，电阻率跟着降，跟铜这种金属的经典规律相反。用工业友好的自上而下纳米加工就能做出来，给纳米线和互连提供了新平台。（Nature）\n\n2️⃣ Sharpless不对称双羟化第一次改成机械化学协议，球磨条件下多数底物30分钟内完全转化，对映选择性和溶液法相当，还能处理难溶、碱敏感和会配位催化剂的底物。以后做反应可能真就是摇一摇。（Angewandte Chemie）\n\n3️⃣ 把双核铜酶和光氧化还原催化剂搭在一起，从氧化还原活性酯出发，高效实现脱羧卤化或拟卤化，而且是对映选择性的。这类新自然反应合成上一直用得不多，现在算开了条路。（Nature Chemistry）\n\n4️⃣ 哈佛团队做出微型器件，把红光高效转成紫外，紫外输出比之前同类方法多120倍。潜在用途包括更小的量子计算机、超精密原子钟和紧凑环境传感器。（ScienceDaily 化学）\n\n5️⃣ 泛素链组合太多，研究起来费劲。他们用选择性保护的泛素单体化学合成、图编码和自动化流程，拿到了全部56种K48/K63连接的泛素四聚体和五聚体。合成狗狂喜。（Nature Chemistry）\n\n大家最近在做什么方向，有没有被什么反常数据惊到过？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "纳米材料",
+  "有机合成",
+  "化学生物学",
+  "光催化",
+  "电催化"
+ ],
+ "id": "2026-11-27",
+ "kind": "daily",
+ "date": "2026-11-27",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月27日 周五",
+   "title": "纳米带越窄电阻反而越低",
+   "lines": [
+    "NbP纳米带反常电阻行为",
+    "球磨30分钟搞定双羟化",
+    "双核铜酶光催化卤化"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11288-8/MediaObjects/41586_2026_11288_Fig1_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/b06694e6-f89a-4594-9361-32fe28c5b6a6/anie75769-gra-0001-m.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02311-6/MediaObjects/41557_2026_2311_Fig1_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "材料化学",
+   "title": "纳米带越窄，电阻反而越低",
+   "text": "NbP半金属纳米带出现反常行为：宽度减小，电阻率跟着降，跟铜这类金属的经典规律相反。用工业友好的自上而下纳米加工就能做，给纳米线和互连提供了新平台。",
+   "source": "Nature",
+   "kind": "paper",
+   "title_en": "Unconventional resistivity reduction in NbP semimetal nanoribbons",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11288-8/MediaObjects/41586_2026_11288_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "有机合成",
+   "title": "球磨机里30分钟搞定双羟化",
+   "text": "Sharpless不对称双羟化首次改成机械化学协议。球磨条件下多数底物30分钟内完全转化，对映选择性和溶液法相当，还能处理难溶、碱敏感和会配位催化剂的底物。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Mechanochemically Accelerated Sharpless Asymmetric Dihydroxylation With Expanded Substrate Compatibility",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/b06694e6-f89a-4594-9361-32fe28c5b6a6/anie75769-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "双核铜酶玩光催化卤化",
+   "text": "把双核铜酶和光氧化还原催化剂搭在一起，从氧化还原活性酯出发，高效实现对映选择性脱羧卤化（或拟卤化）。这类新自然反应在合成上一直用得不多，现在算开了条路。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Binuclear copper enzymes enable selective radical (pseudo)halogenation",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02311-6/MediaObjects/41557_2026_2311_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "哈佛紫外芯片，红光变紫外",
+   "text": "哈佛团队做出微型器件，把红光高效转成紫外，紫外输出比之前同类方法多120倍。潜在用途包括更小的量子计算机、超精密原子钟和紧凑环境传感器。",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "title_en": "Harvard’s tiny UV light chip could help shrink quantum computers",
+   "image": "https://www.sciencedaily.com/images/1920/sidewall-poled-lithium-niobate-device.webp"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "化学生物学与药物",
+   "title": "泛素五聚体，全合成自动化",
+   "text": "泛素链组合太多，研究起来费劲。他们用选择性保护的泛素单体化学合成、图编码和自动化流程，拿到了全部56种K48/K63连接的泛素四聚体和五聚体。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Comprehensive synthesis of K48/K63 ubiquitin pentamers by graph-empowered automation",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02312-5/MediaObjects/41557_2026_2312_Figa_HTML.png"
+  }
+ ]
+}

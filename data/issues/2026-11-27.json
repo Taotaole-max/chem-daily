@@ -1,0 +1,195 @@
+{
+ "lead": "今日份化学：AI设计酶、甲烷变乙烯、废水里捞同位素，还有球磨机加速反应。",
+ "items": [
+  {
+   "title_zh": "AI设计酶，零样本就催化",
+   "blurb": "RFdiffusion3用自由原子扩散来满足复杂原子约束，比之前方法更快更准。在酶设计上，他们零样本设计出含氨基甲酰化赖氨酸配位两个金属离子的磷酸三酯酶，以及靶向转甲状腺素蛋白的锌蛋白酶，96个构建体里直接拿到活性催化剂。",
+   "tags": [
+    "AI设计",
+    "酶催化",
+    "蛋白质工程"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Atomic functional site scaffolding in biopolymers with RFdiffusion3",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aeh2982?af=R",
+   "doi": "10.1126/science.aeh2982",
+   "image": null,
+   "authors": "Jasper Butcher, Rohith Krishna, Raktim Mitra, Seth M. Woodbury, Donghyo Kim, Rafael I. Brent, Yanjing Li, Nathaniel Corley, Andrew Favor, Anqi Chen, Paul T. Kim, Jonathan Funk, Gabriela Bastidas Reino",
+   "id": "10.1126/science.aeh2982"
+  },
+  {
+   "title_zh": "双核铜酶玩光催化卤化",
+   "blurb": "把双核铜酶和光氧化还原催化剂搭在一起，从氧化还原活性酯出发，高效实现对映选择性脱羧卤化（或拟卤化）。这类新自然反应在合成上一直用得不多，现在算开了条路。",
+   "tags": [
+    "生物催化",
+    "光化学",
+    "不对称合成"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Binuclear copper enzymes enable selective radical (pseudo)halogenation",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02311-6",
+   "doi": "10.1038/s41557-026-02311-6",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02311-6/MediaObjects/41557_2026_2311_Fig1_HTML.png",
+   "authors": "Kirklin L. McWhorter, Kyle F. Biegasiewicz",
+   "id": "10.1038/s41557-026-02311-6"
+  },
+  {
+   "title_zh": "泛素五聚体，全合成自动化",
+   "blurb": "泛素链组合太多，研究起来费劲。他们用选择性保护的泛素单体化学合成、图编码和自动化流程，拿到了全部56种K48/K63连接的泛素四聚体和五聚体。",
+   "tags": [
+    "泛素链",
+    "自动化合成",
+    "化学生物学"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "Comprehensive synthesis of K48/K63 ubiquitin pentamers by graph-empowered automation",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02312-5",
+   "doi": "10.1038/s41557-026-02312-5",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02312-5/MediaObjects/41557_2026_2312_Figa_HTML.png",
+   "authors": "Sohei Majima, Eric Kummelstedt, Toshiki Mikami, Leonardo L. Seidl, Jiling Han, Jeffrey W. Bode",
+   "id": "10.1038/s41557-026-02312-5"
+  },
+  {
+   "title_zh": "球磨机里30分钟搞定双羟化",
+   "blurb": "Sharpless不对称双羟化首次改成机械化学协议。球磨条件下多数底物30分钟内完全转化，对映选择性和溶液法相当，还能处理难溶、碱敏感和会配位催化剂的底物。",
+   "tags": [
+    "机械化学",
+    "不对称催化",
+    "绿色合成"
+   ],
+   "field": "有机合成",
+   "title_en": "Mechanochemically Accelerated Sharpless Asymmetric Dihydroxylation With Expanded Substrate Compatibility",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.4818287?af=R",
+   "doi": "10.1002/anie.4818287",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/b06694e6-f89a-4594-9361-32fe28c5b6a6/anie75769-gra-0001-m.png",
+   "authors": "Taiga Takeda, \nArata Yajima, \nKoji Kubota, \nHajime Ito",
+   "id": "10.1002/anie.4818287"
+  },
+  {
+   "title_zh": "甲烷变乙烯，光照常温就行",
+   "blurb": "氧空位TiO2负载单原子Ir，在25°C、常压和光照下把甲烷转成乙烯和氢气。乙烯产率14.3 ± 0.7 μmol·gcat⁻¹·h⁻¹，氢气28.4 ± 1.2 μmol·gcat⁻¹·h⁻¹，至少稳定210小时。氢键网络帮质子迁移，表面羟基氧化成 dangling氧促进C–C偶联。",
+   "tags": [
+    "单原子催化",
+    "甲烷转化",
+    "光催化"
+   ],
+   "field": "催化",
+   "title_en": "Hydrogen-Bond Network-Assisted Ethylene and Hydrogen Photosynthesis from Methane over Isolated Ir Active Sites under Ambient Conditions",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16501",
+   "doi": "10.1021/jacs.6c16501",
+   "image": null,
+   "authors": "Fei Hong, Ruihui Gan, Baiyang Yu, Pengfei Du, Bing Yang, Jiawei Zhang",
+   "id": "10.1021/jacs.6c16501"
+  },
+  {
+   "title_zh": "氧空位调控电催化选择性",
+   "blurb": "非化学计量氧化物里氧空位捕获的未成对电子数不好控。新合成策略用模板化学品来调，让这些材料在电子驱动的电催化选择性上变得可用。",
+   "tags": [
+    "氧空位",
+    "电催化",
+    "缺陷化学"
+   ],
+   "field": "电化学与能源",
+   "title_en": "The power of O vacancies in electrocatalysis",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02316-1",
+   "doi": "10.1038/s41557-026-02316-1",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02316-1/MediaObjects/41557_2026_2316_Fig1_HTML.png",
+   "authors": "Yaovi Holade, Kouakou Boniface Kokoh",
+   "id": "10.1038/s41557-026-02316-1"
+  },
+  {
+   "title_zh": "纳米带越窄，电阻反而越低",
+   "blurb": "NbP半金属纳米带出现反常行为：宽度减小，电阻率跟着降，跟铜这类金属的经典规律相反。用工业友好的自上而下纳米加工就能做，给纳米线和互连提供了新平台。",
+   "tags": [
+    "半金属",
+    "纳米带",
+    "互连材料"
+   ],
+   "field": "材料化学",
+   "title_en": "Unconventional resistivity reduction in NbP semimetal nanoribbons",
+   "source": "Nature",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41586-026-11288-8",
+   "doi": "10.1038/s41586-026-11288-8",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11288-8/MediaObjects/41586_2026_11288_Fig1_HTML.png",
+   "authors": "Haotian Su, Sauviz Alaei, Áshildur Friðriksdóttir, Sydney Fultz-Waters, Hyeonhu Bae, Xiangjin Wu, Yufei Zhao, Donglai Zhong, Tara Peña, Matthew J. Hurley, Yujun Deng, Sandesh Kalantre, Andrew J. Barnu",
+   "id": "10.1038/s41586-026-11288-8"
+  },
+  {
+   "title_zh": "海盐表面，一点水就搞出氯酸盐",
+   "blurb": "相对湿度远低于潮解点时，海盐晶体表面发生部分溶剂化，在富MgCl2的表面域促进氯酸盐生成。同步辐射光谱和模拟显示强界面电场和欠配位氢氧根环境，属于以前没太注意的界面氧化还原区间。",
+   "tags": [
+    "界面化学",
+    "海盐气溶胶",
+    "部分溶剂化"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Partial Solvation Promotes Chlorate Formation on Sea Salt Crystal Surfaces",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9906288?af=R",
+   "doi": "10.1002/anie.9906288",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/2e263d4f-1bec-4a5f-bb14-ae8e86fe74e6/anie75860-gra-0001-m.png",
+   "authors": "Nicolas Fauré, \nIvan Gladich, \nLuis F. E.d Santos, \nAndrey Shavorskiy, \nLuca Artiglia, \nXiangrui Kong, \nErik S. Thomson",
+   "id": "10.1002/anie.9906288"
+  },
+  {
+   "title_zh": "哈佛紫外芯片，红光变紫外",
+   "blurb": "哈佛团队做出微型器件，把红光高效转成紫外，紫外输出比之前同类方法多120倍。潜在用途包括更小的量子计算机、超精密原子钟和紧凑环境传感器。",
+   "tags": [
+    "紫外光源",
+    "集成光子学",
+    "量子技术"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Harvard’s tiny UV light chip could help shrink quantum computers",
+   "source": "ScienceDaily 化学",
+   "kind": "news",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+   "doi": null,
+   "image": "https://www.sciencedaily.com/images/1920/sidewall-poled-lithium-niobate-device.webp",
+   "authors": "",
+   "id": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm"
+  },
+  {
+   "title_zh": "废水里捞回放射性同位素",
+   "blurb": "用主客体化学，让管状受体捕获并富集废水中的痕量锝，再重新配方。对放射性药物同位素供应算是个回收思路。",
+   "tags": [
+    "主客体化学",
+    "放射性药物",
+    "同位素回收"
+   ],
+   "field": "分析化学",
+   "title_en": "Radiopharma isotope recovered and reformulated from wastewater",
+   "source": "C&EN",
+   "kind": "news",
+   "link": "https://cen.acs.org/environment/recycling/radiopharma-technetium-wastewater-recovery-reuse/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+   "doi": null,
+   "image": "https://s7d1.scene7.com/is/image/CENODS/NEWS--Radiopharma-recovery-from-wastewater---695251:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
+   "authors": "Victoria Atkinson, special to C&EN",
+   "id": "https://cen.acs.org/environment/recycling/radiopharma-technetium-wastewater-recovery-reuse/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  }
+ ],
+ "fun_fact": {
+  "title": "水的自偶电离",
+  "text": "纯水也会电离：2H₂O ⇌ H₃O⁺ + OH⁻。25°C时Kw约为1.0×10⁻¹⁴，所以中性水里氢离子和氢氧根浓度各约10⁻⁷ mol/L。"
+ },
+ "stats": {
+  "fetched": 2210,
+  "candidates": 90
+ },
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T15:15:17+08:00"
+}
