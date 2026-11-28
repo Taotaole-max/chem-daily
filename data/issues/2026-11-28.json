@@ -1,0 +1,195 @@
+{
+ "lead": "今天论文有点猛：海水电解跑9000小时，还有个反直觉的离子通道。",
+ "items": [
+  {
+   "title_zh": "非晶催化剂让海水电解撑过9000小时",
+   "blurb": "海水电解最大的坑是腐蚀，催化剂很容易挂掉。这项工作用非晶电催化剂当保护层，在187毫伏过电位下跑到1安培每平方厘米，稳定运行超过9000小时。对直接拿海水制氢来说，这个耐久度挺有看头。",
+   "tags": [
+    "海水电解",
+    "电催化剂",
+    "制氢"
+   ],
+   "field": "电化学与能源",
+   "title_en": "An amorphous electrocatalyst enables efficient and stable hydrogen production from seawater at 1 A cm −2 for over 9,000 h",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s44160-026-01226-x",
+   "doi": "10.1038/s44160-026-01226-x",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01226-x/MediaObjects/44160_2026_1226_Figa_HTML.png",
+   "authors": "Bai Xu, Xing Fan, Kun Feng, Yong Feng, Cheng Lu, Zhenzhen Wang, Yanfei Zhao, Jianhua Wang, Xiaoyan Luo, Haiping Lin, Lin Guo, Jun Zhong",
+   "id": "10.1038/s44160-026-01226-x"
+  },
+  {
+   "title_zh": "阳离子通道偏偏爱阳离子，反了",
+   "blurb": "通常带正电的纳米通道会优先让阴离子通过，但研究者做的阳离子共价有机框架（COF）膜在亚纳米通道里却选择性运输阳离子。他们把原因归为反离子限域效应，说这能改变通道壁内的静电环境。混合盐里也能保持高选择性，对离子分离膜设计有启发。",
+   "tags": [
+    "离子分离",
+    "共价有机框架",
+    "膜材料"
+   ],
+   "field": "材料化学",
+   "title_en": "Counter-ion confinement reverses ion selectivity in subnanometer channels",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aef1323?af=R",
+   "doi": "10.1126/science.aef1323",
+   "image": null,
+   "authors": "Fangmeng Sheng, Liang Ge, Bin Wu, Xingya Li, Tongwen Xu",
+   "id": "10.1126/science.aef1323"
+  },
+  {
+   "title_zh": "核糖核苷酸还原酶里抓到色氨酸阳离子自由基",
+   "blurb": "大肠杆菌I类核糖核苷酸还原酶（RNR）每完成一次催化，自由基要沿氨基酸路径跨越32埃。研究团队用非天然氨基酸扰动路径上酪氨酸的还原电位，直接观察到W48+•作为动力学合格的中间体。结果表明经过W48的自由基转移是限速步骤，控制着酶活。",
+   "tags": [
+    "酶催化",
+    "自由基转移",
+    "化学生物学"
+   ],
+   "field": "化学生物学与药物",
+   "title_en": "A tryptophan cation radical determines radical transfer kinetics and catalytic rate in a ribonucleotide reductase",
+   "source": "Science",
+   "kind": "paper",
+   "link": "https://www.science.org/doi/abs/10.1126/science.aei8950?af=R",
+   "doi": "10.1126/science.aei8950",
+   "image": null,
+   "authors": "Nejc Nagelj, Chang Cui, Kenichi Yokoyama, JoAnne Stubbe, Daniel G. Nocera",
+   "id": "10.1126/science.aei8950"
+  },
+  {
+   "title_zh": "纳米颗粒和分子联手，室温发圆偏振光",
+   "blurb": "非手性发光体想在室温下发出圆偏振发光（CPL）通常得大动干戈设计手性分子。这项工作利用纳米颗粒–分子杂化体系里的磁邻近效应，通过界面自旋转移实现场可调的CPL。给分子手性光学和自旋电子学提供了一个新思路。",
+   "tags": [
+    "圆偏振发光",
+    "磁邻近效应",
+    "自旋转移"
+   ],
+   "field": "物理化学与光谱",
+   "title_en": "Magnetic proximity effect in nanoparticle–molecule hybrids enables room-temperature circularly polarized luminescence",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41557-026-02283-7",
+   "doi": "10.1038/s41557-026-02283-7",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02283-7/MediaObjects/41557_2026_2283_Figa_HTML.png",
+   "authors": "Zong-Ying Huang, Qing Luo, Yu-Zhuo Zhang, Bo Li, Zi-Mo Hu, Si-Ru Shao, Jin-Hui Zhong, Zhen He, Jin-Long Wang, Yi Li, Shu-Hong Yu",
+   "id": "10.1038/s41557-026-02283-7"
+  },
+  {
+   "title_zh": "管好质子，空气捕碳能稳跑1000小时",
+   "blurb": "直接空气捕集和电合成结合，卡在能耗高、寿命短。研究者把质子管理当成稳定性关键，在阳极用气体进料的氢氧化反应维持理想离子传输，实现了1000小时稳定运行，同时提升一氧化碳生成。反应性捕集CO2往实用化又挪了一步。",
+   "tags": [
+    "直接空气捕集",
+    "质子管理",
+    "电合成"
+   ],
+   "field": "环境与绿色化学",
+   "title_en": "Regulation of proton transference for stable and efficient reactive capture of CO 2 from air",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "link": "https://www.nature.com/articles/s41560-026-02158-8",
+   "doi": "10.1038/s41560-026-02158-8",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02158-8/MediaObjects/41560_2026_2158_Fig1_HTML.png",
+   "authors": "Hengzhou Liu, Heejong Shin, Yuyin Li, Guangcan Su, Bosi Peng, Yong Wang, Jianan Erick Huang, Ji-Yoon Song, Bei Zhou, Yuanjun Chen, Hongmin An, Huajie Ze, Aditya Menon, Charles B. Musgrave III, Woong H",
+   "id": "10.1038/s41560-026-02158-8"
+  },
+  {
+   "title_zh": "废尼龙66变可降解聚酯酰胺，还能闭环回收",
+   "blurb": "聚酰胺66（PA66）结实但难降解，回收选项也有限。这项工作用一锅两步的酸解–再聚合策略，不彻底解聚到单体，而是保留酰胺序列并插入可水解酯键，得到准交替聚酯酰胺。材料兼顾热机械性能和生物降解性，且能闭环回收五轮。",
+   "tags": [
+    "聚酰胺66",
+    "升级回收",
+    "可降解塑料"
+   ],
+   "field": "高分子与软物质",
+   "title_en": "Sequence‐Retentive Upcycling of Polyamide 66 Into Quasi‐Alternating Biodegradable Polyesteramides With Closed‐Loop Recyclability",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/anie.2848212?af=R",
+   "doi": "10.1002/anie.2848212",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/1ec96de2-0173-43ae-b7e6-188327e1b4cd/anie75852-gra-0001-m.png",
+   "authors": "Fangfang Niu, \nYahong Lu, \nJingyu Wu, \nSimeng Gao, \nYi Sun, \nTao Liu, \nKan Cheng, \nShuohan Huang, \nYi Wei, \nJianyong Yu, \nYong He",
+   "id": "10.1002/anie.2848212"
+  },
+  {
+   "title_zh": "换个配体，同一个酸走两条C–H官能化路",
+   "blurb": "脂肪族酸的β-亚甲基C(sp3)–H杂芳基化，难点在于多种C–H键竞争。Pd(II)催化下，两类双齿吡啶酮配体分别导向不同产物，还克服了杂芳基碘化物的抑制效应。机理和DFT显示π–π堆积影响碳–钯键旋转，从而决定还原Heck还是氧化Heck产物。",
+   "tags": [
+    "C–H活化",
+    "配体调控",
+    "钯催化"
+   ],
+   "field": "有机合成",
+   "title_en": "Ligand-Controlled Chemodivergent β-Methylene C(sp3)–H Heteroarylation of Aliphatic Acids",
+   "source": "JACS",
+   "kind": "paper",
+   "link": "https://doi.org/10.1021/jacs.6c16743",
+   "doi": "10.1021/jacs.6c16743",
+   "image": null,
+   "authors": "Liang Hu, Yilin Lu, Xiang-Lei Han, Jie-Lun Yan, Tao Sheng, T. G. Murali Dhar",
+   "id": "10.1021/jacs.6c16743"
+  },
+  {
+   "title_zh": "CO2自己参与塑造催化剂，还偏爱甲酸",
+   "blurb": "杜伊斯堡-埃森大学的电化学家通过计算机模拟发现，用电压脉冲重构催化剂时，二氧化碳会帮助塑造自身催化剂的表面。计算表明这能让CO2更倾向于转化为甲酸。虽然目前还是模拟结果，但催化剂“自己长自己”的思路挺有意思。",
+   "tags": [
+    "CO2转化",
+    "计算机模拟",
+    "电催化"
+   ],
+   "field": "计算化学与AI",
+   "title_en": "Targeted conversion of carbon dioxide into chemical feedstocks: CO₂ helps shape its own catalyst",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-conversion-carbon-dioxide-chemical-feedstocks.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/voltage-pulses-and-car.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-conversion-carbon-dioxide-chemical-feedstocks.html"
+  },
+  {
+   "title_zh": "痕量氢气检测灵敏度做到1 ppm",
+   "blurb": "中科院合肥物质科学研究院方永华团队开发了新检测系统，通过降低背景干扰提高灵敏度，能直接检测到百万分之一（ppm）浓度的氢气。对需要盯紧微量氢的场合来说，这个直接检测能力有实用价值。",
+   "tags": [
+    "氢气检测",
+    "分析化学",
+    "痕量检测"
+   ],
+   "field": "分析化学",
+   "title_en": "New system enables highly sensitive detection of trace hydrogen",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-enables-highly-sensitive-hydrogen.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-system-enables-hig.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-enables-highly-sensitive-hydrogen.html"
+  },
+  {
+   "title_zh": "折腾近30年，这个镇咳生物碱终于全合成",
+   "blurb": "新百部碱（neotuberostemonine）是有镇咳潜力的复杂植物生物碱，近30年没人全合成出来。研究者完成了首次全合成，还顺带合成了neostenine和一个推测结构。工作还揭示氮原子近平面几何导致这类生物碱氧化不稳定，给天然产物合成和药物发现提供了新策略。",
+   "tags": [
+    "全合成",
+    "生物碱",
+    "药物化学"
+   ],
+   "field": "有机合成",
+   "title_en": "New chemical route delivers first synthesis of plant compound with cough-suppressing potential",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "link": "https://phys.org/news/2026-11-chemical-route-synthesis-compound-suppressing.html",
+   "doi": null,
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-chemical-route-d.jpg",
+   "authors": "",
+   "id": "https://phys.org/news/2026-11-chemical-route-synthesis-compound-suppressing.html"
+  }
+ ],
+ "fun_fact": {
+  "title": "液氧其实能被磁铁吸住",
+  "text": "氧气分子有未成对电子，表现出顺磁性。把液氧倒在强磁铁两极之间，它会黏在那里不掉下来，像蓝色的小舌头。这也是分子轨道理论里O2有两个未成对电子的经典演示。"
+ },
+ "stats": {
+  "fetched": 2164,
+  "candidates": 90
+ },
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T14:47:40+08:00"
+}

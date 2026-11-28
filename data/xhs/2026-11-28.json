@@ -1,0 +1,101 @@
+{
+ "title": "海水电解9000小时，废尼龙能回收",
+ "cover_title": "海水电解撑过9000小时",
+ "cover_lines": [
+  "非晶催化剂抗腐蚀",
+  "废尼龙变可降解材料",
+  "纳米颗粒室温发圆偏振光"
+ ],
+ "body": "今天这几条，有硬核耐久，也有把废塑料盘活的巧思。\n\n1️⃣ 海水电解最头疼腐蚀，催化剂容易挂。这项工作用非晶电催化剂当保护层，在187毫伏过电位下跑到1安培每平方厘米，稳定超过9000小时，直接拿海水制氢的耐久度有点看头（Nature Synthesis）。\n\n2️⃣ 聚酰胺66结实但难降解，回收选项有限。研究者用一锅两步的酸解–再聚合策略，不彻底解聚到单体，而是保留酰胺序列并插入可水解酯键，得到准交替聚酯酰胺，兼顾热机械性能和生物降解性，还能闭环回收五轮（Angewandte Chemie）。\n\n3️⃣ 非手性发光体想在室温发圆偏振光通常得大动干戈设计手性分子。这项工作利用纳米颗粒–分子杂化体系里的磁邻近效应，通过界面自旋转移实现场可调的圆偏振发光，给分子手性光学和自旋电子学提了个新思路（Nature Chemistry）。\n\n4️⃣ 直接空气捕集和电合成结合，卡在能耗高、寿命短。研究者把质子管理当成稳定性关键，在阳极用气体进料的氢氧化反应维持理想离子传输，实现1000小时稳定运行，同时提升一氧化碳生成，往实用化又挪了一步（Nature Energy）。\n\n大家最近在做什么方向，有没有被催化剂寿命折磨的？",
+ "tags": [
+  "化学",
+  "科研日常",
+  "读研",
+  "材料",
+  "电化学",
+  "海水电解",
+  "高分子回收",
+  "圆偏振发光",
+  "天然产物全合成"
+ ],
+ "id": "2026-11-28",
+ "kind": "daily",
+ "date": "2026-11-28",
+ "slides": [
+  {
+   "type": "cover",
+   "date_cn": "11月28日 周六",
+   "title": "海水电解撑过9000小时",
+   "lines": [
+    "非晶催化剂抗腐蚀",
+    "废尼龙变可降解材料",
+    "纳米颗粒室温发圆偏振光"
+   ],
+   "thumbs": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01226-x/MediaObjects/44160_2026_1226_Figa_HTML.png",
+    "https://onlinelibrary.wiley.com/cms/asset/1ec96de2-0173-43ae-b7e6-188327e1b4cd/anie75852-gra-0001-m.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02283-7/MediaObjects/41557_2026_2283_Figa_HTML.png"
+   ]
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "total": 5,
+   "field": "电化学与能源",
+   "title": "非晶催化剂让海水电解撑过9000小时",
+   "text": "海水电解最大的坑是腐蚀，催化剂很容易挂掉。这项工作用非晶电催化剂当保护层，在187毫伏过电位下跑到1安培每平方厘米，稳定运行超过9000小时。对直接拿海水制氢来说，这个耐久度挺有看头。",
+   "source": "Nature Synthesis",
+   "kind": "paper",
+   "title_en": "An amorphous electrocatalyst enables efficient and stable hydrogen production from seawater at 1 A cm −2 for over 9,000 h",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44160-026-01226-x/MediaObjects/44160_2026_1226_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "total": 5,
+   "field": "高分子与软物质",
+   "title": "废尼龙66变可降解聚酯酰胺，还能闭环回收",
+   "text": "聚酰胺66（PA66）结实但难降解，回收选项也有限。这项工作用一锅两步的酸解–再聚合策略，不彻底解聚到单体，而是保留酰胺序列并插入可水解酯键，得到准交替聚酯酰胺。材料兼顾热机械性能和生物降解性，且能闭环回收五轮。",
+   "source": "Angewandte Chemie",
+   "kind": "paper",
+   "title_en": "Sequence‐Retentive Upcycling of Polyamide 66 Into Quasi‐Alternating Biodegradable Polyesteramides With Closed‐Loop Recyclability",
+   "image": "https://onlinelibrary.wiley.com/cms/asset/1ec96de2-0173-43ae-b7e6-188327e1b4cd/anie75852-gra-0001-m.png"
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "total": 5,
+   "field": "物理化学与光谱",
+   "title": "纳米颗粒和分子联手，室温发圆偏振光",
+   "text": "非手性发光体想在室温下发出圆偏振发光（CPL）通常得大动干戈设计手性分子。这项工作利用纳米颗粒–分子杂化体系里的磁邻近效应，通过界面自旋转移实现场可调的CPL。给分子手性光学和自旋电子学提供了一个新思路。",
+   "source": "Nature Chemistry",
+   "kind": "paper",
+   "title_en": "Magnetic proximity effect in nanoparticle–molecule hybrids enables room-temperature circularly polarized luminescence",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41557-026-02283-7/MediaObjects/41557_2026_2283_Figa_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "total": 5,
+   "field": "环境与绿色化学",
+   "title": "管好质子，空气捕碳能稳跑1000小时",
+   "text": "直接空气捕集和电合成结合，卡在能耗高、寿命短。研究者把质子管理当成稳定性关键，在阳极用气体进料的氢氧化反应维持理想离子传输，实现了1000小时稳定运行，同时提升一氧化碳生成。反应性捕集CO2往实用化又挪了一步。",
+   "source": "Nature Energy",
+   "kind": "paper",
+   "title_en": "Regulation of proton transference for stable and efficient reactive capture of CO 2 from air",
+   "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41560-026-02158-8/MediaObjects/41560_2026_2158_Fig1_HTML.png"
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "total": 5,
+   "field": "有机合成",
+   "title": "折腾近30年，这个镇咳生物碱终于全合成",
+   "text": "新百部碱（neotuberostemonine）是有镇咳潜力的复杂植物生物碱，近30年没人全合成出来。研究者完成了首次全合成，还顺带合成了neostenine和一个推测结构。工作还揭示氮原子近平面几何导致这类生物碱氧化不稳定，给天然产物合成和药物发现提供了新策略。",
+   "source": "Phys.org 化学",
+   "kind": "news",
+   "title_en": "New chemical route delivers first synthesis of plant compound with cough-suppressing potential",
+   "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-chemical-route-d.jpg"
+  }
+ ]
+}
